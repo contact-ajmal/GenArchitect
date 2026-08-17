@@ -7,6 +7,7 @@ import { Button, Callout, Eyebrow } from '../components/ui'
 import RagDiagram from '../components/diagram/RagDiagram'
 import CodeBlock from '../components/code/CodeBlock'
 import ExportScaffold from '../components/ExportScaffold'
+import DrawioExport from '../components/DrawioExport'
 import { NotebookText } from 'lucide-react'
 import {
   FLAVORS,
@@ -484,6 +485,9 @@ export default function Compose({ initialComposition }: ComposeProps) {
               highlightedComponentIds={highlighted}
             />
           </div>
+
+          <DrawioExport source={diagram} name={comp.name} />
+
 
           {/* Diagnostics */}
           {diagnostics.length > 0 ? (

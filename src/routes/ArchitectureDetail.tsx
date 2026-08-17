@@ -22,6 +22,7 @@ import SyncedWalkthrough from '../components/diagram/SyncedWalkthrough'
 import CodeBlock from '../components/code/CodeBlock'
 import FreshnessBadge from '../components/FreshnessBadge'
 import ExportScaffold from '../components/ExportScaffold'
+import DrawioExport from '../components/DrawioExport'
 import { compositionFromPattern } from '../compose/composition'
 import { notebooksForPattern } from '../data/notebookTemplates'
 import {
@@ -169,6 +170,9 @@ export default function ArchitectureDetail() {
           architecture={arch}
           verification={archVerification ?? undefined}
         />
+        <div className="mt-6 max-w-xl">
+          <DrawioExport source={arch} name={arch.name} />
+        </div>
       </section>
 
       {/* When to use / not */}

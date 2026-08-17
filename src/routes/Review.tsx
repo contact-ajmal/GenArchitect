@@ -16,6 +16,7 @@ import { ARCHITECTURES } from '../data/architectures'
 import { notebooksForPattern } from '../data/notebookTemplates'
 import { Button, Callout, Eyebrow, Pill } from '../components/ui'
 import RagDiagram from '../components/diagram/RagDiagram'
+import DrawioExport from '../components/DrawioExport'
 import { DIFFICULTY_LABELS } from '../lib/display'
 import { visibleQuestions, type AnswerMap } from '../diagnose/flow'
 import { recommend } from '../diagnose/recommend'
@@ -254,8 +255,11 @@ export default function Review() {
             ))}
           </ul>
         </div>
-        <div className="overflow-hidden rounded-xl border border-hairline bg-neutral-50 p-3">
-          <RagDiagram architecture={arch} />
+        <div className="flex flex-col gap-4">
+          <div className="overflow-hidden rounded-xl border border-hairline bg-neutral-50 p-3">
+            <RagDiagram architecture={arch} />
+          </div>
+          <DrawioExport source={arch} name={arch.name} />
         </div>
       </div>
 

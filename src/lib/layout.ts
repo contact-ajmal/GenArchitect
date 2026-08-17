@@ -1,4 +1,4 @@
-import type { DiagramComponent, LayerId } from '../types'
+import type { AwsServiceId, DiagramComponent, LayerId } from '../types'
 import { AWS_SERVICES } from '../data/services'
 
 /**
@@ -66,6 +66,7 @@ export interface PositionedNode {
   id: string
   label: string
   serviceLabel?: string
+  awsServiceId?: AwsServiceId
   note?: string
   layer: LayerId
   x: number
@@ -204,6 +205,7 @@ export function computeLayout(arch: DiagramSource): DiagramLayout {
         id: c.id,
         label: c.label,
         serviceLabel: serviceLabelFor(c),
+        awsServiceId: c.awsServiceId,
         note: c.note,
         layer,
         x,
@@ -249,6 +251,7 @@ export function computeLayout(arch: DiagramSource): DiagramLayout {
         id: comp.id,
         label: comp.label,
         serviceLabel: serviceLabelFor(comp),
+        awsServiceId: comp.awsServiceId,
         note: comp.note,
         layer,
         x: nodeX,
