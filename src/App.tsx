@@ -1,5 +1,5 @@
 import { lazy, Suspense, useEffect } from 'react'
-import { Route, Routes, useLocation } from 'react-router-dom'
+import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import AppHeader from './components/AppHeader'
 import AppFooter from './components/AppFooter'
 import Home from './routes/Home'
@@ -9,7 +9,7 @@ const Catalog = lazy(() => import('./routes/Catalog'))
 const ArchitectureDetail = lazy(() => import('./routes/ArchitectureDetail'))
 const UseCase = lazy(() => import('./routes/UseCase'))
 const Build = lazy(() => import('./routes/Build'))
-const Diagnose = lazy(() => import('./routes/Diagnose'))
+const Review = lazy(() => import('./routes/Review'))
 const Compose = lazy(() => import('./routes/Compose'))
 const Playground = lazy(() => import('./routes/Playground'))
 const Accuracy = lazy(() => import('./routes/Accuracy'))
@@ -53,7 +53,9 @@ function App() {
             <Route path="/architecture/:id" element={<ArchitectureDetail />} />
             <Route path="/use-case" element={<UseCase />} />
             <Route path="/build" element={<Build />} />
-            <Route path="/diagnose" element={<Diagnose />} />
+            <Route path="/review" element={<Review />} />
+            {/* Old route kept as a redirect. */}
+            <Route path="/diagnose" element={<Navigate to="/review" replace />} />
             <Route path="/compose" element={<Compose />} />
             <Route path="/playground" element={<Playground />} />
             <Route path="/accuracy" element={<Accuracy />} />

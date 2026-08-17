@@ -27,9 +27,9 @@ export default function Home() {
               Amazon Bedrock AgentCore with the Strands Agents SDK.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <Link to="/use-case">
+              <Link to="/review">
                 <Button size="lg">
-                  Start with the use case
+                  Review my use case
                   <ArrowRight className="h-4 w-4" />
                 </Button>
               </Link>
@@ -39,6 +39,10 @@ export default function Home() {
                 </Button>
               </Link>
             </div>
+            <p className="mt-3 text-sm text-ink-muted">
+              Not sure which pattern fits? Answer a few questions and get a
+              recommended architecture in about two minutes.
+            </p>
           </div>
 
           {/* Ambient synced vignette — a live preview of the USP */}

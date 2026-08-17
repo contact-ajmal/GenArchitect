@@ -39,7 +39,7 @@ type NavItem = { label: string; to: string; kind: 'route' | 'anchor' }
 
 const NAV_ITEMS: NavItem[] = [
   { label: 'Use case', to: '/use-case', kind: 'route' },
-  { label: 'Diagnose', to: '/diagnose', kind: 'route' },
+  { label: 'Review', to: '/review', kind: 'route' },
   { label: 'Catalog', to: '/catalog', kind: 'route' },
   { label: 'Compose', to: '/compose', kind: 'route' },
   { label: 'Notebooks', to: '/notebooks', kind: 'route' },
