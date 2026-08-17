@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================================
+   GenArchitect — design tokens (design north star)
+   Colors are stored as space-separated RGB channels so Tailwind's
+   `rgb(var(--token) / <alpha-value>)` opacity modifiers work everywhere.
+   ========================================================================== */
+:root {
+  /* Accent — a retrieval / graph-node teal. The product's signal color. */
+  --accent: 20 184 166; /* #14B8A6 */
+  --accent-soft: 153 246 228; /* #99F6E4 */
+  --accent-strong: 13 148 136; /* #0D9488 */
+
+  /* Ink — near-black text on light surfaces. */
+  --ink: 14 17 22; /* #0E1116 */
+  --ink-soft: 51 60 71; /* #333C47 */
+  --ink-muted: 107 118 132; /* #6B7684 */
+
+  /* Amber — the "build" / attention accent. */
+  --amber: 245 158 11; /* #F59E0B */
+
+  /* Neutral ramp — surfaces, hairlines, borders. */
+  --neutral-0: 255 255 255; /* #FFFFFF */
+  --neutral-50: 249 250 251; /* #F9FAFB */
+  --neutral-100: 243 244 246; /* #F3F4F6 */
+  --neutral-200: 229 231 235; /* #E5E7EB */
+  --neutral-300: 209 213 219; /* #D1D5DB */
+  --neutral-500: 107 114 128; /* #6B7280 */
+  --neutral-700: 55 65 81; /* #374151 */
+  --neutral-900: 17 24 39; /* #111827 */
+
+  /* Hairline — the 1px separators used across the shell. */
+  --hairline: 229 231 235; /* #E5E7EB */
+
+  /* Layout */
+  --header-height: 4rem; /* 64px — keep in sync with AppHeader */
+
+  color-scheme: light;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    /* Anchor targets (e.g. #about) clear the sticky header. */
+    scroll-padding-top: var(--header-height);
+  }
+
+  body {
+    @apply bg-neutral-50 font-sans text-ink antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display tracking-tight;
+  }
+
+  code,
+  pre,
+  kbd {
+    @apply font-mono;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent ring-offset-2 ring-offset-neutral-0;
+  }
+}
+
+/* ============================================================================
+   CodeBlock — line layout with a sticky gutter, horizontal scroll for long
+   lines, and full-width line highlighting.
+   ========================================================================== */
+@layer components {
+  .cb-scroll {
+    overflow-x: auto;
+    /* iOS momentum scrolling for long lines */
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .cb-lines {
+    display: grid; /* each line stretches to the widest line's width */
+    font-size: 13px;
+    line-height: 1.65;
+  }
+
+  .cb-line {
+    display: flex;
+    min-height: 1.65em;
+  }
+
+  .cb-gutter {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    flex: 0 0 auto;
+    padding: 0 1rem 0 1.25rem;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    user-select: none;
+    color: rgb(var(--ink-muted) / 0.65);
+    background: rgb(var(--neutral-0));
+  }
+
+  .cb-code {
+    flex: 1 1 auto;
+    padding-right: 1.25rem;
+    white-space: pre; /* preserve indentation; long lines scroll horizontally */
+  }
+
+  /* Highlighted line: tint spans the full (scrolled) width, accent bar at left. */
+  .cb-line[data-hl='true'] .cb-code {
+    background: rgb(var(--accent) / 0.09);
+  }
+
+  .cb-line[data-hl='true'] .cb-gutter {
+    background: rgb(var(--accent) / 0.09);
+    color: rgb(var(--accent-strong));
+    box-shadow: inset 2px 0 0 rgb(var(--accent));
+  }
+
+  /* Annotated lines — subtle dotted underline + a gutter dot; louder on hover. */
+  .cb-line.cb-annotated {
+    cursor: pointer;
+  }
+  .cb-line.cb-annotated .cb-code {
+    text-decoration: underline dotted rgb(var(--accent) / 0.55);
+    text-underline-offset: 3px;
+  }
+  .cb-line.cb-annotated:hover .cb-code,
+  .cb-line.cb-annotated:focus-visible .cb-code {
+    background: rgb(var(--accent) / 0.07);
+  }
+  .cb-line.cb-annotated:focus-visible {
+    outline: 2px solid rgb(var(--accent));
+    outline-offset: -2px;
+  }
+  .cb-line[data-annot-active='true'] .cb-code {
+    background: rgb(var(--accent) / 0.12);
+  }
+  .cb-annot-dot {
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 9999px;
+    background: rgb(var(--accent));
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+}
+
+/* ============================================================================
+   RagDiagram — animated dataflow + retrieval-loop connectors.
+   ========================================================================== */
+@keyframes diagram-dataflow {
+  to {
+    stroke-dashoffset: -22;
+  }
+}
+
+.diagram-flow-path {
+  stroke-dasharray: 5 6;
+  animation: diagram-dataflow 0.9s linear infinite;
+}
+
+.diagram-loop-path {
+  stroke-dasharray: 2 6;
+  animation: diagram-dataflow 1.4s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .diagram-flow-path,
+  .diagram-loop-path {
+    animation: none;
+  }
+}
