@@ -90,7 +90,36 @@ The app is configured for **root-domain** hosting (`base: '/'` in
 
 ---
 
-## Option C — Any static host (Vercel / Netlify / GitHub Pages / …)
+## Option C — Cloudflare Pages (Git-connected)
+
+The repo already includes what Cloudflare needs: `public/_redirects` (SPA
+fallback, copied to `dist/` on build) and `.nvmrc` pinning Node 22 (Vite 8
+requires Node ≥ 20.19 / 22.12; Cloudflare's default is too old).
+
+1. Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** →
+   **Connect to Git**, and pick the `GenArchitect` repo.
+2. Build settings:
+   - **Framework preset:** Vite (or None)
+   - **Build command:** `npm run build`
+   - **Build output directory:** `dist`
+   - **Environment variable:** `NODE_VERSION` = `22` (belt-and-suspenders with `.nvmrc`)
+3. **Save and Deploy.** Every push to `main` redeploys automatically; PRs get
+   preview URLs.
+
+SPA deep links (e.g. `/architecture/agentic_rag`) work via `public/_redirects`:
+
+```
+/*  /index.html  200
+```
+
+CLI alternative (Wrangler):
+
+```bash
+npm run build
+npx wrangler pages deploy dist --project-name genarchitect
+```
+
+## Option D — Any static host (Vercel / Netlify / GitHub Pages / …)
 
 Build command `npm run build`, output/publish directory `dist`.
 
