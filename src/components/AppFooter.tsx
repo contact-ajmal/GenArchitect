@@ -55,13 +55,13 @@ export default function AppFooter() {
             <div className="mt-5 flex items-center gap-3 text-sm text-ink-muted">
               <span>
                 Built by{' '}
-                <span className="font-medium text-ink">Ajmal Nazir</span>
+                <span className="font-medium text-ink">Ajmal Baba</span>
               </span>
               <a
                 href="https://github.com/contact-ajmal"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Ajmal Nazir on GitHub"
+                aria-label="Ajmal Baba on GitHub"
                 className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-hairline text-ink-muted transition-colors hover:text-ink hover:border-ink/30 focus-visible:ring-2 focus-visible:ring-accent"
               >
                 <Github className="h-4 w-4" />
@@ -70,7 +70,7 @@ export default function AppFooter() {
                 href="https://www.linkedin.com/in/ajmalnazirbaba/"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Ajmal Nazir on LinkedIn"
+                aria-label="Ajmal Baba on LinkedIn"
                 className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-hairline text-ink-muted transition-colors hover:text-ink hover:border-ink/30 focus-visible:ring-2 focus-visible:ring-accent"
               >
                 <Linkedin className="h-4 w-4" />
