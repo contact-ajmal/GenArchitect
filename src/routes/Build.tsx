@@ -14,6 +14,8 @@ import { AWS_SERVICES } from '../data/services'
 import { verificationForServices } from '../data/verification'
 import { Button, Callout, Eyebrow, Pill } from '../components/ui'
 import CodeBlock from '../components/code/CodeBlock'
+import AtlasLink from '../components/atlas/AtlasLink'
+import { atlasRefsFor } from '../atlas/links'
 import { serviceVariant } from '../lib/display'
 
 const ACTIVE_KEY = 'genarchitect:build:active'
@@ -209,6 +211,20 @@ export default function Build() {
               </ul>
             </div>
           ) : null}
+
+          {(() => {
+            const refs = atlasRefsFor(stage.steps.flatMap((s) => s.awsServiceIds))
+            return refs.length ? (
+              <div className="mt-4 flex flex-wrap items-center gap-2">
+                <span className="text-sm text-ink-muted">Learn the concepts:</span>
+                {refs.map((r) => (
+                  <AtlasLink key={r.topicId} atlas={r.atlas} topicId={r.topicId}>
+                    {r.label}
+                  </AtlasLink>
+                ))}
+              </div>
+            ) : null
+          })()}
 
           {stage.relatedArchitectureIds?.length ? (
             <div className="mt-4 flex flex-wrap items-center gap-2">

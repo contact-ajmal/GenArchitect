@@ -2,6 +2,7 @@ import { lazy, Suspense, useEffect } from 'react'
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import AppHeader from './components/AppHeader'
 import AppFooter from './components/AppFooter'
+import GlobalSearch from './components/GlobalSearch'
 import Home from './routes/Home'
 
 // Route pages are code-split so the initial bundle stays lean.
@@ -18,7 +19,6 @@ const Security = lazy(() => import('./routes/Security'))
 const Evaluate = lazy(() => import('./routes/Evaluate'))
 const Notebooks = lazy(() => import('./routes/Notebooks'))
 const NotebookView = lazy(() => import('./routes/NotebookView'))
-const AtlasDemo = lazy(() => import('./routes/AtlasDemo'))
 const StrandsAtlas = lazy(() => import('./routes/StrandsAtlas'))
 const AgentCoreAtlas = lazy(() => import('./routes/AgentCoreAtlas'))
 
@@ -43,6 +43,7 @@ function App() {
   return (
     <div className="flex min-h-screen flex-col bg-neutral-50 text-ink">
       <AppHeader />
+      <GlobalSearch />
       <ScrollToTop />
 
       {/* Offset content so it never hides under the sticky header. */}
@@ -65,8 +66,6 @@ function App() {
             <Route path="/evaluate" element={<Evaluate />} />
             <Route path="/notebooks" element={<Notebooks />} />
             <Route path="/notebooks/:id" element={<NotebookView />} />
-            {/* Temporary — atlas primitive review surface (removed in Phase 24). */}
-            <Route path="/atlas-demo" element={<AtlasDemo />} />
             <Route path="/strands" element={<StrandsAtlas />} />
             <Route path="/strands/:topicId" element={<StrandsAtlas />} />
             <Route path="/agentcore" element={<AgentCoreAtlas />} />

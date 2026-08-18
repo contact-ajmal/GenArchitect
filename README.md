@@ -36,8 +36,10 @@ maturing a RAG system:
 - **Use case** (`/use-case`) — the Meridian scenario as a progression across patterns.
 - **Catalog** (`/catalog`) — all nine patterns, filterable by difficulty and AWS service.
 - **Architecture detail** (`/architecture/:id`) — synced walkthrough, honest tradeoffs, Meridian tie-in, AWS building blocks, copyable reference code, and real AWS references.
+- **Atlases** (`/strands`, `/agentcore`) — the complete Strands Agents and Amazon Bedrock AgentCore surfaces, taught visually in **original words** (linking to canonical docs for exact syntax), with per-atlas coverage maps. These are the single source of conceptual truth — every other surface deep-links into them.
 - **Compose** (`/compose`) — a studio that assembles a RAG architecture from components and generates the matching diagram + idiomatic Strands/AgentCore reference code live.
-- **Diagnose** (`/diagnose`) — a short adaptive interview that maps your needs to a pattern, then hands off into the composer.
+- **Review** (`/review`) — a short adaptive interview that maps your needs to a pattern, then hands off into the composer (also generates a draw.io template).
+- **Search** — global ⌘K search across atlas topics, patterns, notebooks, and failure modes.
 - **Notebooks** (`/notebooks`) — a library of downloadable end-to-end Jupyter notebooks (`.ipynb`), curated across nine patterns × six enterprise use cases, with in-app preview, generate-any-combination, and a download-all bundle. Compiled from typed cells that reuse the composer fragments — never hand-authored JSON.
 - **Build track** (`/build`) — a hands-on, checkpointed path (progress saved locally) to the Meridian end-state on AgentCore + Strands.
 - **Failure modes / Security / Evaluate** — a failure-mode lab, a security & compliance deep dive, and an evaluation/observability primer.

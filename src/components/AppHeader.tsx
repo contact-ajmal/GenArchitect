@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
-import { Menu, X } from 'lucide-react'
+import { Menu, Search, X } from 'lucide-react'
 import clsx from 'clsx'
 
 /**
@@ -77,35 +77,48 @@ export default function AppHeader() {
           </span>
         </Link>
 
-        {/* Desktop nav */}
-        <nav className="hidden items-center gap-5 lg:flex">
-          {NAV_ITEMS.map((item) =>
-            item.kind === 'route' ? (
-              <NavLink key={item.to} to={item.to} className={navLinkClass}>
-                {item.label}
-              </NavLink>
-            ) : (
-              <a
-                key={item.to}
-                href={item.to}
-                className="text-sm font-medium text-ink-muted transition-colors hover:text-ink"
-              >
-                {item.label}
-              </a>
-            ),
-          )}
-        </nav>
+        <div className="flex items-center gap-3">
+          {/* Global search trigger */}
+          <button
+            type="button"
+            onClick={() => window.dispatchEvent(new Event('open-search'))}
+            aria-label="Search"
+            className="inline-flex items-center gap-2 rounded-md border border-hairline px-2 py-1.5 text-sm text-ink-muted transition-colors hover:text-ink"
+          >
+            <Search className="h-4 w-4" />
+            <span className="hidden font-mono text-[11px] sm:inline">⌘K</span>
+          </button>
 
-        {/* Mobile toggle */}
-        <button
-          type="button"
-          onClick={() => setOpen((v) => !v)}
-          className="inline-flex h-9 w-9 items-center justify-center rounded-md text-ink-soft hover:bg-neutral-100 lg:hidden"
-          aria-label={open ? 'Close menu' : 'Open menu'}
-          aria-expanded={open}
-        >
-          {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
-        </button>
+          {/* Desktop nav */}
+          <nav className="hidden items-center gap-5 lg:flex">
+            {NAV_ITEMS.map((item) =>
+              item.kind === 'route' ? (
+                <NavLink key={item.to} to={item.to} className={navLinkClass}>
+                  {item.label}
+                </NavLink>
+              ) : (
+                <a
+                  key={item.to}
+                  href={item.to}
+                  className="text-sm font-medium text-ink-muted transition-colors hover:text-ink"
+                >
+                  {item.label}
+                </a>
+              ),
+            )}
+          </nav>
+
+          {/* Mobile toggle */}
+          <button
+            type="button"
+            onClick={() => setOpen((v) => !v)}
+            className="inline-flex h-9 w-9 items-center justify-center rounded-md text-ink-soft hover:bg-neutral-100 lg:hidden"
+            aria-label={open ? 'Close menu' : 'Open menu'}
+            aria-expanded={open}
+          >
+            {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+          </button>
+        </div>
       </div>
 
       {/* Mobile menu — collapses below the header */}

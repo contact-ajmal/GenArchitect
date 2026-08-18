@@ -23,6 +23,8 @@ import CodeBlock from '../components/code/CodeBlock'
 import FreshnessBadge from '../components/FreshnessBadge'
 import ExportScaffold from '../components/ExportScaffold'
 import DrawioExport from '../components/DrawioExport'
+import AtlasLink from '../components/atlas/AtlasLink'
+import { atlasRefFor } from '../atlas/links'
 import { compositionFromPattern } from '../compose/composition'
 import { notebooksForPattern } from '../data/notebookTemplates'
 import {
@@ -315,6 +317,13 @@ export default function ArchitectureDetail() {
                   </span>
                   {svc.whenToUse}
                 </p>
+                {atlasRefFor(sid) ? (
+                  <div className="mt-3">
+                    <AtlasLink atlas={atlasRefFor(sid)!.atlas} topicId={atlasRefFor(sid)!.topicId}>
+                      Learn the concept
+                    </AtlasLink>
+                  </div>
+                ) : null}
                 <div className="mt-3 border-t border-hairline pt-2">
                   <FreshnessBadge verification={VERIFICATION[sid]} />
                 </div>
