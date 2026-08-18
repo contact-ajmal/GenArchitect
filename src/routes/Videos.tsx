@@ -5,7 +5,10 @@ import type { VideoEntry, VideoLevel, VideoTopic, TrustTier } from '../types'
 import { Callout, Eyebrow } from '../components/ui'
 import VideoCard from '../components/video/VideoCard'
 import VideoPlayer from '../components/video/VideoPlayer'
+import { Button } from '../components/ui'
 import { BRAND } from '../config/brand'
+
+const PAGE = 48
 import {
   CURATION,
   GENERATED_AT,
@@ -87,6 +90,9 @@ export default function Videos() {
         .filter((c) => c.items.length > 0),
     [],
   )
+
+  const [shown, setShown] = useState(PAGE)
+  useEffect(() => setShown(PAGE), [query, topic, level, tier, channel, sort])
 
   const stale = daysSinceRefresh() > STALE_DAYS
   const hasFilters = query || topic !== 'all' || level !== 'all' || tier !== 'all' || channel !== 'all'
@@ -174,13 +180,22 @@ export default function Videos() {
             No videos match those filters.
           </div>
         ) : (
-          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {results.map((v) => (
-              <li key={v.id}>
-                <VideoCard video={v} onOpen={setActive} />
-              </li>
-            ))}
-          </ul>
+          <>
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+              {results.slice(0, shown).map((v) => (
+                <li key={v.id}>
+                  <VideoCard video={v} onOpen={setActive} />
+                </li>
+              ))}
+            </ul>
+            {results.length > shown ? (
+              <div className="mt-8 text-center">
+                <Button variant="subtle" onClick={() => setShown((n) => n + PAGE)}>
+                  Show more ({results.length - shown} more)
+                </Button>
+              </div>
+            ) : null}
+          </>
         )}
       </div>
 

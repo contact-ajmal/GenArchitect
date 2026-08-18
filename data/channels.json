@@ -1,66 +1,21 @@
 {
   "_readme": [
     "Curated video source registry for GenArchitect. Human-editable.",
-    "IMPORTANT: RSS discovery requires the YouTube CHANNEL ID (starts with 'UC...'), NOT the @handle.",
-    "VERIFY every channel id below before the first real run — ids here are best-effort and may be wrong.",
-    "Channels with id starting 'REPLACE_ME' are skipped until you fill in a real id and set active:true.",
-    "How to find a channel id: open the channel in a browser, then either (a) View Source and search for 'channelId', or (b) use https://www.youtube.com/@handle and check the RSS link, or (c) the channel's About > Share > Copy channel ID. The RSS feed is https://www.youtube.com/feeds/videos.xml?channel_id=<id> .",
-    "Keep this list tight and high-signal — curation beats a firehose."
+    "Each channel can be listed by @handle; the refresh script resolves the handle to a channel id via the YouTube Data API when YOUTUBE_API_KEY is set.",
+    "WITHOUT a key, only channels with a real 'id' (UC...) are fetched, and only their ~15 most recent videos (RSS). WITH a key, the script pulls each channel's FULL upload history (playlistItems.list) — hundreds of videos, including old re:Invent sessions.",
+    "So to populate the large library (re:Invent + community), set the YOUTUBE_API_KEY secret and run the workflow.",
+    "id: leave as \"\" to auto-resolve from the handle (needs the key). Set a real UC id to enable RSS without a key.",
+    "How to find a channel id: channel > About > Share > Copy channel ID, or View Source and search 'channelId'.",
+    "trustTier drives whether a channel is treated as a curated source (official/aws_events keep all videos) vs. a broad channel (only topic-relevant videos are kept). Verify ids/handles before first run."
   ],
   "channels": [
-    {
-      "id": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "name": "Amazon Web Services",
-      "handle": "@amazonwebservices",
-      "category": "aws_official",
-      "trustTier": "official",
-      "topics": ["bedrock", "agentcore", "genai-general", "well-architected"],
-      "active": true
-    },
-    {
-      "id": "REPLACE_ME:awsdevelopers",
-      "name": "AWS Developers",
-      "handle": "@awsdevelopers",
-      "category": "aws_official",
-      "trustTier": "official",
-      "topics": ["bedrock", "strands", "agentcore", "rag"],
-      "active": false
-    },
-    {
-      "id": "REPLACE_ME:awsevents",
-      "name": "AWS Events",
-      "handle": "@AWSEventsChannel",
-      "category": "aws_events",
-      "trustTier": "official",
-      "topics": ["genai-general", "bedrock", "well-architected"],
-      "active": false
-    },
-    {
-      "id": "REPLACE_ME:serverlessland",
-      "name": "Serverless Land",
-      "handle": "@ServerlessLand",
-      "category": "aws_official",
-      "trustTier": "official",
-      "topics": ["bedrock", "agentcore", "genai-general"],
-      "active": false
-    },
-    {
-      "id": "REPLACE_ME:awsonlinetechtalks",
-      "name": "AWS Online Tech Talks",
-      "handle": "@AWSOnlineTechTalks",
-      "category": "aws_events",
-      "trustTier": "official",
-      "topics": ["bedrock", "rag", "vector-search"],
-      "active": false
-    },
-    {
-      "id": "REPLACE_ME:aiengineer",
-      "name": "AI Engineer",
-      "handle": "@aiDotEngineer",
-      "category": "general_ai",
-      "trustTier": "community",
-      "topics": ["rag", "multi-agent", "genai-general"],
-      "active": false
-    }
+    { "id": "UCd6MoB9NC6uYN2grvUNT-Zg", "name": "Amazon Web Services", "handle": "@amazonwebservices", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "agentcore", "genai-general"], "active": true },
+    { "id": "", "name": "AWS Events", "handle": "@AWSEventsChannel", "category": "aws_events", "trustTier": "official", "topics": ["genai-general", "bedrock", "well-architected"], "active": true },
+    { "id": "", "name": "AWS Developers", "handle": "@awsdevelopers", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "strands", "agentcore", "rag"], "active": true },
+    { "id": "", "name": "AWS Online Tech Talks", "handle": "@AWSOnlineTechTalks", "category": "aws_events", "trustTier": "official", "topics": ["bedrock", "rag", "vector-search"], "active": true },
+    { "id": "", "name": "Serverless Land", "handle": "@ServerlessLand", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "agentcore", "genai-general"], "active": true },
+    { "id": "", "name": "AWS Startups", "handle": "@AWSStartups", "category": "aws_official", "trustTier": "official", "topics": ["genai-general", "bedrock"], "active": true },
+    { "id": "", "name": "Build on AWS", "handle": "@BuildOnAWS", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "agentcore", "genai-general"], "active": true },
+    { "id": "", "name": "AI Engineer", "handle": "@aiDotEngineer", "category": "general_ai", "trustTier": "community", "topics": ["rag", "multi-agent", "genai-general"], "active": true }
   ]
 }

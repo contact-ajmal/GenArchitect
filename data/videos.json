@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-08-18T11:36:30.385Z",
+  "generatedAt": "2026-08-18T20:36:17.171Z",
   "videos": [
+    {
+      "id": "cJNzGvDKYoc",
+      "title": "Amazon GuardDuty AI investigations | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-18T19:18:27+00:00",
+      "url": "https://www.youtube.com/watch?v=cJNzGvDKYoc",
+      "thumbnail": "https://i.ytimg.com/vi/cJNzGvDKYoc/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "QYPPzjirVRM",
+      "title": "Help fix our AI-powered pet supply store",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-18T15:58:41+00:00",
+      "url": "https://www.youtube.com/watch?v=QYPPzjirVRM",
+      "thumbnail": "https://i.ytimg.com/vi/QYPPzjirVRM/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "5xrWa45oA28",
+      "title": "How do I use AWS DMS to create source or target endpoints?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-18T10:30:34+00:00",
+      "url": "https://www.youtube.com/watch?v=5xrWa45oA28",
+      "thumbnail": "https://i.ytimg.com/vi/5xrWa45oA28/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "rAFe4j2KLdg",
+      "title": "AWS Account Access Manager Enablement Walkthrough | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-17T19:05:27+00:00",
+      "url": "https://www.youtube.com/watch?v=rAFe4j2KLdg",
+      "thumbnail": "https://i.ytimg.com/vi/rAFe4j2KLdg/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "ybGaNxmvv9k",
+      "title": "8x Faster Genetic Diagnostics While Keeping Patient Data in Germany | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-17T18:12:30+00:00",
+      "url": "https://www.youtube.com/watch?v=ybGaNxmvv9k",
+      "thumbnail": "https://i.ytimg.com/vi/ybGaNxmvv9k/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "z5VhZ8lva6A",
+      "title": "How do I configure and manage Amazon VPC security groups and network ACLs?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-13T18:00:38+00:00",
+      "url": "https://www.youtube.com/watch?v=z5VhZ8lva6A",
+      "thumbnail": "https://i.ytimg.com/vi/z5VhZ8lva6A/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "srg4s5wp4UE",
+      "title": "How three nonprofits united to bridge healthcare and social care using AWS AI | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-13T15:14:40+00:00",
+      "url": "https://www.youtube.com/watch?v=srg4s5wp4UE",
+      "thumbnail": "https://i.ytimg.com/vi/srg4s5wp4UE/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "dmpsY2YHluE",
+      "title": "Cloud Report: We used AI to recreate our mom's chicken recipe | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-11T22:22:09+00:00",
+      "url": "https://www.youtube.com/watch?v=dmpsY2YHluE",
+      "thumbnail": "https://i.ytimg.com/vi/dmpsY2YHluE/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "2r4DL6-cr6o",
       "title": "Cloud Report: Your AI personal trainer, live in 20 minutes with AgentCore | Amazon Web Services",
@@ -10,7 +122,36 @@
       "url": "https://www.youtube.com/watch?v=2r4DL6-cr6o",
       "thumbnail": "https://i.ytimg.com/vi/2r4DL6-cr6o/hqdefault.jpg",
       "topics": [
-        "agentcore"
+        "agentcore",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "JnPkam4giq8",
+      "title": "AWS Cloud Quest 2.0 | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-11T20:41:28+00:00",
+      "url": "https://www.youtube.com/watch?v=JnPkam4giq8",
+      "thumbnail": "https://i.ytimg.com/vi/JnPkam4giq8/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "juL8LL0TazU",
+      "title": "How do I import a third-party issued TLS/SSL certificate to ACM?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-11T16:20:50+00:00",
+      "url": "https://www.youtube.com/watch?v=juL8LL0TazU",
+      "thumbnail": "https://i.ytimg.com/vi/juL8LL0TazU/hqdefault.jpg",
+      "topics": [
+        "genai-general"
       ],
       "level": "talk",
       "trustTier": "official"
@@ -30,6 +171,20 @@
       "trustTier": "official"
     },
     {
+      "id": "h1Hx8M9QmG0",
+      "title": "AWS Security Hub Network Scanning and Impact Analysis for Exposure Findings | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-10T16:04:20+00:00",
+      "url": "https://www.youtube.com/watch?v=h1Hx8M9QmG0",
+      "thumbnail": "https://i.ytimg.com/vi/h1Hx8M9QmG0/hqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
       "id": "yibZlPf87b0",
       "title": "Ep 1 | Using AgentCore for fitness, and DynamoDB for cooking",
       "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
@@ -38,7 +193,22 @@
       "url": "https://www.youtube.com/watch?v=yibZlPf87b0",
       "thumbnail": "https://i.ytimg.com/vi/yibZlPf87b0/hqdefault.jpg",
       "topics": [
-        "agentcore"
+        "agentcore",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "LlPE8wOTe98",
+      "title": "How Widdix Keeps Regulated Data Secure in a Sovereign Cloud | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-07T18:48:55+00:00",
+      "url": "https://www.youtube.com/watch?v=LlPE8wOTe98",
+      "thumbnail": "https://i.ytimg.com/vi/LlPE8wOTe98/hqdefault.jpg",
+      "topics": [
+        "genai-general"
       ],
       "level": "talk",
       "trustTier": "official"
