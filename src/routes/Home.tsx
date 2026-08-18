@@ -29,6 +29,12 @@ export default function Home() {
     <div>
       {/* 1. HERO */}
       <section className="border-b border-hairline bg-navy text-neutral-0">
+        {/* Non-affiliation — visible immediately, before anything else */}
+        <div className="border-b border-neutral-0/10">
+          <p className="mx-auto max-w-content px-4 py-2 text-center text-[11px] leading-relaxed text-neutral-300 sm:px-6">
+            {BRAND.disclaimer}
+          </p>
+        </div>
         <div className="mx-auto grid max-w-content gap-10 px-4 py-16 sm:px-6 lg:grid-cols-[1fr_1.05fr] lg:items-center lg:py-24">
           <div>
             <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-signal">
