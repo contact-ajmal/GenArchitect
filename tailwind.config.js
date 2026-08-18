@@ -24,6 +24,15 @@ export default {
           ...colors.amber,
           DEFAULT: 'rgb(var(--amber) / <alpha-value>)',
         },
+        // AWS-adjacent layer: navy base + warm signal-orange accent.
+        navy: {
+          DEFAULT: 'rgb(var(--navy) / <alpha-value>)',
+          soft: 'rgb(var(--navy-soft) / <alpha-value>)',
+        },
+        signal: {
+          DEFAULT: 'rgb(var(--signal) / <alpha-value>)',
+          strong: 'rgb(var(--signal-strong) / <alpha-value>)',
+        },
         neutral: {
           0: 'rgb(var(--neutral-0) / <alpha-value>)',
           50: 'rgb(var(--neutral-50) / <alpha-value>)',

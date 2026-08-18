@@ -39,14 +39,11 @@ type NavItem = { label: string; to: string; kind: 'route' | 'anchor' }
 
 const NAV_ITEMS: NavItem[] = [
   { label: 'Use case', to: '/use-case', kind: 'route' },
-  { label: 'Review', to: '/review', kind: 'route' },
-  { label: 'Catalog', to: '/catalog', kind: 'route' },
+  { label: 'Architectures', to: '/catalog', kind: 'route' },
   { label: 'Compose', to: '/compose', kind: 'route' },
-  { label: 'Notebooks', to: '/notebooks', kind: 'route' },
   { label: 'Strands', to: '/strands', kind: 'route' },
   { label: 'AgentCore', to: '/agentcore', kind: 'route' },
-  { label: 'Build', to: '/build', kind: 'route' },
-  { label: 'About', to: '/#about', kind: 'anchor' },
+  { label: 'Notebooks', to: '/notebooks', kind: 'route' },
 ]
 
 function navLinkClass({ isActive }: { isActive: boolean }) {
@@ -70,13 +67,18 @@ export default function AppHeader() {
           aria-label="GenArchitect home"
         >
           <GraphGlyph className="h-7 w-7 text-accent" />
-          <span className="font-display text-lg font-bold tracking-tight text-ink">
-            Gen<span className="text-accent">Architect</span>
+          <span className="flex flex-col leading-none">
+            <span className="font-display text-lg font-bold tracking-tight text-ink">
+              Gen<span className="text-accent">Architect</span>
+            </span>
+            <span className="mt-0.5 hidden font-mono text-[9px] uppercase tracking-[0.14em] text-ink-muted md:block">
+              AWS agentic architecture studio
+            </span>
           </span>
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden items-center gap-4 xl:flex">
+        <nav className="hidden items-center gap-5 lg:flex">
           {NAV_ITEMS.map((item) =>
             item.kind === 'route' ? (
               <NavLink key={item.to} to={item.to} className={navLinkClass}>
@@ -98,7 +100,7 @@ export default function AppHeader() {
         <button
           type="button"
           onClick={() => setOpen((v) => !v)}
-          className="inline-flex h-9 w-9 items-center justify-center rounded-md text-ink-soft hover:bg-neutral-100 xl:hidden"
+          className="inline-flex h-9 w-9 items-center justify-center rounded-md text-ink-soft hover:bg-neutral-100 lg:hidden"
           aria-label={open ? 'Close menu' : 'Open menu'}
           aria-expanded={open}
         >
@@ -108,7 +110,7 @@ export default function AppHeader() {
 
       {/* Mobile menu — collapses below the header */}
       {open && (
-        <nav className="border-b border-hairline bg-neutral-0 px-4 pb-4 pt-2 xl:hidden">
+        <nav className="border-b border-hairline bg-neutral-0 px-4 pb-4 pt-2 lg:hidden">
           <ul className="flex flex-col gap-1">
             {NAV_ITEMS.map((item) => (
               <li key={item.to}>

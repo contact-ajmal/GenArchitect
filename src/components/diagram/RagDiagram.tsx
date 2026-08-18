@@ -8,6 +8,8 @@ import {
   type LayerBand,
   type PositionedNode,
 } from '../../lib/layout'
+import AwsServiceIcon from '../aws/AwsServiceIcon'
+import { SERVICE_ICON_FILE } from '../../config/brand'
 
 export interface RagDiagramProps {
   architecture: DiagramSource
@@ -76,7 +78,7 @@ function ConnectorPath({
           d={connector.path}
           fill="none"
           className={clsx(
-            isLoop ? 'stroke-accent diagram-loop-path' : 'stroke-accent diagram-flow-path',
+            isLoop ? 'stroke-accent diagram-loop-path' : 'stroke-signal diagram-flow-path',
           )}
           strokeWidth={1.5}
           markerEnd={isLoop ? undefined : 'url(#diagram-arrow)'}
@@ -113,7 +115,7 @@ function NodeCard({
         <div
           title={node.note}
           className={clsx(
-            'flex h-full flex-col justify-center overflow-hidden rounded-lg border bg-neutral-0 px-2.5 transition-all duration-300',
+            'flex h-full items-center gap-1.5 overflow-hidden rounded-lg border bg-neutral-0 px-2 transition-all duration-300',
             highlighted ? 'border-transparent' : 'border-hairline',
             dimmed && 'opacity-40 grayscale',
           )}
@@ -125,14 +127,24 @@ function NodeCard({
               : undefined,
           }}
         >
-          <div className="line-clamp-2 text-[12px] font-medium leading-tight text-ink">
-            {node.label}
-          </div>
-          {node.serviceLabel ? (
-            <div className="mt-0.5 truncate font-mono text-[9px] uppercase tracking-wide text-ink-muted">
-              {node.serviceLabel}
-            </div>
+          {node.awsServiceId ? (
+            <AwsServiceIcon
+              iconId={SERVICE_ICON_FILE[node.awsServiceId]}
+              name={node.serviceLabel ?? node.label}
+              size={18}
+              className="shrink-0 opacity-90"
+            />
           ) : null}
+          <div className="min-w-0">
+            <div className="line-clamp-2 text-[11px] font-medium leading-tight text-ink">
+              {node.label}
+            </div>
+            {node.serviceLabel ? (
+              <div className="truncate font-mono text-[9px] uppercase tracking-wide text-ink-muted">
+                {node.serviceLabel}
+              </div>
+            ) : null}
+          </div>
         </div>
       </foreignObject>
     </motion.g>

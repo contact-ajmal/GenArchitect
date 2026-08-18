@@ -21,6 +21,14 @@
   /* Amber — the "build" / attention accent. */
   --amber: 245 158 11; /* #F59E0B */
 
+  /* AWS-adjacent layer. Navy is a deep slate base (squid-ink family); signal is
+     a warm orange used for emphasis and dataflow highlights only — an accent,
+     not the page. The teal --accent stays the interactive color. */
+  --navy: 21 32 51; /* #152033 */
+  --navy-soft: 30 41 59; /* #1E293B */
+  --signal: 255 153 0; /* #FF9900 */
+  --signal-strong: 236 114 17; /* #EC7211 */
+
   /* Neutral ramp — surfaces, hairlines, borders. */
   --neutral-0: 255 255 255; /* #FFFFFF */
   --neutral-50: 249 250 251; /* #F9FAFB */

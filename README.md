@@ -1,9 +1,17 @@
-# GenArchitect
+# GenArchitect — the AWS agentic architecture studio
 
-An enterprise field guide to **Retrieval-Augmented Generation (RAG)** — nine
-architectures from a naive prototype to a secure, guardrailed, agentic
-multi-knowledge-base system — taught through one real enterprise use case and
-built for real on **Amazon Bedrock AgentCore** with the **Strands Agents SDK**.
+Built for **AWS solutions architects, GenAI platform teams, and enterprise
+architects** designing RAG and agentic systems on AWS. Nine RAG architectures
+from a naive prototype to a secure, guardrailed, agentic multi-knowledge-base
+system; visual atlases of the complete **Amazon Bedrock AgentCore** and
+**Strands Agents** surfaces; downloadable end-to-end notebooks; and a composer
+that generates Strands + AgentCore reference implementations and diagrams live.
+
+> **Not affiliated with AWS.** GenArchitect is an independent educational tool,
+> not affiliated with, endorsed by, or sponsored by Amazon Web Services. AWS and
+> AWS service names are trademarks of Amazon.com, Inc. or its affiliates. The
+> official AWS Architecture Icons are not bundled — see
+> [`src/assets/aws-icons/README.md`](./src/assets/aws-icons/README.md) to add them.
 
 The signature surface is a **synced diagram↔code walkthrough**: stepping through
 a pattern lights up the relevant diagram nodes and the exact reference-code lines

@@ -1,15 +1,16 @@
 import { Link } from 'react-router-dom'
+import { BRAND } from '../config/brand'
 
 const NAV = [
   { label: 'Use case', to: '/use-case' },
-  { label: 'Catalog', to: '/catalog' },
+  { label: 'Architectures', to: '/catalog' },
+  { label: 'Review', to: '/review' },
   { label: 'Build', to: '/build' },
   { label: 'Failure modes', to: '/failure-modes' },
   { label: 'Security', to: '/security' },
   { label: 'Evaluate', to: '/evaluate' },
   { label: 'Playground', to: '/playground' },
   { label: 'About accuracy', to: '/accuracy' },
-  { label: 'About', to: '/#about' },
 ]
 
 export default function AppFooter() {
@@ -43,12 +44,11 @@ export default function AppFooter() {
                 Gen<span className="text-accent">Architect</span>
               </span>
             </div>
+            <p className="mt-1 font-mono text-[10px] uppercase tracking-[0.14em] text-ink-muted">
+              {BRAND.tagline}
+            </p>
             <p className="mt-3 text-sm leading-relaxed text-ink-muted">
-              An independent educational field guide to RAG architectures on
-              Amazon Bedrock AgentCore and the Strands Agents SDK. Not affiliated
-              with, sponsored by, or endorsed by Amazon Web Services. Code
-              samples are reference implementations — verify against current AWS
-              documentation.
+              {BRAND.disclaimer}
             </p>
           </div>
 
