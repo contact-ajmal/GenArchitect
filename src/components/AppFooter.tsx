@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Github, Linkedin } from 'lucide-react'
+import { Github, Globe, Linkedin } from 'lucide-react'
 import { BRAND } from '../config/brand'
 
 const NAV = [
@@ -57,6 +57,15 @@ export default function AppFooter() {
                 Built by{' '}
                 <span className="font-medium text-ink">Ajmal Baba</span>
               </span>
+              <a
+                href="https://ajmalbaba-portfolio.pages.dev/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Ajmal Baba's portfolio website"
+                className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-hairline text-ink-muted transition-colors hover:text-ink hover:border-ink/30 focus-visible:ring-2 focus-visible:ring-accent"
+              >
+                <Globe className="h-4 w-4" />
+              </a>
               <a
                 href="https://github.com/contact-ajmal"
                 target="_blank"
