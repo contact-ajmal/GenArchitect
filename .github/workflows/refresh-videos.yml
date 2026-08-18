@@ -18,6 +18,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # The API key is stored as a secret inside the "YOUTUBE_API_KEY" environment.
+    environment: YOUTUBE_API_KEY
     steps:
       - uses: actions/checkout@v4
 
