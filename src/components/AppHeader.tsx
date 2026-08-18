@@ -45,6 +45,7 @@ const NAV_ITEMS: NavItem[] = [
   { label: 'AgentCore', to: '/agentcore', kind: 'route' },
   { label: 'Notebooks', to: '/notebooks', kind: 'route' },
   { label: 'Videos', to: '/videos', kind: 'route' },
+  { label: 'Case studies', to: '/use-cases', kind: 'route' },
 ]
 
 function navLinkClass({ isActive }: { isActive: boolean }) {

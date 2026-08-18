@@ -9,8 +9,9 @@ import { ARCHITECTURE_LIST } from '../data/architectures'
 import { FEATURED_NOTEBOOKS } from '../data/notebookTemplates'
 import { FAILURE_MODES } from '../data/failureModes'
 import { VIDEOS } from '../lib/videos'
+import { INDUSTRY_LABELS, USE_CASES } from '../lib/usecases'
 
-type Kind = 'Atlas' | 'Pattern' | 'Notebook' | 'Failure mode' | 'Video'
+type Kind = 'Atlas' | 'Pattern' | 'Notebook' | 'Failure mode' | 'Video' | 'Case study'
 
 interface Item {
   kind: Kind
@@ -20,7 +21,7 @@ interface Item {
   haystack: string
 }
 
-const KIND_ORDER: Kind[] = ['Atlas', 'Pattern', 'Notebook', 'Failure mode', 'Video']
+const KIND_ORDER: Kind[] = ['Atlas', 'Pattern', 'Notebook', 'Failure mode', 'Video', 'Case study']
 
 function buildIndex(): Item[] {
   const items: Item[] = []
@@ -44,6 +45,9 @@ function buildIndex(): Item[] {
   }
   for (const v of VIDEOS) {
     items.push({ kind: 'Video', title: v.title, subtitle: v.channelName, to: `/videos?v=${v.id}`, haystack: `${v.title} ${v.channelName} ${v.topics.join(' ')}`.toLowerCase() })
+  }
+  for (const u of USE_CASES) {
+    items.push({ kind: 'Case study', title: `${u.company} — ${u.title}`, subtitle: INDUSTRY_LABELS[u.industry], to: `/use-cases?q=${encodeURIComponent(u.company)}`, haystack: `${u.company} ${u.title} ${u.summary} ${u.services.join(' ')}`.toLowerCase() })
   }
   return items
 }

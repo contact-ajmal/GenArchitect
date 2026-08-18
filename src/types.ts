@@ -443,6 +443,67 @@ export interface VideoCollection {
   videoIds: string[]
 }
 
+/** Industry sector for a real-world use case. */
+export type Industry =
+  | 'financial-services'
+  | 'insurance'
+  | 'healthcare'
+  | 'life-sciences'
+  | 'retail-ecommerce'
+  | 'manufacturing'
+  | 'telecom'
+  | 'media-entertainment'
+  | 'software-technology'
+  | 'customer-service'
+  | 'marketing-advertising'
+  | 'professional-services'
+  | 'public-sector'
+  | 'energy-utilities'
+  | 'travel-logistics'
+  | 'cybersecurity'
+  | 'cross-industry'
+
+/**
+ * A publicly-documented, real-world deployment of a GenAI agent / RAG system on
+ * AWS. Curated by hand from public case studies — every entry carries a
+ * verifiable sourceUrl. We store only our own short summary + facts, never
+ * copied marketing copy.
+ */
+export interface UseCaseEntry {
+  /** Stable slug. */
+  id: string
+  /** Organisation that deployed it. */
+  company: string
+  industry: Industry
+  /** Short headline of what the agent does. */
+  title: string
+  /** Our own 1–2 sentence description (original words). */
+  summary: string
+  /** AWS services used (as named in the source). */
+  services: string[]
+  /** Short label for the agent shape, e.g. "Multi-agent", "RAG assistant". */
+  agentPattern?: string
+  relatedPatternIds?: RagArchitectureId[]
+  relatedAtlasTopicIds?: string[]
+  /** Quantified result, verbatim-safe short phrasing, e.g. "40% fewer escalations". */
+  metric?: string
+  region?: string
+  /** e.g. "AWS case study", "AWS blog". */
+  sourceName: string
+  sourceUrl: string
+  /** official = AWS-published; community = third-party write-up. */
+  trustTier: 'official' | 'community'
+  featured?: boolean
+  /** Approximate year of the deployment/announcement. */
+  year?: string
+}
+
+export interface UseCaseData {
+  /** ISO timestamp this list was last curated. */
+  generatedAt: string
+  useCases: UseCaseEntry[]
+}
+
 export interface CurationData {
   collections: VideoCollection[]
   /** Overrides that always win over auto-classification, keyed by video id. */

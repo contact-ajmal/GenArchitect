@@ -305,7 +305,11 @@ export default function Home() {
               <Link to="/videos" className="text-accent-strong hover:underline">
                 curated video library
               </Link>{' '}
-              of talks and demos, refreshed daily from trusted channels.
+              of talks and demos, refreshed daily, and{' '}
+              <Link to="/use-cases" className="text-accent-strong hover:underline">
+                real-world case studies
+              </Link>{' '}
+              of GenAI agents deployed across industries.
             </p>
           </div>
           <Link to="/notebooks" className="shrink-0">

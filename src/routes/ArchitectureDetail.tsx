@@ -25,6 +25,7 @@ import ExportScaffold from '../components/ExportScaffold'
 import DrawioExport from '../components/DrawioExport'
 import AtlasLink from '../components/atlas/AtlasLink'
 import RelatedVideos from '../components/video/RelatedVideos'
+import RelatedUseCases from '../components/usecase/RelatedUseCases'
 import { atlasRefFor } from '../atlas/links'
 import { compositionFromPattern } from '../compose/composition'
 import { notebooksForPattern } from '../data/notebookTemplates'
@@ -383,8 +384,9 @@ export default function ArchitectureDetail() {
         </div>
       </section>
 
-      {/* Related videos (renders nothing if none match) */}
-      <section className="mt-12">
+      {/* Related videos + real-world use cases (each renders nothing if none match) */}
+      <section className="mt-12 space-y-10">
+        <RelatedUseCases patternId={arch.id} title="In the wild" />
         <RelatedVideos patternId={arch.id} title="Watch" />
       </section>
 
