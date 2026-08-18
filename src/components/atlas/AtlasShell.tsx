@@ -17,6 +17,7 @@ import { verificationForServices } from '../../data/verification'
 import { Callout, Eyebrow, Pill } from '../ui'
 import CodeBlock from '../code/CodeBlock'
 import FreshnessBadge from '../FreshnessBadge'
+import RelatedVideos from '../video/RelatedVideos'
 import AtlasVisualView from './AtlasVisual'
 
 export interface AtlasShellProps {
@@ -362,6 +363,11 @@ function TopicView({
             <FreshnessBadge verification={verification} />
           </div>
         ) : null}
+      </div>
+
+      {/* Related talks (renders nothing if none match) */}
+      <div className="mt-8">
+        <RelatedVideos atlasTopicId={topic.id} title="Related talks" />
       </div>
 
       {/* Prev / next */}

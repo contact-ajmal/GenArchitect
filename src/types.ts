@@ -366,3 +366,89 @@ export interface MeridianScenario {
   /** The progression of patterns that build up the full solution. */
   stages: MeridianStage[]
 }
+
+/* ----------------------------------------------------------------------------
+ * Video library (Phase 25–27) — populated by scripts/fetch-videos.mjs from
+ * YouTube RSS (discovery) + the YouTube Data API (enrichment, CI-only).
+ * We store metadata only — never full descriptions or transcripts.
+ * -------------------------------------------------------------------------- */
+
+export type VideoTopic =
+  | 'agentcore'
+  | 'strands'
+  | 'rag'
+  | 'bedrock'
+  | 'vector-search'
+  | 'guardrails'
+  | 'observability'
+  | 'multi-agent'
+  | 'well-architected'
+  | 'genai-general'
+
+export type VideoLevel = 'intro' | 'deep-dive' | 'demo' | 'talk'
+
+export type TrustTier = 'official' | 'curated' | 'community'
+
+export interface VideoEntry {
+  /** YouTube video id. */
+  id: string
+  title: string
+  channelId: string
+  channelName: string
+  /** ISO date. */
+  publishedAt: string
+  /** Canonical watch URL. */
+  url: string
+  /** Human duration (e.g. "12:34"); absent when only RSS data is available. */
+  duration?: string
+  /** Thumbnail URL (official ytimg). */
+  thumbnail: string
+  topics: VideoTopic[]
+  level: VideoLevel
+  trustTier: TrustTier
+  relatedPatternIds?: RagArchitectureId[]
+  relatedAtlasTopicIds?: string[]
+  /** Our own short summary (curated, original words) — never a copied description. */
+  summary?: string
+}
+
+export interface VideoData {
+  /** ISO timestamp of the last refresh run. */
+  generatedAt: string
+  videos: VideoEntry[]
+}
+
+export type ChannelCategory =
+  | 'aws_official'
+  | 'aws_events'
+  | 'community'
+  | 'framework'
+  | 'general_ai'
+
+export interface ChannelEntry {
+  /** YouTube channel id (UC...). Required — RSS needs the id, not the handle. */
+  id: string
+  name: string
+  handle?: string
+  category: ChannelCategory
+  trustTier: TrustTier
+  topics: string[]
+  active: boolean
+}
+
+export interface VideoCollection {
+  id: string
+  title: string
+  /** Manually-curated, ordered video ids. */
+  videoIds: string[]
+}
+
+export interface CurationData {
+  collections: VideoCollection[]
+  /** Overrides that always win over auto-classification, keyed by video id. */
+  curatedOverrides: Record<string, Partial<VideoEntry>>
+  /** Video ids to exclude from the library. */
+  hidden: string[]
+  /** Our own summaries, keyed by video id (original words only). */
+  summaries: Record<string, string>
+}

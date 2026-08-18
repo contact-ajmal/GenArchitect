@@ -21,6 +21,7 @@ const Notebooks = lazy(() => import('./routes/Notebooks'))
 const NotebookView = lazy(() => import('./routes/NotebookView'))
 const StrandsAtlas = lazy(() => import('./routes/StrandsAtlas'))
 const AgentCoreAtlas = lazy(() => import('./routes/AgentCoreAtlas'))
+const Videos = lazy(() => import('./routes/Videos'))
 
 /** Reset scroll position on route change (except for in-page anchors). */
 function ScrollToTop() {
@@ -70,6 +71,7 @@ function App() {
             <Route path="/strands/:topicId" element={<StrandsAtlas />} />
             <Route path="/agentcore" element={<AgentCoreAtlas />} />
             <Route path="/agentcore/:topicId" element={<AgentCoreAtlas />} />
+            <Route path="/videos" element={<Videos />} />
           </Routes>
         </Suspense>
       </main>

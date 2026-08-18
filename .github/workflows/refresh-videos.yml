@@ -1,0 +1,58 @@
+name: Refresh videos
+
+# Daily refresh + manual runs. Discovery via RSS (free); enrichment via the
+# YouTube Data API videos.list only (1 unit/call). The API key comes from the
+# repo secret YOUTUBE_API_KEY and never touches client code.
+on:
+  schedule:
+    - cron: '17 6 * * *' # daily at 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-videos
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Refresh video data
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          node scripts/fetch-videos.mjs | tee /tmp/refresh.log
+          # Fail loudly if the output isn't valid JSON — never commit corruption.
+          node -e "JSON.parse(require('fs').readFileSync('data/videos.json','utf8'))"
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo '### Video refresh'
+            echo ''
+            echo '```'
+            cat /tmp/refresh.log 2>/dev/null || echo '(no log)'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/videos.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/videos.json
+            git commit -m "chore(videos): daily refresh [skip ci]"
+            git push
+            echo "Committed refreshed videos.json."
+          else
+            echo "No changes to data/videos.json."
+          fi

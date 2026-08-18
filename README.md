@@ -39,7 +39,8 @@ maturing a RAG system:
 - **Atlases** (`/strands`, `/agentcore`) — the complete Strands Agents and Amazon Bedrock AgentCore surfaces, taught visually in **original words** (linking to canonical docs for exact syntax), with per-atlas coverage maps. These are the single source of conceptual truth — every other surface deep-links into them.
 - **Compose** (`/compose`) — a studio that assembles a RAG architecture from components and generates the matching diagram + idiomatic Strands/AgentCore reference code live.
 - **Review** (`/review`) — a short adaptive interview that maps your needs to a pattern, then hands off into the composer (also generates a draw.io template).
-- **Search** — global ⌘K search across atlas topics, patterns, notebooks, and failure modes.
+- **Videos** (`/videos`) — a curated library of talks, demos, and deep dives, refreshed daily from trusted channels via a compliant RSS + YouTube Data API pipeline. Embedded with YouTube's player (nocookie domain, lazy-mounted); we host nothing.
+- **Search** — global ⌘K search across atlas topics, patterns, notebooks, failure modes, and videos.
 - **Notebooks** (`/notebooks`) — a library of downloadable end-to-end Jupyter notebooks (`.ipynb`), curated across nine patterns × six enterprise use cases, with in-app preview, generate-any-combination, and a download-all bundle. Compiled from typed cells that reuse the composer fragments — never hand-authored JSON.
 - **Build track** (`/build`) — a hands-on, checkpointed path (progress saved locally) to the Meridian end-state on AgentCore + Strands.
 - **Failure modes / Security / Evaluate** — a failure-mode lab, a security & compliance deep dive, and an evaluation/observability primer.
@@ -103,3 +104,28 @@ official documentation before use. Following the build track on a real AWS
 account creates resources and incurs cost.
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for static hosting options.
+
+## Video library refresh (optional)
+
+The video library is populated by a daily GitHub Action that reads YouTube RSS
+(discovery, free) and the YouTube Data API (enrichment). It's optional — the app
+works without it, showing whatever is in `data/videos.json`.
+
+1. **Create a key:** Google Cloud Console → new project → enable **YouTube Data
+   API v3** → Credentials → create an **API key**. Restrict it to that API.
+2. **Add the secret:** GitHub repo → Settings → Secrets and variables → Actions →
+   new secret **`YOUTUBE_API_KEY`**.
+3. **Curate channels:** verify each channel id in `data/channels.json` and set
+   `active: true` (RSS needs the `UC…` id, not the `@handle`).
+4. **Run it:** Actions → *Refresh videos* → Run workflow (or wait for the daily
+   cron). It commits `data/videos.json`, which triggers a redeploy.
+5. **Locally:** `YOUTUBE_API_KEY=… node scripts/fetch-videos.mjs` (RSS-only works
+   without a key). Copy `.env.example` to `.env` — never commit a real key.
+
+**Content & attribution policy:** videos are embedded from their original
+sources via YouTube's player (nocookie domain); GenArchitect does not host or
+own this content, always shows the channel, and links back to the source. We
+store metadata only — no full descriptions or transcripts; any summaries are our
+own words. See [CURATION.md](./CURATION.md) for the human-in-the-loop workflow.
+The refresh job never uses `search.list` (quota-heavy) — RSS is discovery, the
+API is 1-unit `videos.list` enrichment only, and the key lives only in CI.

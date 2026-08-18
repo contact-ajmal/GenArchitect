@@ -8,8 +8,9 @@ import { AGENTCORE_SECTIONS } from '../data/atlas/agentcore'
 import { ARCHITECTURE_LIST } from '../data/architectures'
 import { FEATURED_NOTEBOOKS } from '../data/notebookTemplates'
 import { FAILURE_MODES } from '../data/failureModes'
+import { VIDEOS } from '../lib/videos'
 
-type Kind = 'Atlas' | 'Pattern' | 'Notebook' | 'Failure mode'
+type Kind = 'Atlas' | 'Pattern' | 'Notebook' | 'Failure mode' | 'Video'
 
 interface Item {
   kind: Kind
@@ -19,7 +20,7 @@ interface Item {
   haystack: string
 }
 
-const KIND_ORDER: Kind[] = ['Atlas', 'Pattern', 'Notebook', 'Failure mode']
+const KIND_ORDER: Kind[] = ['Atlas', 'Pattern', 'Notebook', 'Failure mode', 'Video']
 
 function buildIndex(): Item[] {
   const items: Item[] = []
@@ -40,6 +41,9 @@ function buildIndex(): Item[] {
   }
   for (const f of FAILURE_MODES) {
     items.push({ kind: 'Failure mode', title: f.title, subtitle: f.symptom, to: '/failure-modes', haystack: `${f.title} ${f.symptom}`.toLowerCase() })
+  }
+  for (const v of VIDEOS) {
+    items.push({ kind: 'Video', title: v.title, subtitle: v.channelName, to: `/videos?v=${v.id}`, haystack: `${v.title} ${v.channelName} ${v.topics.join(' ')}`.toLowerCase() })
   }
   return items
 }

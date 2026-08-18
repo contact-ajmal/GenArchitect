@@ -15,6 +15,7 @@ import { verificationForServices } from '../data/verification'
 import { Button, Callout, Eyebrow, Pill } from '../components/ui'
 import CodeBlock from '../components/code/CodeBlock'
 import AtlasLink from '../components/atlas/AtlasLink'
+import RelatedVideos from '../components/video/RelatedVideos'
 import { atlasRefsFor } from '../atlas/links'
 import { serviceVariant } from '../lib/display'
 
@@ -271,6 +272,13 @@ export default function Build() {
               ))}
             </ul>
           </div>
+
+          {/* Related demos/talks for this stage's patterns */}
+          {stage.relatedArchitectureIds?.[0] ? (
+            <div className="mt-10">
+              <RelatedVideos patternId={stage.relatedArchitectureIds[0]} title="Watch" />
+            </div>
+          ) : null}
 
           {/* Stage footer: complete + next */}
           <div className="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-hairline pt-6">

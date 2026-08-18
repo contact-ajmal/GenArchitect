@@ -300,6 +300,13 @@ export default function Home() {
               All compiled from the same code fragments as the composer, so nothing
               drifts between the diagram, the docs, and the code.
             </p>
+            <p className="mt-3 text-sm text-ink-muted">
+              Plus a{' '}
+              <Link to="/videos" className="text-accent-strong hover:underline">
+                curated video library
+              </Link>{' '}
+              of talks and demos, refreshed daily from trusted channels.
+            </p>
           </div>
           <Link to="/notebooks" className="shrink-0">
             <Button>

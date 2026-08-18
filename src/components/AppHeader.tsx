@@ -44,6 +44,7 @@ const NAV_ITEMS: NavItem[] = [
   { label: 'Strands', to: '/strands', kind: 'route' },
   { label: 'AgentCore', to: '/agentcore', kind: 'route' },
   { label: 'Notebooks', to: '/notebooks', kind: 'route' },
+  { label: 'Videos', to: '/videos', kind: 'route' },
 ]
 
 function navLinkClass({ isActive }: { isActive: boolean }) {
@@ -90,7 +91,7 @@ export default function AppHeader() {
           </button>
 
           {/* Desktop nav */}
-          <nav className="hidden items-center gap-5 lg:flex">
+          <nav className="hidden items-center gap-4 xl:flex">
             {NAV_ITEMS.map((item) =>
               item.kind === 'route' ? (
                 <NavLink key={item.to} to={item.to} className={navLinkClass}>
@@ -112,7 +113,7 @@ export default function AppHeader() {
           <button
             type="button"
             onClick={() => setOpen((v) => !v)}
-            className="inline-flex h-9 w-9 items-center justify-center rounded-md text-ink-soft hover:bg-neutral-100 lg:hidden"
+            className="inline-flex h-9 w-9 items-center justify-center rounded-md text-ink-soft hover:bg-neutral-100 xl:hidden"
             aria-label={open ? 'Close menu' : 'Open menu'}
             aria-expanded={open}
           >
@@ -123,7 +124,7 @@ export default function AppHeader() {
 
       {/* Mobile menu — collapses below the header */}
       {open && (
-        <nav className="border-b border-hairline bg-neutral-0 px-4 pb-4 pt-2 lg:hidden">
+        <nav className="border-b border-hairline bg-neutral-0 px-4 pb-4 pt-2 xl:hidden">
           <ul className="flex flex-col gap-1">
             {NAV_ITEMS.map((item) => (
               <li key={item.to}>

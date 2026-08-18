@@ -1,0 +1,19 @@
+{
+  "_readme": [
+    "Human-in-the-loop curation layer. Always wins over auto-classification.",
+    "collections: featured rails shown above the grid (ordered videoIds you pick).",
+    "curatedOverrides: per-videoId partial VideoEntry to fix topics/level/etc.",
+    "hidden: videoIds to exclude from the library (low quality, off-topic, outdated).",
+    "summaries: our own short summary per videoId — ORIGINAL words only, never a copied YouTube description.",
+    "See CURATION.md for the workflow."
+  ],
+  "collections": [
+    { "id": "start-agentcore", "title": "Start here: AgentCore fundamentals", "videoIds": [] },
+    { "id": "strands-multi-agent", "title": "Strands multi-agent", "videoIds": [] },
+    { "id": "rag-on-bedrock", "title": "RAG on Bedrock", "videoIds": [] },
+    { "id": "reinvent", "title": "re:Invent sessions", "videoIds": [] }
+  ],
+  "curatedOverrides": {},
+  "hidden": [],
+  "summaries": {}
+}

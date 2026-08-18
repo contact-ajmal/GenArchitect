@@ -7,6 +7,7 @@ import {
 } from '../data/notebookTemplates'
 import { Button, Eyebrow, Pill } from '../components/ui'
 import NotebookPreview from '../components/notebooks/NotebookPreview'
+import RelatedVideos from '../components/video/RelatedVideos'
 import { DIFFICULTY_LABELS } from '../lib/display'
 
 export default function NotebookView() {
@@ -60,6 +61,10 @@ export default function NotebookView() {
         <div className="mt-3">
           <NotebookPreview def={def} />
         </div>
+      </div>
+
+      <div className="mt-10">
+        <RelatedVideos patternId={def.patternId} title="Watch" />
       </div>
     </div>
   )

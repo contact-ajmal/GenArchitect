@@ -1,0 +1,66 @@
+{
+  "_readme": [
+    "Curated video source registry for GenArchitect. Human-editable.",
+    "IMPORTANT: RSS discovery requires the YouTube CHANNEL ID (starts with 'UC...'), NOT the @handle.",
+    "VERIFY every channel id below before the first real run — ids here are best-effort and may be wrong.",
+    "Channels with id starting 'REPLACE_ME' are skipped until you fill in a real id and set active:true.",
+    "How to find a channel id: open the channel in a browser, then either (a) View Source and search for 'channelId', or (b) use https://www.youtube.com/@handle and check the RSS link, or (c) the channel's About > Share > Copy channel ID. The RSS feed is https://www.youtube.com/feeds/videos.xml?channel_id=<id> .",
+    "Keep this list tight and high-signal — curation beats a firehose."
+  ],
+  "channels": [
+    {
+      "id": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "name": "Amazon Web Services",
+      "handle": "@amazonwebservices",
+      "category": "aws_official",
+      "trustTier": "official",
+      "topics": ["bedrock", "agentcore", "genai-general", "well-architected"],
+      "active": true
+    },
+    {
+      "id": "REPLACE_ME:awsdevelopers",
+      "name": "AWS Developers",
+      "handle": "@awsdevelopers",
+      "category": "aws_official",
+      "trustTier": "official",
+      "topics": ["bedrock", "strands", "agentcore", "rag"],
+      "active": false
+    },
+    {
+      "id": "REPLACE_ME:awsevents",
+      "name": "AWS Events",
+      "handle": "@AWSEventsChannel",
+      "category": "aws_events",
+      "trustTier": "official",
+      "topics": ["genai-general", "bedrock", "well-architected"],
+      "active": false
+    },
+    {
+      "id": "REPLACE_ME:serverlessland",
+      "name": "Serverless Land",
+      "handle": "@ServerlessLand",
+      "category": "aws_official",
+      "trustTier": "official",
+      "topics": ["bedrock", "agentcore", "genai-general"],
+      "active": false
+    },
+    {
+      "id": "REPLACE_ME:awsonlinetechtalks",
+      "name": "AWS Online Tech Talks",
+      "handle": "@AWSOnlineTechTalks",
+      "category": "aws_events",
+      "trustTier": "official",
+      "topics": ["bedrock", "rag", "vector-search"],
+      "active": false
+    },
+    {
+      "id": "REPLACE_ME:aiengineer",
+      "name": "AI Engineer",
+      "handle": "@aiDotEngineer",
+      "category": "general_ai",
+      "trustTier": "community",
+      "topics": ["rag", "multi-agent", "genai-general"],
+      "active": false
+    }
+  ]
+}

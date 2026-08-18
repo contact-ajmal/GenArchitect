@@ -24,6 +24,7 @@ import FreshnessBadge from '../components/FreshnessBadge'
 import ExportScaffold from '../components/ExportScaffold'
 import DrawioExport from '../components/DrawioExport'
 import AtlasLink from '../components/atlas/AtlasLink'
+import RelatedVideos from '../components/video/RelatedVideos'
 import { atlasRefFor } from '../atlas/links'
 import { compositionFromPattern } from '../compose/composition'
 import { notebooksForPattern } from '../data/notebookTemplates'
@@ -380,6 +381,11 @@ export default function ArchitectureDetail() {
             </div>
           ))}
         </div>
+      </section>
+
+      {/* Related videos (renders nothing if none match) */}
+      <section className="mt-12">
+        <RelatedVideos patternId={arch.id} title="Watch" />
       </section>
 
       {/* References */}

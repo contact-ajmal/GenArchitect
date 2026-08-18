@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-08-18T11:36:30.385Z",
+  "videos": [
+    {
+      "id": "2r4DL6-cr6o",
+      "title": "Cloud Report: Your AI personal trainer, live in 20 minutes with AgentCore | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-11T20:55:04+00:00",
+      "url": "https://www.youtube.com/watch?v=2r4DL6-cr6o",
+      "thumbnail": "https://i.ytimg.com/vi/2r4DL6-cr6o/hqdefault.jpg",
+      "topics": [
+        "agentcore"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "uZ0XD5F8IoA",
+      "title": "How do I troubleshoot high CPU utilization on my OpenSearch Service cluster?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-11T07:00:01+00:00",
+      "url": "https://www.youtube.com/watch?v=uZ0XD5F8IoA",
+      "thumbnail": "https://i.ytimg.com/vi/uZ0XD5F8IoA/hqdefault.jpg",
+      "topics": [
+        "vector-search"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "yibZlPf87b0",
+      "title": "Ep 1 | Using AgentCore for fitness, and DynamoDB for cooking",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-08T08:32:08+00:00",
+      "url": "https://www.youtube.com/watch?v=yibZlPf87b0",
+      "thumbnail": "https://i.ytimg.com/vi/yibZlPf87b0/hqdefault.jpg",
+      "topics": [
+        "agentcore"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    }
+  ]
+}
