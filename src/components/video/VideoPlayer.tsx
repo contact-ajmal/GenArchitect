@@ -2,6 +2,7 @@ import { useEffect, useRef } from 'react'
 import { ExternalLink, X } from 'lucide-react'
 import type { VideoEntry } from '../../types'
 import { relativeTime } from '../../lib/videos'
+import { track } from '../../lib/analytics'
 import { Pill } from '../ui'
 
 export interface VideoPlayerProps {
@@ -21,6 +22,7 @@ export default function VideoPlayer({ video, onClose }: VideoPlayerProps) {
 
   useEffect(() => {
     if (!video) return
+    track('video_open', { id: video.id, title: video.title, channel: video.channelName })
     returnFocus.current = document.activeElement as HTMLElement
     dialogRef.current?.focus()
     const onKey = (e: KeyboardEvent) => {

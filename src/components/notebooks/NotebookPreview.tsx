@@ -4,6 +4,7 @@ import { Download, Eye } from 'lucide-react'
 import type { NotebookDefinition } from '../../notebooks/model'
 import { downloadNotebook, notebookCells } from '../../notebooks/compile'
 import { verificationForServices } from '../../data/verification'
+import { track } from '../../lib/analytics'
 import { Button, Callout } from '../ui'
 import CodeBlock from '../code/CodeBlock'
 
@@ -155,7 +156,13 @@ export default function NotebookPreview({ def }: NotebookPreviewProps) {
             <Eye className="h-3.5 w-3.5" />
             Preview — cells are never executed here
           </span>
-          <Button size="sm" onClick={() => downloadNotebook(def)}>
+          <Button
+            size="sm"
+            onClick={() => {
+              track('notebook_download', { id: def.id, title: def.title })
+              downloadNotebook(def)
+            }}
+          >
             <Download className="h-4 w-4" />
             Download .ipynb
           </Button>
