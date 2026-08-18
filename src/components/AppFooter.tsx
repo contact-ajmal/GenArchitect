@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { Github, Linkedin } from 'lucide-react'
 import { BRAND } from '../config/brand'
 
 const NAV = [
@@ -50,6 +51,31 @@ export default function AppFooter() {
             <p className="mt-3 text-sm leading-relaxed text-ink-muted">
               {BRAND.disclaimer}
             </p>
+
+            <div className="mt-5 flex items-center gap-3 text-sm text-ink-muted">
+              <span>
+                Built by{' '}
+                <span className="font-medium text-ink">Ajmal Nazir</span>
+              </span>
+              <a
+                href="https://github.com/contact-ajmal"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Ajmal Nazir on GitHub"
+                className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-hairline text-ink-muted transition-colors hover:text-ink hover:border-ink/30 focus-visible:ring-2 focus-visible:ring-accent"
+              >
+                <Github className="h-4 w-4" />
+              </a>
+              <a
+                href="https://www.linkedin.com/in/ajmalnazirbaba/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Ajmal Nazir on LinkedIn"
+                className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-hairline text-ink-muted transition-colors hover:text-ink hover:border-ink/30 focus-visible:ring-2 focus-visible:ring-accent"
+              >
+                <Linkedin className="h-4 w-4" />
+              </a>
+            </div>
           </div>
 
           <nav aria-label="Footer" className="flex flex-col gap-2">
