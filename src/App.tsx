@@ -20,6 +20,7 @@ const Notebooks = lazy(() => import('./routes/Notebooks'))
 const NotebookView = lazy(() => import('./routes/NotebookView'))
 const AtlasDemo = lazy(() => import('./routes/AtlasDemo'))
 const AtlasPlaceholder = lazy(() => import('./routes/AtlasPlaceholder'))
+const StrandsAtlas = lazy(() => import('./routes/StrandsAtlas'))
 
 /** Reset scroll position on route change (except for in-page anchors). */
 function ScrollToTop() {
@@ -66,7 +67,8 @@ function App() {
             <Route path="/notebooks/:id" element={<NotebookView />} />
             {/* Temporary — atlas primitive review surface (removed in Phase 24). */}
             <Route path="/atlas-demo" element={<AtlasDemo />} />
-            <Route path="/strands" element={<AtlasPlaceholder name="Strands" />} />
+            <Route path="/strands" element={<StrandsAtlas />} />
+            <Route path="/strands/:topicId" element={<StrandsAtlas />} />
             <Route path="/agentcore" element={<AtlasPlaceholder name="AgentCore" />} />
           </Routes>
         </Suspense>
