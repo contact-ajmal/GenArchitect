@@ -12,9 +12,9 @@
     { "id": "UCd6MoB9NC6uYN2grvUNT-Zg", "name": "Amazon Web Services", "handle": "@amazonwebservices", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "agentcore", "genai-general"], "active": true },
     { "id": "", "name": "AWS Events", "handle": "@AWSEventsChannel", "category": "aws_events", "trustTier": "official", "topics": ["genai-general", "bedrock", "well-architected"], "active": true },
     { "id": "", "name": "AWS Developers", "handle": "@awsdevelopers", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "strands", "agentcore", "rag"], "active": true },
-    { "id": "", "name": "AWS Online Tech Talks", "handle": "@AWSOnlineTechTalks", "category": "aws_events", "trustTier": "official", "topics": ["bedrock", "rag", "vector-search"], "active": true },
+    { "id": "", "name": "AWS Online Tech Talks", "handle": "@AWSOnlineTechTalks", "category": "aws_events", "trustTier": "official", "topics": ["bedrock", "rag", "vector-search"], "active": false, "note": "Merged into the AWS Developers channel (youtube.com/c/AWSOnlineTechTalks now redirects there), which is already fetched. Disabled to avoid duplicates." },
     { "id": "", "name": "Serverless Land", "handle": "@ServerlessLand", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "agentcore", "genai-general"], "active": true },
-    { "id": "", "name": "AWS Startups", "handle": "@AWSStartups", "category": "aws_official", "trustTier": "official", "topics": ["genai-general", "bedrock"], "active": true },
+    { "id": "", "name": "AWS Startups", "handle": "@AWSStartups", "category": "aws_official", "trustTier": "official", "topics": ["genai-general", "bedrock"], "active": false, "note": "No resolvable @handle — AWS Startups content lives as playlists on the main Amazon Web Services channel (already fetched). Set a real UC id here to re-enable." },
     { "id": "", "name": "Build on AWS", "handle": "@BuildOnAWS", "category": "aws_official", "trustTier": "official", "topics": ["bedrock", "agentcore", "genai-general"], "active": true },
     { "id": "", "name": "AI Engineer", "handle": "@aiDotEngineer", "category": "general_ai", "trustTier": "community", "topics": ["rag", "multi-agent", "genai-general"], "active": true }
   ]
