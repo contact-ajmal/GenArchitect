@@ -14,6 +14,7 @@ import {
 import { ARCHITECTURE_LIST } from '../data/architectures'
 import { Button, Eyebrow, Pill } from '../components/ui'
 import AmbientSync from '../components/diagram/AmbientSync'
+import VisitorCounter from '../components/VisitorCounter'
 import AwsServiceIcon from '../components/aws/AwsServiceIcon'
 import { ARCHITECTURES } from '../data/architectures'
 import { BRAND, COVERAGE_GROUPS } from '../config/brand'
@@ -37,6 +38,9 @@ export default function Home() {
         </div>
         <div className="mx-auto grid max-w-content gap-10 px-4 py-16 sm:px-6 lg:grid-cols-[1fr_1.05fr] lg:items-center lg:py-24">
           <div>
+            <div>
+              <VisitorCounter />
+            </div>
             <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-signal">
               {BRAND.tagline}
             </span>
