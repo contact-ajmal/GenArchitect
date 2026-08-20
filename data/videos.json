@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-08-19T07:08:22.921Z",
+  "generatedAt": "2026-08-20T07:09:32.174Z",
   "videos": [
+    {
+      "id": "kjvVElU34pg",
+      "title": "Getting Started: AWS Certified Machine Learning Engineer - Associate | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-19T16:08:36Z",
+      "url": "https://www.youtube.com/watch?v=kjvVElU34pg",
+      "duration": "3:25",
+      "thumbnail": "https://i.ytimg.com/vi/kjvVElU34pg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "2qeeQ_j6bSE",
+      "title": "Getting Started: AWS Certified AI Business Strategist | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-19T16:08:32Z",
+      "url": "https://www.youtube.com/watch?v=2qeeQ_j6bSE",
+      "duration": "4:53",
+      "thumbnail": "https://i.ytimg.com/vi/2qeeQ_j6bSE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "NxdGa6nGjlY",
+      "title": "Using generative AI to transform production with Volkswagen Group and AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-19T15:41:45Z",
+      "url": "https://www.youtube.com/watch?v=NxdGa6nGjlY",
+      "duration": "2:02",
+      "thumbnail": "https://i.ytimg.com/vi/NxdGa6nGjlY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "YXEqC05WEI0",
+      "title": "Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal, Hinge Health",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-08-19T14:30:18Z",
+      "url": "https://www.youtube.com/watch?v=YXEqC05WEI0",
+      "duration": "21:49",
+      "thumbnail": "https://i.ytimg.com/vi/YXEqC05WEI0/mqdefault.jpg",
+      "topics": [
+        "guardrails"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedPatternIds": [
+        "guardrailed_secure_rag"
+      ]
+    },
     {
       "id": "cJNzGvDKYoc",
       "title": "Amazon GuardDuty AI investigations | Amazon Web Services",
@@ -4867,21 +4930,6 @@
       "trustTier": "official"
     },
     {
-      "id": "kHAclp2YUSY",
-      "title": "How do I resolve private marketplace eligibility errors when accessing Amazon Bedrock models?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-25T08:32:19Z",
-      "url": "https://www.youtube.com/watch?v=kHAclp2YUSY",
-      "duration": "3:54",
-      "thumbnail": "https://i.ytimg.com/vi/kHAclp2YUSY/mqdefault.jpg",
-      "topics": [
-        "bedrock"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "LMbeDEQO6QM",
       "title": "Introducing WebMCP: Agents in the Browser — RL Nabors",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -4954,36 +5002,6 @@
       "url": "https://www.youtube.com/watch?v=O-QEhFFhXNA",
       "duration": "46:23",
       "thumbnail": "https://i.ytimg.com/vi/O-QEhFFhXNA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "I5Y2Lx4ejPg",
-      "title": "Amazon Network Synthetic Monitoring | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-22T15:14:24Z",
-      "url": "https://www.youtube.com/watch?v=I5Y2Lx4ejPg",
-      "duration": "2:11",
-      "thumbnail": "https://i.ytimg.com/vi/I5Y2Lx4ejPg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "PO2W0zRLL_8",
-      "title": "How Amazon Reduced Fulfillment Center Verification Time by 60% with Amazon Nova | Amazon Web Service",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-22T14:38:19Z",
-      "url": "https://www.youtube.com/watch?v=PO2W0zRLL_8",
-      "duration": "2:21",
-      "thumbnail": "https://i.ytimg.com/vi/PO2W0zRLL_8/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
