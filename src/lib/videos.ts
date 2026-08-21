@@ -3,6 +3,7 @@ import type {
   RagArchitectureId,
   VideoData,
   VideoEntry,
+  VideoTopic,
 } from '../types'
 import rawVideos from '../../data/videos.json'
 import rawCuration from '../../data/curation.json'
@@ -17,6 +18,19 @@ export const VIDEOS: VideoEntry[] = VIDEO_DATA.videos ?? []
 export const GENERATED_AT = VIDEO_DATA.generatedAt
 
 const byId = new Map(VIDEOS.map((v) => [v.id, v]))
+
+/**
+ * The topics this site is actually about. The library is broad (every upload
+ * from the tracked AWS channels), so the video page opens on this lens instead
+ * of the raw firehose — "All" is one click away.
+ */
+export const FOCUS_TOPICS: VideoTopic[] = ['agentcore', 'strands', 'bedrock']
+export const FOCUS_LABEL = 'AgentCore · Strands · Bedrock'
+
+/** True when a video carries at least one focus topic. */
+export function isFocusVideo(v: VideoEntry): boolean {
+  return v.topics.some((t) => FOCUS_TOPICS.includes(t))
+}
 
 /** Videos that mention a RAG pattern. */
 export function videosForPattern(id: RagArchitectureId, limit = 3): VideoEntry[] {

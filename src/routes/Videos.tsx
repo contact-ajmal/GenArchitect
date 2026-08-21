@@ -11,10 +11,12 @@ import { BRAND } from '../config/brand'
 const PAGE = 48
 import {
   CURATION,
+  FOCUS_LABEL,
   GENERATED_AT,
   VIDEOS,
   collectionVideos,
   daysSinceRefresh,
+  isFocusVideo,
   relativeTime,
 } from '../lib/videos'
 
@@ -22,13 +24,16 @@ const TOPICS: VideoTopic[] = [
   'agentcore', 'strands', 'rag', 'bedrock', 'vector-search',
   'guardrails', 'observability', 'multi-agent', 'well-architected', 'genai-general',
 ]
+/** 'focus' is the default lens (see FOCUS_TOPICS); 'all' opens the whole library. */
+type TopicFilter = VideoTopic | 'all' | 'focus'
+
 const LEVELS: VideoLevel[] = ['intro', 'deep-dive', 'demo', 'talk']
 const TIERS: TrustTier[] = ['official', 'curated', 'community']
 const STALE_DAYS = 10
 
 export default function Videos() {
   const [query, setQuery] = useState('')
-  const [topic, setTopic] = useState<VideoTopic | 'all'>('all')
+  const [topic, setTopic] = useState<TopicFilter>('focus')
   const [level, setLevel] = useState<VideoLevel | 'all'>('all')
   const [tier, setTier] = useState<TrustTier | 'all'>('all')
   const [channel, setChannel] = useState<string>('all')
@@ -70,7 +75,9 @@ export default function Videos() {
   const results = useMemo(() => {
     const q = query.trim().toLowerCase()
     let list = VIDEOS.filter((v) => {
-      if (topic !== 'all' && !v.topics.includes(topic)) return false
+      if (topic === 'focus') {
+        if (!isFocusVideo(v)) return false
+      } else if (topic !== 'all' && !v.topics.includes(topic)) return false
       if (level !== 'all' && v.level !== level) return false
       if (tier !== 'all' && v.trustTier !== tier) return false
       if (channel !== 'all' && v.channelName !== channel) return false
@@ -95,7 +102,7 @@ export default function Videos() {
   useEffect(() => setShown(PAGE), [query, topic, level, tier, channel, sort])
 
   const stale = daysSinceRefresh() > STALE_DAYS
-  const hasFilters = query || topic !== 'all' || level !== 'all' || tier !== 'all' || channel !== 'all'
+  const hasFilters = Boolean(query) || topic !== 'focus' || level !== 'all' || tier !== 'all' || channel !== 'all'
 
   return (
     <div className="mx-auto max-w-content px-4 py-12 sm:px-6">
@@ -142,7 +149,13 @@ export default function Videos() {
 
       {/* Filters */}
       <div className="mt-4 flex flex-wrap items-end gap-x-5 gap-y-3">
-        <Select label="Topic" value={topic} onChange={(v) => setTopic(v as VideoTopic | 'all')} options={['all', ...TOPICS]} />
+        <Select
+          label="Topic"
+          value={topic}
+          onChange={(v) => setTopic(v as TopicFilter)}
+          options={['focus', 'all', ...TOPICS]}
+          labels={{ focus: FOCUS_LABEL }}
+        />
         <Select label="Level" value={level} onChange={(v) => setLevel(v as VideoLevel | 'all')} options={['all', ...LEVELS]} />
         <Select label="Source" value={tier} onChange={(v) => setTier(v as TrustTier | 'all')} options={['all', ...TIERS]} />
         <Select label="Channel" value={channel} onChange={setChannel} options={['all', ...channels]} />
@@ -169,6 +182,18 @@ export default function Videos() {
       <div className="mt-10">
         <p className="mb-3 text-sm text-ink-muted" aria-live="polite">
           {results.length} video{results.length === 1 ? '' : 's'}
+          {topic === 'focus' ? (
+            <>
+              {' '}on {FOCUS_LABEL}.{' '}
+              <button
+                type="button"
+                onClick={() => setTopic('all')}
+                className="font-medium text-accent-strong hover:underline focus-visible:ring-2 focus-visible:ring-accent"
+              >
+                Browse the whole library
+              </button>
+            </>
+          ) : null}
         </p>
         {VIDEOS.length === 0 ? (
           <div className="rounded-xl border border-dashed border-hairline p-10 text-center text-ink-muted">
@@ -220,11 +245,13 @@ function Select({
   value,
   onChange,
   options,
+  labels,
 }: {
   label: string
   value: string
   onChange: (v: string) => void
   options: string[]
+  labels?: Record<string, string>
 }) {
   return (
     <div>
@@ -238,7 +265,7 @@ function Select({
       >
         {options.map((o) => (
           <option key={o} value={o}>
-            {o === 'all' ? 'All' : o}
+            {labels?.[o] ?? (o === 'all' ? 'All' : o)}
           </option>
         ))}
       </select>
