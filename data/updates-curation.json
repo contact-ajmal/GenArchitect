@@ -1,0 +1,13 @@
+{
+  "_readme": [
+    "Human-in-the-loop layer for the updates feed. Always wins over the auto-filter.",
+    "pinned: ordered update ids shown in the 'Pinned' rail above the feed.",
+    "hidden: update ids to drop entirely (off-topic, superseded, low value).",
+    "notes: id -> your own one-line take, shown under the headline. ORIGINAL WORDS ONLY — never paste AWS's copy.",
+    "Find an id by looking at data/updates.json, or hover any card on /updates.",
+    "This file is never overwritten by the refresh job. See CURATION.md."
+  ],
+  "pinned": [],
+  "hidden": [],
+  "notes": {}
+}

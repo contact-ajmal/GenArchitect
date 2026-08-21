@@ -1,0 +1,55 @@
+name: Refresh updates
+
+# Daily refresh + manual runs. Discovery is AWS's own PUBLIC RSS — no API key,
+# no secret, no quota. Nothing to configure: this works the moment it lands.
+on:
+  schedule:
+    - cron: '42 5 * * *' # daily at 05:42 UTC, ahead of the video refresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-updates
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Refresh update data
+        run: |
+          node scripts/fetch-updates.mjs | tee /tmp/updates.log
+          # Fail loudly if the output isn't valid JSON — never commit corruption.
+          node -e "JSON.parse(require('fs').readFileSync('data/updates.json','utf8'))"
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo '### Updates refresh'
+            echo ''
+            echo '```'
+            cat /tmp/updates.log 2>/dev/null || echo '(no log)'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/updates.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/updates.json
+            git commit -m "chore(updates): daily refresh [skip ci]"
+            git push
+            echo "Committed refreshed updates.json."
+          else
+            echo "No changes to data/updates.json."
+          fi

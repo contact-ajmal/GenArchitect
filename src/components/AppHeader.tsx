@@ -45,6 +45,7 @@ const NAV_ITEMS: NavItem[] = [
   { label: 'AgentCore', to: '/agentcore', kind: 'route' },
   { label: 'Notebooks', to: '/notebooks', kind: 'route' },
   { label: 'Videos', to: '/videos', kind: 'route' },
+  { label: 'Latest', to: '/updates', kind: 'route' },
   { label: 'Case studies', to: '/use-cases', kind: 'route' },
 ]
 

@@ -23,6 +23,7 @@ const StrandsAtlas = lazy(() => import('./routes/StrandsAtlas'))
 const AgentCoreAtlas = lazy(() => import('./routes/AgentCoreAtlas'))
 const Videos = lazy(() => import('./routes/Videos'))
 const UseCases = lazy(() => import('./routes/UseCases'))
+const Updates = lazy(() => import('./routes/Updates'))
 
 /** Reset scroll position on route change (except for in-page anchors). */
 function ScrollToTop() {
@@ -74,6 +75,7 @@ function App() {
             <Route path="/agentcore/:topicId" element={<AgentCoreAtlas />} />
             <Route path="/videos" element={<Videos />} />
             <Route path="/use-cases" element={<UseCases />} />
+            <Route path="/updates" element={<Updates />} />
           </Routes>
         </Suspense>
       </main>

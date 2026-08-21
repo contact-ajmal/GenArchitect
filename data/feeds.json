@@ -1,0 +1,22 @@
+{
+  "_readme": [
+    "Update feed registry for GenArchitect. Human-editable — this is the file you edit to add or drop a source.",
+    "Every feed here is AWS's own PUBLIC RSS. No API key, no scraping, no hidden endpoints.",
+    "To add a source: find its blog at https://aws.amazon.com/blogs/<slug>/ and use https://aws.amazon.com/blogs/<slug>/feed/",
+    "keepAll: true  -> every item is kept (only for feeds that are already on-topic).",
+    "keepAll: false -> an item must match the GenAI keyword filter in scripts/fetch-updates.mjs to survive.",
+    "Set active: false to mute a source without deleting it. See CURATION.md."
+  ],
+  "sources": [
+    { "id": "machine-learning", "name": "AWS Machine Learning Blog", "feed": "https://aws.amazon.com/blogs/machine-learning/feed/", "kind": "blog", "keepAll": true, "active": true, "note": "Highest-signal feed: Bedrock, AgentCore, Strands, RAG. Kept in full." },
+    { "id": "aws-news", "name": "AWS News Blog", "feed": "https://aws.amazon.com/blogs/aws/feed/", "kind": "blog", "keepAll": false, "active": true, "note": "Launch announcements across all of AWS — filtered." },
+    { "id": "whats-new", "name": "What's New with AWS", "feed": "https://aws.amazon.com/about-aws/whats-new/recent/feed/", "kind": "announcement", "keepAll": false, "active": true, "note": "~90 items per pull across every service. Filtered hard. NOTE: the awsf.whats-new-categories URL param is ignored by RSS, so filtering must happen here." },
+    { "id": "architecture", "name": "AWS Architecture Blog", "feed": "https://aws.amazon.com/blogs/architecture/feed/", "kind": "blog", "keepAll": false, "active": true },
+    { "id": "opensource", "name": "AWS Open Source Blog", "feed": "https://aws.amazon.com/blogs/opensource/feed/", "kind": "blog", "keepAll": false, "active": true, "note": "Where Strands and MCP/agent-standard news lands." },
+    { "id": "devops", "name": "AWS DevOps & Developer Productivity Blog", "feed": "https://aws.amazon.com/blogs/devops/feed/", "kind": "blog", "keepAll": false, "active": true },
+    { "id": "database", "name": "AWS Database Blog", "feed": "https://aws.amazon.com/blogs/database/feed/", "kind": "blog", "keepAll": false, "active": true, "note": "Vector search on Aurora/OpenSearch/Neptune shows up here." },
+    { "id": "security", "name": "AWS Security Blog", "feed": "https://aws.amazon.com/blogs/security/feed/", "kind": "blog", "keepAll": false, "active": true },
+    { "id": "big-data", "name": "AWS Big Data Blog", "feed": "https://aws.amazon.com/blogs/big-data/feed/", "kind": "blog", "keepAll": false, "active": true },
+    { "id": "hpc", "name": "AWS HPC Blog", "feed": "https://aws.amazon.com/blogs/hpc/feed/", "kind": "blog", "keepAll": false, "active": true }
+  ]
+}
