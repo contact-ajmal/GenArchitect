@@ -1,6 +1,230 @@
 {
-  "generatedAt": "2026-08-20T07:09:32.174Z",
+  "generatedAt": "2026-08-21T07:10:09.436Z",
   "videos": [
+    {
+      "id": "iAKM-OalIKA",
+      "title": "Creating playable game demos, and... wait who is attacking my soccer app?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-20T21:17:46Z",
+      "url": "https://www.youtube.com/watch?v=iAKM-OalIKA",
+      "thumbnail": "https://i.ytimg.com/vi/iAKM-OalIKA/mqdefault_live.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "KlBO0653BQA",
+      "title": "Building Apps on AWS Using Claude Code",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-08-20T21:00:41Z",
+      "url": "https://www.youtube.com/watch?v=KlBO0653BQA",
+      "duration": "12:42",
+      "thumbnail": "https://i.ytimg.com/vi/KlBO0653BQA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "9OPIU5ox5VU",
+      "title": "How do I keep my Amazon EC2 Linux instance updated with the latest patches and security updates?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-20T19:43:53Z",
+      "url": "https://www.youtube.com/watch?v=9OPIU5ox5VU",
+      "duration": "7:13",
+      "thumbnail": "https://i.ytimg.com/vi/9OPIU5ox5VU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "JovBxtrHxcI",
+      "title": "FSI Sydney 2026: What Comes Next: Six Trends Defining the Agentic AI Era",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:50:15Z",
+      "url": "https://www.youtube.com/watch?v=JovBxtrHxcI",
+      "duration": "28:55",
+      "thumbnail": "https://i.ytimg.com/vi/JovBxtrHxcI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "aJCrBVTiC4g",
+      "title": "FSI Sydney 2026: Reimagining Dealmaking in the Era of AI",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:50:11Z",
+      "url": "https://www.youtube.com/watch?v=aJCrBVTiC4g",
+      "duration": "28:02",
+      "thumbnail": "https://i.ytimg.com/vi/aJCrBVTiC4g/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "AQya0_Vh_n8",
+      "title": "FSI Sydney 2026: CommBank Companion: The Future of AI in Banking",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:50:08Z",
+      "url": "https://www.youtube.com/watch?v=AQya0_Vh_n8",
+      "duration": "34:26",
+      "thumbnail": "https://i.ytimg.com/vi/AQya0_Vh_n8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "CDf_2d62bNg",
+      "title": "When Attackers Have Agents Too: How a CFD Broker Built Agentic Cyber Defence in Production",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:50:04Z",
+      "url": "https://www.youtube.com/watch?v=CDf_2d62bNg",
+      "duration": "21:15",
+      "thumbnail": "https://i.ytimg.com/vi/CDf_2d62bNg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "hlDPHJLXGMU",
+      "title": "FSI Sydney 2026: How Japan's Largest Trust Bank Protects \"Trust\" with Speed, Culture, and AWS",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:50:00Z",
+      "url": "https://www.youtube.com/watch?v=hlDPHJLXGMU",
+      "duration": "24:42",
+      "thumbnail": "https://i.ytimg.com/vi/hlDPHJLXGMU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "LM00-OV3JCc",
+      "title": "FSI Sydney 2026: The Age of AI: Tomorrow’s Intelligence",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:49:56Z",
+      "url": "https://www.youtube.com/watch?v=LM00-OV3JCc",
+      "duration": "30:24",
+      "thumbnail": "https://i.ytimg.com/vi/LM00-OV3JCc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "jDx6WfVMflA",
+      "title": "FSI Sydney 2026: AI-First Insurer: How Techcom Life Transformed Life Insurance in Vietnam on AWS",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:49:54Z",
+      "url": "https://www.youtube.com/watch?v=jDx6WfVMflA",
+      "duration": "31:20",
+      "thumbnail": "https://i.ytimg.com/vi/jDx6WfVMflA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "KGudkxhiVcI",
+      "title": "FSI Sydney: 2026: One Platform, Thousands of Agents: Mizuho's AI Strategy on AWS",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:49:50Z",
+      "url": "https://www.youtube.com/watch?v=KGudkxhiVcI",
+      "duration": "23:59",
+      "thumbnail": "https://i.ytimg.com/vi/KGudkxhiVcI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "HY2PA2VGyKU",
+      "title": "Agentic customers, agentic workers and agentic operations are here: are financial services ready?",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:49:46Z",
+      "url": "https://www.youtube.com/watch?v=HY2PA2VGyKU",
+      "duration": "32:38",
+      "thumbnail": "https://i.ytimg.com/vi/HY2PA2VGyKU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "KCeWB4wPaBs",
+      "title": "FSI Sydney 2026: Running AI Agents at Scale - Trust, Governance and Control in Financial Services",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:49:42Z",
+      "url": "https://www.youtube.com/watch?v=KCeWB4wPaBs",
+      "duration": "31:53",
+      "thumbnail": "https://i.ytimg.com/vi/KCeWB4wPaBs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "BgxMyuS3-rI",
+      "title": "FSI Sydney 2026: Keynote – Rethink Everything",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-20T14:49:37Z",
+      "url": "https://www.youtube.com/watch?v=BgxMyuS3-rI",
+      "duration": "1:16:43",
+      "thumbnail": "https://i.ytimg.com/vi/BgxMyuS3-rI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "mX4uqvPUdeo",
+      "title": "AWS Startups: Made in Boston, powered by AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-20T13:59:50Z",
+      "url": "https://www.youtube.com/watch?v=mX4uqvPUdeo",
+      "duration": "1:44",
+      "thumbnail": "https://i.ytimg.com/vi/mX4uqvPUdeo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "kjvVElU34pg",
       "title": "Getting Started: AWS Certified Machine Learning Engineer - Associate | Amazon Web Services",
@@ -4885,51 +5109,6 @@
       "trustTier": "official"
     },
     {
-      "id": "_AeTRh19Akk",
-      "title": "How do I upgrade the kernel version on my Amazon Linux 2 instance?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-25T08:32:45Z",
-      "url": "https://www.youtube.com/watch?v=_AeTRh19Akk",
-      "duration": "3:50",
-      "thumbnail": "https://i.ytimg.com/vi/_AeTRh19Akk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Kt4-4LwbBdE",
-      "title": "How do I resolve authentication errors during CodeBuild with GitHub Actions integration?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-25T08:32:39Z",
-      "url": "https://www.youtube.com/watch?v=Kt4-4LwbBdE",
-      "duration": "2:26",
-      "thumbnail": "https://i.ytimg.com/vi/Kt4-4LwbBdE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "kPfJBy-ola8",
-      "title": "How do I benchmark network throughput between Amazon EC2 Linux instances in the same VPC?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-25T08:32:34Z",
-      "url": "https://www.youtube.com/watch?v=kPfJBy-ola8",
-      "duration": "5:33",
-      "thumbnail": "https://i.ytimg.com/vi/kPfJBy-ola8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "LMbeDEQO6QM",
       "title": "Introducing WebMCP: Agents in the Browser — RL Nabors",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -5421,81 +5600,6 @@
       "trustTier": "official"
     },
     {
-      "id": "qSMbDS0Jdn0",
-      "title": "Agentic AI-Powered Network Operations | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:27Z",
-      "url": "https://www.youtube.com/watch?v=qSMbDS0Jdn0",
-      "duration": "8:23",
-      "thumbnail": "https://i.ytimg.com/vi/qSMbDS0Jdn0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "3hhdvi13tBY",
-      "title": "Agentic AI-Powered Network Build on AWS | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:23Z",
-      "url": "https://www.youtube.com/watch?v=3hhdvi13tBY",
-      "duration": "5:45",
-      "thumbnail": "https://i.ytimg.com/vi/3hhdvi13tBY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "yH8mpRew56o",
-      "title": "Cross-Domain Service Orchestration with Agentic AI | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:18Z",
-      "url": "https://www.youtube.com/watch?v=yH8mpRew56o",
-      "duration": "9:37",
-      "thumbnail": "https://i.ytimg.com/vi/yH8mpRew56o/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "qIDkthml2n4",
-      "title": "On-Premises Telecom Cloud: AT&T's Hybrid Cloud Modernization with AWS | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:12Z",
-      "url": "https://www.youtube.com/watch?v=qIDkthml2n4",
-      "duration": "7:46",
-      "thumbnail": "https://i.ytimg.com/vi/qIDkthml2n4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "StEspZ0C0Vo",
-      "title": "AWS Summit Sydney 2026 -  The Bold Bets That Scaled Canva, Nab & Xero Into the AI Age",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T05:13:55Z",
-      "url": "https://www.youtube.com/watch?v=StEspZ0C0Vo",
-      "duration": "34:37",
-      "thumbnail": "https://i.ytimg.com/vi/StEspZ0C0Vo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "FWEInOtngmM",
       "title": "Beyond Code Coverage: Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -5547,43 +5651,6 @@
       ]
     },
     {
-      "id": "LnCXoIr0Mw8",
-      "title": "Build an Agentic GraphRAG System in 1 Hour (MCP + Knowledge Graph) | Databases for AI",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-15T05:54:55Z",
-      "url": "https://www.youtube.com/watch?v=LnCXoIr0Mw8",
-      "duration": "1:00:16",
-      "thumbnail": "https://i.ytimg.com/vi/LnCXoIr0Mw8/mqdefault.jpg",
-      "topics": [
-        "rag",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedPatternIds": [
-        "graph_rag"
-      ],
-      "relatedAtlasTopicIds": [
-        "mcp-tools"
-      ]
-    },
-    {
-      "id": "kKziUYuTA4Y",
-      "title": "Deloitte: Rethinking Insurance with AI Built for Brokers and Underwriters",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-14T18:02:33Z",
-      "url": "https://www.youtube.com/watch?v=kKziUYuTA4Y",
-      "duration": "37:12",
-      "thumbnail": "https://i.ytimg.com/vi/kKziUYuTA4Y/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "iOXM3zE-2dk",
       "title": "Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -5601,40 +5668,6 @@
       "relatedAtlasTopicIds": [
         "observability-trace"
       ]
-    },
-    {
-      "id": "Dt7a7i726y0",
-      "title": "Build & Deploy Agents with Strands | S1E2 | Coding an Agent App Locally",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-14T10:14:17Z",
-      "url": "https://www.youtube.com/watch?v=Dt7a7i726y0",
-      "duration": "1:00:47",
-      "thumbnail": "https://i.ytimg.com/vi/Dt7a7i726y0/mqdefault.jpg",
-      "topics": [
-        "strands",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "agent-loop"
-      ]
-    },
-    {
-      "id": "Ox5VMOsmC3o",
-      "title": "Ask me Anything! | The Routing Loop",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-14T07:37:56Z",
-      "url": "https://www.youtube.com/watch?v=Ox5VMOsmC3o",
-      "duration": "59:56",
-      "thumbnail": "https://i.ytimg.com/vi/Ox5VMOsmC3o/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "3zvWHe94xCY",
@@ -5668,36 +5701,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "gSKw93yr37U",
-      "title": "Hannover Messe 2026 - Automate supply chains with agentic AI systems",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-13T14:56:55Z",
-      "url": "https://www.youtube.com/watch?v=gSKw93yr37U",
-      "duration": "16:27",
-      "thumbnail": "https://i.ytimg.com/vi/gSKw93yr37U/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "kNI-fs9q4F8",
-      "title": "Hannover Messe 2026 - From shop floor control to physical AI: Moving to intelligent automation",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-13T14:56:52Z",
-      "url": "https://www.youtube.com/watch?v=kNI-fs9q4F8",
-      "duration": "10:04",
-      "thumbnail": "https://i.ytimg.com/vi/kNI-fs9q4F8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "vAIDdLKB6-w",
@@ -7713,24 +7716,6 @@
       ],
       "level": "talk",
       "trustTier": "official"
-    },
-    {
-      "id": "5zL__Rmk4fs",
-      "title": "What is MCP? No, Really!",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-05-30T18:07:33Z",
-      "url": "https://www.youtube.com/watch?v=5zL__Rmk4fs",
-      "duration": "7:20",
-      "thumbnail": "https://i.ytimg.com/vi/5zL__Rmk4fs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "mcp-tools"
-      ]
     },
     {
       "id": "owL56oqbWEg",
