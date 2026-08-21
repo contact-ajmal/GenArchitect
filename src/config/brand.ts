@@ -14,7 +14,7 @@ export const BRAND = {
   name: 'GenArchitect',
   tagline: 'AWS agentic architecture studio',
 
-  heroTitle: 'The AWS agentic architecture studio.',
+  heroTitle: 'The AWS agentic architecture studio',
   heroPositioning:
     'Built for AWS solutions architects, GenAI platform teams, and enterprise architects designing RAG and agentic systems on AWS.',
   heroSubhead:
