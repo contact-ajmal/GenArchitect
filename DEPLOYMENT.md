@@ -113,6 +113,11 @@ requires Node ≥ 20.19 / 22.12; Cloudflare's default is too old).
 > the live site, and the library only updates when an unrelated commit happens
 > to follow. The refresh workflows run on `schedule`/`workflow_dispatch` only,
 > never on `push`, so nothing needs suppressing.
+>
+> The match is against the **entire commit message, body included** — not just
+> the subject line. So do not even *quote* the directive when writing a commit
+> message about it (spell it `skip-ci`, or describe it in words). A commit whose
+> body merely mentioned it in prose was silently skipped.
 
 SPA deep links (e.g. `/architecture/agentic_rag`) work via `public/_redirects`:
 
