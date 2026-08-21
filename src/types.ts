@@ -513,3 +513,70 @@ export interface CurationData {
   /** Our own summaries, keyed by video id (original words only). */
   summaries: Record<string, string>
 }
+
+/* ----------------------------------------------------------------------------
+ * Updates feed (Phase 28) — populated by scripts/fetch-updates.mjs from AWS's
+ * public blog + What's New RSS feeds. Discovery only: we keep the headline, the
+ * link, the date and a short syndicated excerpt, and always link back to AWS.
+ * -------------------------------------------------------------------------- */
+
+/** Broad shape of an update, used for filtering and for the card accent. */
+export type UpdateKind = 'announcement' | 'blog'
+
+/** Topic tags, deliberately a superset of VideoTopic so the two libraries agree. */
+export type UpdateTopic = VideoTopic
+
+export interface UpdateSource {
+  /** Stable slug, e.g. "machine-learning". */
+  id: string
+  /** Display name, e.g. "AWS Machine Learning Blog". */
+  name: string
+  /** Public RSS URL. */
+  feed: string
+  kind: UpdateKind
+  /**
+   * When true, every item is kept. When false, an item must match the GenAI
+   * keyword filter to survive. High-volume feeds should stay false.
+   */
+  keepAll: boolean
+  active: boolean
+  note?: string
+}
+
+export interface UpdateEntry {
+  /** Stable slug derived from the canonical link. */
+  id: string
+  title: string
+  /** Canonical URL on aws.amazon.com. */
+  url: string
+  /** ISO date. */
+  publishedAt: string
+  sourceId: string
+  /** Display name of the originating feed. */
+  sourceName: string
+  kind: UpdateKind
+  topics: UpdateTopic[]
+  /** Short syndicated excerpt from the feed (trimmed). Attributed + linked. */
+  excerpt?: string
+  /** Author, when the feed provides one. */
+  author?: string
+  /** Our own note, from updates-curation.json. Original words only. */
+  note?: string
+  /** True when pinned by the curation layer. */
+  pinned?: boolean
+}
+
+export interface UpdateData {
+  /** ISO timestamp of the last refresh run. */
+  generatedAt: string
+  updates: UpdateEntry[]
+}
+
+export interface UpdateCuration {
+  /** Ordered ids shown first, above the feed. */
+  pinned: string[]
+  /** Ids excluded entirely. */
+  hidden: string[]
+  /** id -> our own one-line take. */
+  notes: Record<string, string>
+}

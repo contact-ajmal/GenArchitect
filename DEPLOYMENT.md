@@ -106,6 +106,14 @@ requires Node ≥ 20.19 / 22.12; Cloudflare's default is too old).
 3. **Save and Deploy.** Every push to `main` redeploys automatically; PRs get
    preview URLs.
 
+> **Do not put `[skip ci]` in a commit message.** Cloudflare Pages honours it
+> and reports *"The deployment was skipped because the commit message contained
+> a CI skip directive."* The nightly data-refresh jobs deliberately omit it —
+> otherwise they commit fresh `videos.json` / `updates.json` that never reaches
+> the live site, and the library only updates when an unrelated commit happens
+> to follow. The refresh workflows run on `schedule`/`workflow_dispatch` only,
+> never on `push`, so nothing needs suppressing.
+
 SPA deep links (e.g. `/architecture/agentic_rag`) work via `public/_redirects`:
 
 ```

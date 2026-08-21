@@ -177,3 +177,6 @@ GitHub → Actions → **Refresh updates** → **Run workflow**. Or locally,
 - Retention: 80 items per source, 500 total, newest first. Pinned items are
   exempt from the per-source cap.
 - We keep headline, link, date and a trimmed excerpt — never a full article.
+- Refresh commits carry **no `[skip ci]`**. Cloudflare Pages honours that
+  directive and would skip the deploy, so the data would land in the repo but
+  never on the site. See DEPLOYMENT.md.

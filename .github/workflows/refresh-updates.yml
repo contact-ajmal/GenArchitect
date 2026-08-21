@@ -46,8 +46,12 @@ jobs:
           if [[ -n "$(git status --porcelain data/updates.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # No [skip ci] here: Cloudflare Pages honours it and would skip the
+            # deploy, leaving fresh data committed but never published. Nothing
+            # needs suppressing — this workflow runs on schedule/dispatch only,
+            # never on push, so there is no loop to break.
             git add data/updates.json
-            git commit -m "chore(updates): daily refresh [skip ci]"
+            git commit -m "chore(updates): daily refresh"
             git push
             echo "Committed refreshed updates.json."
           else
