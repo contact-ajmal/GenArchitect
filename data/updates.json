@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-21T22:21:16.037Z",
+  "generatedAt": "2026-08-22T05:59:24.485Z",
   "updates": [
+    {
+      "id": "bedrock-openai-gpt-56-sol-reduced-pricing",
+      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
+      "publishedAt": "2026-08-21T20:11:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock"
+      ],
+      "excerpt": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per million input tokens and $20 per million output tokens—20% lower…"
+    },
     {
       "id": "build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock",
       "title": "Build a unified AI agent architecture with DynamoDB and Bedrock",
