@@ -62,6 +62,15 @@ export type RagArchitectureId =
   | 'memory_augmented_rag'
   | 'multi_agent_rag'
   | 'guardrailed_secure_rag'
+  | 'agentic_data_ops'
+
+/**
+ * Which catalog subsection a pattern belongs to. The catalog started as RAG
+ * only; agentic data engineering is a separate discipline that happens to use
+ * the same agent primitives, so it gets its own family rather than being
+ * squeezed into the RAG progression.
+ */
+export type ArchitectureFamily = 'rag' | 'agentic-data-engineering'
 
 /** How much architectural maturity a pattern demands to run well. */
 export type DifficultyTier =
@@ -83,6 +92,7 @@ export type AwsServiceCategory =
   | 'security'
   | 'observability'
   | 'framework'
+  | 'data'
 
 /**
  * The typed set of building blocks the app references. Each id maps to exactly
@@ -113,6 +123,17 @@ export type AwsServiceId =
   | 'iam'
   | 'cloudwatch'
   // Agent frameworks
+  // Data / analytics — the agentic data engineering family
+  | 'glue'
+  | 'glue_data_quality'
+  | 'glue_data_catalog'
+  | 'athena'
+  | 'lake_formation'
+  | 'mwaa'
+  | 's3_tables'
+  | 'kms'
+  | 'cloudtrail'
+  | 'verified_permissions'
   | 'strands_sdk'
   | 'strands_agents_tools'
   | 'mcp'
@@ -150,6 +171,11 @@ export interface AwsService {
 export type LayerId =
   | 'sources'
   | 'ingestion'
+  // Medallion zones — used by the agentic data engineering family.
+  | 'bronze'
+  | 'silver'
+  | 'gold'
+  | 'consumption'
   | 'index'
   | 'retrieval'
   | 'augmentation'
@@ -300,6 +326,8 @@ export interface RagArchitecture {
   /** One-line positioning statement. */
   tagline: string
   difficulty: DifficultyTier
+  /** Which catalog subsection this belongs to. Defaults to RAG when absent. */
+  family: ArchitectureFamily
 
   /** Plain summary aimed at a decision-maker. */
   summary: string
@@ -325,8 +353,12 @@ export interface RagArchitecture {
   /** Strands + AgentCore reference implementations referenced by the steps. */
   codeSamples: CodeSample[]
 
-  /** How this pattern solves a stage of the Meridian use case. */
-  meridianStage: MeridianStageLink
+  /**
+   * How this pattern solves a stage of the Meridian use case. Absent for
+   * patterns outside the RAG progression — Meridian is a RAG scenario, and
+   * claiming a stage link that does not exist would be dishonest.
+   */
+  meridianStage?: MeridianStageLink
 
   /** AWS/framework services this architecture uses. */
   awsServiceIds: AwsServiceId[]

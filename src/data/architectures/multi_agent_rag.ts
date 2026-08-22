@@ -57,6 +57,7 @@ export const multiAgentRag: RagArchitecture = {
   name: 'Multi-Agent RAG',
   tagline: 'A supervisor and specialists — retrieve, synthesize, and review.',
   difficulty: 'production',
+  family: 'rag',
 
   summary:
     'High-stakes answers benefit from division of labor and a review step. Here a supervisor agent coordinates specialists — one gathers evidence, one drafts the answer, one checks it against compliance rules — before anything reaches the user. It costs more and adds latency, so it’s reserved for questions where correctness and reviewability matter.',

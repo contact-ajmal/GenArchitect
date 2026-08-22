@@ -30,12 +30,13 @@ const AWS_ICON: Partial<Record<AwsServiceId, AwsIcon>> = {
   bedrock_guardrails: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
 }
 
-const MAIN_ORDER: LayerId[] = ['sources', 'ingestion', 'index', 'retrieval', 'augmentation', 'generation']
+const MAIN_ORDER: LayerId[] = ['sources', 'ingestion', 'bronze', 'silver', 'gold', 'index', 'retrieval', 'augmentation', 'generation', 'consumption']
 const TOP_SPINES: LayerId[] = ['orchestration', 'memory']
 const BOTTOM_SPINES: LayerId[] = ['guardrails', 'observability']
 
 const LAYER_LABELS: Record<LayerId, string> = {
-  sources: 'Sources', ingestion: 'Ingestion', index: 'Index', retrieval: 'Retrieval',
+  sources: 'Sources', ingestion: 'Ingestion',
+  bronze: 'Bronze', silver: 'Silver', gold: 'Gold', consumption: 'Consumption', index: 'Index', retrieval: 'Retrieval',
   augmentation: 'Augmentation', generation: 'Generation', guardrails: 'Guardrails',
   memory: 'Memory', orchestration: 'Orchestration', observability: 'Observability',
 }

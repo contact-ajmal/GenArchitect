@@ -48,6 +48,7 @@ export const memoryAugmentedRag: RagArchitecture = {
   name: 'Memory-Augmented RAG',
   tagline: 'Memory knows the user; RAG knows the truth. Use both — never confuse them.',
   difficulty: 'advanced',
+  family: 'rag',
 
   summary:
     'A good assistant remembers you — your role, your desk, what you asked yesterday — so it doesn’t make you repeat yourself. But it must never treat those memories as facts. Memory-Augmented RAG combines AgentCore long-term Memory (personal context) with RAG (current authoritative documents): memory personalizes, retrieval grounds.',

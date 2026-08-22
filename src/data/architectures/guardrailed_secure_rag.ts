@@ -54,6 +54,7 @@ export const guardrailedSecureRag: RagArchitecture = {
   name: 'Guardrailed Secure RAG',
   tagline: 'The enterprise end-state: safe, access-controlled, auditable, observed.',
   difficulty: 'production',
+  family: 'rag',
 
   summary:
     'The complete enterprise pattern. Every earlier capability, hardened: Bedrock Guardrails screen inputs and outputs and redact PII; document-level ACLs ensure users only ever retrieve what they’re authorized to see; IAM and Identity via Gateway scope every access; and AgentCore Observability plus Evaluations make the whole system traceable, measurable, and auditable. This is where Meridian lands.',

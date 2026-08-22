@@ -179,6 +179,101 @@ export const AWS_SERVICES: Record<AwsServiceId, AwsService> = {
       'Store raw corpora (PDFs, HTML, transcripts) as the source for Bedrock KB connectors or a custom ingestion pipeline.',
   },
 
+  /* --- Data / analytics (agentic data engineering) --------------------- */
+  glue: {
+    id: 'glue',
+    name: 'AWS Glue',
+    category: 'data',
+    oneLiner:
+      'Serverless Spark ETL with a managed job runtime — the execution engine for generated Bronze/Silver/Gold transformation scripts.',
+    whenToUse:
+      'Run the PySpark that moves data between medallion zones without managing a cluster, and let an agent generate the job scripts.',
+  },
+  glue_data_quality: {
+    id: 'glue_data_quality',
+    name: 'AWS Glue Data Quality',
+    category: 'data',
+    oneLiner:
+      'Rule-based data quality built on the open DQDL rule language, run as part of a Glue job or on a catalog table.',
+    whenToUse:
+      'Gate promotion between zones on measurable rules (completeness, uniqueness, ranges) instead of trusting the pipeline blindly.',
+  },
+  glue_data_catalog: {
+    id: 'glue_data_catalog',
+    name: 'AWS Glue Data Catalog',
+    category: 'data',
+    oneLiner:
+      'The central technical metadata store — databases, tables and schemas that Athena, Glue and Lake Formation all read from.',
+    whenToUse:
+      'Register generated tables so they are queryable and governable the moment the pipeline deploys.',
+  },
+  athena: {
+    id: 'athena',
+    name: 'Amazon Athena',
+    category: 'data',
+    oneLiner:
+      'Serverless SQL over data in S3 and Iceberg tables, billed per query scanned.',
+    whenToUse:
+      'Verify a freshly-deployed table actually returns rows, and give analysts a query surface with no cluster to run.',
+  },
+  lake_formation: {
+    id: 'lake_formation',
+    name: 'AWS Lake Formation',
+    category: 'data',
+    oneLiner:
+      'Fine-grained lake permissions — column, row and cell level — driven by LF-Tags rather than per-table grants.',
+    whenToUse:
+      'Enforce that PII columns are readable only by a privileged role, using tag-based access control that scales past hand-written grants.',
+    verifyAgainstDocs: true,
+  },
+  mwaa: {
+    id: 'mwaa',
+    name: 'Amazon MWAA',
+    category: 'data',
+    oneLiner:
+      'Managed Apache Airflow — runs the scheduled DAG that sequences ingestion, transformation and quality gates.',
+    whenToUse:
+      'Schedule and retry a multi-step daily pipeline where each task depends on the previous one passing its quality gate.',
+  },
+  s3_tables: {
+    id: 's3_tables',
+    name: 'Amazon S3 Tables',
+    category: 'data',
+    oneLiner:
+      'S3 storage purpose-built for Apache Iceberg tables, with managed compaction and snapshot maintenance.',
+    whenToUse:
+      'Store medallion zones as ACID Iceberg tables with schema evolution and time travel, without running your own compaction.',
+    verifyAgainstDocs: true,
+  },
+  kms: {
+    id: 'kms',
+    name: 'AWS KMS',
+    category: 'security',
+    oneLiner:
+      'Managed encryption keys with rotation and grant-based access, used to scope encryption per medallion zone.',
+    whenToUse:
+      'Encrypt a regulated zone under its own customer-managed key so access to raw and masked data can be separated.',
+  },
+  cloudtrail: {
+    id: 'cloudtrail',
+    name: 'AWS CloudTrail',
+    category: 'observability',
+    oneLiner:
+      'API-level audit log of who called what, across every AWS service in the account.',
+    whenToUse:
+      'Evidence a regulator will accept that permission grants and table creations happened when and how you claim.',
+  },
+  verified_permissions: {
+    id: 'verified_permissions',
+    name: 'Amazon Verified Permissions',
+    category: 'security',
+    oneLiner:
+      'Managed authorization service that evaluates Cedar policies outside application code.',
+    whenToUse:
+      'Enforce hard agent boundaries — such as "sub-agents may not call AWS APIs" — at a policy layer the agent cannot talk its way past.',
+    verifyAgainstDocs: true,
+  },
+
   /* --- Security / observability --------------------------------------- */
   iam: {
     id: 'iam',

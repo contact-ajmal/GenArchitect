@@ -114,6 +114,17 @@ export const COVERAGE_GROUPS: CoverageGroup[] = [
 
 /** Map an AwsServiceId (used across the app/diagrams) to an icon file base name. */
 export const SERVICE_ICON_FILE: Record<AwsServiceId, string> = {
+  // Data / analytics
+  glue: 'aws-glue',
+  glue_data_quality: 'aws-glue-data-quality',
+  glue_data_catalog: 'aws-glue-data-catalog',
+  athena: 'amazon-athena',
+  lake_formation: 'aws-lake-formation',
+  mwaa: 'amazon-managed-workflows-for-apache-airflow',
+  s3_tables: 'amazon-s3-tables',
+  kms: 'aws-key-management-service',
+  cloudtrail: 'aws-cloudtrail',
+  verified_permissions: 'amazon-verified-permissions',
   agentcore_runtime: 'agentcore-runtime',
   agentcore_memory: 'agentcore-memory',
   agentcore_gateway: 'agentcore-gateway',

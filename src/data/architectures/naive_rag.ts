@@ -51,6 +51,7 @@ export const naiveRag: RagArchitecture = {
   name: 'Naive RAG',
   tagline: 'The baseline: embed, retrieve once, stuff the context, generate.',
   difficulty: 'foundational',
+  family: 'rag',
 
   summary:
     'The simplest retrieval-augmented generation: split documents into chunks, turn them into vectors, find the closest few to a question, paste them into the prompt, and let the model answer. It is the right first thing to build — and the fastest way to see where RAG needs hardening.',

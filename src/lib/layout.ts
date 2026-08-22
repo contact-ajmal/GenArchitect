@@ -26,10 +26,16 @@ export interface DiagramSource {
 const MAIN_ORDER: LayerId[] = [
   'sources',
   'ingestion',
+  // Medallion zones sit between ingestion and the RAG stages. An architecture
+  // only ever populates one family's worth, so the empty bands collapse away.
+  'bronze',
+  'silver',
+  'gold',
   'index',
   'retrieval',
   'augmentation',
   'generation',
+  'consumption',
 ]
 const TOP_SPINES: LayerId[] = ['orchestration', 'memory']
 const BOTTOM_SPINES: LayerId[] = ['guardrails', 'observability']
@@ -39,6 +45,10 @@ const LOOPING_ROLES = new Set(['planner', 'router', 'supervisor'])
 
 export const LAYER_LABELS: Record<LayerId, string> = {
   sources: 'Sources',
+  bronze: 'Bronze',
+  silver: 'Silver',
+  gold: 'Gold',
+  consumption: 'Consumption',
   ingestion: 'Ingestion',
   index: 'Index',
   retrieval: 'Retrieval',

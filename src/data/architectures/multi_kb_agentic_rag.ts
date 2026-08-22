@@ -34,6 +34,7 @@ export const multiKbAgenticRag: RagArchitecture = {
   name: 'Multi-KB Agentic RAG',
   tagline: 'One agent, many knowledge bases — routed to the right source via Gateway.',
   difficulty: 'advanced',
+  family: 'rag',
 
   summary:
     'Enterprises rarely have one corpus. Meridian has policies, product, and compliance content — different owners, sensitivities, and update cycles. Here a single agent reasons across several knowledge bases exposed through AgentCore Gateway as tools, routing each question (or sub-question) to the source that can actually answer it.',

@@ -36,6 +36,7 @@ export const graphRag: RagArchitecture = {
   name: 'GraphRAG',
   tagline: 'Retrieve by relationships, not just similarity.',
   difficulty: 'advanced',
+  family: 'rag',
 
   summary:
     'Some questions are about how things connect — which regulations govern a product, which controls satisfy those regulations. Pure vector search finds passages that look similar to the question, but it can’t traverse relationships. GraphRAG builds a knowledge graph of entities and their links, so the assistant can follow connections across documents.',

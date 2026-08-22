@@ -24,6 +24,17 @@ export interface VerificationRecord {
 const VERIFIED = '2026-08-01'
 
 const DOC: Record<AwsServiceId, string> = {
+  // Data / analytics — service landing pages, which stay put as the guides move.
+  glue: 'https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html',
+  glue_data_quality: 'https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html',
+  glue_data_catalog: 'https://docs.aws.amazon.com/glue/latest/dg/catalog-and-crawler.html',
+  athena: 'https://docs.aws.amazon.com/athena/latest/ug/what-is.html',
+  lake_formation: 'https://docs.aws.amazon.com/lake-formation/latest/dg/what-is-lake-formation.html',
+  mwaa: 'https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html',
+  s3_tables: 'https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-tables.html',
+  kms: 'https://docs.aws.amazon.com/kms/latest/developerguide/overview.html',
+  cloudtrail: 'https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html',
+  verified_permissions: 'https://docs.aws.amazon.com/verifiedpermissions/latest/userguide/what-is-avp.html',
   agentcore_runtime:
     'https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html',
   agentcore_memory:
@@ -66,6 +77,17 @@ const DOC: Record<AwsServiceId, string> = {
 }
 
 const VOLATILITY: Record<AwsServiceId, Volatility> = {
+  // Long-established analytics services; S3 Tables is the newest of these.
+  glue: 'stable',
+  glue_data_quality: 'moderate',
+  glue_data_catalog: 'stable',
+  athena: 'stable',
+  lake_formation: 'moderate',
+  mwaa: 'stable',
+  s3_tables: 'volatile',
+  kms: 'stable',
+  cloudtrail: 'stable',
+  verified_permissions: 'moderate',
   // AgentCore is the newest surface — treat its exact APIs/CLI as volatile.
   agentcore_runtime: 'volatile',
   agentcore_memory: 'volatile',

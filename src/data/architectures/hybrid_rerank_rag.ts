@@ -50,6 +50,7 @@ export const hybridRerankRag: RagArchitecture = {
   name: 'Hybrid + Rerank RAG',
   tagline: 'Precision retrieval: keyword + semantic, then a reranker picks the winners.',
   difficulty: 'intermediate',
+  family: 'rag',
 
   summary:
     'Pure vector search misses exact terms (a policy code, a product name); pure keyword search misses meaning. Hybrid retrieval runs both, over-fetches candidates, then a reranker re-scores them so the few passages you actually send the model are the most relevant and current ones. This is the reliable default for enterprise RAG.',

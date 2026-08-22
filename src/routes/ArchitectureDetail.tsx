@@ -200,7 +200,8 @@ export default function ArchitectureDetail() {
         </Callout>
       </section>
 
-      {/* Meridian tie-in */}
+      {/* Meridian tie-in — only for patterns that are actually a Meridian stage. */}
+      {arch.meridianStage ? (
       <section className="mt-12">
         <Card
           eyebrow={<Eyebrow>How it solves Meridian</Eyebrow>}
@@ -226,6 +227,7 @@ export default function ArchitectureDetail() {
           </Link>
         </Card>
       </section>
+      ) : null}
 
       {/* Failure modes */}
       {(() => {

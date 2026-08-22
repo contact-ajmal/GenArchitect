@@ -2,7 +2,11 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ArrowRight, Route as RouteIcon } from 'lucide-react'
 import type { AwsServiceId, DifficultyTier } from '../types'
-import { ARCHITECTURE_LIST, ARCHITECTURE_ORDER } from '../data/architectures'
+import {
+  ARCHITECTURE_FAMILIES,
+  ARCHITECTURE_LIST,
+  ARCHITECTURE_ORDER,
+} from '../data/architectures'
 import { AWS_SERVICES } from '../data/services'
 import { Button, Eyebrow, Pill } from '../components/ui'
 import RagDiagram from '../components/diagram/RagDiagram'
@@ -53,6 +57,16 @@ export default function Catalog() {
     return list
   }, [difficulty, service, sort])
 
+  // Group into catalog subsections, dropping any family the filters emptied.
+  const groups = useMemo(
+    () =>
+      ARCHITECTURE_FAMILIES.map((f) => ({
+        ...f,
+        items: architectures.filter((a) => a.family === f.id),
+      })).filter((g) => g.items.length > 0),
+    [architectures],
+  )
+
   const resetToPath = () => {
     setDifficulty('all')
     setService('all')
@@ -64,12 +78,13 @@ export default function Catalog() {
       <header className="max-w-3xl">
         <Eyebrow>The catalog</Eyebrow>
         <h1 className="mt-3 text-4xl font-bold tracking-tight text-ink sm:text-5xl">
-          Nine RAG architectures, foundational to production.
+          Reference architectures, foundational to production.
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-ink-soft">
-          Each pattern builds on the last. Filter by difficulty or by the AWS
-          building block you care about, or follow the recommended learning path
-          — the same progression the Meridian scenario takes.
+          {ARCHITECTURE_LIST.length} patterns across two families: retrieval
+          architectures that answer from your data, and agentic data
+          engineering that builds the pipeline underneath it. Filter by
+          difficulty or AWS building block, or follow the recommended path.
         </p>
       </header>
 
@@ -167,54 +182,77 @@ export default function Catalog() {
           </button>
         </div>
       ) : (
-        <ul className="mt-6 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-          {architectures.map((arch) => (
-            <li key={arch.id}>
-              <Link
-                to={`/architecture/${arch.id}`}
-                className="group flex h-full flex-col overflow-hidden rounded-xl border border-hairline bg-neutral-0 transition-shadow hover:shadow-md focus-visible:ring-2 focus-visible:ring-accent"
-              >
-                <div
-                  className="h-28 overflow-hidden border-b border-hairline bg-neutral-50 p-2"
-                  aria-hidden="true"
-                >
-                  <RagDiagram architecture={arch} />
-                </div>
-                <div className="flex flex-1 flex-col p-5">
-                  <div className="flex items-start justify-between gap-3">
-                    <h2 className="font-display text-lg font-semibold text-ink">
-                      {arch.name}
-                    </h2>
-                    <Pill variant="difficulty">
-                      {DIFFICULTY_LABELS[arch.difficulty]}
-                    </Pill>
-                  </div>
-                  <p className="mt-1 text-sm text-ink-muted">{arch.tagline}</p>
-
-                  <p className="mt-3 text-sm leading-relaxed text-ink-soft">
-                    {arch.meridianStage.whatItAdds}
-                  </p>
-
-                  <div className="mt-4 flex flex-wrap gap-1.5">
-                    {arch.awsServiceIds.slice(0, 4).map((id) => (
-                      <Pill key={id} variant={serviceVariant(AWS_SERVICES[id].category)}>
-                        {AWS_SERVICES[id].name}
-                      </Pill>
-                    ))}
-                    {arch.awsServiceIds.length > 4 ? (
-                      <Pill>+{arch.awsServiceIds.length - 4}</Pill>
-                    ) : null}
-                  </div>
-
-                  <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-medium text-accent-strong">
-                    Explore pattern
-                    <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+        <div className="mt-8 space-y-12">
+          {groups.map((group) => (
+            <section key={group.id} aria-labelledby={`family-${group.id}`}>
+              <div className="border-b border-hairline pb-3">
+                <div className="flex flex-wrap items-baseline justify-between gap-2">
+                  <h2
+                    id={`family-${group.id}`}
+                    className="font-display text-xl font-semibold text-ink"
+                  >
+                    {group.title}
+                  </h2>
+                  <span className="font-mono text-[11px] uppercase tracking-wide text-ink-muted">
+                    {group.items.length} pattern{group.items.length === 1 ? '' : 's'}
                   </span>
                 </div>
-              </Link>
-            </li>
+                <p className="mt-1.5 max-w-3xl text-sm leading-relaxed text-ink-soft">
+                  {group.blurb}
+                </p>
+              </div>
+
+              <ul className="mt-6 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+                {group.items.map((arch) => (
+                  <li key={arch.id}>
+                    <Link
+                      to={`/architecture/${arch.id}`}
+                      className="group flex h-full flex-col overflow-hidden rounded-xl border border-hairline bg-neutral-0 transition-shadow hover:shadow-md focus-visible:ring-2 focus-visible:ring-accent"
+                    >
+                      <div
+                        className="h-28 overflow-hidden border-b border-hairline bg-neutral-50 p-2"
+                        aria-hidden="true"
+                      >
+                        <RagDiagram architecture={arch} />
+                      </div>
+                      <div className="flex flex-1 flex-col p-5">
+                        <div className="flex items-start justify-between gap-3">
+                          <h3 className="font-display text-lg font-semibold text-ink">
+                            {arch.name}
+                          </h3>
+                          <Pill variant="difficulty">
+                            {DIFFICULTY_LABELS[arch.difficulty]}
+                          </Pill>
+                        </div>
+                        <p className="mt-1 text-sm text-ink-muted">{arch.tagline}</p>
+
+                        <p className="mt-3 text-sm leading-relaxed text-ink-soft">
+                          {arch.meridianStage?.whatItAdds ?? arch.summary}
+                        </p>
+
+                        <div className="mt-4 flex flex-wrap gap-1.5">
+                          {arch.awsServiceIds.slice(0, 4).map((id) => (
+                            <Pill key={id} variant={serviceVariant(AWS_SERVICES[id].category)}>
+                              {AWS_SERVICES[id].name}
+                            </Pill>
+                          ))}
+                          {arch.awsServiceIds.length > 4 ? (
+                            <Pill>+{arch.awsServiceIds.length - 4}</Pill>
+                          ) : null}
+                        </div>
+
+                        <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-medium text-accent-strong">
+                          Explore pattern
+                          <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+                        </span>
+                      </div>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
           ))}
-        </ul>
+        </div>
       )}
     </div>
   )

@@ -57,6 +57,7 @@ export const managedKbRag: RagArchitecture = {
   name: 'Managed Knowledge Base RAG',
   tagline: 'Delete the pipeline: let Bedrock own ingestion, indexing, and citations.',
   difficulty: 'intermediate',
+  family: 'rag',
 
   summary:
     'Instead of hand-building the chunk → embed → index pipeline, point a Bedrock Managed Knowledge Base at your sources. It connects natively to S3, SharePoint, Confluence and more, parses and embeds automatically, stores the vectors for you, and returns passages with citations — so you focus on the assistant, not the plumbing.',

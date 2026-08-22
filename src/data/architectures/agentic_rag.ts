@@ -40,6 +40,7 @@ export const agenticRag: RagArchitecture = {
   name: 'Agentic RAG',
   tagline: 'The model decides when, what, and how many times to retrieve.',
   difficulty: 'advanced',
+  family: 'rag',
 
   summary:
     'Not every question needs one lookup — some need none, some need several. Agentic RAG lets the model run the show: it reads the question, decides whether to retrieve, splits complex questions into parts, retrieves for each, and reasons over the combined evidence. It trades predictable cost for the ability to answer genuinely multi-step questions.',
