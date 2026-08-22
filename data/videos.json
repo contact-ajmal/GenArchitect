@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-21T07:10:09.436Z",
+  "generatedAt": "2026-08-22T07:02:11.678Z",
   "videos": [
+    {
+      "id": "pl4MWkk5opM",
+      "title": "AWS Glue 6.0 Serverless Data Integration Simplified | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-21T18:57:23Z",
+      "url": "https://www.youtube.com/watch?v=pl4MWkk5opM",
+      "duration": "1:33",
+      "thumbnail": "https://i.ytimg.com/vi/pl4MWkk5opM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "cKzYBRE0jI4",
+      "title": "Hackathon Tips for Beginners",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-08-21T18:30:46Z",
+      "url": "https://www.youtube.com/watch?v=cKzYBRE0jI4",
+      "duration": "1:02",
+      "thumbnail": "https://i.ytimg.com/vi/cKzYBRE0jI4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
     {
       "id": "iAKM-OalIKA",
       "title": "Creating playable game demos, and... wait who is attacking my soccer app?",
@@ -5094,21 +5124,6 @@
       "trustTier": "official"
     },
     {
-      "id": "q8ND5kP7QGk",
-      "title": "How do I send memory and disk metrics from my EC2 instances to CloudWatch?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-25T08:32:51Z",
-      "url": "https://www.youtube.com/watch?v=q8ND5kP7QGk",
-      "duration": "4:30",
-      "thumbnail": "https://i.ytimg.com/vi/q8ND5kP7QGk/mqdefault.jpg",
-      "topics": [
-        "observability"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "LMbeDEQO6QM",
       "title": "Introducing WebMCP: Agents in the Browser — RL Nabors",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -7700,21 +7715,6 @@
         "genai-general"
       ],
       "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "xhMGjy459Sc",
-      "title": "Give me 15 Minutes & I’ll Save You Money on Your AWS Bill",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-05-30T18:14:13Z",
-      "url": "https://www.youtube.com/watch?v=xhMGjy459Sc",
-      "duration": "14:04",
-      "thumbnail": "https://i.ytimg.com/vi/xhMGjy459Sc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
