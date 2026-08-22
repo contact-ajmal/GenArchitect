@@ -199,7 +199,9 @@ export const agenticDataOps: RagArchitecture = {
         'The DAG Agent emits an Airflow DAG with the quality gates as first-class tasks between each transformation, three retries with exponential backoff, and SNS alerting on failure. Before deploy, Phase 4.5 validates it: Python syntax compiles, Airflow can import the DAG without exceptions, imports resolve, and eight Airflow best-practice patterns are enforced — with inline auto-fix capped at two attempts before human escalation.',
       diagramComponentIds: ['airflow', 'dq_silver', 'dq_gold'],
       codeSampleId: 'dag_py',
-      codeHighlightRange: [[6, 22]],
+      // The whole DAG body: the schedule and retry config through the
+      // transformation -> gate -> transformation dependency chain.
+      codeHighlightRange: [[6, 20]],
       awsServiceIds: ['mwaa', 'glue'],
     },
     {

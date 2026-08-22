@@ -56,10 +56,27 @@ for (const arch of ARCHITECTURE_LIST) {
   }
 }
 
-// Meridian stages must cover every architecture exactly once, in order.
+// Meridian stages must cover every RAG architecture exactly once, in order.
+// Meridian is a RAG scenario, so patterns outside that family are expected to
+// have no stage — and must not claim one, since inventing the link is the
+// dishonesty that making `meridianStage` optional was meant to prevent.
 const stageIds = MERIDIAN.stages.map((s) => s.architectureId)
-for (const id of Object.keys(ARCHITECTURES)) {
-  if (!stageIds.includes(id as never)) fail(`Meridian missing stage for ${id}`)
+for (const arch of ARCHITECTURE_LIST) {
+  const staged = stageIds.includes(arch.id)
+  if (arch.family === 'rag') {
+    if (!staged) fail(`Meridian missing stage for ${arch.id}`)
+    if (!arch.meridianStage) fail(`${arch.id}: RAG pattern without a meridianStage link`)
+  } else {
+    if (staged) fail(`Meridian has a stage for non-RAG pattern ${arch.id}`)
+    if (arch.meridianStage) {
+      fail(`${arch.id}: non-RAG pattern claims a meridianStage link`)
+    }
+  }
+}
+
+// Every Meridian stage must point at an architecture that exists.
+for (const id of stageIds) {
+  if (!(id in ARCHITECTURES)) fail(`Meridian stage points at unknown architecture ${id}`)
 }
 
 if (errors === 0) {
