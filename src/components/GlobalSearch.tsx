@@ -5,6 +5,7 @@ import clsx from 'clsx'
 import { flattenTopics } from '../atlas/types'
 import { STRANDS_SECTIONS } from '../data/atlas/strands'
 import { AGENTCORE_SECTIONS } from '../data/atlas/agentcore'
+import { RETRIEVAL_SECTIONS } from '../data/atlas/retrieval'
 import { ARCHITECTURE_LIST } from '../data/architectures'
 import { FEATURED_NOTEBOOKS } from '../data/notebookTemplates'
 import { FAILURE_MODES } from '../data/failureModes'
@@ -25,7 +26,11 @@ const KIND_ORDER: Kind[] = ['Atlas', 'Pattern', 'Notebook', 'Failure mode', 'Vid
 
 function buildIndex(): Item[] {
   const items: Item[] = []
-  for (const topic of [...flattenTopics(STRANDS_SECTIONS), ...flattenTopics(AGENTCORE_SECTIONS)]) {
+  for (const topic of [
+    ...flattenTopics(STRANDS_SECTIONS),
+    ...flattenTopics(AGENTCORE_SECTIONS),
+    ...flattenTopics(RETRIEVAL_SECTIONS),
+  ]) {
     items.push({
       kind: 'Atlas',
       title: topic.title,

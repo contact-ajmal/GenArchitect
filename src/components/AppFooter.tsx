@@ -6,6 +6,7 @@ const NAV = [
   { label: 'Use case', to: '/use-case' },
   { label: 'RAG architectures', to: '/catalog/rag' },
   { label: 'Agentic data architectures', to: '/catalog/agentic-data' },
+  { label: 'Retrieval atlas', to: '/retrieval' },
   { label: 'Review', to: '/review' },
   { label: 'Build', to: '/build' },
   { label: 'Failure modes', to: '/failure-modes' },

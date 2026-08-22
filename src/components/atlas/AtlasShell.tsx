@@ -28,6 +28,25 @@ export interface AtlasShellProps {
   activeTopicId?: string
 }
 
+/** Who each atlas describes — named so the non-affiliation notice is accurate. */
+const NOT_AFFILIATED_WITH: Record<AtlasId, string> = {
+  strands: 'the Strands project',
+  agentcore: 'AWS',
+  retrieval: 'AWS, or with the authors of any work cited here',
+}
+
+/**
+ * What a topic's source link is. The retrieval atlas cites published research
+ * and vendor engineering write-ups alongside AWS documentation, and calling a
+ * paper "the official docs" would be wrong.
+ */
+function sourceLabel(docUrl: string): string {
+  if (docUrl.includes('arxiv.org')) return 'Read the original paper'
+  if (docUrl.includes('anthropic.com')) return 'Read the original write-up'
+  if (docUrl.includes('github.com')) return 'Read the source repository'
+  return 'Read the official docs'
+}
+
 const COVERAGE_LABEL: Record<string, string> = {
   full: 'Full',
   overview: 'Overview',
@@ -196,9 +215,9 @@ function Landing({
       <div className="mt-6 max-w-2xl">
         <Callout variant="note" title="Original explanations — not copied docs">
           Everything here is written in our own words and taught visually. Follow
-          the “Read the official docs” link on any topic for exact syntax and API
-          detail. GenArchitect is not affiliated with, sponsored by, or endorsed
-          by {atlasId === 'agentcore' ? 'AWS' : 'the Strands project'}.
+          the source link on any topic for exact syntax and API detail.
+          GenArchitect is not affiliated with, sponsored by, or endorsed by{' '}
+          {NOT_AFFILIATED_WITH[atlasId]}.
         </Callout>
       </div>
 
@@ -355,7 +374,7 @@ function TopicView({
           className="inline-flex items-center gap-1.5 font-medium text-accent-strong hover:underline"
         >
           <BookOpen className="h-4 w-4" />
-          Read the official docs
+          {sourceLabel(topic.docUrl)}
           <ExternalLink className="h-3.5 w-3.5" />
         </a>
         {verification ? (

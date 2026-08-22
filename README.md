@@ -3,8 +3,8 @@
 Built for **AWS solutions architects, GenAI platform teams, and enterprise
 architects** designing RAG and agentic systems on AWS. Nine RAG architectures
 from a naive prototype to a secure, guardrailed, agentic multi-knowledge-base
-system; visual atlases of the complete **Amazon Bedrock AgentCore** and
-**Strands Agents** surfaces; downloadable end-to-end notebooks; and a composer
+system; visual atlases of retrieval technique and of the complete **Amazon Bedrock
+AgentCore** and **Strands Agents** surfaces; downloadable end-to-end notebooks; and a composer
 that generates Strands + AgentCore reference implementations and diagrams live.
 
 > **Not affiliated with AWS.** GenArchitect is an independent educational tool,
@@ -36,6 +36,7 @@ maturing a RAG system:
 - **Use case** (`/use-case`) — the Meridian scenario as a progression across patterns.
 - **Catalog** (`/catalog`) — all nine patterns, filterable by difficulty and AWS service.
 - **Architecture detail** (`/architecture/:id`) — synced walkthrough, honest tradeoffs, Meridian tie-in, AWS building blocks, copyable reference code, and real AWS references.
+- **Retrieval atlas** (`/retrieval`) — the discipline underneath every pattern: chunking (with an interactive lab that splits one document five ways), embeddings, vector stores, and the techniques that optimise retrieval and generation. 32 topics across five sections, in original words, citing AWS docs where AWS implements a technique and the original research where it does not.
 - **Atlases** (`/strands`, `/agentcore`) — the complete Strands Agents and Amazon Bedrock AgentCore surfaces, taught visually in **original words** (linking to canonical docs for exact syntax), with per-atlas coverage maps. These are the single source of conceptual truth — every other surface deep-links into them.
 - **Compose** (`/compose`) — a studio that assembles a RAG architecture from components and generates the matching diagram + idiomatic Strands/AgentCore reference code live.
 - **Review** (`/review`) — a short adaptive interview that maps your needs to a pattern, then hands off into the composer (also generates a draw.io template).

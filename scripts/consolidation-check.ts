@@ -1,11 +1,13 @@
 import { flattenTopics } from '../src/atlas/types'
 import { STRANDS_SECTIONS } from '../src/data/atlas/strands'
 import { AGENTCORE_SECTIONS } from '../src/data/atlas/agentcore'
+import { RETRIEVAL_SECTIONS } from '../src/data/atlas/retrieval'
 import { ATLAS_FOR_SERVICE } from '../src/atlas/links'
 
 const byAtlas: Record<string, Set<string>> = {
   strands: new Set(flattenTopics(STRANDS_SECTIONS).map(t => t.id)),
   agentcore: new Set(flattenTopics(AGENTCORE_SECTIONS).map(t => t.id)),
+  retrieval: new Set(flattenTopics(RETRIEVAL_SECTIONS).map(t => t.id)),
 }
 let bad = 0
 for (const [sid, ref] of Object.entries(ATLAS_FOR_SERVICE)) {

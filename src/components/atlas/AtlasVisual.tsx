@@ -7,6 +7,9 @@ import DecisionTree from './DecisionTree'
 import LayeredStack from './LayeredStack'
 import SequenceTrace from './SequenceTrace'
 import LifecycleTimeline from './LifecycleTimeline'
+import ChunkLab from './ChunkLab'
+import VectorSpace from './VectorSpace'
+import RankCompare from './RankCompare'
 
 export interface AtlasVisualViewProps {
   visual: AtlasVisual
@@ -49,6 +52,28 @@ export default function AtlasVisualView({
       return <SequenceTrace spans={visual.spans} />
     case 'lifecycle_timeline':
       return <LifecycleTimeline stages={visual.stages} />
+    case 'chunk_lab':
+      return <ChunkLab document={visual.document} strategies={visual.strategies} />
+    case 'vector_space':
+      return (
+        <VectorSpace
+          query={visual.query}
+          points={visual.points}
+          topK={visual.topK}
+          filter={visual.filter}
+          groups={visual.groups}
+          note={visual.note}
+        />
+      )
+    case 'rank_compare':
+      return (
+        <RankCompare
+          firstStageLabel={visual.firstStageLabel}
+          rerankedLabel={visual.rerankedLabel}
+          items={visual.items}
+          takeaway={visual.takeaway}
+        />
+      )
     case 'none':
       return null
   }

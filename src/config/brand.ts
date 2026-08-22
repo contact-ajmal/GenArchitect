@@ -80,7 +80,7 @@ export const COVERAGE_GROUPS: CoverageGroup[] = [
   {
     title: 'Models & grounding',
     items: [
-      { iconId: 'amazon-bedrock', name: 'Amazon Bedrock', role: 'Foundation and embedding models', to: '/agentcore' },
+      { iconId: 'amazon-bedrock', name: 'Amazon Bedrock', role: 'Foundation and embedding models', to: '/retrieval/what-is-an-embedding' },
       { iconId: 'bedrock-knowledge-bases', name: 'Amazon Bedrock Knowledge Bases', role: 'Managed + customer-managed RAG', to: '/architecture/managed_kb_rag' },
       { iconId: 'bedrock-guardrails', name: 'Amazon Bedrock Guardrails', role: 'Input/output safety and PII', to: '/security' },
     ],
@@ -88,8 +88,8 @@ export const COVERAGE_GROUPS: CoverageGroup[] = [
   {
     title: 'Vector & data',
     items: [
-      { iconId: 'opensearch-service', name: 'Amazon OpenSearch Serverless', role: 'Vector + keyword search', to: '/catalog' },
-      { iconId: 'aurora', name: 'Amazon Aurora PostgreSQL (pgvector)', role: 'Vectors alongside SQL', to: '/catalog' },
+      { iconId: 'opensearch-service', name: 'Amazon OpenSearch Serverless', role: 'Vector + keyword search', to: '/retrieval/aws-vector-options' },
+      { iconId: 'aurora', name: 'Amazon Aurora PostgreSQL (pgvector)', role: 'Vectors alongside SQL', to: '/retrieval/aws-vector-options' },
       { iconId: 'neptune', name: 'Amazon Neptune', role: 'Graph-augmented retrieval', to: '/architecture/graph_rag' },
       { iconId: 'simple-storage-service', name: 'Amazon S3', role: 'Source document store', to: '/catalog' },
     ],

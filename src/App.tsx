@@ -21,6 +21,7 @@ const Notebooks = lazy(() => import('./routes/Notebooks'))
 const NotebookView = lazy(() => import('./routes/NotebookView'))
 const StrandsAtlas = lazy(() => import('./routes/StrandsAtlas'))
 const AgentCoreAtlas = lazy(() => import('./routes/AgentCoreAtlas'))
+const RetrievalAtlas = lazy(() => import('./routes/RetrievalAtlas'))
 const Videos = lazy(() => import('./routes/Videos'))
 const UseCases = lazy(() => import('./routes/UseCases'))
 const Updates = lazy(() => import('./routes/Updates'))
@@ -75,6 +76,8 @@ function App() {
             <Route path="/strands/:topicId" element={<StrandsAtlas />} />
             <Route path="/agentcore" element={<AgentCoreAtlas />} />
             <Route path="/agentcore/:topicId" element={<AgentCoreAtlas />} />
+            <Route path="/retrieval" element={<RetrievalAtlas />} />
+            <Route path="/retrieval/:topicId" element={<RetrievalAtlas />} />
             <Route path="/videos" element={<Videos />} />
             <Route path="/use-cases" element={<UseCases />} />
             <Route path="/updates" element={<Updates />} />

@@ -22,6 +22,15 @@ export const ATLAS_FOR_SERVICE: Partial<Record<AwsServiceId, AtlasRef>> = {
   agentcore_observability: { atlas: 'agentcore', topicId: 'observability-trace', label: 'AgentCore Observability' },
   agentcore_evaluations: { atlas: 'agentcore', topicId: 'evaluations', label: 'AgentCore Evaluations' },
   agentcore_policy: { atlas: 'agentcore', topicId: 'policy', label: 'AgentCore Policy' },
+  // The retrieval atlas is where the storage and model building blocks are
+  // explained, so a pattern's building-block cards link into it directly.
+  bedrock_kb_managed: { atlas: 'retrieval', topicId: 'chunking-decides', label: 'chunking' },
+  bedrock_kb_customer_managed: { atlas: 'retrieval', topicId: 'what-an-index-is', label: 'vector indexes' },
+  bedrock_foundation_models: { atlas: 'retrieval', topicId: 'what-is-an-embedding', label: 'embeddings' },
+  bedrock_guardrails: { atlas: 'retrieval', topicId: 'grounding-checks', label: 'grounding checks' },
+  opensearch_serverless: { atlas: 'retrieval', topicId: 'aws-vector-options', label: 'choosing a vector store' },
+  aurora_pgvector: { atlas: 'retrieval', topicId: 'aws-vector-options', label: 'choosing a vector store' },
+  neptune: { atlas: 'retrieval', topicId: 'aws-vector-options', label: 'choosing a vector store' },
   strands_sdk: { atlas: 'strands', topicId: 'agent-loop', label: 'the agent loop' },
   strands_agents_tools: { atlas: 'strands', topicId: 'community-tools', label: 'the tools package' },
   mcp: { atlas: 'strands', topicId: 'mcp-tools', label: 'MCP integration' },

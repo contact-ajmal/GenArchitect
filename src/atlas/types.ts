@@ -2,14 +2,14 @@ import type { AwsServiceId } from '../types'
 
 /**
  * ============================================================================
- * Atlas content model — the Strands and AgentCore visual documentation atlases.
+ * Atlas content model — the Strands, AgentCore and Retrieval visual atlases.
  * ============================================================================
  *
  * CRITICAL RULE — read before authoring any content:
  *
  *   ALL explanation prose in the atlases MUST be ORIGINAL — written in our own
- *   words. NEVER copy documentation text from AWS or Strands. Link to the
- *   canonical docs (via `docUrl`) for exact syntax and API detail.
+ *   words. NEVER copy documentation text from AWS, Strands, or a paper. Link
+ *   to the canonical source (via `docUrl`) for exact syntax and API detail.
  *
  * This is both a LEGAL requirement (the docs are copyrighted; original
  * explanation + linking is defensible, copying is not) and a MAINTENANCE
@@ -18,7 +18,7 @@ import type { AwsServiceId } from '../types'
  * so "complete coverage" is a verifiable claim, not a vibe.
  */
 
-export type AtlasId = 'strands' | 'agentcore'
+export type AtlasId = 'strands' | 'agentcore' | 'retrieval'
 
 export type CoverageStatus = 'full' | 'overview' | 'planned'
 
@@ -119,6 +119,87 @@ export interface TimelineStage {
   technical?: string
 }
 
+/* --- Chunking lab ---------------------------------------------------------- */
+
+/**
+ * One chunk exactly as it would be embedded. The text is carried on the chunk
+ * rather than derived from the document by offsets, because what teaches
+ * chunking is seeing the literal string that becomes a vector — including the
+ * sentence a fixed-size rule cut in half.
+ */
+export interface ChunkPiece {
+  id: string
+  label: string
+  /** The exact text this chunk contains. */
+  text: string
+  /**
+   * Leading characters of `text` to tint. Overlap from the previous chunk by
+   * default; set `leadInNote` when it is something else, such as context
+   * prepended at ingest.
+   */
+  overlapChars?: number
+  /** Caption for the tinted lead-in, replacing the default overlap wording. */
+  leadInNote?: string
+  /** Approximate token count (authored — we do not tokenize in the browser). */
+  tokens: number
+  /** Per-chunk caveat, e.g. "splits mid-sentence". */
+  warning?: string
+  /** For hierarchical strategies: the parent chunk this child belongs to. */
+  parentId?: string
+}
+
+/** One way of splitting the same document. */
+export interface ChunkStrategy {
+  id: string
+  label: string
+  /** The splitting rule in one line. */
+  rule: string
+  /** Config summary, e.g. "max 512 tokens - overlap 50". */
+  config?: string
+  benefit: string
+  caveat?: string
+  /** What the retriever hands the model on a hit (differs for hierarchical). */
+  retrievedNote?: string
+  chunks: ChunkPiece[]
+}
+
+/* --- Vector space ---------------------------------------------------------- */
+
+export interface VectorPoint {
+  id: string
+  label: string
+  /** Normalized position in a 0-100 projected space. */
+  x: number
+  y: number
+  /** Drives the point color; must match a `groups` entry when present. */
+  group?: string
+  /** Metadata a filter can test, e.g. { dept: "claims" }. */
+  meta?: Record<string, string>
+  /** Similarity to the query, 0-1. Authored — the app computes no embeddings. */
+  similarity: number
+}
+
+/** A metadata filter the viewer can toggle, to show pre-filtering in action. */
+export interface VectorFilter {
+  label: string
+  key: string
+  value: string
+}
+
+/* --- Rank comparison ------------------------------------------------------- */
+
+export interface RankedItem {
+  id: string
+  label: string
+  /** First-stage retrieval score, 0-1. */
+  firstScore: number
+  /** Score after reranking, 0-1. */
+  rerankScore: number
+  /** The chunk that actually answers the question. */
+  answerBearing?: boolean
+  note?: string
+}
+
 export type AtlasVisual =
   | { kind: 'none'; reason: string }
   | {
@@ -135,6 +216,29 @@ export type AtlasVisual =
   | { kind: 'layered_stack'; layers: StackLayer[] }
   | { kind: 'sequence_trace'; spans: TraceSpan[] }
   | { kind: 'lifecycle_timeline'; stages: TimelineStage[] }
+  | {
+      kind: 'chunk_lab'
+      /** The source document, shown above the split so the input is visible. */
+      document: { title: string; body: string }
+      strategies: ChunkStrategy[]
+    }
+  | {
+      kind: 'vector_space'
+      query: { label: string; x: number; y: number }
+      points: VectorPoint[]
+      /** How many neighbours the retriever asks for. */
+      topK: number
+      filter?: VectorFilter
+      groups?: { id: string; label: string }[]
+      note?: string
+    }
+  | {
+      kind: 'rank_compare'
+      firstStageLabel: string
+      rerankedLabel: string
+      items: RankedItem[]
+      takeaway: string
+    }
 
 export type AtlasVisualKind = AtlasVisual['kind']
 

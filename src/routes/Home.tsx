@@ -152,10 +152,14 @@ export default function Home() {
               has to defend and the reference code that implements it.
             </p>
             <p>
-              Two visual atlases cover the complete Amazon Bedrock AgentCore and
-              Strands Agents surfaces — the agent loop, memory, Gateway, identity,
-              observability, evaluations — taught in original words with
-              interactive visuals, linking out to the canonical documentation for
+              Three visual atlases cover the ground underneath those patterns.
+              Retrieval takes chunking, embeddings, vector stores and the
+              techniques that make retrieval and generation work — with a lab
+              that splits one document five ways so you can see what each rule
+              costs. The other two cover the complete Amazon Bedrock AgentCore
+              and Strands Agents surfaces — the agent loop, memory, Gateway,
+              identity, observability, evaluations. All in original words with
+              interactive visuals, linking out to the canonical sources for
               exact syntax.
             </p>
             <p>
@@ -199,9 +203,9 @@ export default function Home() {
               },
               {
                 icon: Boxes,
-                title: 'Learning AgentCore and Strands',
-                body: 'Two visual atlases covering the complete AgentCore and Strands surfaces, linked to canonical docs.',
-                to: '/agentcore',
+                title: 'Learning retrieval, AgentCore and Strands',
+                body: 'Three visual atlases: chunking and retrieval technique, plus the complete AgentCore and Strands surfaces.',
+                to: '/retrieval',
                 cta: 'Open the atlases',
               },
             ].map((card) => (

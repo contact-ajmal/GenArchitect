@@ -43,6 +43,12 @@ type NavItem = {
   kind: 'route' | 'anchor'
   /** When present the item opens a menu instead of navigating. */
   children?: NavChild[]
+  /**
+   * Route prefixes that mark this item active. Needed for menus whose children
+   * live under unrelated paths — the atlases share no common parent route, so
+   * `to` alone cannot tell you when one of them is open.
+   */
+  matchPrefixes?: string[]
 }
 
 const ARCHITECTURE_CHILDREN: NavChild[] = ARCHITECTURE_FAMILIES.map((f) => ({
@@ -51,12 +57,46 @@ const ARCHITECTURE_CHILDREN: NavChild[] = ARCHITECTURE_FAMILIES.map((f) => ({
   blurb: f.blurb,
 }))
 
+/**
+ * The three atlases share a menu rather than three top-level slots. With
+ * Retrieval added they would have pushed the bar to ten items, and they are
+ * the same kind of thing — the conceptual reference the rest of the app links
+ * into — so they read better grouped than spread out.
+ */
+const ATLAS_CHILDREN: NavChild[] = [
+  {
+    label: 'Retrieval',
+    to: '/retrieval',
+    blurb:
+      'Chunking, embeddings, vector stores, and the techniques that make retrieval and generation work.',
+  },
+  {
+    label: 'Strands',
+    to: '/strands',
+    blurb:
+      'The Strands Agents SDK surface — the agent loop, tools, state and multi-agent patterns.',
+  },
+  {
+    label: 'AgentCore',
+    to: '/agentcore',
+    blurb:
+      'The Amazon Bedrock AgentCore surface — runtime, memory, gateway, identity and observability.',
+  },
+]
+
 const NAV_ITEMS: NavItem[] = [
   { label: 'Use case', to: '/use-case', kind: 'route' },
   { label: 'Architectures', to: '/catalog', kind: 'route', children: ARCHITECTURE_CHILDREN },
   { label: 'Compose', to: '/compose', kind: 'route' },
-  { label: 'Strands', to: '/strands', kind: 'route' },
-  { label: 'AgentCore', to: '/agentcore', kind: 'route' },
+  {
+    label: 'Atlases',
+    // Not a landing page of its own — this is the first child, and the target
+    // if the trigger ever becomes navigable.
+    to: '/retrieval',
+    kind: 'route',
+    children: ATLAS_CHILDREN,
+    matchPrefixes: ['/retrieval', '/strands', '/agentcore'],
+  },
   { label: 'Notebooks', to: '/notebooks', kind: 'route' },
   { label: 'Videos', to: '/videos', kind: 'route' },
   { label: 'Latest', to: '/updates', kind: 'route' },
@@ -80,7 +120,9 @@ function NavMenu({ item }: { item: NavItem }) {
   const [open, setOpen] = useState(false)
   const ref = useRef<HTMLDivElement>(null)
   const location = useLocation()
-  const isActive = location.pathname.startsWith(item.to)
+  const isActive = (item.matchPrefixes ?? [item.to]).some((prefix) =>
+    location.pathname.startsWith(prefix),
+  )
 
   useEffect(() => setOpen(false), [location.pathname])
 
