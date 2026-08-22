@@ -4,7 +4,8 @@ import { BRAND } from '../config/brand'
 
 const NAV = [
   { label: 'Use case', to: '/use-case' },
-  { label: 'Architectures', to: '/catalog' },
+  { label: 'RAG architectures', to: '/catalog/rag' },
+  { label: 'Agentic data architectures', to: '/catalog/agentic-data' },
   { label: 'Review', to: '/review' },
   { label: 'Build', to: '/build' },
   { label: 'Failure modes', to: '/failure-modes' },

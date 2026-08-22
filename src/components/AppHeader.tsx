@@ -1,7 +1,8 @@
-import { useState } from 'react'
-import { Link, NavLink } from 'react-router-dom'
-import { Menu, Search, X } from 'lucide-react'
+import { useEffect, useRef, useState } from 'react'
+import { Link, NavLink, useLocation } from 'react-router-dom'
+import { ChevronDown, Menu, Search, X } from 'lucide-react'
 import clsx from 'clsx'
+import { ARCHITECTURE_FAMILIES } from '../data/architectures'
 
 /**
  * Stylized retrieval / graph-node glyph: a central query node linked out to
@@ -35,11 +36,24 @@ function GraphGlyph({ className }: { className?: string }) {
   )
 }
 
-type NavItem = { label: string; to: string; kind: 'route' | 'anchor' }
+type NavChild = { label: string; to: string; blurb: string }
+type NavItem = {
+  label: string
+  to: string
+  kind: 'route' | 'anchor'
+  /** When present the item opens a menu instead of navigating. */
+  children?: NavChild[]
+}
+
+const ARCHITECTURE_CHILDREN: NavChild[] = ARCHITECTURE_FAMILIES.map((f) => ({
+  label: f.navLabel,
+  to: `/catalog/${f.slug}`,
+  blurb: f.blurb,
+}))
 
 const NAV_ITEMS: NavItem[] = [
   { label: 'Use case', to: '/use-case', kind: 'route' },
-  { label: 'Architectures', to: '/catalog', kind: 'route' },
+  { label: 'Architectures', to: '/catalog', kind: 'route', children: ARCHITECTURE_CHILDREN },
   { label: 'Compose', to: '/compose', kind: 'route' },
   { label: 'Strands', to: '/strands', kind: 'route' },
   { label: 'AgentCore', to: '/agentcore', kind: 'route' },
@@ -53,6 +67,84 @@ function navLinkClass({ isActive }: { isActive: boolean }) {
   return clsx(
     'text-sm font-medium transition-colors hover:text-ink',
     isActive ? 'text-ink' : 'text-ink-muted',
+  )
+}
+
+/**
+ * Desktop nav item that opens a menu. Click to toggle; closes on Escape, on an
+ * outside click, and whenever the route changes so it never survives a
+ * navigation. The trigger is a button, not a link — it opens the menu rather
+ * than going anywhere, which is what a disclosure control should do.
+ */
+function NavMenu({ item }: { item: NavItem }) {
+  const [open, setOpen] = useState(false)
+  const ref = useRef<HTMLDivElement>(null)
+  const location = useLocation()
+  const isActive = location.pathname.startsWith(item.to)
+
+  useEffect(() => setOpen(false), [location.pathname])
+
+  useEffect(() => {
+    if (!open) return
+    const onDown = (e: MouseEvent) => {
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false)
+    }
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setOpen(false)
+    }
+    document.addEventListener('mousedown', onDown)
+    document.addEventListener('keydown', onKey)
+    return () => {
+      document.removeEventListener('mousedown', onDown)
+      document.removeEventListener('keydown', onKey)
+    }
+  }, [open])
+
+  return (
+    <div ref={ref} className="relative">
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        aria-expanded={open}
+        aria-haspopup="menu"
+        className={clsx(
+          'inline-flex items-center gap-1 text-sm font-medium transition-colors hover:text-ink',
+          isActive || open ? 'text-ink' : 'text-ink-muted',
+        )}
+      >
+        {item.label}
+        <ChevronDown
+          className={clsx('h-3.5 w-3.5 transition-transform', open && 'rotate-180')}
+          aria-hidden="true"
+        />
+      </button>
+
+      {open ? (
+        <div
+          role="menu"
+          className="absolute right-0 top-full z-50 mt-2 w-80 overflow-hidden rounded-xl border border-hairline bg-neutral-0 shadow-lg"
+        >
+          {item.children?.map((child) => (
+            <NavLink
+              key={child.to}
+              to={child.to}
+              role="menuitem"
+              className={({ isActive: childActive }) =>
+                clsx(
+                  'block border-b border-hairline px-4 py-3 last:border-b-0 transition-colors hover:bg-neutral-100',
+                  childActive && 'bg-neutral-50',
+                )
+              }
+            >
+              <span className="block text-sm font-medium text-ink">{child.label}</span>
+              <span className="mt-0.5 block text-xs leading-relaxed text-ink-muted line-clamp-2">
+                {child.blurb}
+              </span>
+            </NavLink>
+          ))}
+        </div>
+      ) : null}
+    </div>
   )
 }
 
@@ -95,7 +187,9 @@ export default function AppHeader() {
           {/* Desktop nav */}
           <nav className="hidden items-center gap-4 xl:flex">
             {NAV_ITEMS.map((item) =>
-              item.kind === 'route' ? (
+              item.children ? (
+                <NavMenu key={item.to} item={item} />
+              ) : item.kind === 'route' ? (
                 <NavLink key={item.to} to={item.to} className={navLinkClass}>
                   {item.label}
                 </NavLink>
@@ -130,7 +224,35 @@ export default function AppHeader() {
           <ul className="flex flex-col gap-1">
             {NAV_ITEMS.map((item) => (
               <li key={item.to}>
-                {item.kind === 'route' ? (
+                {item.children ? (
+                  /* No dropdown on mobile — the sheet has room, so the
+                     children sit inline under a section label. */
+                  <>
+                    <span className="block px-3 pb-1 pt-2 font-mono text-[11px] uppercase tracking-wide text-ink-muted">
+                      {item.label}
+                    </span>
+                    <ul className="flex flex-col gap-1">
+                      {item.children.map((child) => (
+                        <li key={child.to}>
+                          <NavLink
+                            to={child.to}
+                            onClick={() => setOpen(false)}
+                            className={({ isActive }) =>
+                              clsx(
+                                'block rounded-md px-3 py-2 text-sm font-medium transition-colors',
+                                isActive
+                                  ? 'bg-neutral-100 text-ink'
+                                  : 'text-ink-muted hover:bg-neutral-100 hover:text-ink',
+                              )
+                            }
+                          >
+                            {child.label}
+                          </NavLink>
+                        </li>
+                      ))}
+                    </ul>
+                  </>
+                ) : item.kind === 'route' ? (
                   <NavLink
                     to={item.to}
                     onClick={() => setOpen(false)}

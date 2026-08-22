@@ -60,21 +60,37 @@ export function architecturesInFamily(family: ArchitectureFamily): RagArchitectu
  * Catalog subsections, in display order. Titles and blurbs live here so the
  * catalog page stays presentational.
  */
-export const ARCHITECTURE_FAMILIES: {
+export interface ArchitectureFamilyMeta {
   id: ArchitectureFamily
+  /** URL segment under /catalog. */
+  slug: string
+  /** Nav label — kept short enough for a dropdown row. */
+  navLabel: string
   title: string
+  /** One line under the nav label, and the page's standfirst. */
   blurb: string
-}[] = [
+}
+
+export const ARCHITECTURE_FAMILIES: ArchitectureFamilyMeta[] = [
   {
     id: 'rag',
+    slug: 'rag',
+    navLabel: 'RAG architectures',
     title: 'RAG architectures',
     blurb:
-      'Nine retrieval patterns, foundational to production. Each one builds on the last, and together they are the progression the Meridian scenario walks through.',
+      'Retrieval patterns, foundational to production. Each one builds on the last, and together they are the progression the Meridian scenario walks through.',
   },
   {
     id: 'agentic-data-engineering',
-    title: 'Agentic data engineering',
+    slug: 'agentic-data',
+    navLabel: 'Agentic data architectures',
+    title: 'Agentic data architectures',
     blurb:
-      'Agents that build the pipeline rather than answer from it — generating transformation code, quality gates and governance for a data lake, with a human approving the output.',
+      'Agents that build the data pipeline rather than answer from it — generating transformation code, quality gates and governance for a lake, with an engineer approving the output.',
   },
 ]
+
+/** Resolve a /catalog/:family URL segment. Unknown or absent falls back to RAG. */
+export function familyBySlug(slug?: string): ArchitectureFamilyMeta {
+  return ARCHITECTURE_FAMILIES.find((f) => f.slug === slug) ?? ARCHITECTURE_FAMILIES[0]
+}

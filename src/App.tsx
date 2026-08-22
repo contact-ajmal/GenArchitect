@@ -55,6 +55,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/catalog" element={<Catalog />} />
+            {/* Family-scoped catalog; /catalog alone falls back to RAG. */}
+            <Route path="/catalog/:family" element={<Catalog />} />
             <Route path="/architecture/:id" element={<ArchitectureDetail />} />
             <Route path="/use-case" element={<UseCase />} />
             <Route path="/build" element={<Build />} />
