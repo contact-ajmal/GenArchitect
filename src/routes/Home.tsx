@@ -15,6 +15,7 @@ import { ARCHITECTURE_LIST } from '../data/architectures'
 import { Button, Eyebrow, Pill } from '../components/ui'
 import AmbientSync from '../components/diagram/AmbientSync'
 import VisitorCounter from '../components/VisitorCounter'
+import LatestUpdates from '../components/updates/LatestUpdates'
 import AwsServiceIcon from '../components/aws/AwsServiceIcon'
 import { ARCHITECTURES } from '../data/architectures'
 import { BRAND, COVERAGE_GROUPS } from '../config/brand'
@@ -79,7 +80,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 2. AWS SERVICE COVERAGE STRIP */}
+      {/* 2. LATEST — first thing after the hero, so it is seen without scrolling far */}
+      <LatestUpdates />
+
+      {/* 3. AWS SERVICE COVERAGE STRIP */}
       <section className="border-b border-hairline bg-neutral-0">
         <div className="mx-auto max-w-content px-4 py-14 sm:px-6">
           <Eyebrow>AWS services covered</Eyebrow>
@@ -135,7 +139,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 3. WHAT IT IS */}
+      {/* 4. WHAT IT IS */}
       <section className="mx-auto max-w-content px-4 py-16 sm:px-6">
         <div className="max-w-3xl">
           <Eyebrow>What it is</Eyebrow>
@@ -170,7 +174,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 4. BUILT FOR AWS ARCHITECTS */}
+      {/* 5. BUILT FOR AWS ARCHITECTS */}
       <section className="border-y border-hairline bg-neutral-0">
         <div className="mx-auto max-w-content px-4 py-16 sm:px-6">
           <Eyebrow>Built for AWS architects</Eyebrow>
@@ -223,7 +227,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 5. THE ENTERPRISE USE CASE */}
+      {/* 6. THE ENTERPRISE USE CASE */}
       <section className="mx-auto max-w-content px-4 py-16 sm:px-6">
         <div className="grid gap-8 lg:grid-cols-[1fr_auto] lg:items-end">
           <div className="max-w-2xl">
@@ -249,7 +253,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 6. WELL-ARCHITECTED FRAMING */}
+      {/* 7. WELL-ARCHITECTED FRAMING */}
       <section className="border-y border-hairline bg-neutral-0">
         <div className="mx-auto max-w-content px-4 py-16 sm:px-6">
           <Eyebrow>The concerns you answer for</Eyebrow>
@@ -289,7 +293,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 7. NOTEBOOKS & ARTIFACTS */}
+      {/* 8. NOTEBOOKS & ARTIFACTS */}
       <section className="mx-auto max-w-content px-4 py-16 sm:px-6">
         <div className="grid gap-8 lg:grid-cols-[1fr_auto] lg:items-end">
           <div className="max-w-2xl">
@@ -351,7 +355,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 8. CREDIBILITY & HONESTY */}
+      {/* 9. CREDIBILITY & HONESTY */}
       <section id="about" className="border-t border-hairline bg-neutral-0">
         <div className="mx-auto max-w-content px-4 py-16 sm:px-6">
           <Eyebrow>Credibility &amp; honesty</Eyebrow>

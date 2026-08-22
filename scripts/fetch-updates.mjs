@@ -17,11 +17,13 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs'
 
 const FEEDS = new URL('../data/feeds.json', import.meta.url)
 const UPDATES = new URL('../data/updates.json', import.meta.url)
+const UPDATES_LATEST = new URL('../data/updates-latest.json', import.meta.url)
 const CURATION = new URL('../data/updates-curation.json', import.meta.url)
 
 const REQUEST_TIMEOUT_MS = 20000
 const RETAIN_MAX_PER_SOURCE = 80 // per-feed cap in the committed output
 const GLOBAL_MAX = 500 // total cap so the JSON stays reasonable
+const LATEST_COUNT = 6 // how many the homepage band shows
 const EXCERPT_MAX = 220 // characters of syndicated excerpt we keep
 const UA = 'GenArchitect-feed-reader/1.0 (+https://github.com/contact-ajmal/GenArchitect)'
 
@@ -288,7 +290,21 @@ async function main() {
 
   if (!kept.every(validate)) throw new Error('validation failed — refusing to write invalid updates.json')
 
-  writeFileSync(UPDATES, JSON.stringify({ generatedAt: new Date().toISOString(), updates: kept }, null, 2) + '\n')
+  const generatedAt = new Date().toISOString()
+  writeFileSync(UPDATES, JSON.stringify({ generatedAt, updates: kept }, null, 2) + '\n')
+
+  // Companion file for the homepage band. The full feed is ~20 kB gzipped and
+  // the homepage is eagerly loaded, so importing it there would put the whole
+  // library on the critical path to render six compact cards. This carries only
+  // the fields those cards draw — no excerpts, no topics.
+  const seenLatest = new Set()
+  const latest = [...kept.filter((u) => u.pinned), ...kept]
+    .filter((u) => (seenLatest.has(u.id) ? false : (seenLatest.add(u.id), true)))
+    .slice(0, LATEST_COUNT)
+    .map(({ id, title, url, publishedAt, sourceName, kind, pinned }) => ({
+      id, title, url, publishedAt, sourceName, kind, ...(pinned ? { pinned } : {}),
+    }))
+  writeFileSync(UPDATES_LATEST, JSON.stringify({ generatedAt, updates: latest }, null, 2) + '\n')
 
   console.log('\n── updates refresh ──')
   console.log(`  sources checked  : ${report.sourcesChecked}`)

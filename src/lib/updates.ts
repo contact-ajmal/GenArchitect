@@ -1,4 +1,9 @@
-import type { UpdateCuration, UpdateData, UpdateEntry, UpdateTopic } from '../types'
+import type {
+  UpdateCuration,
+  UpdateData,
+  UpdateEntry,
+  UpdateTopic,
+} from '../types'
 import rawUpdates from '../../data/updates.json'
 import rawCuration from '../../data/updates-curation.json'
 
@@ -32,7 +37,13 @@ export function daysSinceUpdateRefresh(): number {
   return (Date.now() - t) / 86_400_000
 }
 
-/** Most recent updates, for surfacing a short rail elsewhere on the site. */
+/**
+ * Re-exported for convenience. Do NOT import this from an eagerly-loaded page —
+ * it pulls the full feed in with it. Use lib/updates-latest.ts there instead.
+ */
+export { LATEST_UPDATES } from './updates-latest'
+
+/** Most recent updates from the full feed, for use on pages that already load it. */
 export function latestUpdates(limit = 4): UpdateEntry[] {
   return UPDATES.slice(0, limit)
 }

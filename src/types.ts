@@ -572,6 +572,21 @@ export interface UpdateData {
   updates: UpdateEntry[]
 }
 
+/**
+ * The trimmed shape the homepage band renders. Deliberately narrower than
+ * UpdateEntry: the full feed is eagerly loaded there, so it carries only the
+ * fields a compact card draws.
+ */
+export type UpdateSummary = Pick<
+  UpdateEntry,
+  'id' | 'title' | 'url' | 'publishedAt' | 'sourceName' | 'kind'
+> & { pinned?: boolean }
+
+export interface UpdateLatestData {
+  generatedAt: string
+  updates: UpdateSummary[]
+}
+
 export interface UpdateCuration {
   /** Ordered ids shown first, above the feed. */
   pinned: string[]

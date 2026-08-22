@@ -28,7 +28,7 @@ jobs:
         run: |
           node scripts/fetch-updates.mjs | tee /tmp/updates.log
           # Fail loudly if the output isn't valid JSON — never commit corruption.
-          node -e "JSON.parse(require('fs').readFileSync('data/updates.json','utf8'))"
+          node -e "for (const f of ['data/updates.json','data/updates-latest.json']) JSON.parse(require('fs').readFileSync(f,'utf8'))"
 
       - name: Job summary
         if: always()
@@ -43,17 +43,17 @@ jobs:
 
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain data/updates.json)" ]]; then
+          if [[ -n "$(git status --porcelain data/updates.json data/updates-latest.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             # No [skip ci] here: Cloudflare Pages honours it and would skip the
             # deploy, leaving fresh data committed but never published. Nothing
             # needs suppressing — this workflow runs on schedule/dispatch only,
             # never on push, so there is no loop to break.
-            git add data/updates.json
+            git add data/updates.json data/updates-latest.json
             git commit -m "chore(updates): daily refresh"
             git push
-            echo "Committed refreshed updates.json."
+            echo "Committed refreshed updates.json + updates-latest.json."
           else
-            echo "No changes to data/updates.json."
+            echo "No changes to the updates data."
           fi
