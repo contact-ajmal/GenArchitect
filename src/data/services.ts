@@ -179,6 +179,16 @@ export const AWS_SERVICES: Record<AwsServiceId, AwsService> = {
       'Store raw corpora (PDFs, HTML, transcripts) as the source for Bedrock KB connectors or a custom ingestion pipeline.',
   },
 
+  textract: {
+    id: 'textract',
+    name: 'Amazon Textract',
+    category: 'storage',
+    oneLiner:
+      'Extracts text, tables and form structure from scanned and native PDFs — the parser that turns a filing into something a chunker can split.',
+    whenToUse:
+      'When the corpus is PDFs whose meaning lives in tables and layout, and a plain text extractor would flatten a financial statement into unusable prose.',
+  },
+
   /* --- Data / analytics (agentic data engineering) --------------------- */
   glue: {
     id: 'glue',

@@ -22,12 +22,32 @@ const AWS_ICON: Partial<Record<AwsServiceId, AwsIcon>> = {
   opensearch_serverless: { resIcon: 'mxgraph.aws4.opensearch_service', fill: '#8C4FFF' },
   aurora_pgvector: { resIcon: 'mxgraph.aws4.aurora', fill: '#C925D1' },
   neptune: { resIcon: 'mxgraph.aws4.neptune', fill: '#C925D1' },
+  textract: { resIcon: 'mxgraph.aws4.textract', fill: '#01A88D' },
   iam: { resIcon: 'mxgraph.aws4.identity_and_access_management_iam', fill: '#DD344C' },
   cloudwatch: { resIcon: 'mxgraph.aws4.cloudwatch', fill: '#E7157B' },
   bedrock_foundation_models: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
   bedrock_kb_managed: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
   bedrock_kb_customer_managed: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
   bedrock_guardrails: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  // AgentCore ships as part of Amazon Bedrock, so it carries the Bedrock mark.
+  agentcore_runtime: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_memory: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_gateway: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_identity: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_browser: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_code_interpreter: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_observability: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_evaluations: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  agentcore_policy: { resIcon: 'mxgraph.aws4.bedrock', fill: '#01A88D' },
+  // Analytics — the agentic data engineering family had no marks at all.
+  glue: { resIcon: 'mxgraph.aws4.glue', fill: '#8C4FFF' },
+  glue_data_quality: { resIcon: 'mxgraph.aws4.glue', fill: '#8C4FFF' },
+  glue_data_catalog: { resIcon: 'mxgraph.aws4.glue', fill: '#8C4FFF' },
+  athena: { resIcon: 'mxgraph.aws4.athena', fill: '#8C4FFF' },
+  lake_formation: { resIcon: 'mxgraph.aws4.lake_formation', fill: '#8C4FFF' },
+  s3_tables: { resIcon: 'mxgraph.aws4.s3', fill: '#7AA116' },
+  kms: { resIcon: 'mxgraph.aws4.key_management_service', fill: '#DD344C' },
+  cloudtrail: { resIcon: 'mxgraph.aws4.cloudtrail', fill: '#E7157B' },
 }
 
 const MAIN_ORDER: LayerId[] = ['sources', 'ingestion', 'bronze', 'silver', 'gold', 'index', 'retrieval', 'augmentation', 'generation', 'consumption']

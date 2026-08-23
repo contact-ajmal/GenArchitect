@@ -7,7 +7,7 @@
     "trustTier: 'official' = AWS-published; 'community' = reputable third-party write-up.",
     "Facts (metrics, services) reflect the source at time of curation; re-verify against the sourceUrl before quoting."
   ],
-  "generatedAt": "2026-08-18T00:00:00.000Z",
+  "generatedAt": "2026-08-23T00:00:00.000Z",
   "useCases": [
     {
       "id": "epsilon-campaign-automation",
@@ -15,9 +15,15 @@
       "industry": "marketing-advertising",
       "title": "Intelligent Campaign Automation for large brands",
       "summary": "Agents design campaigns, target audiences, and optimise across channels in real time, cutting manual campaign-ops work for major advertisers.",
-      "services": ["Amazon Bedrock AgentCore", "Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock AgentCore",
+        "Amazon Bedrock"
+      ],
       "agentPattern": "Multi-agent",
-      "relatedPatternIds": ["multi_agent_rag", "agentic_rag"],
+      "relatedPatternIds": [
+        "multi_agent_rag",
+        "agentic_rag"
+      ],
       "metric": "Faster execution and more precise targeting at scale",
       "sourceName": "AWS blog",
       "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
@@ -31,9 +37,14 @@
       "industry": "manufacturing",
       "title": "Agentic manufacturing and quality control",
       "summary": "One agent authors test procedures for quality control; another trains vision systems for factory robots, compressing engineering effort on the line.",
-      "services": ["Amazon Bedrock AgentCore", "AgentCore Runtime"],
+      "services": [
+        "Amazon Bedrock AgentCore",
+        "AgentCore Runtime"
+      ],
       "agentPattern": "Agentic workflow",
-      "relatedPatternIds": ["agentic_rag"],
+      "relatedPatternIds": [
+        "agentic_rag"
+      ],
       "metric": "Object-detection fine-tuning cut from days to under an hour",
       "sourceName": "AWS blog",
       "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
@@ -46,9 +57,18 @@
       "industry": "healthcare",
       "title": "Clinical-review copilot for medical-necessity decisions",
       "summary": "Review Resolve analyses clinical records and patient data to speed health-plan medical-necessity reviews, with audit trails and multi-hour workflow memory.",
-      "services": ["Amazon Bedrock AgentCore", "AgentCore Runtime", "AgentCore Memory", "AgentCore Observability"],
+      "services": [
+        "Amazon Bedrock AgentCore",
+        "AgentCore Runtime",
+        "AgentCore Memory",
+        "AgentCore Observability"
+      ],
       "agentPattern": "Memory-augmented copilot",
-      "relatedPatternIds": ["memory_augmented_rag", "guardrailed_secure_rag", "managed_kb_rag"],
+      "relatedPatternIds": [
+        "memory_augmented_rag",
+        "guardrailed_secure_rag",
+        "managed_kb_rag"
+      ],
       "metric": "Expected to cut review times by 30–40%",
       "sourceName": "AWS blog",
       "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
@@ -62,9 +82,13 @@
       "industry": "telecom",
       "title": "R&D agents across 3G/4G/5G/6G systems",
       "summary": "Agents assist a large engineering workforce with telecom R&D across cellular generations, embedding agentic AI into connectivity development.",
-      "services": ["Amazon Bedrock AgentCore"],
+      "services": [
+        "Amazon Bedrock AgentCore"
+      ],
       "agentPattern": "Agentic workflow",
-      "relatedPatternIds": ["agentic_rag"],
+      "relatedPatternIds": [
+        "agentic_rag"
+      ],
       "metric": "Double-digit productivity gains across tens of thousands of staff",
       "sourceName": "AWS blog",
       "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
@@ -77,9 +101,17 @@
       "industry": "media-entertainment",
       "title": "Group-wide agentic AI platform",
       "summary": "A shared platform lets teams across the group build and run agents for operational efficiency, with private networking and step-level observability.",
-      "services": ["Amazon Bedrock AgentCore", "AgentCore Runtime", "AgentCore Observability", "AWS PrivateLink"],
+      "services": [
+        "Amazon Bedrock AgentCore",
+        "AgentCore Runtime",
+        "AgentCore Observability",
+        "AWS PrivateLink"
+      ],
       "agentPattern": "Multi-agent platform",
-      "relatedPatternIds": ["multi_agent_rag", "agentic_rag"],
+      "relatedPatternIds": [
+        "multi_agent_rag",
+        "agentic_rag"
+      ],
       "sourceName": "AWS blog",
       "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
       "trustTier": "official",
@@ -91,9 +123,15 @@
       "industry": "life-sciences",
       "title": "Drug-development decision agents",
       "summary": "Bedrock Agents surface insights across research data to accelerate decisions in the drug-development pipeline.",
-      "services": ["Amazon Bedrock Agents", "Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock Agents",
+        "Amazon Bedrock"
+      ],
       "agentPattern": "Agentic RAG",
-      "relatedPatternIds": ["agentic_rag", "multi_kb_agentic_rag"],
+      "relatedPatternIds": [
+        "agentic_rag",
+        "multi_kb_agentic_rag"
+      ],
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/bedrock/testimonials/",
       "trustTier": "official",
@@ -105,9 +143,15 @@
       "industry": "life-sciences",
       "title": "Automating scientific drug research",
       "summary": "AI agents automate steps of the drug-research process, connecting scientific data sources to speed discovery workflows.",
-      "services": ["Amazon Bedrock Agents", "Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock Agents",
+        "Amazon Bedrock"
+      ],
       "agentPattern": "Multi-agent",
-      "relatedPatternIds": ["agentic_rag", "multi_agent_rag"],
+      "relatedPatternIds": [
+        "agentic_rag",
+        "multi_agent_rag"
+      ],
       "sourceName": "AWS customer story",
       "sourceUrl": "https://aws.amazon.com/ai/generative-ai/customers/",
       "trustTier": "official",
@@ -119,9 +163,17 @@
       "industry": "insurance",
       "title": "Generative-AI underwriting assistant",
       "summary": "A document-heavy underwriting workflow uses retrieval and extraction to summarise submissions and support underwriter decisions.",
-      "services": ["Amazon Bedrock", "Amazon Kendra", "Amazon Textract", "Amazon Comprehend"],
+      "services": [
+        "Amazon Bedrock",
+        "Amazon Kendra",
+        "Amazon Textract",
+        "Amazon Comprehend"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag", "hybrid_rerank_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag",
+        "hybrid_rerank_rag"
+      ],
       "metric": "Underwriting costs reduced by up to 80%",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/solutions/case-studies/exl-case-study/",
@@ -135,9 +187,15 @@
       "industry": "financial-services",
       "title": "Natural-language investment-management assistant",
       "summary": "A conversational layer over analytics lets investment teams query portfolios in natural language, reducing service tickets.",
-      "services": ["Amazon Bedrock", "Amazon SageMaker"],
+      "services": [
+        "Amazon Bedrock",
+        "Amazon SageMaker"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag", "agentic_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag",
+        "agentic_rag"
+      ],
       "metric": "20% business growth without adding headcount",
       "sourceName": "AWS customer story",
       "sourceUrl": "https://aws.amazon.com/ai/generative-ai/customers/",
@@ -150,9 +208,15 @@
       "industry": "cybersecurity",
       "title": "Natural-language security investigations",
       "summary": "Analysts investigate threats in natural language while agents autonomously triage and analyse security alerts.",
-      "services": ["Amazon Bedrock", "Anthropic Claude"],
+      "services": [
+        "Amazon Bedrock",
+        "Anthropic Claude"
+      ],
       "agentPattern": "Agentic workflow",
-      "relatedPatternIds": ["agentic_rag", "guardrailed_secure_rag"],
+      "relatedPatternIds": [
+        "agentic_rag",
+        "guardrailed_secure_rag"
+      ],
       "metric": "23x cost savings; thousands of analyst hours saved at 95% accuracy",
       "sourceName": "AWS customer story",
       "sourceUrl": "https://aws.amazon.com/ai/generative-ai/customers/",
@@ -166,9 +230,15 @@
       "industry": "customer-service",
       "title": "GenerativeAgent for enterprise contact centres",
       "summary": "An autonomous customer-service agent handles enterprise conversations end to end, escalating to humans only when needed.",
-      "services": ["Amazon Bedrock", "Anthropic Claude"],
+      "services": [
+        "Amazon Bedrock",
+        "Anthropic Claude"
+      ],
       "agentPattern": "Conversational agent",
-      "relatedPatternIds": ["agentic_rag", "memory_augmented_rag"],
+      "relatedPatternIds": [
+        "agentic_rag",
+        "memory_augmented_rag"
+      ],
       "metric": "Up to 40% reduction in call escalations",
       "sourceName": "AWS customer story",
       "sourceUrl": "https://aws.amazon.com/ai/generative-ai/customers/",
@@ -181,9 +251,14 @@
       "industry": "financial-services",
       "title": "Real-time ESG market intelligence",
       "summary": "Bedrock powers ESG analysis over market data, turning filings and signals into real-time intelligence for analysts.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag", "hybrid_rerank_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag",
+        "hybrid_rerank_rag"
+      ],
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/bedrock/testimonials/",
       "trustTier": "official",
@@ -195,9 +270,15 @@
       "industry": "software-technology",
       "title": "AI-powered developer support search",
       "summary": "Knowledge Bases ground developer-support answers in Adobe's own documentation, improving search relevance.",
-      "services": ["Amazon Bedrock Knowledge Bases", "Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock Knowledge Bases",
+        "Amazon Bedrock"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag", "hybrid_rerank_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag",
+        "hybrid_rerank_rag"
+      ],
       "metric": "20% better search accuracy",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/bedrock/testimonials/",
@@ -210,9 +291,13 @@
       "industry": "software-technology",
       "title": "AI code generation for developers",
       "summary": "Bedrock backs code-generation features that let developers scaffold and iterate on apps from natural-language prompts.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "Generative assistant",
-      "relatedPatternIds": ["agentic_rag"],
+      "relatedPatternIds": [
+        "agentic_rag"
+      ],
       "metric": "75M+ AI-powered code generations",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/bedrock/testimonials/",
@@ -225,9 +310,13 @@
       "industry": "energy-utilities",
       "title": "Generative AI across environmental operations",
       "summary": "Bedrock supports environmental-services workflows across a large multinational footprint spanning dozens of countries.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag"
+      ],
       "metric": "Deployed across 50+ countries",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/bedrock/testimonials/",
@@ -240,9 +329,15 @@
       "industry": "customer-service",
       "title": "Generative AI in the customer-experience platform",
       "summary": "Generative AI is embedded into an omnichannel CX platform that processes conversations at very high volume with compliance controls.",
-      "services": ["Amazon Bedrock", "Amazon Titan"],
+      "services": [
+        "Amazon Bedrock",
+        "Amazon Titan"
+      ],
       "agentPattern": "Conversational agent",
-      "relatedPatternIds": ["agentic_rag", "memory_augmented_rag"],
+      "relatedPatternIds": [
+        "agentic_rag",
+        "memory_augmented_rag"
+      ],
       "metric": "~1.5 billion calls processed per month",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/solutions/case-studies/genesys-case-study/",
@@ -255,9 +350,14 @@
       "industry": "customer-service",
       "title": "Multilingual generative-AI engagement bots",
       "summary": "Scalable multilingual agents handle customer engagement and produce conversation analytics for revenue teams.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "Multi-agent",
-      "relatedPatternIds": ["agentic_rag", "multi_agent_rag"],
+      "relatedPatternIds": [
+        "agentic_rag",
+        "multi_agent_rag"
+      ],
       "metric": "50% lower cost to serve vs. other providers",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/solutions/case-studies/oriserve-case-study/",
@@ -270,9 +370,14 @@
       "industry": "marketing-advertising",
       "title": "Co-Marketer multi-agent campaign framework",
       "summary": "A multi-agent framework designs and launches marketing campaigns, collapsing setup from hours to minutes.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "Multi-agent",
-      "relatedPatternIds": ["multi_agent_rag", "agentic_rag"],
+      "relatedPatternIds": [
+        "multi_agent_rag",
+        "agentic_rag"
+      ],
       "metric": "Setup hours→minutes; up to 10x ROI reported",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/solutions/case-studies/netcore-bedrock-case-study/",
@@ -285,9 +390,13 @@
       "industry": "software-technology",
       "title": "Generative-AI features for customer-research analysis",
       "summary": "Bedrock powers analysis features over qualitative research data, letting the team ship new AI capabilities quickly.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag"
+      ],
       "metric": "Prototypes in a day; new features shipped in ~2 weeks",
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/solutions/case-studies/dovetail-case-study/",
@@ -300,9 +409,14 @@
       "industry": "financial-services",
       "title": "Accelerated support-ticket responses",
       "summary": "A generative-AI assistant drafts responses for a payment-service provider's support team, speeding replies and lifting satisfaction.",
-      "services": ["Amazon Bedrock"],
+      "services": [
+        "Amazon Bedrock"
+      ],
       "agentPattern": "RAG assistant",
-      "relatedPatternIds": ["managed_kb_rag", "agentic_rag"],
+      "relatedPatternIds": [
+        "managed_kb_rag",
+        "agentic_rag"
+      ],
       "sourceName": "AWS case study",
       "sourceUrl": "https://aws.amazon.com/solutions/case-studies/bedrock-slalom/",
       "trustTier": "official",
@@ -314,14 +428,41 @@
       "industry": "financial-services",
       "title": "Agentic modernisation of legacy applications",
       "summary": "Agentic transformation tooling refactors legacy .NET code at scale, saving substantial engineering effort.",
-      "services": ["AWS Transform"],
+      "services": [
+        "AWS Transform"
+      ],
       "agentPattern": "Agentic workflow",
-      "relatedPatternIds": ["agentic_rag"],
+      "relatedPatternIds": [
+        "agentic_rag"
+      ],
       "metric": "40% less developer effort; ~300 engineering days saved",
       "sourceName": "AWS customer story",
       "sourceUrl": "https://aws.amazon.com/ai/generative-ai/customers/",
       "trustTier": "official",
       "year": "2025"
+    },
+    {
+      "id": "bridgewater-artificial-investment-associate",
+      "company": "Bridgewater Associates",
+      "industry": "financial-services",
+      "title": "The “Artificial Investment Associate” — LLM steps chained into an investment process",
+      "summary": "AIA Labs built a system where investment specialists author “blueprints” — ordered chains of LLM queries and data-processing steps — with Amazon Bedrock chosen per step for model flexibility, and Amazon Textract parsing filings into table-aware Markdown. The analyst-facing assistant writes and runs Python, returning charts the analyst can edit in place.",
+      "services": [
+        "Amazon Bedrock",
+        "Amazon Textract"
+      ],
+      "agentPattern": "Multi-step blueprint chain",
+      "relatedPatternIds": [
+        "agentic_rag",
+        "multi_agent_rag",
+        "hybrid_rerank_rag"
+      ],
+      "metric": "Analyst research passes “with the precision of a junior analyst”",
+      "sourceName": "AWS fireside chat",
+      "sourceUrl": "https://aws.amazon.com/video/watch/5b319684c66/",
+      "trustTier": "official",
+      "featured": true,
+      "year": "2024"
     }
   ]
 }

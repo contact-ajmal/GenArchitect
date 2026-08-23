@@ -119,6 +119,7 @@ export const SERVICE_ICON_FILE: Record<AwsServiceId, string> = {
   glue_data_quality: 'aws-glue-data-quality',
   glue_data_catalog: 'aws-glue-data-catalog',
   athena: 'amazon-athena',
+  textract: 'amazon-textract',
   lake_formation: 'aws-lake-formation',
   mwaa: 'amazon-managed-workflows-for-apache-airflow',
   s3_tables: 'amazon-s3-tables',

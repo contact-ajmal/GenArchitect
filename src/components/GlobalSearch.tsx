@@ -11,6 +11,7 @@ import { FEATURED_NOTEBOOKS } from '../data/notebookTemplates'
 import { FAILURE_MODES } from '../data/failureModes'
 import { VIDEOS } from '../lib/videos'
 import { INDUSTRY_LABELS, USE_CASES } from '../lib/usecases'
+import { hasDeepDive } from '../data/caseStudies'
 
 type Kind = 'Atlas' | 'Pattern' | 'Notebook' | 'Failure mode' | 'Video' | 'Case study'
 
@@ -52,7 +53,15 @@ function buildIndex(): Item[] {
     items.push({ kind: 'Video', title: v.title, subtitle: v.channelName, to: `/videos?v=${v.id}`, haystack: `${v.title} ${v.channelName} ${v.topics.join(' ')}`.toLowerCase() })
   }
   for (const u of USE_CASES) {
-    items.push({ kind: 'Case study', title: `${u.company} — ${u.title}`, subtitle: INDUSTRY_LABELS[u.industry], to: `/use-cases?q=${encodeURIComponent(u.company)}`, haystack: `${u.company} ${u.title} ${u.summary} ${u.services.join(' ')}`.toLowerCase() })
+    // A deep dive is a real destination; without one the best we can do is
+    // land on the library pre-filtered to the company.
+    const to = hasDeepDive(u.id)
+      ? `/use-cases/${u.id}`
+      : `/use-cases?q=${encodeURIComponent(u.company)}`
+    const subtitle = hasDeepDive(u.id)
+      ? `${INDUSTRY_LABELS[u.industry]} · architecture deep dive`
+      : INDUSTRY_LABELS[u.industry]
+    items.push({ kind: 'Case study', title: `${u.company} — ${u.title}`, subtitle, to, haystack: `${u.company} ${u.title} ${u.summary} ${u.services.join(' ')}`.toLowerCase() })
   }
   return items
 }

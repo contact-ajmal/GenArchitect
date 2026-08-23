@@ -1,25 +1,32 @@
-import { ArrowUpRight, Building2, ShieldCheck, TrendingUp } from 'lucide-react'
+import { ArrowUpRight, Building2, Layers, ShieldCheck, TrendingUp } from 'lucide-react'
+import { Link } from 'react-router-dom'
 import clsx from 'clsx'
+import type { ReactNode } from 'react'
 import type { UseCaseEntry } from '../../types'
 import { INDUSTRY_LABELS } from '../../lib/usecases'
+import { hasDeepDive } from '../../data/caseStudies'
 
 export interface UseCaseCardProps {
   useCase: UseCaseEntry
   compact?: boolean
 }
 
+const SHELL =
+  'group flex h-full flex-col rounded-xl border border-hairline bg-neutral-0 p-4 transition-shadow hover:shadow-md focus-visible:ring-2 focus-visible:ring-accent'
+
 /**
- * A real-world use case as a card. Links out to the original public source —
- * we never reproduce full case-study text, only our short summary + facts.
+ * A real-world use case as a card. Normally links out to the original public
+ * source — we never reproduce full case-study text, only our short summary +
+ * facts. Where a deep dive exists it links inward to that instead, since the
+ * deep dive carries the source links itself.
  */
 export default function UseCaseCard({ useCase: u, compact }: UseCaseCardProps) {
-  return (
-    <a
-      href={u.sourceUrl}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group flex h-full flex-col rounded-xl border border-hairline bg-neutral-0 p-4 transition-shadow hover:shadow-md focus-visible:ring-2 focus-visible:ring-accent"
-    >
+  const deep = hasDeepDive(u.id)
+
+  // Held as an element, not a component defined during render — a component
+  // declared inline gets a new identity every render and remounts the subtree.
+  const body: ReactNode = (
+    <>
       <div className="flex items-start justify-between gap-2">
         <div className="min-w-0">
           <p className="flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-wide text-ink-muted">
@@ -63,13 +70,33 @@ export default function UseCaseCard({ useCase: u, compact }: UseCaseCardProps) {
 
       <span
         className={clsx(
-          'mt-3 inline-flex items-center gap-1 text-xs font-medium text-ink-muted transition-colors group-hover:text-accent-strong',
+          'mt-3 inline-flex items-center gap-1 text-xs font-medium transition-colors group-hover:text-accent-strong',
           'pt-2',
+          deep ? 'text-accent-strong' : 'text-ink-muted',
         )}
       >
-        {u.sourceName}
-        <ArrowUpRight className="h-3.5 w-3.5" />
+        {deep ? (
+          <>
+            <Layers className="h-3.5 w-3.5" />
+            Architecture deep dive
+          </>
+        ) : (
+          <>
+            {u.sourceName}
+            <ArrowUpRight className="h-3.5 w-3.5" />
+          </>
+        )}
       </span>
+    </>
+  )
+
+  return deep ? (
+    <Link to={`/use-cases/${u.id}`} className={SHELL}>
+      {body}
+    </Link>
+  ) : (
+    <a href={u.sourceUrl} target="_blank" rel="noopener noreferrer" className={SHELL}>
+      {body}
     </a>
   )
 }

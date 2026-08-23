@@ -1,3 +1,5 @@
+import type { AtlasId } from './atlas/types'
+
 /**
  * ============================================================================
  * GenArchitect — content model (the content contract)
@@ -119,6 +121,8 @@ export type AwsServiceId =
   | 'aurora_pgvector'
   | 'neptune'
   | 's3'
+  // Document AI
+  | 'textract'
   // Security / observability
   | 'iam'
   | 'cloudwatch'
@@ -528,6 +532,98 @@ export interface UseCaseEntry {
   featured?: boolean
   /** Approximate year of the deployment/announcement. */
   year?: string
+}
+
+/* ----------------------------------------------------------------------------
+ * Case-study deep dives — a long-form architecture read on ONE deployment.
+ *
+ * A UseCaseEntry is a card: company, one line, a source link. A deep dive is
+ * the architecture behind it, and it carries a burden the card does not. These
+ * are real companies, and almost none of them publish a reference architecture
+ * — they publish statements, talks and quotes. So every claim here is typed
+ * with WHERE IT CAME FROM: `sourced` claims cite a real URL, `inferred` claims
+ * say what they are reasoning from. A diagram node with no `awsServiceId` on a
+ * documented view is deliberate — it means the product was never named, and
+ * putting a logo there would invent a fact.
+ * -------------------------------------------------------------------------- */
+
+/** Whether a claim is documented publicly or reconstructed by us. */
+export type ClaimConfidence = 'sourced' | 'inferred'
+
+/** A citation a deep dive's claims point at by id. */
+export interface CaseStudySource {
+  id: string
+  label: string
+  url: string
+  /** Who published it — drives the trust ordering in the source list. */
+  publisher: string
+  /** Publication date, when known. */
+  date?: string
+  /** official = the vendor or the company itself; press = reported. */
+  tier: 'official' | 'press'
+}
+
+/** A single claim, and its provenance. */
+export interface CaseStudyClaim {
+  text: string
+  confidence: ClaimConfidence
+  /** Ids from the deep dive's `sources`. Required when confidence is 'sourced'. */
+  sourceIds?: string[]
+  /** What the inference rests on. Required when confidence is 'inferred'. */
+  basis?: string
+}
+
+/** One step of a diagram's guided read, synced to nodes like a walkthrough. */
+export interface CaseStudyStep {
+  id: string
+  order: number
+  title: string
+  /** Nodes that light up while this step is active. */
+  diagramComponentIds: DiagramComponentId[]
+  plain: string
+  technical: string
+  confidence: ClaimConfidence
+  sourceIds?: string[]
+  basis?: string
+}
+
+/**
+ * One architecture view. `kind` is the contract with the reader:
+ * 'documented' shows only what was publicly said, and leaves inferred nodes
+ * without a service logo; 'reference' is our own build of the same design on
+ * current AWS, where naming services is ours to do.
+ */
+export interface CaseStudyDiagram {
+  id: string
+  title: string
+  kind: 'documented' | 'reference'
+  /** What this view shows — and, as importantly, what it does not. */
+  blurb: string
+  /** Structurally a DiagramSource, so RagDiagram and the draw.io export take it. */
+  diagram: {
+    name: string
+    accentColor: string
+    layers: DiagramComponent[]
+  }
+  steps: CaseStudyStep[]
+}
+
+export interface CaseStudyDeepDive {
+  /** Must match a UseCaseEntry.id in data/usecases.json. */
+  useCaseId: string
+  company: string
+  headline: string
+  /** Sets expectations before the first diagram. Non-negotiable — always shown. */
+  provenance: string
+  sources: CaseStudySource[]
+  /** Long-form narrative, rendered before the diagrams. */
+  sections: { id: string; title: string; body: string[] }[]
+  diagrams: CaseStudyDiagram[]
+  /** What an architect should take away, each with its provenance. */
+  lessons: CaseStudyClaim[]
+  relatedPatternIds: RagArchitectureId[]
+  /** Deep links into the atlases for the concepts this deployment leans on. */
+  relatedAtlasTopics?: { atlas: AtlasId; topicId: string; label: string }[]
 }
 
 export interface UseCaseData {

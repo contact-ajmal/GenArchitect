@@ -68,6 +68,7 @@ const DOC: Record<AwsServiceId, string> = {
   neptune:
     'https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html',
   s3: 'https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html',
+  textract: 'https://docs.aws.amazon.com/textract/latest/dg/what-is.html',
   iam: 'https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html',
   cloudwatch:
     'https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html',
@@ -108,6 +109,7 @@ const VOLATILITY: Record<AwsServiceId, Volatility> = {
   aurora_pgvector: 'stable',
   neptune: 'moderate',
   s3: 'stable',
+  textract: 'stable',
   iam: 'stable',
   cloudwatch: 'stable',
   // Frameworks/protocols evolve at their own pace.

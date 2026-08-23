@@ -25,6 +25,7 @@ const RetrievalAtlas = lazy(() => import('./routes/RetrievalAtlas'))
 const Videos = lazy(() => import('./routes/Videos'))
 const UseCases = lazy(() => import('./routes/UseCases'))
 const Updates = lazy(() => import('./routes/Updates'))
+const CaseStudy = lazy(() => import('./routes/CaseStudy'))
 
 /** Reset scroll position on route change (except for in-page anchors). */
 function ScrollToTop() {
@@ -80,6 +81,7 @@ function App() {
             <Route path="/retrieval/:topicId" element={<RetrievalAtlas />} />
             <Route path="/videos" element={<Videos />} />
             <Route path="/use-cases" element={<UseCases />} />
+            <Route path="/use-cases/:id" element={<CaseStudy />} />
             <Route path="/updates" element={<Updates />} />
           </Routes>
         </Suspense>
