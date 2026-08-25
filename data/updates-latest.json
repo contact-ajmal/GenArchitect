@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-08-24T06:23:04.035Z",
+  "generatedAt": "2026-08-25T06:02:53.954Z",
   "updates": [
     {
-      "id": "bedrock-openai-gpt-56-sol-reduced-pricing",
-      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
-      "publishedAt": "2026-08-21T20:11:00.000Z",
+      "id": "introducing-new-ray-capabilities-on-sagemaker-hyperpod",
+      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+      "publishedAt": "2026-08-24T19:32:14.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "sagemaker-mlflow-custom-keys",
+      "title": "SageMaker MLflow now supports customer managed keys",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
+      "publishedAt": "2026-08-24T19:26:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock",
-      "title": "Build a unified AI agent architecture with DynamoDB and Bedrock",
-      "url": "https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/",
-      "publishedAt": "2026-08-21T18:19:23.000Z",
-      "sourceName": "AWS Architecture Blog",
+      "id": "upgrade-aws-glue-jobs-to-glue-6-0-with-ai-powered-spark-upgrades",
+      "title": "Upgrade AWS Glue jobs to Glue 6.0 with AI-powered Spark upgrades",
+      "url": "https://aws.amazon.com/blogs/big-data/upgrade-aws-glue-jobs-to-glue-6-0-with-ai-powered-spark-upgrades/",
+      "publishedAt": "2026-08-24T19:06:16.000Z",
+      "sourceName": "AWS Big Data Blog",
       "kind": "blog"
     },
     {
-      "id": "agentic-data-operations-platform-adop-data-engineering-into-hours",
-      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
-      "publishedAt": "2026-08-21T17:06:17.000Z",
+      "id": "democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-w",
+      "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+      "publishedAt": "2026-08-24T18:59:15.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway",
-      "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
-      "publishedAt": "2026-08-21T17:02:35.000Z",
+      "id": "agentic-resource-discovery-ard-an-open-specification-for-agent-discovery",
+      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+      "publishedAt": "2026-08-24T16:22:03.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression",
-      "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
-      "publishedAt": "2026-08-21T16:59:15.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
-      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
-      "publishedAt": "2026-08-21T16:57:01.000Z",
+      "id": "building-a-restaurant-telephony-ai-host-with-amazon-connect",
+      "title": "Building a restaurant telephony AI host with Amazon Connect",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+      "publishedAt": "2026-08-24T16:13:09.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
