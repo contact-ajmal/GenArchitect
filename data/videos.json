@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-24T07:31:24.910Z",
+  "generatedAt": "2026-08-25T07:11:07.599Z",
   "videos": [
+    {
+      "id": "rFoeg-cXhWs",
+      "title": "Which agentic development tool is the most cost effective? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-24T14:47:29Z",
+      "url": "https://www.youtube.com/watch?v=rFoeg-cXhWs",
+      "duration": "9:08",
+      "thumbnail": "https://i.ytimg.com/vi/rFoeg-cXhWs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "8RPwhLc1M9k",
+      "title": "Black Girls Do Engineer: Closing the STEM Gap with AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-24T14:04:17Z",
+      "url": "https://www.youtube.com/watch?v=8RPwhLc1M9k",
+      "duration": "2:32",
+      "thumbnail": "https://i.ytimg.com/vi/8RPwhLc1M9k/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "pl4MWkk5opM",
       "title": "AWS Glue 6.0 Serverless Data Integration Simplified | Amazon Web Services",
@@ -5087,36 +5117,6 @@
       "url": "https://www.youtube.com/watch?v=dhhpavs-WaQ",
       "duration": "3:52",
       "thumbnail": "https://i.ytimg.com/vi/dhhpavs-WaQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Zoa3j4Oo0_Y",
-      "title": "How to create AWS Transfer Family web app inside Amazon VPC | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-26T17:08:56Z",
-      "url": "https://www.youtube.com/watch?v=Zoa3j4Oo0_Y",
-      "duration": "10:10",
-      "thumbnail": "https://i.ytimg.com/vi/Zoa3j4Oo0_Y/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "StMmnn-mDbw",
-      "title": "From AIoT to Physical AI: How Tuya is Transforming Smart Living with AWS | Executive Dialogue",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-26T14:23:59Z",
-      "url": "https://www.youtube.com/watch?v=StMmnn-mDbw",
-      "duration": "10:10",
-      "thumbnail": "https://i.ytimg.com/vi/StMmnn-mDbw/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
