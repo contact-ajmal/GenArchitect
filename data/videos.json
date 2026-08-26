@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-08-25T07:11:07.599Z",
+  "generatedAt": "2026-08-26T07:11:16.476Z",
   "videos": [
+    {
+      "id": "CtHpyBmublY",
+      "title": "Cloud Report: Help us protect our soccer app | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T21:46:38Z",
+      "url": "https://www.youtube.com/watch?v=CtHpyBmublY",
+      "duration": "15:51",
+      "thumbnail": "https://i.ytimg.com/vi/CtHpyBmublY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "6MND3vUVgCs",
+      "title": "How to Build Agents That Write Their Own Tools",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-08-25T20:45:29Z",
+      "url": "https://www.youtube.com/watch?v=6MND3vUVgCs",
+      "duration": "17:45",
+      "thumbnail": "https://i.ytimg.com/vi/6MND3vUVgCs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "LcfRQTUTiVY",
+      "title": "How do I optimize disk storage when my RDS for MySQL instance uses more space than expected?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T18:00:27Z",
+      "url": "https://www.youtube.com/watch?v=LcfRQTUTiVY",
+      "duration": "3:47",
+      "thumbnail": "https://i.ytimg.com/vi/LcfRQTUTiVY/mqdefault.jpg",
+      "topics": [
+        "rag"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "u5LCF5raoeM",
+      "title": "AWS re:Invent 2025 - UC San Diego Health modernizes patient engagement with Amazon Connect Customer",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-25T16:38:57Z",
+      "url": "https://www.youtube.com/watch?v=u5LCF5raoeM",
+      "duration": "47:43",
+      "thumbnail": "https://i.ytimg.com/vi/u5LCF5raoeM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "TPtNdmekyPs",
+      "title": "American Airline's CX Transformation with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:36:15Z",
+      "url": "https://www.youtube.com/watch?v=TPtNdmekyPs",
+      "duration": "1:17",
+      "thumbnail": "https://i.ytimg.com/vi/TPtNdmekyPs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "PWDwb4vt8h8",
+      "title": "U.S. Bank streamlines customer experience using Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:36:09Z",
+      "url": "https://www.youtube.com/watch?v=PWDwb4vt8h8",
+      "duration": "1:32",
+      "thumbnail": "https://i.ytimg.com/vi/PWDwb4vt8h8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "S64mleNIpic",
+      "title": "Singapore’s CPFB: Modernizing Customer Service with Amazon Connect Customer| Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:36:00Z",
+      "url": "https://www.youtube.com/watch?v=S64mleNIpic",
+      "duration": "3:11",
+      "thumbnail": "https://i.ytimg.com/vi/S64mleNIpic/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Js6QEle1IyQ",
+      "title": "Jupiter Medical Center improves access to care with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:35:27Z",
+      "url": "https://www.youtube.com/watch?v=Js6QEle1IyQ",
+      "duration": "1:48",
+      "thumbnail": "https://i.ytimg.com/vi/Js6QEle1IyQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "XAIBSj6cuHc",
+      "title": "TUI Cuts Customer Experience Fragmentation with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:35:19Z",
+      "url": "https://www.youtube.com/watch?v=XAIBSj6cuHc",
+      "duration": "2:14",
+      "thumbnail": "https://i.ytimg.com/vi/XAIBSj6cuHc/mqdefault.jpg",
+      "topics": [
+        "rag"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "cwHOHl58a1U",
+      "title": "So Energy Builds an AI-First CX with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:35:02Z",
+      "url": "https://www.youtube.com/watch?v=cwHOHl58a1U",
+      "duration": "1:11",
+      "thumbnail": "https://i.ytimg.com/vi/cwHOHl58a1U/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "pqkATlaejoA",
+      "title": "Kereis Modernizes Insurance CX with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:34:53Z",
+      "url": "https://www.youtube.com/watch?v=pqkATlaejoA",
+      "duration": "1:14",
+      "thumbnail": "https://i.ytimg.com/vi/pqkATlaejoA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "hUcbYQHYG0I",
+      "title": "Equiniti Reinvents Fintech CX with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:34:43Z",
+      "url": "https://www.youtube.com/watch?v=hUcbYQHYG0I",
+      "duration": "1:24",
+      "thumbnail": "https://i.ytimg.com/vi/hUcbYQHYG0I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "qJkSllx0FaQ",
+      "title": "Community Fibre Scales CX with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-25T16:34:34Z",
+      "url": "https://www.youtube.com/watch?v=qJkSllx0FaQ",
+      "duration": "1:29",
+      "thumbnail": "https://i.ytimg.com/vi/qJkSllx0FaQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "rFoeg-cXhWs",
       "title": "Which agentic development tool is the most cost effective? | Amazon Web Services",
@@ -4566,36 +4761,6 @@
       "trustTier": "official"
     },
     {
-      "id": "tUZRPjy8F8w",
-      "title": "The FIRST thing a hotel GM does in the morning | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-01T19:00:30Z",
-      "url": "https://www.youtube.com/watch?v=tUZRPjy8F8w",
-      "duration": "0:53",
-      "thumbnail": "https://i.ytimg.com/vi/tUZRPjy8F8w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "zCGLYiuuWtI",
-      "title": "AWS コマンドラインインターフェイス (AWS CLI) を使用して、ある Amazon S3 バケットから別のバケットにすべてのオブジェクトをコピーする方法を教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-01T17:50:19Z",
-      "url": "https://www.youtube.com/watch?v=zCGLYiuuWtI",
-      "duration": "5:41",
-      "thumbnail": "https://i.ytimg.com/vi/zCGLYiuuWtI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "kakPWHL-_uc",
       "title": "AWS Squatch Talks | Securing and Operating in the Cloud with Agentic AI",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4604,51 +4769,6 @@
       "url": "https://www.youtube.com/watch?v=kakPWHL-_uc",
       "duration": "56:12",
       "thumbnail": "https://i.ytimg.com/vi/kakPWHL-_uc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "OFy4v9Q7Ujw",
-      "title": "How do I troubleshoot DNS failures in my Amazon EKS cluster?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-29T21:24:10Z",
-      "url": "https://www.youtube.com/watch?v=OFy4v9Q7Ujw",
-      "duration": "6:12",
-      "thumbnail": "https://i.ytimg.com/vi/OFy4v9Q7Ujw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "xppU1LhNuTE",
-      "title": "Linux/macOS マシンから踏み台ホストを使用して Amazon RDS DB インスタンスに接続する方法を教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-29T20:57:39Z",
-      "url": "https://www.youtube.com/watch?v=xppU1LhNuTE",
-      "duration": "4:57",
-      "thumbnail": "https://i.ytimg.com/vi/xppU1LhNuTE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "3WNThEa3EYA",
-      "title": "How code replacement is taking over AI driven development | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-29T20:18:38Z",
-      "url": "https://www.youtube.com/watch?v=3WNThEa3EYA",
-      "duration": "0:53",
-      "thumbnail": "https://i.ytimg.com/vi/3WNThEa3EYA/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -4680,38 +4800,6 @@
       "duration": "58:11",
       "thumbnail": "https://i.ytimg.com/vi/artzoI9EINs/mqdefault.jpg",
       "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "odST-R-ZPzE",
-      "title": "Next generation of Amazon OpenSearch Serverless | Built for Agentic AI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-28T18:50:39Z",
-      "url": "https://www.youtube.com/watch?v=odST-R-ZPzE",
-      "duration": "0:46",
-      "thumbnail": "https://i.ytimg.com/vi/odST-R-ZPzE/mqdefault.jpg",
-      "topics": [
-        "vector-search",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "jH7u1h0mk8A",
-      "title": "Next generation of Amazon OpenSearch Serverless | Built for Agentic AI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-28T18:50:22Z",
-      "url": "https://www.youtube.com/watch?v=jH7u1h0mk8A",
-      "duration": "1:56",
-      "thumbnail": "https://i.ytimg.com/vi/jH7u1h0mk8A/mqdefault.jpg",
-      "topics": [
-        "vector-search",
         "genai-general"
       ],
       "level": "talk",
@@ -4883,21 +4971,6 @@
       "trustTier": "official"
     },
     {
-      "id": "EwbXOz5Vrdg",
-      "title": "Introducing Resilient Network Graphs | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-28T17:08:48Z",
-      "url": "https://www.youtube.com/watch?v=EwbXOz5Vrdg",
-      "duration": "0:47",
-      "thumbnail": "https://i.ytimg.com/vi/EwbXOz5Vrdg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official"
-    },
-    {
       "id": "dO-eA4XwowE",
       "title": "AWS at Hannover Messe 2026 - Industrial AI: Physical & Agentic AI",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -5064,21 +5137,6 @@
       "trustTier": "official"
     },
     {
-      "id": "sI-SyOvHeno",
-      "title": "How do I use the IAM policy simulator to test IAM policies and permissions?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-27T08:54:31Z",
-      "url": "https://www.youtube.com/watch?v=sI-SyOvHeno",
-      "duration": "3:21",
-      "thumbnail": "https://i.ytimg.com/vi/sI-SyOvHeno/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "R5cA74Qv4hs",
       "title": "AI-assisted development in practice | Serverless Office Hours",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -5087,36 +5145,6 @@
       "url": "https://www.youtube.com/watch?v=R5cA74Qv4hs",
       "duration": "59:59",
       "thumbnail": "https://i.ytimg.com/vi/R5cA74Qv4hs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "UqNFL6ay5aQ",
-      "title": "How do I troubleshoot AWS DMS endpoint connectivity failures?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-26T21:49:45Z",
-      "url": "https://www.youtube.com/watch?v=UqNFL6ay5aQ",
-      "duration": "4:35",
-      "thumbnail": "https://i.ytimg.com/vi/UqNFL6ay5aQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "dhhpavs-WaQ",
-      "title": "How do I make outbound calls to specific countries from my Amazon Connect instance?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-05-26T21:44:13Z",
-      "url": "https://www.youtube.com/watch?v=dhhpavs-WaQ",
-      "duration": "3:52",
-      "thumbnail": "https://i.ytimg.com/vi/dhhpavs-WaQ/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -5593,21 +5621,6 @@
       "url": "https://www.youtube.com/watch?v=O3SIJEcocLc",
       "duration": "15:09",
       "thumbnail": "https://i.ytimg.com/vi/O3SIJEcocLc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ca7T5p7WUOs",
-      "title": "Monetize Your RAN: Nokia Agentic AI on AWS in Action | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:32Z",
-      "url": "https://www.youtube.com/watch?v=ca7T5p7WUOs",
-      "duration": "6:13",
-      "thumbnail": "https://i.ytimg.com/vi/ca7T5p7WUOs/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7683,24 +7696,6 @@
       ],
       "level": "talk",
       "trustTier": "official"
-    },
-    {
-      "id": "qzQ6kA3LDhs",
-      "title": "3 Amazing MCP Servers Every Developer Needs in 2025",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-03T20:59:39Z",
-      "url": "https://www.youtube.com/watch?v=qzQ6kA3LDhs",
-      "duration": "1:35",
-      "thumbnail": "https://i.ytimg.com/vi/qzQ6kA3LDhs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "mcp-tools"
-      ]
     },
     {
       "id": "boR_wEQXHeU",
