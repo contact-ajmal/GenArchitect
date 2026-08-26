@@ -1,6 +1,77 @@
 {
-  "generatedAt": "2026-08-25T06:02:53.954Z",
+  "generatedAt": "2026-08-26T06:04:31.914Z",
   "updates": [
+    {
+      "id": "part-1-managing-large-scale-llm-training-with-aws-parallelcluster",
+      "title": "Part 1: Managing Large-Scale LLM Training with AWS ParallelCluster",
+      "url": "https://aws.amazon.com/blogs/hpc/part-1-managing-large-scale-llm-training-with-aws-parallelcluster/",
+      "publishedAt": "2026-08-25T22:33:54.000Z",
+      "sourceId": "hpc",
+      "sourceName": "AWS HPC Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "This post references AWS ParallelCluster. Check out AWS Parallel Computing Service (AWS PCS), our new managed Slurm service for running HPC and AI workloads on AWS. Introduction The Korean Government announced a…",
+      "author": "Seokjae Jang"
+    },
+    {
+      "id": "agentic-observability-with-amazon-opensearch-service-mcp-apps",
+      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+      "publishedAt": "2026-08-25T19:00:09.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "vector-search",
+        "observability",
+        "genai-general"
+      ],
+      "excerpt": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to…",
+      "author": "Hang Zuo"
+    },
+    {
+      "id": "capacity-reservation-resource-groups-ec2",
+      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
+      "publishedAt": "2026-08-25T18:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Starting today, you can add Amazon EC2 Capacity Blocks for ML and interruptible Capacity Reservations to Capacity Reservation Resource Groups. Amazon EC2 offers different reservation offerings such as On-Demand Capacity…"
+    },
+    {
+      "id": "governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap",
+      "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+      "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+      "publishedAt": "2026-08-25T16:35:01.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "excerpt": "Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a Quick knowledge base, and a custom skill drafts cited…",
+      "author": "Ebbey Thomas"
+    },
+    {
+      "id": "lambda-microvms-supports-privatelink",
+      "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
+      "publishedAt": "2026-08-25T16:34:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "AWS Lambda MicroVMs now supports AWS PrivateLink, enabling private connectivity to Lambda MicroVMs directly from Amazon Virtual Private Cloud (VPC) resources without exposing traffic to the public internet. This launch…"
+    },
     {
       "id": "introducing-new-ray-capabilities-on-sagemaker-hyperpod",
       "title": "Introducing new Ray capabilities on SageMaker HyperPod",

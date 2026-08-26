@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-08-25T06:02:53.954Z",
+  "generatedAt": "2026-08-26T06:04:31.914Z",
   "updates": [
+    {
+      "id": "part-1-managing-large-scale-llm-training-with-aws-parallelcluster",
+      "title": "Part 1: Managing Large-Scale LLM Training with AWS ParallelCluster",
+      "url": "https://aws.amazon.com/blogs/hpc/part-1-managing-large-scale-llm-training-with-aws-parallelcluster/",
+      "publishedAt": "2026-08-25T22:33:54.000Z",
+      "sourceName": "AWS HPC Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "agentic-observability-with-amazon-opensearch-service-mcp-apps",
+      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+      "publishedAt": "2026-08-25T19:00:09.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "capacity-reservation-resource-groups-ec2",
+      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
+      "publishedAt": "2026-08-25T18:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap",
+      "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+      "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+      "publishedAt": "2026-08-25T16:35:01.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "lambda-microvms-supports-privatelink",
+      "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
+      "publishedAt": "2026-08-25T16:34:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
     {
       "id": "introducing-new-ray-capabilities-on-sagemaker-hyperpod",
       "title": "Introducing new Ray capabilities on SageMaker HyperPod",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
       "publishedAt": "2026-08-24T19:32:14.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "sagemaker-mlflow-custom-keys",
-      "title": "SageMaker MLflow now supports customer managed keys",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
-      "publishedAt": "2026-08-24T19:26:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "upgrade-aws-glue-jobs-to-glue-6-0-with-ai-powered-spark-upgrades",
-      "title": "Upgrade AWS Glue jobs to Glue 6.0 with AI-powered Spark upgrades",
-      "url": "https://aws.amazon.com/blogs/big-data/upgrade-aws-glue-jobs-to-glue-6-0-with-ai-powered-spark-upgrades/",
-      "publishedAt": "2026-08-24T19:06:16.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-w",
-      "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
-      "publishedAt": "2026-08-24T18:59:15.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "agentic-resource-discovery-ard-an-open-specification-for-agent-discovery",
-      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
-      "publishedAt": "2026-08-24T16:22:03.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "building-a-restaurant-telephony-ai-host-with-amazon-connect",
-      "title": "Building a restaurant telephony AI host with Amazon Connect",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
-      "publishedAt": "2026-08-24T16:13:09.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
