@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-08-26T06:04:31.914Z",
+  "generatedAt": "2026-08-27T16:48:05.700Z",
   "updates": [
     {
-      "id": "part-1-managing-large-scale-llm-training-with-aws-parallelcluster",
-      "title": "Part 1: Managing Large-Scale LLM Training with AWS ParallelCluster",
-      "url": "https://aws.amazon.com/blogs/hpc/part-1-managing-large-scale-llm-training-with-aws-parallelcluster/",
-      "publishedAt": "2026-08-25T22:33:54.000Z",
-      "sourceName": "AWS HPC Blog",
+      "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
+      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
+      "url": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
+      "publishedAt": "2026-08-27T16:20:05.000Z",
+      "sourceName": "AWS Security Blog",
       "kind": "blog"
     },
     {
-      "id": "agentic-observability-with-amazon-opensearch-service-mcp-apps",
-      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
-      "publishedAt": "2026-08-25T19:00:09.000Z",
+      "id": "deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics",
+      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+      "publishedAt": "2026-08-27T16:11:27.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "capacity-reservation-resource-groups-ec2",
-      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
-      "publishedAt": "2026-08-25T18:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap",
-      "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
-      "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
-      "publishedAt": "2026-08-25T16:35:01.000Z",
+      "id": "reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
+      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+      "publishedAt": "2026-08-27T16:05:10.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "lambda-microvms-supports-privatelink",
-      "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
-      "publishedAt": "2026-08-25T16:34:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations",
+      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+      "publishedAt": "2026-08-26T19:13:35.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     },
     {
-      "id": "introducing-new-ray-capabilities-on-sagemaker-hyperpod",
-      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
-      "publishedAt": "2026-08-24T19:32:14.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock",
+      "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/",
+      "publishedAt": "2026-08-26T17:36:23.000Z",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "closing-the-ai-agent-trust-gap-with-graduated-autonomy",
+      "title": "Closing the AI agent trust gap with graduated autonomy",
+      "url": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/",
+      "publishedAt": "2026-08-26T17:33:03.000Z",
+      "sourceName": "AWS Architecture Blog",
       "kind": "blog"
     }
   ]

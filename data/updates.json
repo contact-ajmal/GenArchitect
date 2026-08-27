@@ -1,6 +1,215 @@
 {
-  "generatedAt": "2026-08-26T06:04:31.914Z",
+  "generatedAt": "2026-08-27T16:48:05.700Z",
   "updates": [
+    {
+      "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
+      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
+      "url": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
+      "publishedAt": "2026-08-27T16:20:05.000Z",
+      "sourceId": "security",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog",
+      "topics": [
+        "strands",
+        "bedrock",
+        "guardrails",
+        "genai-general"
+      ],
+      "excerpt": "If you’re running AI agents in production, Amazon Bedrock Guardrails protects the model boundary. But your agents also invoke tools, fetch external data, and communicate with other systems. That data flows outside the…",
+      "author": "Stephan Traub"
+    },
+    {
+      "id": "deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics",
+      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+      "publishedAt": "2026-08-27T16:11:27.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "observability",
+        "genai-general"
+      ],
+      "excerpt": "Self-hosted speech AI carries an observability trade-off: the numbers that drive capacity planning and cost management stay locked inside the vendor container. Deepgram closes that gap on Amazon SageMaker AI with two…",
+      "author": "Victor Wang"
+    },
+    {
+      "id": "reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
+      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+      "publishedAt": "2026-08-27T16:05:10.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Service (MPS) with NVIDIA Triton Inference Server on Amazon EC2…",
+      "author": "Iman Abbasnejad"
+    },
+    {
+      "id": "evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations",
+      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+      "publishedAt": "2026-08-26T19:13:35.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "strands",
+        "bedrock",
+        "observability",
+        "genai-general"
+      ],
+      "excerpt": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the…",
+      "author": "Swarnim Singhal"
+    },
+    {
+      "id": "gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock",
+      "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/",
+      "publishedAt": "2026-08-26T17:36:23.000Z",
+      "sourceId": "architecture",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Gallup transformed 90 years of workplace science into Gallup AI, a generative AI assistant powered by Amazon Bedrock that delivers real-time, personalized coaching to leaders directly within the Gallup Access…",
+      "author": "Tamil Sambasivam"
+    },
+    {
+      "id": "closing-the-ai-agent-trust-gap-with-graduated-autonomy",
+      "title": "Closing the AI agent trust gap with graduated autonomy",
+      "url": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/",
+      "publishedAt": "2026-08-26T17:33:03.000Z",
+      "sourceId": "architecture",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Most teams give AI agents either full access or read-only, leaving value unused or risk unmanaged. This post describes graduated autonomy, an architectural pattern in which agents earn expanded permissions through…",
+      "author": "Dev Arora"
+    },
+    {
+      "id": "amazon-connect-customer-points-based-scoring-evaluations",
+      "title": "Amazon Connect Customer now supports points-based scoring in performance evaluations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/",
+      "publishedAt": "2026-08-26T17:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Connect Customer now supports points-based scoring to evaluate human and AI agent performance, giving managers more flexibility in configuring evaluation scores. With points-based scoring, managers assign points…"
+    },
+    {
+      "id": "how-godaddy-transformed-its-analytics-with-amazon-quick",
+      "title": "How GoDaddy transformed its analytics with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
+      "publishedAt": "2026-08-26T16:51:53.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "In this post, you will learn how GoDaddy migrated from their legacy business intelligence (BI) tool to Amazon Quick. This was a two-year transformation that delivered results across every dimension of the business…",
+      "author": "Jake Minette"
+    },
+    {
+      "id": "cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector",
+      "title": "CORTO’s billion-scale legal semantic search with Aurora PostgreSQL pgvector",
+      "url": "https://aws.amazon.com/blogs/database/cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector/",
+      "publishedAt": "2026-08-26T16:40:00.000Z",
+      "sourceId": "database",
+      "sourceName": "AWS Database Blog",
+      "kind": "blog",
+      "topics": [
+        "rag",
+        "vector-search"
+      ],
+      "excerpt": "How CORTO scaled Amazon Aurora PostgreSQL with pgvector to 7.6 billion vectors and 2.5 billion documents in production, delivering sub-second legal search for 10,000+ law firms at 75% lower storage cost.",
+      "author": "Anisa Dean"
+    },
+    {
+      "id": "nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore",
+      "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-08-26T16:36:35.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven…",
+      "author": "Cem Onan"
+    },
+    {
+      "id": "bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3",
+      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+      "publishedAt": "2026-08-26T16:31:32.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5…",
+      "author": "Bobby Lindsey"
+    },
+    {
+      "id": "preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies",
+      "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
+      "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
+      "publishedAt": "2026-08-26T16:24:05.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting high-value data subsets, augmenting data with synthetic and…",
+      "author": "Krishnateja Killamsetty"
+    },
+    {
+      "id": "preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality",
+      "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
+      "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
+      "publishedAt": "2026-08-26T16:24:02.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: quality checks, conversational (JSONL) formatting, reasoning…",
+      "author": "Elyse Zhang"
+    },
+    {
+      "id": "connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases",
+      "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+      "publishedAt": "2026-08-26T15:48:10.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "rag",
+        "bedrock"
+      ],
+      "excerpt": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers…",
+      "author": "Kunal Ghosh"
+    },
     {
       "id": "part-1-managing-large-scale-llm-training-with-aws-parallelcluster",
       "title": "Part 1: Managing Large-Scale LLM Training with AWS ParallelCluster",
