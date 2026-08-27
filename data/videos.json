@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-08-26T07:11:16.476Z",
+  "generatedAt": "2026-08-27T17:40:25.833Z",
   "videos": [
+    {
+      "id": "_HznOW-pkxM",
+      "title": "AWS: AI Answered - Is AI too expensive? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-27T16:56:24Z",
+      "url": "https://www.youtube.com/watch?v=_HznOW-pkxM",
+      "duration": "38:00",
+      "thumbnail": "https://i.ytimg.com/vi/_HznOW-pkxM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Nulv3cSORQg",
+      "title": "Cloud Report: Playable Demos on GameLift Streams | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-27T15:21:48Z",
+      "url": "https://www.youtube.com/watch?v=Nulv3cSORQg",
+      "duration": "12:04",
+      "thumbnail": "https://i.ytimg.com/vi/Nulv3cSORQg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "KBFfjIYCqco",
+      "title": "AWS DevOps Agent integration with Grafana | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T17:43:22Z",
+      "url": "https://www.youtube.com/watch?v=KBFfjIYCqco",
+      "duration": "10:32",
+      "thumbnail": "https://i.ytimg.com/vi/KBFfjIYCqco/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "8cgnkgbPQkg",
+      "title": "LLM discoverability- Agentic Commerce in Luxury Retail | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T14:22:46Z",
+      "url": "https://www.youtube.com/watch?v=8cgnkgbPQkg",
+      "duration": "0:35",
+      "thumbnail": "https://i.ytimg.com/vi/8cgnkgbPQkg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "X2CZ49QeKDI",
+      "title": "Small teams, big impact - Agentic Commerce in Luxury Retail | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T14:18:56Z",
+      "url": "https://www.youtube.com/watch?v=X2CZ49QeKDI",
+      "duration": "0:39",
+      "thumbnail": "https://i.ytimg.com/vi/X2CZ49QeKDI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "VlBE8643GvE",
+      "title": "Defend, Extend, Append-Agentic Commerce in Luxury Retail | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T14:13:58Z",
+      "url": "https://www.youtube.com/watch?v=VlBE8643GvE",
+      "duration": "0:37",
+      "thumbnail": "https://i.ytimg.com/vi/VlBE8643GvE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "P6InWXVEvuI",
+      "title": "Hot Take - Agentic Commerce in Luxury Retail | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T14:08:04Z",
+      "url": "https://www.youtube.com/watch?v=P6InWXVEvuI",
+      "duration": "0:39",
+      "thumbnail": "https://i.ytimg.com/vi/P6InWXVEvuI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Zzt8MppAGiQ",
+      "title": "The soul of a brand- Agentic Commerce in Luxury Retail | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T13:59:06Z",
+      "url": "https://www.youtube.com/watch?v=Zzt8MppAGiQ",
+      "duration": "0:38",
+      "thumbnail": "https://i.ytimg.com/vi/Zzt8MppAGiQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "MHER3IqYNYI",
+      "title": "Agentic Commerce in Luxury Retail with Tapestry | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-26T13:25:22Z",
+      "url": "https://www.youtube.com/watch?v=MHER3IqYNYI",
+      "duration": "26:37",
+      "thumbnail": "https://i.ytimg.com/vi/MHER3IqYNYI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "CtHpyBmublY",
       "title": "Cloud Report: Help us protect our soccer app | Amazon Web Services",
@@ -4421,23 +4556,6 @@
       "trustTier": "official"
     },
     {
-      "id": "E4JSn8HhDAk",
-      "title": "How Bedrock Agentcore is revolutionizing travel | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-04T19:00:03Z",
-      "url": "https://www.youtube.com/watch?v=E4JSn8HhDAk",
-      "duration": "0:58",
-      "thumbnail": "https://i.ytimg.com/vi/E4JSn8HhDAk/mqdefault.jpg",
-      "topics": [
-        "agentcore",
-        "bedrock",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "9aJnZXbZysY",
       "title": "AWS Japan Summit 2026 | AWS Events",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4494,68 +4612,6 @@
       "thumbnail": "https://i.ytimg.com/vi/T1FqcsVE33Y/mqdefault.jpg",
       "topics": [
         "observability"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "K_vy78SjVU4",
-      "title": "認証情報が機能しない場合、AWS アカウントにサインインする方法を教えてください。",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-03T20:49:43Z",
-      "url": "https://www.youtube.com/watch?v=K_vy78SjVU4",
-      "duration": "5:56",
-      "thumbnail": "https://i.ytimg.com/vi/K_vy78SjVU4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "w4Q38-T5_u8",
-      "title": "再起動しても持続する静的 DNS サーバーを EC2 インスタンスに割り当てる方法を教えてください。",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-03T20:47:33Z",
-      "url": "https://www.youtube.com/watch?v=w4Q38-T5_u8",
-      "duration": "4:15",
-      "thumbnail": "https://i.ytimg.com/vi/w4Q38-T5_u8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "nF3uR3ovGCw",
-      "title": "Amazon EC2 インスタンスのプライマリプライベート IP アドレスを変更する方法を教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-03T20:44:58Z",
-      "url": "https://www.youtube.com/watch?v=nF3uR3ovGCw",
-      "duration": "4:36",
-      "thumbnail": "https://i.ytimg.com/vi/nF3uR3ovGCw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "-edK_ARqY8o",
-      "title": "How Bedrock AgentCore is enabling Agentic AI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-03T19:00:58Z",
-      "url": "https://www.youtube.com/watch?v=-edK_ARqY8o",
-      "duration": "1:01",
-      "thumbnail": "https://i.ytimg.com/vi/-edK_ARqY8o/mqdefault.jpg",
-      "topics": [
-        "agentcore",
-        "bedrock",
-        "genai-general"
       ],
       "level": "talk",
       "trustTier": "official"
@@ -4626,36 +4682,6 @@
       "trustTier": "official"
     },
     {
-      "id": "iyidlbVj670",
-      "title": "Introducing Amazon ElastiCache Serverless | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-02T20:09:24Z",
-      "url": "https://www.youtube.com/watch?v=iyidlbVj670",
-      "duration": "1:22",
-      "thumbnail": "https://i.ytimg.com/vi/iyidlbVj670/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "pM3DCOimkUg",
-      "title": "Bringing back the whimsy in software development | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-02T19:00:37Z",
-      "url": "https://www.youtube.com/watch?v=pM3DCOimkUg",
-      "duration": "0:57",
-      "thumbnail": "https://i.ytimg.com/vi/pM3DCOimkUg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "j1wfE0SOBbE",
       "title": "5 Tips for Deploying AI Agents to Production",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -4664,21 +4690,6 @@
       "url": "https://www.youtube.com/watch?v=j1wfE0SOBbE",
       "duration": "10:09",
       "thumbnail": "https://i.ytimg.com/vi/j1wfE0SOBbE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "r9ZO8NlgGqQ",
-      "title": "Amazon S3 の HTTP 500 エラーまたは 503 エラーをトラブルシューティングする方法を教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-02T17:51:47Z",
-      "url": "https://www.youtube.com/watch?v=r9ZO8NlgGqQ",
-      "duration": "5:18",
-      "thumbnail": "https://i.ytimg.com/vi/r9ZO8NlgGqQ/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -4739,21 +4750,6 @@
       "url": "https://www.youtube.com/watch?v=4f4v1w3o6fI",
       "duration": "59:52",
       "thumbnail": "https://i.ytimg.com/vi/4f4v1w3o6fI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ib4WTcsnBWw",
-      "title": "Meet Captain: your AI companion for the Bundesliga | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-01T19:05:45Z",
-      "url": "https://www.youtube.com/watch?v=ib4WTcsnBWw",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/ib4WTcsnBWw/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
