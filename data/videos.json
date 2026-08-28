@@ -1,6 +1,125 @@
 {
-  "generatedAt": "2026-08-27T17:40:25.833Z",
+  "generatedAt": "2026-08-28T18:46:27.765Z",
   "videos": [
+    {
+      "id": "CvoOpOR33V8",
+      "title": "Observability for AI Agents",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-08-28T18:00:14Z",
+      "url": "https://www.youtube.com/watch?v=CvoOpOR33V8",
+      "duration": "25:50",
+      "thumbnail": "https://i.ytimg.com/vi/CvoOpOR33V8/mqdefault.jpg",
+      "topics": [
+        "observability",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "observability-trace"
+      ]
+    },
+    {
+      "id": "mlxBL8ozMQA",
+      "title": "AWS Summit Madrid 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-08-28T15:43:27Z",
+      "url": "https://www.youtube.com/watch?v=mlxBL8ozMQA",
+      "duration": "1:33",
+      "thumbnail": "https://i.ytimg.com/vi/mlxBL8ozMQA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "zrZ1amZBSPw",
+      "title": "Productionizing LLM Gateways: Architecture, Tradeoffs and Hard Lessons — Kanish Manuja, Twilio",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-08-28T15:30:03Z",
+      "url": "https://www.youtube.com/watch?v=zrZ1amZBSPw",
+      "duration": "16:24",
+      "thumbnail": "https://i.ytimg.com/vi/zrZ1amZBSPw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "deep-dive",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "gateway-targets"
+      ]
+    },
+    {
+      "id": "vZSn943eDUo",
+      "title": "GameDay Rapid Rewind: Fixing our AI-powered pet store | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-28T15:05:04Z",
+      "url": "https://www.youtube.com/watch?v=vZSn943eDUo",
+      "duration": "21:40",
+      "thumbnail": "https://i.ytimg.com/vi/vZSn943eDUo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "EL123UNokkI",
+      "title": "Building uReview, Uber’s Multi-Agent Code Review Engine — Will Bond & Ameya Ketkar, Uber",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-08-28T14:30:12Z",
+      "url": "https://www.youtube.com/watch?v=EL123UNokkI",
+      "duration": "15:07",
+      "thumbnail": "https://i.ytimg.com/vi/EL123UNokkI/mqdefault.jpg",
+      "topics": [
+        "multi-agent",
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "community",
+      "relatedPatternIds": [
+        "multi_agent_rag"
+      ]
+    },
+    {
+      "id": "ZIYYsAzaLlA",
+      "title": "Building the Engine While Flying the Plane: Launching the Figma MCP Server — Jesse Lumarie, Figma",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-08-28T14:00:06Z",
+      "url": "https://www.youtube.com/watch?v=ZIYYsAzaLlA",
+      "duration": "16:46",
+      "thumbnail": "https://i.ytimg.com/vi/ZIYYsAzaLlA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
+    {
+      "id": "195RvQsJQ3Y",
+      "title": "How do I reroute traffic from a website in an S3 bucket in another account to my Route 53 subdomain?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-27T18:00:08Z",
+      "url": "https://www.youtube.com/watch?v=195RvQsJQ3Y",
+      "duration": "5:19",
+      "thumbnail": "https://i.ytimg.com/vi/195RvQsJQ3Y/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "_HznOW-pkxM",
       "title": "AWS: AI Answered - Is AI too expensive? | Amazon Web Services",
@@ -4526,36 +4645,6 @@
       "trustTier": "official"
     },
     {
-      "id": "TYWZpjSd5nk",
-      "title": "AWS is how fans get closer to the world's game | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-04T20:55:34Z",
-      "url": "https://www.youtube.com/watch?v=TYWZpjSd5nk",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/TYWZpjSd5nk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "hI57xmDTtl0",
-      "title": "AWS for Startups: Go from Idea to Revenue at Startup Speed | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-04T20:22:21Z",
-      "url": "https://www.youtube.com/watch?v=hI57xmDTtl0",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/hI57xmDTtl0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "9aJnZXbZysY",
       "title": "AWS Japan Summit 2026 | AWS Events",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -5602,21 +5691,6 @@
       "url": "https://www.youtube.com/watch?v=bhPL_HVx5Fo",
       "duration": "5:50",
       "thumbnail": "https://i.ytimg.com/vi/bhPL_HVx5Fo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "O3SIJEcocLc",
-      "title": "Autonomous Customer Experience: AI-Orchestrated Care, Network, and Billing | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:36Z",
-      "url": "https://www.youtube.com/watch?v=O3SIJEcocLc",
-      "duration": "15:09",
-      "thumbnail": "https://i.ytimg.com/vi/O3SIJEcocLc/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7672,21 +7746,6 @@
       "url": "https://www.youtube.com/watch?v=1L5VlKmon7c",
       "duration": "0:56",
       "thumbnail": "https://i.ytimg.com/vi/1L5VlKmon7c/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "NTl4mjjJAIc",
-      "title": "When Developers Make EPIC Mistakes 😱🔥",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-10T20:48:28Z",
-      "url": "https://www.youtube.com/watch?v=NTl4mjjJAIc",
-      "duration": "1:05",
-      "thumbnail": "https://i.ytimg.com/vi/NTl4mjjJAIc/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
