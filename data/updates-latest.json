@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-08-27T16:48:05.700Z",
+  "generatedAt": "2026-08-28T17:41:53.329Z",
   "updates": [
     {
-      "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
-      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
-      "url": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
-      "publishedAt": "2026-08-27T16:20:05.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics",
-      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
-      "publishedAt": "2026-08-27T16:11:27.000Z",
+      "id": "how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
+      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+      "publishedAt": "2026-08-28T16:22:30.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
-      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
-      "publishedAt": "2026-08-27T16:05:10.000Z",
+      "id": "spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
+      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+      "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+      "publishedAt": "2026-08-28T16:20:40.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations",
-      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
-      "publishedAt": "2026-08-26T19:13:35.000Z",
+      "id": "build-your-own-continuous-modernization-pipeline-with-aws-transform-custom",
+      "title": "Build your own continuous modernization pipeline with AWS Transform custom",
+      "url": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/",
+      "publishedAt": "2026-08-28T13:27:12.000Z",
+      "sourceName": "AWS DevOps & Developer Productivity Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-agentic-creative-workflows-with-amazon-quick-and-fal",
+      "title": "Build agentic creative workflows with Amazon Quick and fal",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+      "publishedAt": "2026-08-27T23:04:22.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock",
-      "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/",
-      "publishedAt": "2026-08-26T17:36:23.000Z",
-      "sourceName": "AWS Architecture Blog",
-      "kind": "blog"
+      "id": "cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart",
+      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
+      "publishedAt": "2026-08-27T22:41:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     },
     {
-      "id": "closing-the-ai-agent-trust-gap-with-graduated-autonomy",
-      "title": "Closing the AI agent trust gap with graduated autonomy",
-      "url": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/",
-      "publishedAt": "2026-08-26T17:33:03.000Z",
-      "sourceName": "AWS Architecture Blog",
-      "kind": "blog"
+      "id": "muse-glimmer-30b-qwen-3-8-27b-on-sagemaker-jumpstart",
+      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
+      "publishedAt": "2026-08-27T22:39:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
