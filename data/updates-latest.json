@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-08-28T17:41:53.329Z",
+  "generatedAt": "2026-08-29T11:46:55.287Z",
   "updates": [
+    {
+      "id": "agentcorememory-flexible-namespaces",
+      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "agentcorememory-fine-grained-access-control",
+      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "aws-transform-fedramp-class-c",
+      "title": "AWS Transform now in scope for FedRAMP Class C",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
+      "publishedAt": "2026-08-28T19:45:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "batch-write-and-discover-records-in-amazon-sagemaker-feature-store",
+      "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+      "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+      "publishedAt": "2026-08-28T19:31:05.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "amazon-ec2-p6-b300-instances-available-additional-regions",
+      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
+      "publishedAt": "2026-08-28T17:34:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
     {
       "id": "how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
       "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
@@ -8,46 +48,6 @@
       "publishedAt": "2026-08-28T16:22:30.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
-    },
-    {
-      "id": "spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
-      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-      "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
-      "publishedAt": "2026-08-28T16:20:40.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "build-your-own-continuous-modernization-pipeline-with-aws-transform-custom",
-      "title": "Build your own continuous modernization pipeline with AWS Transform custom",
-      "url": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/",
-      "publishedAt": "2026-08-28T13:27:12.000Z",
-      "sourceName": "AWS DevOps & Developer Productivity Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "build-agentic-creative-workflows-with-amazon-quick-and-fal",
-      "title": "Build agentic creative workflows with Amazon Quick and fal",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
-      "publishedAt": "2026-08-27T23:04:22.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart",
-      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
-      "publishedAt": "2026-08-27T22:41:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "muse-glimmer-30b-qwen-3-8-27b-on-sagemaker-jumpstart",
-      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
-      "publishedAt": "2026-08-27T22:39:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
     }
   ]
 }
