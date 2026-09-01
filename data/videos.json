@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-08-31T13:58:38.867Z",
+  "generatedAt": "2026-09-01T11:43:24.495Z",
   "videos": [
+    {
+      "id": "g-3YzZomVAE",
+      "title": "Play With ASL: Scaling language learning with AWS AI and cloud technology | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-31T19:29:12Z",
+      "url": "https://www.youtube.com/watch?v=g-3YzZomVAE",
+      "duration": "2:55",
+      "thumbnail": "https://i.ytimg.com/vi/g-3YzZomVAE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "nGnIsS9uOyY",
+      "title": "How to access foundation models in Amazon Bedrock",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-08-31T16:00:24Z",
+      "url": "https://www.youtube.com/watch?v=nGnIsS9uOyY",
+      "duration": "1:02",
+      "thumbnail": "https://i.ytimg.com/vi/nGnIsS9uOyY/mqdefault.jpg",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "CvoOpOR33V8",
       "title": "Observability for AI Agents",
@@ -4578,36 +4609,6 @@
       "url": "https://www.youtube.com/watch?v=UZxeEohc940",
       "duration": "5:24",
       "thumbnail": "https://i.ytimg.com/vi/UZxeEohc940/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "7_LvpeMiQhE",
-      "title": "How do I resolve the IAM user error \"not authorized to perform iam:PassRole\"?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T08:49:40Z",
-      "url": "https://www.youtube.com/watch?v=7_LvpeMiQhE",
-      "duration": "2:41",
-      "thumbnail": "https://i.ytimg.com/vi/7_LvpeMiQhE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "gJMz14Tsn94",
-      "title": "How do I use AWS End User Messaging to verify UK phone numbers or send SMS messages to UK numbers?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T08:12:45Z",
-      "url": "https://www.youtube.com/watch?v=gJMz14Tsn94",
-      "duration": "4:05",
-      "thumbnail": "https://i.ytimg.com/vi/gJMz14Tsn94/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
