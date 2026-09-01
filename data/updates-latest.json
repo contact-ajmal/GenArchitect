@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-08-31T11:49:52.653Z",
+  "generatedAt": "2026-09-01T10:26:08.687Z",
   "updates": [
     {
-      "id": "agentcorememory-flexible-namespaces",
-      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "agentcorememory-fine-grained-access-control",
-      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "aws-transform-fedramp-class-c",
-      "title": "AWS Transform now in scope for FedRAMP Class C",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
-      "publishedAt": "2026-08-28T19:45:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "batch-write-and-discover-records-in-amazon-sagemaker-feature-store",
-      "title": "Batch write and discover records in Amazon SageMaker Feature Store",
-      "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-      "publishedAt": "2026-08-28T19:31:05.000Z",
+      "id": "connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
+      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
+      "publishedAt": "2026-08-31T22:47:53.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-ec2-p6-b300-instances-available-additional-regions",
-      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
-      "publishedAt": "2026-08-28T17:34:00.000Z",
+      "id": "aws-agent-registry-agents-mcp-servers-quick",
+      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
+      "publishedAt": "2026-08-31T21:05:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
-      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
-      "publishedAt": "2026-08-28T16:22:30.000Z",
+      "id": "aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025",
+      "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
+      "publishedAt": "2026-08-31T19:50:12.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "manage-agents-tools-and-skills-at-scale-with-aws-agent-registry",
+      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+      "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+      "publishedAt": "2026-08-31T19:18:09.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-",
+      "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+      "publishedAt": "2026-08-31T19:08:45.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-manage",
+      "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
+      "publishedAt": "2026-08-31T18:56:12.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
