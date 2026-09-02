@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-01T10:26:08.687Z",
+  "generatedAt": "2026-09-02T09:53:58.835Z",
   "updates": [
     {
-      "id": "connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
-      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
-      "publishedAt": "2026-08-31T22:47:53.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "aws-agent-registry-agents-mcp-servers-quick",
-      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
-      "publishedAt": "2026-08-31T21:05:00.000Z",
+      "id": "amazon-quick-custom-apps-natural-language",
+      "title": "Amazon Quick now lets you build custom apps with natural language -",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
+      "publishedAt": "2026-09-01T21:37:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025",
-      "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
-      "publishedAt": "2026-08-31T19:50:12.000Z",
+      "id": "introducing-claude-fable-5-1-on-aws",
+      "title": "Introducing Claude Fable 5.1 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
+      "publishedAt": "2026-09-01T19:12:43.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "manage-agents-tools-and-skills-at-scale-with-aws-agent-registry",
-      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
-      "publishedAt": "2026-08-31T19:18:09.000Z",
+      "id": "observing-and-evaluating-production-agents-using-opensearch-agent-health",
+      "title": "Observing and evaluating production agents using OpenSearch Agent Health",
+      "url": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/",
+      "publishedAt": "2026-09-01T16:19:02.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+      "publishedAt": "2026-09-01T16:17:54.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-",
-      "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
-      "publishedAt": "2026-08-31T19:08:45.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent",
+      "title": "Accelerate Apache Spark debugging on Amazon EMR with AWS DevOps Agent",
+      "url": "https://aws.amazon.com/blogs/big-data/accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent/",
+      "publishedAt": "2026-09-01T16:06:44.000Z",
+      "sourceName": "AWS Big Data Blog",
       "kind": "blog"
     },
     {
-      "id": "build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-manage",
-      "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
-      "publishedAt": "2026-08-31T18:56:12.000Z",
+      "id": "tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock",
+      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+      "publishedAt": "2026-09-01T16:03:41.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }

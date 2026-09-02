@@ -1,6 +1,196 @@
 {
-  "generatedAt": "2026-09-01T10:26:08.687Z",
+  "generatedAt": "2026-09-02T09:53:58.835Z",
   "updates": [
+    {
+      "id": "amazon-quick-custom-apps-natural-language",
+      "title": "Amazon Quick now lets you build custom apps with natural language -",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
+      "publishedAt": "2026-09-01T21:37:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months…"
+    },
+    {
+      "id": "introducing-claude-fable-5-1-on-aws",
+      "title": "Introducing Claude Fable 5.1 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
+      "publishedAt": "2026-09-01T19:12:43.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud environment you…",
+      "author": "Dani Mitchell"
+    },
+    {
+      "id": "observing-and-evaluating-production-agents-using-opensearch-agent-health",
+      "title": "Observing and evaluating production agents using OpenSearch Agent Health",
+      "url": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/",
+      "publishedAt": "2026-09-01T16:19:02.000Z",
+      "sourceId": "big-data",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog",
+      "topics": [
+        "vector-search",
+        "observability"
+      ],
+      "excerpt": "Learn how to observe and evaluate production AI agents by combining an agent running on AWS with OpenSearch Agent Health. This post walks through deploying an agent and its observability pipeline to AWS, then using…",
+      "author": "Ulrich Hinze"
+    },
+    {
+      "id": "from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+      "publishedAt": "2026-09-01T16:17:54.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "multi-agent",
+        "genai-general"
+      ],
+      "excerpt": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos…",
+      "author": "Rajesh Babu Nuvvula"
+    },
+    {
+      "id": "accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent",
+      "title": "Accelerate Apache Spark debugging on Amazon EMR with AWS DevOps Agent",
+      "url": "https://aws.amazon.com/blogs/big-data/accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent/",
+      "publishedAt": "2026-09-01T16:06:44.000Z",
+      "sourceId": "big-data",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Extend AWS DevOps Agent to investigate Apache Spark failures on Amazon EMR. This post shows how to register the Apache Spark Troubleshooting Agent for Amazon EMR as a custom MCP capability provider over AWS PrivateLink…",
+      "author": "Kalyan Janaki"
+    },
+    {
+      "id": "tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock",
+      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+      "publishedAt": "2026-09-01T16:03:41.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view…",
+      "author": "Arun Chandapillai"
+    },
+    {
+      "id": "securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces",
+      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
+      "publishedAt": "2026-09-01T16:02:22.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "excerpt": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that…",
+      "author": "Archana Ambavane"
+    },
+    {
+      "id": "how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments",
+      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
+      "publishedAt": "2026-09-01T15:50:00.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have…",
+      "author": "Chris Wajule"
+    },
+    {
+      "id": "how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker",
+      "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
+      "publishedAt": "2026-09-01T15:47:00.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.",
+      "author": "Sudhir Schar"
+    },
+    {
+      "id": "how-boomi-scribe-streamlines-documentation-using-aws",
+      "title": "How Boomi Scribe streamlines documentation using AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
+      "publishedAt": "2026-09-01T15:45:36.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS…",
+      "author": "Swagata Ashwani, Prakhar Amlathe"
+    },
+    {
+      "id": "sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms",
+      "title": "SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS",
+      "url": "https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/",
+      "publishedAt": "2026-09-01T15:19:13.000Z",
+      "sourceId": "database",
+      "sourceName": "AWS Database Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Learn how to use AI agents with AWS DMS Schema Conversion to orchestrate SQL Server to Amazon Aurora PostgreSQL schema conversion through natural language. See how the conversion engine processes T-SQL, how the agent…",
+      "author": "Mayur Aggarwal"
+    },
+    {
+      "id": "claude-fable-5-1-aws",
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and…"
+    },
+    {
+      "id": "mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected",
+      "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
+      "url": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/",
+      "publishedAt": "2026-09-01T13:09:19.000Z",
+      "sourceId": "architecture",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog",
+      "topics": [
+        "well-architected",
+        "genai-general"
+      ],
+      "excerpt": "On July 28, 2026, MCP made its protocol core stateless, removing the initialize handshake and session header. This post maps the MCP 2026-07-28 specification to the AWS Well-Architected Agentic AI Lens, pillar by…",
+      "author": "Anand Komandooru"
+    },
     {
       "id": "connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
       "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
@@ -147,20 +337,6 @@
       "excerpt": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety…"
     },
     {
-      "id": "agentcorememory-fine-grained-access-control",
-      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "agentcore",
-        "bedrock"
-      ],
-      "excerpt": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic…"
-    },
-    {
       "id": "agentcorememory-flexible-namespaces",
       "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
@@ -173,6 +349,20 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without…"
+    },
+    {
+      "id": "agentcorememory-fine-grained-access-control",
+      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic…"
     },
     {
       "id": "aws-transform-fedramp-class-c",
@@ -340,19 +530,6 @@
       "author": "Sahil Verma"
     },
     {
-      "id": "connect-customer-analytics-cape-town",
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
-      "publishedAt": "2026-08-27T18:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
-    },
-    {
       "id": "bedrock-agentcore-two-new-regions",
       "title": "Amazon Bedrock AgentCore expands to two new regions",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
@@ -365,6 +542,19 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps…"
+    },
+    {
+      "id": "connect-customer-analytics-cape-town",
+      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
+      "publishedAt": "2026-08-27T18:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
     },
     {
       "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
