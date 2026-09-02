@@ -1,6 +1,201 @@
 {
-  "generatedAt": "2026-09-01T11:43:24.495Z",
+  "generatedAt": "2026-09-02T11:24:14.893Z",
   "videos": [
+    {
+      "id": "EHTKLTG-QJE",
+      "title": "System Design Interview Deep Dive",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-01T20:30:30Z",
+      "url": "https://www.youtube.com/watch?v=EHTKLTG-QJE",
+      "duration": "15:43",
+      "thumbnail": "https://i.ytimg.com/vi/EHTKLTG-QJE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "deep-dive",
+      "trustTier": "official"
+    },
+    {
+      "id": "C2WKRdiCBzQ",
+      "title": "AWS AI innovations and partnerships unlocking new possibilities | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-01T20:04:16Z",
+      "url": "https://www.youtube.com/watch?v=C2WKRdiCBzQ",
+      "duration": "4:38",
+      "thumbnail": "https://i.ytimg.com/vi/C2WKRdiCBzQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "r_6Ut2MnMZg",
+      "title": "AWS for Telecom: Modernize, Transform, Elevate Experiences, Grow | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-01T20:04:11Z",
+      "url": "https://www.youtube.com/watch?v=r_6Ut2MnMZg",
+      "duration": "3:26",
+      "thumbnail": "https://i.ytimg.com/vi/r_6Ut2MnMZg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "DgJNr7vE8fQ",
+      "title": "DTW 2026 - Latest AWS AI Innovations as of H1 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-01T20:03:15Z",
+      "url": "https://www.youtube.com/watch?v=DgJNr7vE8fQ",
+      "duration": "8:10",
+      "thumbnail": "https://i.ytimg.com/vi/DgJNr7vE8fQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "iTAx7xWNeq8",
+      "title": "DTW 2026 - Building trust in agentic AI: Model as a Service from AWS | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-01T20:03:08Z",
+      "url": "https://www.youtube.com/watch?v=iTAx7xWNeq8",
+      "duration": "9:57",
+      "thumbnail": "https://i.ytimg.com/vi/iTAx7xWNeq8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "oqd5D-49jRU",
+      "title": "DTW 2026 - UST's AI delivery engine and CCoE for telecom, powered by AWS | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-01T20:03:05Z",
+      "url": "https://www.youtube.com/watch?v=oqd5D-49jRU",
+      "duration": "13:58",
+      "thumbnail": "https://i.ytimg.com/vi/oqd5D-49jRU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "irJTM8PRs8I",
+      "title": "DTW 2026 - Cloud-native, agentic no-code OSS with Sybmphonica and AWS | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-01T20:03:00Z",
+      "url": "https://www.youtube.com/watch?v=irJTM8PRs8I",
+      "duration": "12:42",
+      "thumbnail": "https://i.ytimg.com/vi/irJTM8PRs8I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "MuYwjzJgyq0",
+      "title": "DTW 2026 - Ercisson's CBEV solution, powered by AWS | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-01T20:02:56Z",
+      "url": "https://www.youtube.com/watch?v=MuYwjzJgyq0",
+      "duration": "24:13",
+      "thumbnail": "https://i.ytimg.com/vi/MuYwjzJgyq0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "2ay_DhkswY0",
+      "title": "DTW 2026 - Amdocs Store Genie solution, powered by AWS | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-01T20:02:53Z",
+      "url": "https://www.youtube.com/watch?v=2ay_DhkswY0",
+      "duration": "10:54",
+      "thumbnail": "https://i.ytimg.com/vi/2ay_DhkswY0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "IHu6ksxqVjU",
+      "title": "Amazon Kinesis Data Streams data delivery to streaming tables | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-01T19:46:35Z",
+      "url": "https://www.youtube.com/watch?v=IHu6ksxqVjU",
+      "duration": "6:44",
+      "thumbnail": "https://i.ytimg.com/vi/IHu6ksxqVjU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "RNjyIQJirc8",
+      "title": "AWS Cloud Quest V2 | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-01T19:44:57Z",
+      "url": "https://www.youtube.com/watch?v=RNjyIQJirc8",
+      "duration": "0:41",
+      "thumbnail": "https://i.ytimg.com/vi/RNjyIQJirc8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "TGjq6u8VqK8",
+      "title": "Getting Started: AWS Certified Machine Learning Engineer - Associate | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-01T12:16:08Z",
+      "url": "https://www.youtube.com/watch?v=TGjq6u8VqK8",
+      "duration": "3:25",
+      "thumbnail": "https://i.ytimg.com/vi/TGjq6u8VqK8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "VSsweS2VkPg",
+      "title": "Getting Started: AWS Certified AI Business Strategist | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-01T12:16:06Z",
+      "url": "https://www.youtube.com/watch?v=VSsweS2VkPg",
+      "duration": "4:53",
+      "thumbnail": "https://i.ytimg.com/vi/VSsweS2VkPg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
     {
       "id": "g-3YzZomVAE",
       "title": "Play With ASL: Scaling language learning with AWS AI and cloud technology | Amazon Web Services",
@@ -4507,66 +4702,6 @@
       "trustTier": "official"
     },
     {
-      "id": "XpsH86jnc14",
-      "title": "AWS Startups: Made in Seoul, powered by AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T21:40:52Z",
-      "url": "https://www.youtube.com/watch?v=XpsH86jnc14",
-      "duration": "1:59",
-      "thumbnail": "https://i.ytimg.com/vi/XpsH86jnc14/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "hGCoSEFprNk",
-      "title": "AWS Startups: Made in San Francisco, powered by AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T21:40:37Z",
-      "url": "https://www.youtube.com/watch?v=hGCoSEFprNk",
-      "duration": "2:13",
-      "thumbnail": "https://i.ytimg.com/vi/hGCoSEFprNk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "c2UiM_uaFsQ",
-      "title": "AWS Startups: Made in New York, powered by AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T21:40:20Z",
-      "url": "https://www.youtube.com/watch?v=c2UiM_uaFsQ",
-      "duration": "2:36",
-      "thumbnail": "https://i.ytimg.com/vi/c2UiM_uaFsQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "icAPUKY2bAI",
-      "title": "Our favorite features of Kiro | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T19:00:22Z",
-      "url": "https://www.youtube.com/watch?v=icAPUKY2bAI",
-      "duration": "0:55",
-      "thumbnail": "https://i.ytimg.com/vi/icAPUKY2bAI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "_B4Pv9ttFgY",
       "title": "Building Agent Interfaces: Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -4583,37 +4718,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "TqtWg1ME2QU",
-      "title": "How do I troubleshoot latency and optimize Amazon Bedrock Agents performance?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T13:06:50Z",
-      "url": "https://www.youtube.com/watch?v=TqtWg1ME2QU",
-      "duration": "14:52",
-      "thumbnail": "https://i.ytimg.com/vi/TqtWg1ME2QU/mqdefault.jpg",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "UZxeEohc940",
-      "title": "How do I set up logging for AWS End User Messaging SMS?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-05T13:06:44Z",
-      "url": "https://www.youtube.com/watch?v=UZxeEohc940",
-      "duration": "5:24",
-      "thumbnail": "https://i.ytimg.com/vi/UZxeEohc940/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "IPZMY9Sdj7A",
@@ -5594,21 +5698,6 @@
       "trustTier": "official"
     },
     {
-      "id": "d_mQJdT799U",
-      "title": "What's Next with AWS - AI-powered hiring with Amazon Connect Talent | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T20:36:32Z",
-      "url": "https://www.youtube.com/watch?v=d_mQJdT799U",
-      "duration": "8:17",
-      "thumbnail": "https://i.ytimg.com/vi/d_mQJdT799U/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "ZkzkdhmcIVQ",
       "title": "Become an AI Native Cloud Engineer",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -5617,81 +5706,6 @@
       "url": "https://www.youtube.com/watch?v=ZkzkdhmcIVQ",
       "duration": "3:17",
       "thumbnail": "https://i.ytimg.com/vi/ZkzkdhmcIVQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "rMPIH1RBCq8",
-      "title": "Next-gen telecom contact center and care experience | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:58Z",
-      "url": "https://www.youtube.com/watch?v=rMPIH1RBCq8",
-      "duration": "14:10",
-      "thumbnail": "https://i.ytimg.com/vi/rMPIH1RBCq8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "NG33KbXBnvg",
-      "title": "Network Language Models: Build, Customize, Collaborate | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:54Z",
-      "url": "https://www.youtube.com/watch?v=NG33KbXBnvg",
-      "duration": "9:05",
-      "thumbnail": "https://i.ytimg.com/vi/NG33KbXBnvg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "U8VmdaTUUck",
-      "title": "6G Born in the Cloud | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:51Z",
-      "url": "https://www.youtube.com/watch?v=U8VmdaTUUck",
-      "duration": "12:58",
-      "thumbnail": "https://i.ytimg.com/vi/U8VmdaTUUck/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "6lu6JmaHWvg",
-      "title": "Meeting Audiences: From Time-Shifted TV to AI-Powered Highlights Generation | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:46Z",
-      "url": "https://www.youtube.com/watch?v=6lu6JmaHWvg",
-      "duration": "4:34",
-      "thumbnail": "https://i.ytimg.com/vi/6lu6JmaHWvg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "bhPL_HVx5Fo",
-      "title": "Personalized Broadband Experience: From Modernization to Monetization | AWS Events",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-18T19:28:40Z",
-      "url": "https://www.youtube.com/watch?v=bhPL_HVx5Fo",
-      "duration": "5:50",
-      "thumbnail": "https://i.ytimg.com/vi/bhPL_HVx5Fo/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7732,21 +7746,6 @@
       "url": "https://www.youtube.com/watch?v=6qW24zyOv0Y",
       "duration": "1:02:18",
       "thumbnail": "https://i.ytimg.com/vi/6qW24zyOv0Y/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "1L5VlKmon7c",
-      "title": "It's Never Too Late to Get Started in Tech!",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-16T15:46:28Z",
-      "url": "https://www.youtube.com/watch?v=1L5VlKmon7c",
-      "duration": "0:56",
-      "thumbnail": "https://i.ytimg.com/vi/1L5VlKmon7c/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
