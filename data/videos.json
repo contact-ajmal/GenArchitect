@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-02T11:24:14.893Z",
+  "generatedAt": "2026-09-03T11:20:42.680Z",
   "videos": [
+    {
+      "id": "xLaVfEqyyxg",
+      "title": "AWS Glue 6.0 - Latest & Greatest | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-02T19:07:34Z",
+      "url": "https://www.youtube.com/watch?v=xLaVfEqyyxg",
+      "duration": "4:43",
+      "thumbnail": "https://i.ytimg.com/vi/xLaVfEqyyxg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "NC3zTFR7maQ",
+      "title": "How the NFL powers every play with an AI-ready data foundation | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-02T18:54:48Z",
+      "url": "https://www.youtube.com/watch?v=NC3zTFR7maQ",
+      "duration": "1:51",
+      "thumbnail": "https://i.ytimg.com/vi/NC3zTFR7maQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "OHNmVGS5wes",
+      "title": "In The Field – We go inside TBC.co's lab to see the future of AI efficiency",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-02T17:29:14Z",
+      "url": "https://www.youtube.com/watch?v=OHNmVGS5wes",
+      "thumbnail": "https://i.ytimg.com/vi/OHNmVGS5wes/mqdefault_live.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "EHTKLTG-QJE",
       "title": "System Design Interview Deep Dive",
@@ -4550,51 +4594,6 @@
       "url": "https://www.youtube.com/watch?v=tWzb4IZjF0M",
       "duration": "3:41",
       "thumbnail": "https://i.ytimg.com/vi/tWzb4IZjF0M/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "s1xsGxp2r18",
-      "title": "F1 Insights powered by AWS: Street Circuits | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-08T19:08:16Z",
-      "url": "https://www.youtube.com/watch?v=s1xsGxp2r18",
-      "duration": "0:54",
-      "thumbnail": "https://i.ytimg.com/vi/s1xsGxp2r18/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "XP87xe0e1Ag",
-      "title": "Introducing Formula 1® Circuit Classes and F1 Insights, powered by AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-08T19:07:56Z",
-      "url": "https://www.youtube.com/watch?v=XP87xe0e1Ag",
-      "duration": "1:43",
-      "thumbnail": "https://i.ytimg.com/vi/XP87xe0e1Ag/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "xC6XORTgAKY",
-      "title": "AI-DLC explained- how AWS can accelerate AI in the SDLC | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-08T19:00:20Z",
-      "url": "https://www.youtube.com/watch?v=xC6XORTgAKY",
-      "duration": "1:01",
-      "thumbnail": "https://i.ytimg.com/vi/xC6XORTgAKY/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
