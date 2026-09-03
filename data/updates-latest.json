@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-02T09:53:58.835Z",
+  "generatedAt": "2026-09-03T10:04:34.986Z",
   "updates": [
     {
-      "id": "amazon-quick-custom-apps-natural-language",
-      "title": "Amazon Quick now lets you build custom apps with natural language -",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
-      "publishedAt": "2026-09-01T21:37:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "introducing-claude-fable-5-1-on-aws",
-      "title": "Introducing Claude Fable 5.1 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
-      "publishedAt": "2026-09-01T19:12:43.000Z",
+      "id": "accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-",
+      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+      "publishedAt": "2026-09-02T21:22:05.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "observing-and-evaluating-production-agents-using-opensearch-agent-health",
-      "title": "Observing and evaluating production agents using OpenSearch Agent Health",
-      "url": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/",
-      "publishedAt": "2026-09-01T16:19:02.000Z",
+      "id": "agentic-security-detection-and-response-at-machine-speed",
+      "title": "Agentic security: Detection and response at machine speed",
+      "url": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/",
+      "publishedAt": "2026-09-02T18:36:37.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "building-medallion-architecture-with-iceberg-materialized-views-in-amazon-sagemaker",
+      "title": "Building medallion architecture with Iceberg materialized views in Amazon SageMaker",
+      "url": "https://aws.amazon.com/blogs/big-data/building-medallion-architecture-with-iceberg-materialized-views-in-amazon-sagemaker/",
+      "publishedAt": "2026-09-02T18:34:32.000Z",
       "sourceName": "AWS Big Data Blog",
       "kind": "blog"
     },
     {
-      "id": "from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
-      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
-      "publishedAt": "2026-09-01T16:17:54.000Z",
+      "id": "modernizing-and-scaling-support-operations-with-generative-ai-on-aws",
+      "title": "Modernizing and scaling support operations with generative AI on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
+      "publishedAt": "2026-09-02T18:26:35.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent",
-      "title": "Accelerate Apache Spark debugging on Amazon EMR with AWS DevOps Agent",
-      "url": "https://aws.amazon.com/blogs/big-data/accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent/",
-      "publishedAt": "2026-09-01T16:06:44.000Z",
-      "sourceName": "AWS Big Data Blog",
+      "id": "how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock",
+      "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
+      "publishedAt": "2026-09-02T18:21:20.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock",
-      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
-      "publishedAt": "2026-09-01T16:03:41.000Z",
+      "id": "from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore",
+      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-02T18:18:47.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
