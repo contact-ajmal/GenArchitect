@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-03T10:04:34.986Z",
+  "generatedAt": "2026-09-04T09:55:42.885Z",
   "updates": [
     {
-      "id": "accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-",
-      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
-      "publishedAt": "2026-09-02T21:22:05.000Z",
+      "id": "amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "publishedAt": "2026-09-03T19:14:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "publishedAt": "2026-09-03T19:03:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "amazon-quick-max-5x-usage-power-users",
+      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+      "publishedAt": "2026-09-03T17:17:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "ai-driven-development-lifecycle-using-amazon-bedrock-agentcore",
+      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-03T16:16:28.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "agentic-security-detection-and-response-at-machine-speed",
-      "title": "Agentic security: Detection and response at machine speed",
-      "url": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/",
-      "publishedAt": "2026-09-02T18:36:37.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "building-medallion-architecture-with-iceberg-materialized-views-in-amazon-sagemaker",
-      "title": "Building medallion architecture with Iceberg materialized views in Amazon SageMaker",
-      "url": "https://aws.amazon.com/blogs/big-data/building-medallion-architecture-with-iceberg-materialized-views-in-amazon-sagemaker/",
-      "publishedAt": "2026-09-02T18:34:32.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "modernizing-and-scaling-support-operations-with-generative-ai-on-aws",
-      "title": "Modernizing and scaling support operations with generative AI on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
-      "publishedAt": "2026-09-02T18:26:35.000Z",
+      "id": "migrate-agentic-workloads-to-amazon-bedrock-agentcore",
+      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-03T16:14:12.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock",
-      "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
-      "publishedAt": "2026-09-02T18:21:20.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore",
-      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-02T18:18:47.000Z",
+      "id": "integrating-outlook-with-amazon-quick-for-ai-powered-email-automation",
+      "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+      "publishedAt": "2026-09-03T16:11:57.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }

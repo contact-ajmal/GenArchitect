@@ -1,6 +1,151 @@
 {
-  "generatedAt": "2026-09-03T10:04:34.986Z",
+  "generatedAt": "2026-09-04T09:55:42.885Z",
   "updates": [
+    {
+      "id": "amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "publishedAt": "2026-09-03T19:14:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in the AWS Asia Pacific (Hyderabad) Region. These instances offer up to 2x performance…"
+    },
+    {
+      "id": "amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "publishedAt": "2026-09-03T19:03:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS Asia Pacific (Jakarta) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU…"
+    },
+    {
+      "id": "amazon-quick-max-5x-usage-power-users",
+      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+      "publishedAt": "2026-09-03T17:17:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "excerpt": "Amazon Quick now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of Plus, Max gives you the room to do more: more agents, more workflows…"
+    },
+    {
+      "id": "ai-driven-development-lifecycle-using-amazon-bedrock-agentcore",
+      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-03T16:16:28.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock",
+        "multi-agent",
+        "genai-general"
+      ],
+      "excerpt": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and…",
+      "author": "Arghya Banerjee"
+    },
+    {
+      "id": "migrate-agentic-workloads-to-amazon-bedrock-agentcore",
+      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-03T16:14:12.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "strands",
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to…",
+      "author": "Sruthi Vedula"
+    },
+    {
+      "id": "integrating-outlook-with-amazon-quick-for-ai-powered-email-automation",
+      "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+      "publishedAt": "2026-09-03T16:11:57.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-end setup and shows automation scenarios using Amazon Quick…",
+      "author": "Dalien Ahiekpor"
+    },
+    {
+      "id": "set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock",
+      "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+      "publishedAt": "2026-09-03T16:10:39.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped…",
+      "author": "Nick McCarthy"
+    },
+    {
+      "id": "best-practices-for-building-agentic-automations-with-amazon-quick-automate",
+      "title": "Best practices for building agentic automations with Amazon Quick Automate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
+      "publishedAt": "2026-09-03T16:08:28.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "observability",
+        "genai-general"
+      ],
+      "excerpt": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps…",
+      "author": "Sumit Wasuja"
+    },
+    {
+      "id": "embed-quick-sight-visuals-using-cognito-user-authentication",
+      "title": "Embed Quick Sight visuals using Cognito user authentication",
+      "url": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/",
+      "publishedAt": "2026-09-03T16:01:56.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped…",
+      "author": "Ishita Gupta"
+    },
+    {
+      "id": "sagemaker-workflows-python-bash",
+      "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
+      "publishedAt": "2026-09-03T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker Unified Studio Workflows now supports PythonOperator and BashOperator, enabling you to run custom Python functions and shell commands directly in your serverless workflows without provisioning separate…"
+    },
     {
       "id": "accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-",
       "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
@@ -218,6 +363,20 @@
       "excerpt": "Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months…"
     },
     {
+      "id": "amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock AgentCore Identity now offers a managed consent portal",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-01T21:29:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Amazon Bedrock AgentCore Identity now offers a managed consent portal that eliminates the need for custom OAuth callback infrastructure when connecting agents to third-party tools and services. Developers using…"
+    },
+    {
       "id": "introducing-claude-fable-5-1-on-aws",
       "title": "Introducing Claude Fable 5.1 on AWS",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
@@ -366,6 +525,20 @@
       "author": "Mayur Aggarwal"
     },
     {
+      "id": "claude-fable-5-1-aws",
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
+      "publishedAt": "2026-09-01T14:30:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and…"
+    },
+    {
       "id": "claude-fable-5-1-aws-govcloud",
       "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/",
@@ -378,20 +551,6 @@
         "genai-general"
       ],
       "excerpt": "Claude Fable 5.1 is generally available on Amazon Bedrock in AWS GovCloud (US) and brings Anthropic's most capable frontier model to regulated industry customers. Fable 5.1 delivers frontier intelligence for ambitious…"
-    },
-    {
-      "id": "claude-fable-5-1-aws",
-      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
-      "publishedAt": "2026-09-01T14:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and…"
     },
     {
       "id": "mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected",
@@ -554,20 +713,6 @@
       "excerpt": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety…"
     },
     {
-      "id": "agentcorememory-fine-grained-access-control",
-      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "agentcore",
-        "bedrock"
-      ],
-      "excerpt": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic…"
-    },
-    {
       "id": "agentcorememory-flexible-namespaces",
       "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
@@ -580,6 +725,20 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without…"
+    },
+    {
+      "id": "agentcorememory-fine-grained-access-control",
+      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic…"
     },
     {
       "id": "aws-transform-fedramp-class-c",
@@ -747,19 +906,6 @@
       "author": "Sahil Verma"
     },
     {
-      "id": "connect-customer-analytics-cape-town",
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
-      "publishedAt": "2026-08-27T18:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
-    },
-    {
       "id": "bedrock-agentcore-two-new-regions",
       "title": "Amazon Bedrock AgentCore expands to two new regions",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
@@ -772,6 +918,19 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps…"
+    },
+    {
+      "id": "connect-customer-analytics-cape-town",
+      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
+      "publishedAt": "2026-08-27T18:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
     },
     {
       "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
