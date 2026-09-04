@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-03T11:20:42.680Z",
+  "generatedAt": "2026-09-04T11:23:27.135Z",
   "videos": [
+    {
+      "id": "DuOHJJ46A8I",
+      "title": "AWS Cloud Practitioner in 2026: Is It Worth It?",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-03T20:30:20Z",
+      "url": "https://www.youtube.com/watch?v=DuOHJJ46A8I",
+      "duration": "8:12",
+      "thumbnail": "https://i.ytimg.com/vi/DuOHJJ46A8I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "xLaVfEqyyxg",
       "title": "AWS Glue 6.0 - Latest & Greatest | Amazon Web Services",
@@ -7715,21 +7730,6 @@
       "url": "https://www.youtube.com/watch?v=yEimIuqRHvg",
       "duration": "0:46",
       "thumbnail": "https://i.ytimg.com/vi/yEimIuqRHvg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "dAF-mm_u3jU",
-      "title": "From Napkin Sketch to Deployed Full Stack AWS App: An AI Did All the Coding",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-19T16:33:22Z",
-      "url": "https://www.youtube.com/watch?v=dAF-mm_u3jU",
-      "duration": "7:57",
-      "thumbnail": "https://i.ytimg.com/vi/dAF-mm_u3jU/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
