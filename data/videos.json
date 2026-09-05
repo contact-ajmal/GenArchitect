@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-04T11:23:27.135Z",
+  "generatedAt": "2026-09-05T10:40:25.009Z",
   "videos": [
+    {
+      "id": "J6TmHIZ8ToM",
+      "title": "Cloud Report | Quick, who took our lunch?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-05T08:19:41Z",
+      "url": "https://www.youtube.com/watch?v=J6TmHIZ8ToM",
+      "duration": "1:11:27",
+      "thumbnail": "https://i.ytimg.com/vi/J6TmHIZ8ToM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "DuOHJJ46A8I",
       "title": "AWS Cloud Practitioner in 2026: Is It Worth It?",
@@ -4594,21 +4609,6 @@
       "url": "https://www.youtube.com/watch?v=FDZ89vbIWZo",
       "duration": "3:15",
       "thumbnail": "https://i.ytimg.com/vi/FDZ89vbIWZo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "tWzb4IZjF0M",
-      "title": "HelloFresh Cuts Engineer Response Time from Hours to Seconds with AI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-08T19:53:02Z",
-      "url": "https://www.youtube.com/watch?v=tWzb4IZjF0M",
-      "duration": "3:41",
-      "thumbnail": "https://i.ytimg.com/vi/tWzb4IZjF0M/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
