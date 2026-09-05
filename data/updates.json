@@ -1,6 +1,180 @@
 {
-  "generatedAt": "2026-09-04T09:55:42.885Z",
+  "generatedAt": "2026-09-05T09:20:17.745Z",
   "updates": [
+    {
+      "id": "deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
+      "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-04T21:45:52.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon…",
+      "author": "Salman Ahmed"
+    },
+    {
+      "id": "from-silos-to-insights-federated-data-access-patterns-for-ai-agents",
+      "title": "From silos to insights: Federated data access patterns for AI agents",
+      "url": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/",
+      "publishedAt": "2026-09-04T21:35:21.000Z",
+      "sourceId": "big-data",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "AI agents can reach enterprise data where it lives instead of routing every question through data engineers. This post presents three reference patterns for federated data access using Model Context Protocol (MCP)…",
+      "author": "James Wu"
+    },
+    {
+      "id": "amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence",
+      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+      "publishedAt": "2026-09-04T21:29:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag",
+        "bedrock"
+      ],
+      "excerpt": "AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, configuring these data sources required generating 2LO credentials on…"
+    },
+    {
+      "id": "amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+      "publishedAt": "2026-09-04T21:14:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag",
+        "bedrock"
+      ],
+      "excerpt": "AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now connect their ServiceNow instance to crawl…"
+    },
+    {
+      "id": "amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+      "publishedAt": "2026-09-04T21:01:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag",
+        "bedrock",
+        "vector-search"
+      ],
+      "excerpt": "AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and advanced retrieval…"
+    },
+    {
+      "id": "designing-lifecycle-policies-for-agentcore-memory",
+      "title": "Designing lifecycle policies for AgentCore memory",
+      "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
+      "publishedAt": "2026-09-04T17:20:04.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent…",
+      "author": "Akarsha Sehwag"
+    },
+    {
+      "id": "aws-mcp-server-serverless",
+      "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
+      "publishedAt": "2026-09-04T16:31:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Today, AWS Model Context Protocol Server (AWS MCP Server) added a serverless capability so that coding agents such as Claude Code and Kiro can efficiently diagnose issues with your Lambda functions. The serverless…"
+    },
+    {
+      "id": "build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod",
+      "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
+      "publishedAt": "2026-09-04T16:16:00.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA…",
+      "author": "Nathan Arnold"
+    },
+    {
+      "id": "run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
+      "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+      "publishedAt": "2026-09-04T16:12:17.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface…",
+      "author": "Hao Zheng"
+    },
+    {
+      "id": "customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-am",
+      "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
+      "publishedAt": "2026-09-04T16:08:10.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "rag",
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to…",
+      "author": "Rushabh Lokhande"
+    },
+    {
+      "id": "how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock",
+      "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+      "publishedAt": "2026-09-04T16:06:01.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while…",
+      "author": "Suvojit Dasgupta"
+    },
+    {
+      "id": "sagemaker-batch-transform-g6e-instances",
+      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
+      "publishedAt": "2026-09-04T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker AI now supports Amazon EC2 G6e instances for batch transform. Batch Transform enables you to run predictions on datasets stored in Amazon S3 and is suited for large datasets that do not require a…"
+    },
     {
       "id": "amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
       "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
@@ -713,20 +887,6 @@
       "excerpt": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety…"
     },
     {
-      "id": "agentcorememory-flexible-namespaces",
-      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "agentcore",
-        "bedrock"
-      ],
-      "excerpt": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without…"
-    },
-    {
       "id": "agentcorememory-fine-grained-access-control",
       "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
@@ -739,6 +899,20 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic…"
+    },
+    {
+      "id": "agentcorememory-flexible-namespaces",
+      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without…"
     },
     {
       "id": "aws-transform-fedramp-class-c",
@@ -906,6 +1080,19 @@
       "author": "Sahil Verma"
     },
     {
+      "id": "connect-customer-analytics-cape-town",
+      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
+      "publishedAt": "2026-08-27T18:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
+    },
+    {
       "id": "bedrock-agentcore-two-new-regions",
       "title": "Amazon Bedrock AgentCore expands to two new regions",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
@@ -918,19 +1105,6 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps…"
-    },
-    {
-      "id": "connect-customer-analytics-cape-town",
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
-      "publishedAt": "2026-08-27T18:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
     },
     {
       "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",

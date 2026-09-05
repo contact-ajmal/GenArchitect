@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-04T09:55:42.885Z",
+  "generatedAt": "2026-09-05T09:20:17.745Z",
   "updates": [
     {
-      "id": "amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
-      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
-      "publishedAt": "2026-09-03T19:14:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
-      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
-      "publishedAt": "2026-09-03T19:03:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "amazon-quick-max-5x-usage-power-users",
-      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
-      "publishedAt": "2026-09-03T17:17:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "ai-driven-development-lifecycle-using-amazon-bedrock-agentcore",
-      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-03T16:16:28.000Z",
+      "id": "deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
+      "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-04T21:45:52.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "migrate-agentic-workloads-to-amazon-bedrock-agentcore",
-      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-03T16:14:12.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "from-silos-to-insights-federated-data-access-patterns-for-ai-agents",
+      "title": "From silos to insights: Federated data access patterns for AI agents",
+      "url": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/",
+      "publishedAt": "2026-09-04T21:35:21.000Z",
+      "sourceName": "AWS Big Data Blog",
       "kind": "blog"
     },
     {
-      "id": "integrating-outlook-with-amazon-quick-for-ai-powered-email-automation",
-      "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
-      "publishedAt": "2026-09-03T16:11:57.000Z",
+      "id": "amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence",
+      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+      "publishedAt": "2026-09-04T21:29:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+      "publishedAt": "2026-09-04T21:14:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+      "publishedAt": "2026-09-04T21:01:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "designing-lifecycle-policies-for-agentcore-memory",
+      "title": "Designing lifecycle policies for AgentCore memory",
+      "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
+      "publishedAt": "2026-09-04T17:20:04.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
