@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-07T10:43:10.967Z",
+  "generatedAt": "2026-09-08T10:04:41.442Z",
   "updates": [
+    {
+      "id": "aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-busi",
+      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+      "publishedAt": "2026-09-07T14:24:08.000Z",
+      "sourceName": "AWS News Blog",
+      "kind": "blog"
+    },
     {
       "id": "deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
       "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
@@ -40,14 +48,6 @@
       "publishedAt": "2026-09-04T21:01:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
-    },
-    {
-      "id": "designing-lifecycle-policies-for-agentcore-memory",
-      "title": "Designing lifecycle policies for AgentCore memory",
-      "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
-      "publishedAt": "2026-09-04T17:20:04.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
     }
   ]
 }
