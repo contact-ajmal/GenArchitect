@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T12:40:52.679Z",
+  "generatedAt": "2026-09-08T11:24:19.994Z",
   "videos": [
+    {
+      "id": "anNVya7E6eI",
+      "title": "How to delegate a subdomain in Amazon Route 53",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-07T16:30:18Z",
+      "url": "https://www.youtube.com/watch?v=anNVya7E6eI",
+      "duration": "0:51",
+      "thumbnail": "https://i.ytimg.com/vi/anNVya7E6eI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "J6TmHIZ8ToM",
       "title": "Cloud Report | Quick, who took our lunch?",
@@ -4595,21 +4610,6 @@
       "thumbnail": "https://i.ytimg.com/vi/f5O91p0qoXw/mqdefault.jpg",
       "topics": [
         "agentcore",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "FDZ89vbIWZo",
-      "title": "HelloFresh Cuts Page Latency 48% with Multi-Region Platform on AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-08T19:53:22Z",
-      "url": "https://www.youtube.com/watch?v=FDZ89vbIWZo",
-      "duration": "3:15",
-      "thumbnail": "https://i.ytimg.com/vi/FDZ89vbIWZo/mqdefault.jpg",
-      "topics": [
         "genai-general"
       ],
       "level": "talk",
