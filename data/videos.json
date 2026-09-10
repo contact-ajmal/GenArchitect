@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-09T11:29:02.060Z",
+  "generatedAt": "2026-09-10T11:25:46.263Z",
   "videos": [
+    {
+      "id": "O6vm9CceM0A",
+      "title": "AWS Public Sector AI Symposium Canberra - Keynote",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-09T19:46:14Z",
+      "url": "https://www.youtube.com/watch?v=O6vm9CceM0A",
+      "duration": "1:29:49",
+      "thumbnail": "https://i.ytimg.com/vi/O6vm9CceM0A/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "lbaXnx0KLA8",
+      "title": "MCP Apps: Give the Model Data, Give the User a UI — Dustin Mihalik, Indeed",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-09-09T15:30:08Z",
+      "url": "https://www.youtube.com/watch?v=lbaXnx0KLA8",
+      "duration": "15:34",
+      "thumbnail": "https://i.ytimg.com/vi/lbaXnx0KLA8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
     {
       "id": "z4C7Ndiod5w",
       "title": "No Hierarchy, No Limits: Inside HUMAIN's AI-Native Workforce | Amazon Web Services",
@@ -5705,21 +5738,6 @@
       "url": "https://www.youtube.com/watch?v=J7J3m7Ubk7w",
       "duration": "57:50",
       "thumbnail": "https://i.ytimg.com/vi/J7J3m7Ubk7w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "D9xa7fUStCE",
-      "title": "Accelerating data workflows with AI Agents in your IDE | Let's Talk About Data",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-19T04:05:39Z",
-      "url": "https://www.youtube.com/watch?v=D9xa7fUStCE",
-      "duration": "58:48",
-      "thumbnail": "https://i.ytimg.com/vi/D9xa7fUStCE/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
