@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-09-10T10:01:40.114Z",
+  "generatedAt": "2026-09-11T09:59:44.824Z",
   "updates": [
     {
-      "id": "deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm",
-      "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
-      "publishedAt": "2026-09-09T22:26:29.000Z",
+      "id": "reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
+      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+      "publishedAt": "2026-09-10T21:58:09.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "icymi-what-landed-for-ai-builders-in-august-2026",
-      "title": "ICYMI: What landed for AI builders in August 2026",
-      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
-      "publishedAt": "2026-09-09T20:01:03.000Z",
+      "id": "reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching",
+      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
+      "publishedAt": "2026-09-10T21:37:49.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust",
-      "title": "The state of AI for security: Measuring what matters most for building trust",
-      "url": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/",
-      "publishedAt": "2026-09-09T19:09:14.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore",
-      "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-09T18:11:12.000Z",
+      "id": "video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0",
+      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
+      "publishedAt": "2026-09-10T21:15:39.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-bedrock-knowledge-base-debugging-document-access-control",
-      "title": "Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/",
-      "publishedAt": "2026-09-09T16:03:00.000Z",
+      "id": "aws-lambda-durable-pydantic-ai",
+      "title": "AWS Lambda durable functions integrates with Pydantic AI",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
+      "publishedAt": "2026-09-10T18:45:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers",
-      "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
-      "publishedAt": "2026-09-09T15:51:29.000Z",
+      "id": "amazon-quick-is-now-generally-available-on-desktop",
+      "title": "Amazon Quick is now generally available on desktop",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+      "publishedAt": "2026-09-10T18:16:37.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
+    },
+    {
+      "id": "amazon-opensearch-serverless-available-v0-vercel",
+      "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/",
+      "publishedAt": "2026-09-10T17:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
