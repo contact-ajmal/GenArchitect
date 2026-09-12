@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-11T09:59:44.824Z",
+  "generatedAt": "2026-09-12T09:34:09.192Z",
   "updates": [
     {
-      "id": "reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
-      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
-      "publishedAt": "2026-09-10T21:58:09.000Z",
+      "id": "monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations",
+      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+      "publishedAt": "2026-09-11T18:26:38.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching",
-      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
-      "publishedAt": "2026-09-10T21:37:49.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0",
-      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
-      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
-      "publishedAt": "2026-09-10T21:15:39.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "aws-lambda-durable-pydantic-ai",
-      "title": "AWS Lambda durable functions integrates with Pydantic AI",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
-      "publishedAt": "2026-09-10T18:45:00.000Z",
+      "id": "sgm-hyperpod-model-caching-inf",
+      "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
+      "publishedAt": "2026-09-11T18:25:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "amazon-quick-is-now-generally-available-on-desktop",
-      "title": "Amazon Quick is now generally available on desktop",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
-      "publishedAt": "2026-09-10T18:16:37.000Z",
+      "id": "beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-work",
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+      "publishedAt": "2026-09-11T18:24:38.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-opensearch-serverless-available-v0-vercel",
-      "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/",
-      "publishedAt": "2026-09-10T17:00:00.000Z",
+      "id": "build-interactive-mcp-apps-using-amazon-bedrock-agentcore",
+      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-11T18:23:17.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/",
+      "publishedAt": "2026-09-11T15:13:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "aws-devops-agent-bidirectional-slack-communication",
+      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     }
