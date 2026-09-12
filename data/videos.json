@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-09-11T11:27:28.889Z",
+  "generatedAt": "2026-09-12T10:52:37.347Z",
   "videos": [
+    {
+      "id": "wqPZ3Y-9KLw",
+      "title": "Building a community for business - Seoul Tonic | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-11T13:57:45Z",
+      "url": "https://www.youtube.com/watch?v=wqPZ3Y-9KLw",
+      "duration": "0:26",
+      "thumbnail": "https://i.ytimg.com/vi/wqPZ3Y-9KLw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "dvZAR-vD55w",
+      "title": "Rise of instore experience in the world of AI-Seoul Tonic|re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-11T13:57:37Z",
+      "url": "https://www.youtube.com/watch?v=dvZAR-vD55w",
+      "duration": "0:28",
+      "thumbnail": "https://i.ytimg.com/vi/dvZAR-vD55w/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "HgOdT4xGxMo",
+      "title": "Role of AI in creative fields - Seoul Tonic | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-11T13:57:34Z",
+      "url": "https://www.youtube.com/watch?v=HgOdT4xGxMo",
+      "duration": "0:30",
+      "thumbnail": "https://i.ytimg.com/vi/HgOdT4xGxMo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "UG8xgQEthx8",
+      "title": "Building International Wellness Brand with Seoul Tonic | re:Tales with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-11T13:56:31Z",
+      "url": "https://www.youtube.com/watch?v=UG8xgQEthx8",
+      "duration": "27:00",
+      "thumbnail": "https://i.ytimg.com/vi/UG8xgQEthx8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "D-KB7yxahjI",
       "title": "Amazon Quick: The Work Follows Through, So You Don't Have To | Amazon Web Services",
@@ -4447,36 +4507,6 @@
       "trustTier": "official"
     },
     {
-      "id": "NM8uCLbwA5k",
-      "title": "Amazon EC2 M9g Instances - Powered by AWS Graviton5 | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-10T17:28:47Z",
-      "url": "https://www.youtube.com/watch?v=NM8uCLbwA5k",
-      "duration": "0:35",
-      "thumbnail": "https://i.ytimg.com/vi/NM8uCLbwA5k/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "KQhHqPlyKRQ",
-      "title": "How Startups Build and Grow with AWS | Founder Stories | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-10T16:48:37Z",
-      "url": "https://www.youtube.com/watch?v=KQhHqPlyKRQ",
-      "duration": "2:19",
-      "thumbnail": "https://i.ytimg.com/vi/KQhHqPlyKRQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
       "id": "vmybpMc4GMY",
       "title": "AI-Powered SDLC with Claude Code, Codex, Kiro  | Amazon Bedrock AgentCore | AWS Show and Tell",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4532,36 +4562,6 @@
       "url": "https://www.youtube.com/watch?v=0nR3wYm602c",
       "duration": "13:26",
       "thumbnail": "https://i.ytimg.com/vi/0nR3wYm602c/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "sYAxlRf7uPE",
-      "title": "Greg's recipe for success with Agentic AI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-09T19:00:06Z",
-      "url": "https://www.youtube.com/watch?v=sYAxlRf7uPE",
-      "duration": "0:51",
-      "thumbnail": "https://i.ytimg.com/vi/sYAxlRf7uPE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "aY4_o_bfXOg",
-      "title": "AWS DevOps Agent integration with Datadog | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-09T18:08:49Z",
-      "url": "https://www.youtube.com/watch?v=aY4_o_bfXOg",
-      "duration": "3:38",
-      "thumbnail": "https://i.ytimg.com/vi/aY4_o_bfXOg/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
