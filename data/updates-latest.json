@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:36:26.311Z",
+  "generatedAt": "2026-09-14T10:58:12.937Z",
   "updates": [
     {
       "id": "monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations",
@@ -42,9 +42,9 @@
       "kind": "announcement"
     },
     {
-      "id": "aws-healthomics-realtime-run-metrics",
-      "title": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
+      "id": "aws-devops-agent-bidirectional-slack-communication",
+      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
       "publishedAt": "2026-09-11T15:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
