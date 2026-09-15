@@ -1,6 +1,155 @@
 {
-  "generatedAt": "2026-09-14T12:55:16.021Z",
+  "generatedAt": "2026-09-15T11:50:27.408Z",
   "videos": [
+    {
+      "id": "8xQ08JCddio",
+      "title": "Cloud Report: We used AI to solve an office mystery | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-15T01:55:57Z",
+      "url": "https://www.youtube.com/watch?v=8xQ08JCddio",
+      "duration": "11:17",
+      "thumbnail": "https://i.ytimg.com/vi/8xQ08JCddio/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "-q_u6nrVdgo",
+      "title": "Quit Tokenmaxxing: 4 Context Engineering Techniques for AI Agents",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-14T18:30:18Z",
+      "url": "https://www.youtube.com/watch?v=-q_u6nrVdgo",
+      "duration": "21:34",
+      "thumbnail": "https://i.ytimg.com/vi/-q_u6nrVdgo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "oGEsJNjXzCY",
+      "title": "GameDay: Real Estate Adventure (Assembly Required)",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T17:57:28Z",
+      "url": "https://www.youtube.com/watch?v=oGEsJNjXzCY",
+      "thumbnail": "https://i.ytimg.com/vi/oGEsJNjXzCY/mqdefault_live.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "hWhhQCOGmJI",
+      "title": "AWS x NFL Elevate the Game | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T16:46:09Z",
+      "url": "https://www.youtube.com/watch?v=hWhhQCOGmJI",
+      "duration": "0:31",
+      "thumbnail": "https://i.ytimg.com/vi/hWhhQCOGmJI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "v_VQX-Ufw28",
+      "title": "Add a backup MFA device to your AWS account",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T16:15:20Z",
+      "url": "https://www.youtube.com/watch?v=v_VQX-Ufw28",
+      "duration": "0:57",
+      "thumbnail": "https://i.ytimg.com/vi/v_VQX-Ufw28/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "14IgTPKc1fo",
+      "title": "Amazon SageMaker demo: Semantic search capabilities | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T14:43:30Z",
+      "url": "https://www.youtube.com/watch?v=14IgTPKc1fo",
+      "duration": "4:12",
+      "thumbnail": "https://i.ytimg.com/vi/14IgTPKc1fo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "cNrTsysA-ZY",
+      "title": "Amazon SageMaker demo: Automated metadata recommendations | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T14:39:51Z",
+      "url": "https://www.youtube.com/watch?v=cNrTsysA-ZY",
+      "duration": "3:15",
+      "thumbnail": "https://i.ytimg.com/vi/cNrTsysA-ZY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "FkrMtW01PQY",
+      "title": "Amazon SageMaker demo: Data discovery | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T14:39:47Z",
+      "url": "https://www.youtube.com/watch?v=FkrMtW01PQY",
+      "duration": "2:47",
+      "thumbnail": "https://i.ytimg.com/vi/FkrMtW01PQY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "cImCNpwtDbo",
+      "title": "Amazon SageMaker demo: Data lineage tracking | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T14:39:43Z",
+      "url": "https://www.youtube.com/watch?v=cImCNpwtDbo",
+      "duration": "5:19",
+      "thumbnail": "https://i.ytimg.com/vi/cImCNpwtDbo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "rtkI7EMP-xY",
+      "title": "Amazon SageMaker demo: Data quality monitoring | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-14T14:39:39Z",
+      "url": "https://www.youtube.com/watch?v=rtkI7EMP-xY",
+      "duration": "3:43",
+      "thumbnail": "https://i.ytimg.com/vi/rtkI7EMP-xY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "wqPZ3Y-9KLw",
       "title": "Building a community for business - Seoul Tonic | re:Tales with AWS",
@@ -4105,21 +4254,6 @@
       "trustTier": "official"
     },
     {
-      "id": "mI2BBwoZ3CA",
-      "title": "How do I troubleshoot the \"503 Service Unavailable\" error in Amazon Bedrock?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-16T18:16:49Z",
-      "url": "https://www.youtube.com/watch?v=mI2BBwoZ3CA",
-      "duration": "5:16",
-      "thumbnail": "https://i.ytimg.com/vi/mI2BBwoZ3CA/mqdefault.jpg",
-      "topics": [
-        "bedrock"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "k_62duKHk6M",
       "title": "Architecting Multi-Agent Systems with AWS Bedrock Agentcore | AWS Tech Tales",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4171,21 +4305,6 @@
       "trustTier": "official"
     },
     {
-      "id": "2ZplgCgzlxU",
-      "title": "How do I troubleshoot a failed or canceled query in Amazon Redshift?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-16T05:14:31Z",
-      "url": "https://www.youtube.com/watch?v=2ZplgCgzlxU",
-      "duration": "5:08",
-      "thumbnail": "https://i.ytimg.com/vi/2ZplgCgzlxU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "AUHs-f7WfUo",
       "title": "Supercharging DynamoDB with Bulk Executor: Large-Scale Operations Made Simple",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4194,51 +4313,6 @@
       "url": "https://www.youtube.com/watch?v=AUHs-f7WfUo",
       "duration": "1:00:29",
       "thumbnail": "https://i.ytimg.com/vi/AUHs-f7WfUo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "bPQWjfVTrEs",
-      "title": "AWS Unified Operations Powers RateGain's Global Travel Platform | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-15T20:33:28Z",
-      "url": "https://www.youtube.com/watch?v=bPQWjfVTrEs",
-      "duration": "3:42",
-      "thumbnail": "https://i.ytimg.com/vi/bPQWjfVTrEs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "2q5D_jnWHdI",
-      "title": "How do I delete a CloudFormation stack that's stuck in DELETE_FAILED status?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-15T19:02:14Z",
-      "url": "https://www.youtube.com/watch?v=2q5D_jnWHdI",
-      "duration": "6:07",
-      "thumbnail": "https://i.ytimg.com/vi/2q5D_jnWHdI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "53SRJXME1tw",
-      "title": "How do I turn on MFA delete for my Amazon S3 bucket?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-15T18:48:12Z",
-      "url": "https://www.youtube.com/watch?v=53SRJXME1tw",
-      "duration": "4:13",
-      "thumbnail": "https://i.ytimg.com/vi/53SRJXME1tw/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -4354,36 +4428,6 @@
       "trustTier": "official"
     },
     {
-      "id": "jZefFrVyMxE",
-      "title": "How do I revert to a known stable kernel after an update blocks my Amazon EC2 instance reboot?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-12T15:27:02Z",
-      "url": "https://www.youtube.com/watch?v=jZefFrVyMxE",
-      "duration": "8:08",
-      "thumbnail": "https://i.ytimg.com/vi/jZefFrVyMxE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "_WxmWvLrAIo",
-      "title": "How can I set my Amazon Connect outbound caller ID dynamically based on country?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-12T15:26:58Z",
-      "url": "https://www.youtube.com/watch?v=_WxmWvLrAIo",
-      "duration": "9:05",
-      "thumbnail": "https://i.ytimg.com/vi/_WxmWvLrAIo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "RFbM296653c",
       "title": "From Shop Floor Control to Physical AI: Bridging Industrial Connectivity and Intelligent Automation",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4447,21 +4491,6 @@
       "trustTier": "official"
     },
     {
-      "id": "zrn9c7eqPKw",
-      "title": "Is prompt engineering dead? Advice on optimizing AI interactions | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-10T19:00:21Z",
-      "url": "https://www.youtube.com/watch?v=zrn9c7eqPKw",
-      "duration": "1:13",
-      "thumbnail": "https://i.ytimg.com/vi/zrn9c7eqPKw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "oJ5GH1WmYnA",
       "title": "Hannover Messe 2026 - Automate Inventory Rebalancing with Agentic AI",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4485,21 +4514,6 @@
       "url": "https://www.youtube.com/watch?v=h04uV5ZjV4o",
       "duration": "1:00:51",
       "thumbnail": "https://i.ytimg.com/vi/h04uV5ZjV4o/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "9Pwgvye4mAE",
-      "title": "Amazon EC2 M9g Instances - Powered by AWS Graviton5 | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-10T17:28:59Z",
-      "url": "https://www.youtube.com/watch?v=9Pwgvye4mAE",
-      "duration": "0:35",
-      "thumbnail": "https://i.ytimg.com/vi/9Pwgvye4mAE/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7734,21 +7748,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "iVU3TGV1XHQ",
-      "title": "🪜 The Stairway to Tech Success: Why Small Steps Matter #shorts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-20T23:11:23Z",
-      "url": "https://www.youtube.com/watch?v=iVU3TGV1XHQ",
-      "duration": "0:24",
-      "thumbnail": "https://i.ytimg.com/vi/iVU3TGV1XHQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
