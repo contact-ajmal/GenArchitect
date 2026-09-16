@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-09-15T10:27:05.345Z",
+  "generatedAt": "2026-09-16T10:16:45.512Z",
   "updates": [
     {
-      "id": "abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-      "publishedAt": "2026-09-14T21:22:45.000Z",
+      "id": "connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-i",
+      "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI – Part 1: IAM Identity Center (IDC)-based domains",
+      "url": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-idc-based-domains/",
+      "publishedAt": "2026-09-15T20:55:26.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains",
+      "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI – Part 2: IAM-based domains",
+      "url": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains/",
+      "publishedAt": "2026-09-15T20:55:16.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "amazon-sagemaker-training-processing-instance-pref-lists",
+      "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
+      "publishedAt": "2026-09-15T18:30:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "cloudtrail-amazon-q-console",
+      "title": "Analyze your CloudTrail events using natural language in Amazon Q Console",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
+      "publishedAt": "2026-09-15T16:54:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+      "publishedAt": "2026-09-15T16:18:19.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-14T20:35:45.000Z",
+      "id": "build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customiz",
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+      "publishedAt": "2026-09-15T16:11:36.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
-    },
-    {
-      "id": "qwen3-6-35b-a3b-nvfp4-wan2-1-t2v-1-3b-diffusers-jumpstart",
-      "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
-      "publishedAt": "2026-09-14T17:39:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "ministral-3-3b-instruct-2512-ministral-3-8b-instruct-2512-jumpstart",
-      "title": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
-      "publishedAt": "2026-09-14T17:35:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart",
-      "title": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
-      "publishedAt": "2026-09-14T17:32:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "granite-speech-4-1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart",
-      "title": "granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
-      "publishedAt": "2026-09-14T17:30:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
     }
   ]
 }
