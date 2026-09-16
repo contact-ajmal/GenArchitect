@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-15T11:50:27.408Z",
+  "generatedAt": "2026-09-16T11:42:13.480Z",
   "videos": [
+    {
+      "id": "cgfD0tKpCHA",
+      "title": "The Programmatic Preview with Spotify, Netflix & Amazon Ads | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-16T00:23:39Z",
+      "url": "https://www.youtube.com/watch?v=cgfD0tKpCHA",
+      "duration": "37:17",
+      "thumbnail": "https://i.ytimg.com/vi/cgfD0tKpCHA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "tQcOdMRIRr8",
+      "title": "Cloud Report: Quick helped us launch a side hustle | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-15T13:51:10Z",
+      "url": "https://www.youtube.com/watch?v=tQcOdMRIRr8",
+      "duration": "7:02",
+      "thumbnail": "https://i.ytimg.com/vi/tQcOdMRIRr8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "8xQ08JCddio",
       "title": "Cloud Report: We used AI to solve an office mystery | Amazon Web Services",
@@ -4073,21 +4103,6 @@
       "trustTier": "official"
     },
     {
-      "id": "6K0ZX3oWmeE",
-      "title": "Build smarter and faster with AWS Startup Advisor | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-17T20:19:55Z",
-      "url": "https://www.youtube.com/watch?v=6K0ZX3oWmeE",
-      "duration": "1:21",
-      "thumbnail": "https://i.ytimg.com/vi/6K0ZX3oWmeE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
       "id": "70_uqJzY15Y",
       "title": "AI anywhere: Powering enterprise customer experiences | AWS Events",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4205,21 +4220,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "-GfiHIbfGfI",
-      "title": "Getting started with AWS Security Incident Response | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-16T20:41:22Z",
-      "url": "https://www.youtube.com/watch?v=-GfiHIbfGfI",
-      "duration": "9:27",
-      "thumbnail": "https://i.ytimg.com/vi/-GfiHIbfGfI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
       "trustTier": "official"
     },
     {
