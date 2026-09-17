@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-16T11:42:13.480Z",
+  "generatedAt": "2026-09-17T11:47:36.592Z",
   "videos": [
+    {
+      "id": "8ffcKp9ry6g",
+      "title": "Challenger Center | AWS Imagine Grant Winner | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-16T15:47:04Z",
+      "url": "https://www.youtube.com/watch?v=8ffcKp9ry6g",
+      "duration": "2:00",
+      "thumbnail": "https://i.ytimg.com/vi/8ffcKp9ry6g/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "0Pc1sU6ro1E",
+      "title": "Lieber Institute for Brain Development | AWS Imagine Grant Winner | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-16T15:47:00Z",
+      "url": "https://www.youtube.com/watch?v=0Pc1sU6ro1E",
+      "duration": "1:51",
+      "thumbnail": "https://i.ytimg.com/vi/0Pc1sU6ro1E/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "XSTe7caquQ4",
+      "title": "American Diabetes Association | AWS Imagine Grant Winner | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-16T15:46:57Z",
+      "url": "https://www.youtube.com/watch?v=XSTe7caquQ4",
+      "duration": "2:18",
+      "thumbnail": "https://i.ytimg.com/vi/XSTe7caquQ4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "waI44NP1abk",
+      "title": "Rebuilding the web for agents — Liad Yosef, MCP Apps",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-09-16T14:30:03Z",
+      "url": "https://www.youtube.com/watch?v=waI44NP1abk",
+      "duration": "20:41",
+      "thumbnail": "https://i.ytimg.com/vi/waI44NP1abk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
     {
       "id": "cgfD0tKpCHA",
       "title": "The Programmatic Preview with Spotify, Netflix & Amazon Ads | Amazon Web Services",
@@ -4051,51 +4114,6 @@
       "url": "https://www.youtube.com/watch?v=KpcgTbsAKDY",
       "duration": "1:27",
       "thumbnail": "https://i.ytimg.com/vi/KpcgTbsAKDY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Im2ERpwINgI",
-      "title": "Focus on what matters with Amazon Quick activity feed | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-17T22:48:20Z",
-      "url": "https://www.youtube.com/watch?v=Im2ERpwINgI",
-      "duration": "0:41",
-      "thumbnail": "https://i.ytimg.com/vi/Im2ERpwINgI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ZOQ-V04jHM8",
-      "title": "Get the data you need with Amazon Quick | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-17T22:48:04Z",
-      "url": "https://www.youtube.com/watch?v=ZOQ-V04jHM8",
-      "duration": "0:39",
-      "thumbnail": "https://i.ytimg.com/vi/ZOQ-V04jHM8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "KkBRM91CAGs",
-      "title": "Accelerate your migration with AWS Startups | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-17T20:19:58Z",
-      "url": "https://www.youtube.com/watch?v=KkBRM91CAGs",
-      "duration": "1:17",
-      "thumbnail": "https://i.ytimg.com/vi/KkBRM91CAGs/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
