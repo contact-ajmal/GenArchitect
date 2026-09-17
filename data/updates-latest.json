@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-16T10:16:45.512Z",
+  "generatedAt": "2026-09-17T10:24:47.261Z",
   "updates": [
     {
-      "id": "connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-i",
-      "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI – Part 1: IAM Identity Center (IDC)-based domains",
-      "url": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-idc-based-domains/",
-      "publishedAt": "2026-09-15T20:55:26.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains",
-      "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI – Part 2: IAM-based domains",
-      "url": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains/",
-      "publishedAt": "2026-09-15T20:55:16.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "amazon-sagemaker-training-processing-instance-pref-lists",
-      "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
-      "publishedAt": "2026-09-15T18:30:00.000Z",
+      "id": "amazon-sagemaker-ft-nemotron-3-5-lightning",
+      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
+      "publishedAt": "2026-09-16T22:29:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "cloudtrail-amazon-q-console",
-      "title": "Analyze your CloudTrail events using natural language in Amazon Q Console",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
-      "publishedAt": "2026-09-15T16:54:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
-      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
-      "publishedAt": "2026-09-15T16:18:19.000Z",
+      "id": "improving-hcls-ai-reasoning-with-open-source-agent-skills",
+      "title": "Improving HCLS AI reasoning with open-source agent skills",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+      "publishedAt": "2026-09-16T19:00:00.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customiz",
-      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
-      "publishedAt": "2026-09-15T16:11:36.000Z",
+      "id": "fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
+      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+      "publishedAt": "2026-09-16T18:59:25.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-16T15:47:39.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "discover-and-govern-snowflake-data-using-sagemaker-unified-studio",
+      "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
+      "url": "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio/",
+      "publishedAt": "2026-09-16T15:19:51.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
+      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+      "publishedAt": "2026-09-16T15:17:37.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
