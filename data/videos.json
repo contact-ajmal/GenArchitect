@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-09-17T11:47:36.592Z",
+  "generatedAt": "2026-09-18T11:21:52.997Z",
   "videos": [
+    {
+      "id": "0C2hGVLbGdI",
+      "title": "Build Your Second Brain with Amazon Quick | AI for Non-Technical Professionals",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-18T00:12:06Z",
+      "url": "https://www.youtube.com/watch?v=0C2hGVLbGdI",
+      "duration": "16:37",
+      "thumbnail": "https://i.ytimg.com/vi/0C2hGVLbGdI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "U4wnx9CrfNs",
+      "title": "CI/CD for Beginners",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-17T18:15:28Z",
+      "url": "https://www.youtube.com/watch?v=U4wnx9CrfNs",
+      "duration": "9:37",
+      "thumbnail": "https://i.ytimg.com/vi/U4wnx9CrfNs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "3ilwpV6nCWE",
+      "title": "How do I troubleshoot two-way SMS messaging issues in AWS End User Messaging SMS?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-17T17:59:48Z",
+      "url": "https://www.youtube.com/watch?v=3ilwpV6nCWE",
+      "duration": "6:00",
+      "thumbnail": "https://i.ytimg.com/vi/3ilwpV6nCWE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "FGqbmkxPVfs",
+      "title": "AWS Elemental Inference | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-17T17:07:36Z",
+      "url": "https://www.youtube.com/watch?v=FGqbmkxPVfs",
+      "duration": "0:31",
+      "thumbnail": "https://i.ytimg.com/vi/FGqbmkxPVfs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Rn7xI0W_hwo",
+      "title": "AWS Elemental Inference | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-17T17:07:21Z",
+      "url": "https://www.youtube.com/watch?v=Rn7xI0W_hwo",
+      "duration": "1:33",
+      "thumbnail": "https://i.ytimg.com/vi/Rn7xI0W_hwo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "8ffcKp9ry6g",
       "title": "Challenger Center | AWS Imagine Grant Winner | Amazon Web Services",
@@ -3986,21 +4061,6 @@
       "trustTier": "official"
     },
     {
-      "id": "0zJ3F_AvbRA",
-      "title": "Windows と Linux で .pem ファイルを .ppk ファイルに、または .ppk ファイルを .pem ファイルに変換するにはどうすればよいか教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-23T05:17:08Z",
-      "url": "https://www.youtube.com/watch?v=0zJ3F_AvbRA",
-      "duration": "3:57",
-      "thumbnail": "https://i.ytimg.com/vi/0zJ3F_AvbRA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "9nSOoY3u0fg",
       "title": "Apache Spark Upgrade Agent on EMR | Let's Talk About Data",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4009,36 +4069,6 @@
       "url": "https://www.youtube.com/watch?v=9nSOoY3u0fg",
       "duration": "55:28",
       "thumbnail": "https://i.ytimg.com/vi/9nSOoY3u0fg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "lIOjTOGh-po",
-      "title": "Introducing AWS Lambda MicroVMs | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-22T21:45:00Z",
-      "url": "https://www.youtube.com/watch?v=lIOjTOGh-po",
-      "duration": "0:30",
-      "thumbnail": "https://i.ytimg.com/vi/lIOjTOGh-po/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "x0sXP4Lipqc",
-      "title": "AWS Summit New York City 2026 - Keynote | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-22T20:51:57Z",
-      "url": "https://www.youtube.com/watch?v=x0sXP4Lipqc",
-      "duration": "1:13:35",
-      "thumbnail": "https://i.ytimg.com/vi/x0sXP4Lipqc/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -4099,21 +4129,6 @@
       "url": "https://www.youtube.com/watch?v=T52C-stGF3I",
       "duration": "6:57",
       "thumbnail": "https://i.ytimg.com/vi/T52C-stGF3I/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "KpcgTbsAKDY",
-      "title": "Create autonomous agents with Amazon Quick | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-17T22:48:38Z",
-      "url": "https://www.youtube.com/watch?v=KpcgTbsAKDY",
-      "duration": "1:27",
-      "thumbnail": "https://i.ytimg.com/vi/KpcgTbsAKDY/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7752,21 +7767,6 @@
       "relatedAtlasTopicIds": [
         "agent-loop"
       ]
-    },
-    {
-      "id": "XXT6LgHjSas",
-      "title": "🤖 Build an AI Chatbot in 60 seconds!",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-24T19:19:18Z",
-      "url": "https://www.youtube.com/watch?v=XXT6LgHjSas",
-      "duration": "0:55",
-      "thumbnail": "https://i.ytimg.com/vi/XXT6LgHjSas/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
     },
     {
       "id": "6qW24zyOv0Y",
