@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-17T10:24:47.261Z",
+  "generatedAt": "2026-09-18T10:02:23.206Z",
   "updates": [
     {
-      "id": "amazon-sagemaker-ft-nemotron-3-5-lightning",
-      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
-      "publishedAt": "2026-09-16T22:29:00.000Z",
+      "id": "run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud",
+      "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
+      "url": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud/",
+      "publishedAt": "2026-09-17T21:19:20.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "omics-iam-session-policy",
+      "title": "AWS HealthOmics now supports IAM session policies",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
+      "publishedAt": "2026-09-17T18:32:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "improving-hcls-ai-reasoning-with-open-source-agent-skills",
-      "title": "Improving HCLS AI reasoning with open-source agent skills",
-      "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
-      "publishedAt": "2026-09-16T19:00:00.000Z",
+      "id": "reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+      "publishedAt": "2026-09-17T17:55:20.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
-      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
-      "publishedAt": "2026-09-16T18:59:25.000Z",
+      "id": "selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+      "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+      "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
+      "publishedAt": "2026-09-17T15:53:13.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
-      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-16T15:47:39.000Z",
+      "id": "a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight",
+      "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
+      "url": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
+      "publishedAt": "2026-09-17T15:42:31.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "discover-and-govern-snowflake-data-using-sagemaker-unified-studio",
-      "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
-      "url": "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio/",
-      "publishedAt": "2026-09-16T15:19:51.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
-      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
-      "publishedAt": "2026-09-16T15:17:37.000Z",
+      "id": "a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+      "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-17T15:41:03.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
