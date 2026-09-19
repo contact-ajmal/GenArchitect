@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-18T11:21:52.997Z",
+  "generatedAt": "2026-09-19T11:05:13.884Z",
   "videos": [
+    {
+      "id": "VrsBH6UMGjU",
+      "title": "Cloud Report | Let's build a new game with Kiro",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-18T20:06:12Z",
+      "url": "https://www.youtube.com/watch?v=VrsBH6UMGjU",
+      "duration": "1:02:02",
+      "thumbnail": "https://i.ytimg.com/vi/VrsBH6UMGjU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "Rud8pvtxauk",
+      "title": "What is an API? (The Only Explanation You'll Need)",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-18T19:30:03Z",
+      "url": "https://www.youtube.com/watch?v=Rud8pvtxauk",
+      "duration": "10:13",
+      "thumbnail": "https://i.ytimg.com/vi/Rud8pvtxauk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "hu20R2wC64c",
+      "title": "NYU Langone Health Accelerates Genomics Research with AWS HealthOmics | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-18T16:54:22Z",
+      "url": "https://www.youtube.com/watch?v=hu20R2wC64c",
+      "duration": "1:30",
+      "thumbnail": "https://i.ytimg.com/vi/hu20R2wC64c/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "0C2hGVLbGdI",
       "title": "Build Your Second Brain with Amazon Quick | AI for Non-Technical Professionals",
@@ -4031,36 +4076,6 @@
       ]
     },
     {
-      "id": "kgBQ_G6HDTw",
-      "title": "How do I resolve \"Container killed on request. Exit code is 137\" in Spark on Amazon EMR?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-23T05:27:14Z",
-      "url": "https://www.youtube.com/watch?v=kgBQ_G6HDTw",
-      "duration": "4:03",
-      "thumbnail": "https://i.ytimg.com/vi/kgBQ_G6HDTw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "DzyGE-J2bBk",
-      "title": "クロスアカウントを使用して、アカウント内で Amazon Bedrock を呼び出す方法を教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-23T05:21:33Z",
-      "url": "https://www.youtube.com/watch?v=DzyGE-J2bBk",
-      "duration": "5:15",
-      "thumbnail": "https://i.ytimg.com/vi/DzyGE-J2bBk/mqdefault.jpg",
-      "topics": [
-        "bedrock"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "9nSOoY3u0fg",
       "title": "Apache Spark Upgrade Agent on EMR | Let's Talk About Data",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -7748,25 +7763,6 @@
       ],
       "level": "talk",
       "trustTier": "official"
-    },
-    {
-      "id": "TD2ihEBkdkY",
-      "title": "Building Intelligent Agents with Strands: A Hands-On Guide",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-25T00:02:10Z",
-      "url": "https://www.youtube.com/watch?v=TD2ihEBkdkY",
-      "duration": "10:30",
-      "thumbnail": "https://i.ytimg.com/vi/TD2ihEBkdkY/mqdefault.jpg",
-      "topics": [
-        "strands",
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "agent-loop"
-      ]
     },
     {
       "id": "6qW24zyOv0Y",
