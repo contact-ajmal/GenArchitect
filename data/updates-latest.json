@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-21T11:05:10.306Z",
+  "generatedAt": "2026-09-22T10:18:48.924Z",
   "updates": [
     {
-      "id": "amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
-      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
-      "publishedAt": "2026-09-18T20:52:14.000Z",
+      "id": "xais-grok-4-6-is-now-available-in-amazon-bedrock",
+      "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+      "publishedAt": "2026-09-21T18:30:34.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "introducing-kimi-k3-on-amazon-bedrock",
-      "title": "Introducing Kimi K3 on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
-      "publishedAt": "2026-09-18T16:52:01.000Z",
+      "id": "how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+      "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
+      "publishedAt": "2026-09-21T16:36:10.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "resilience-hub-eks-dependency-policy",
-      "title": "AWS Resilience Hub adds three new capabilities",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
-      "publishedAt": "2026-09-18T16:49:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
-      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-      "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
-      "publishedAt": "2026-09-18T15:38:53.000Z",
+      "id": "run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+      "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+      "publishedAt": "2026-09-21T16:34:21.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
-      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
-      "publishedAt": "2026-09-18T15:31:34.000Z",
+      "id": "how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-09-21T16:27:34.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
-      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
-      "publishedAt": "2026-09-18T15:25:23.000Z",
+      "id": "reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+      "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+      "publishedAt": "2026-09-21T16:24:40.000Z",
       "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch",
+      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
+      "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/",
+      "publishedAt": "2026-09-21T15:33:25.000Z",
+      "sourceName": "AWS Security Blog",
       "kind": "blog"
     }
   ]
