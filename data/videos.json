@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-21T12:54:55.932Z",
+  "generatedAt": "2026-09-22T11:44:51.158Z",
   "videos": [
+    {
+      "id": "uWXGJr3U5B8",
+      "title": "American Access Institute: Scaling mentorship for 2 million youth with AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-21T23:25:53Z",
+      "url": "https://www.youtube.com/watch?v=uWXGJr3U5B8",
+      "duration": "2:55",
+      "thumbnail": "https://i.ytimg.com/vi/uWXGJr3U5B8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Zts9xjQWSyw",
+      "title": "Transfer Azure Blob Storage to Amazon S3 using AWS DataSync Enhanced Mode | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-21T20:40:11Z",
+      "url": "https://www.youtube.com/watch?v=Zts9xjQWSyw",
+      "duration": "8:02",
+      "thumbnail": "https://i.ytimg.com/vi/Zts9xjQWSyw/mqdefault.jpg",
+      "topics": [
+        "rag"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "R4eKRihw9f4",
+      "title": "In the Field: The exclusive tour inside TBC.co's lab | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-21T16:59:45Z",
+      "url": "https://www.youtube.com/watch?v=R4eKRihw9f4",
+      "duration": "24:58",
+      "thumbnail": "https://i.ytimg.com/vi/R4eKRihw9f4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "83e4BUw50Io",
+      "title": "Restore to any point in time with AWS Backup",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-21T16:15:25Z",
+      "url": "https://www.youtube.com/watch?v=83e4BUw50Io",
+      "duration": "0:54",
+      "thumbnail": "https://i.ytimg.com/vi/83e4BUw50Io/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "VXujH_gfDgQ",
+      "title": "AWS Summit Amsterdam 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-21T16:04:07Z",
+      "url": "https://www.youtube.com/watch?v=VXujH_gfDgQ",
+      "duration": "2:19",
+      "thumbnail": "https://i.ytimg.com/vi/VXujH_gfDgQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "HiDhFI01WQQ",
+      "title": "Why AI Means Rewiring the Business Model with Jonathan Peachey, CEO, Factory X | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-21T15:45:06Z",
+      "url": "https://www.youtube.com/watch?v=HiDhFI01WQQ",
+      "duration": "1:07:47",
+      "thumbnail": "https://i.ytimg.com/vi/HiDhFI01WQQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "VrsBH6UMGjU",
       "title": "Cloud Report | Let's build a new game with Kiro",
@@ -3810,21 +3900,6 @@
       "trustTier": "official"
     },
     {
-      "id": "s6hP0ayjEoE",
-      "title": "Amazon EC2 G7 Instances: GPU Acceleration for AI, Graphics & Analytics | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-25T19:16:48Z",
-      "url": "https://www.youtube.com/watch?v=s6hP0ayjEoE",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/s6hP0ayjEoE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "MBfOmzaanxs",
       "title": "Your Guide to AWS Serverless Microcredential | S1E3 | Deploy & Wrap Up",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3885,21 +3960,6 @@
       "trustTier": "official"
     },
     {
-      "id": "FTbEg13Su18",
-      "title": "Amazon Network Synthetic Monitoring | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-24T20:07:10Z",
-      "url": "https://www.youtube.com/watch?v=FTbEg13Su18",
-      "duration": "2:11",
-      "thumbnail": "https://i.ytimg.com/vi/FTbEg13Su18/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "GbitrLroyMU",
       "title": "AWS European Sovereign Cloud – Explained | AWS Events",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3912,21 +3972,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "yZswasaItkg",
-      "title": "Building an AI HR assistant using Amazon Bedrock with Personio | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-24T14:45:21Z",
-      "url": "https://www.youtube.com/watch?v=yZswasaItkg",
-      "duration": "1:57",
-      "thumbnail": "https://i.ytimg.com/vi/yZswasaItkg/mqdefault.jpg",
-      "topics": [
-        "bedrock"
-      ],
-      "level": "demo",
       "trustTier": "official"
     },
     {
@@ -3996,21 +4041,6 @@
       "trustTier": "official"
     },
     {
-      "id": "6LvmvtdZb3U",
-      "title": "How to maintain your AWS Certification | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-23T13:00:21Z",
-      "url": "https://www.youtube.com/watch?v=6LvmvtdZb3U",
-      "duration": "1:15",
-      "thumbnail": "https://i.ytimg.com/vi/6LvmvtdZb3U/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
       "id": "0Wl5C7QPSu8",
       "title": "Diving into Quick Dashboards: AWS Pricing Changes and Health",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -4034,21 +4064,6 @@
       "url": "https://www.youtube.com/watch?v=kS9QuwK1TjM",
       "duration": "59:03",
       "thumbnail": "https://i.ytimg.com/vi/kS9QuwK1TjM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "-qm1l5pnxx4",
-      "title": "Why is my CloudFormation stack stuck in the REVIEW_IN_PROGRESS state?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-23T05:42:33Z",
-      "url": "https://www.youtube.com/watch?v=-qm1l5pnxx4",
-      "duration": "3:34",
-      "thumbnail": "https://i.ytimg.com/vi/-qm1l5pnxx4/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -5782,21 +5797,6 @@
       "url": "https://www.youtube.com/watch?v=TdgzAVHv2xk",
       "duration": "58:21",
       "thumbnail": "https://i.ytimg.com/vi/TdgzAVHv2xk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "J7J3m7Ubk7w",
-      "title": "Agent Harness insights from Salesforce | How to build with AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-19T05:37:46Z",
-      "url": "https://www.youtube.com/watch?v=J7J3m7Ubk7w",
-      "duration": "57:50",
-      "thumbnail": "https://i.ytimg.com/vi/J7J3m7Ubk7w/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
