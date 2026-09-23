@@ -1,6 +1,84 @@
 {
-  "generatedAt": "2026-09-22T11:44:51.158Z",
+  "generatedAt": "2026-09-23T11:43:59.032Z",
   "videos": [
+    {
+      "id": "l-yHRZkWe-w",
+      "title": "An Intro to AI Tokenomics",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-22T23:23:52Z",
+      "url": "https://www.youtube.com/watch?v=l-yHRZkWe-w",
+      "thumbnail": "https://i.ytimg.com/vi/l-yHRZkWe-w/mqdefault_live.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "oLLmYXP6pcc",
+      "title": "GameDay Rapid Rewind: Real Estate Adventure | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-22T22:40:14Z",
+      "url": "https://www.youtube.com/watch?v=oLLmYXP6pcc",
+      "duration": "15:38",
+      "thumbnail": "https://i.ytimg.com/vi/oLLmYXP6pcc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "MR9RGZOcyrY",
+      "title": "How do I resolve throttling issues on my Amazon DynamoDB table?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-22T18:00:17Z",
+      "url": "https://www.youtube.com/watch?v=MR9RGZOcyrY",
+      "duration": "6:29",
+      "thumbnail": "https://i.ytimg.com/vi/MR9RGZOcyrY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "AVU2bHX7tcQ",
+      "title": "Meet Strands harness: Build State-of-the-Art Agents at 28% Lower Token Cost",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-22T16:30:35Z",
+      "url": "https://www.youtube.com/watch?v=AVU2bHX7tcQ",
+      "duration": "7:52",
+      "thumbnail": "https://i.ytimg.com/vi/AVU2bHX7tcQ/mqdefault.jpg",
+      "topics": [
+        "strands",
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
+    {
+      "id": "nvZtw27pO2U",
+      "title": "Amazon SageMaker Unified Studio Now Supports ODBC for Microsoft Power BI | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-22T14:36:47Z",
+      "url": "https://www.youtube.com/watch?v=nvZtw27pO2U",
+      "duration": "9:30",
+      "thumbnail": "https://i.ytimg.com/vi/nvZtw27pO2U/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "uWXGJr3U5B8",
       "title": "American Access Institute: Scaling mentorship for 2 million youth with AWS | Amazon Web Services",
@@ -3795,21 +3873,6 @@
       "trustTier": "official"
     },
     {
-      "id": "VklfV0Ftxas",
-      "title": "VideoCX.io transforms video banking with AI on AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-26T19:29:52Z",
-      "url": "https://www.youtube.com/watch?v=VklfV0Ftxas",
-      "duration": "1:29",
-      "thumbnail": "https://i.ytimg.com/vi/VklfV0Ftxas/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "BAVrwcPDa-k",
       "title": "System Design for Beginners (Full Guide)",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3822,51 +3885,6 @@
         "genai-general"
       ],
       "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "gyLkQJy4teI",
-      "title": "Obsess Over Every Customer with Amazon Connect Customer voice agents | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-26T18:18:40Z",
-      "url": "https://www.youtube.com/watch?v=gyLkQJy4teI",
-      "duration": "1:51",
-      "thumbnail": "https://i.ytimg.com/vi/gyLkQJy4teI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "uEtzUrSukVo",
-      "title": "Box reinvents enterprise content management for the AI era with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-26T17:29:40Z",
-      "url": "https://www.youtube.com/watch?v=uEtzUrSukVo",
-      "duration": "1:41",
-      "thumbnail": "https://i.ytimg.com/vi/uEtzUrSukVo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "zBYXCyaZf9I",
-      "title": "Pronto scales home services platform for 25,000 daily bookings | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-26T15:02:15Z",
-      "url": "https://www.youtube.com/watch?v=zBYXCyaZf9I",
-      "duration": "1:29",
-      "thumbnail": "https://i.ytimg.com/vi/zBYXCyaZf9I/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
@@ -7743,21 +7761,6 @@
       "url": "https://www.youtube.com/watch?v=6lG0hnDP6hA",
       "duration": "30:33",
       "thumbnail": "https://i.ytimg.com/vi/6lG0hnDP6hA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "J7fAg5cwypc",
-      "title": "🚀 Design Driven Prompts: The Secret Tool Every Developer Needs",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-26T20:22:50Z",
-      "url": "https://www.youtube.com/watch?v=J7fAg5cwypc",
-      "duration": "2:18",
-      "thumbnail": "https://i.ytimg.com/vi/J7fAg5cwypc/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
