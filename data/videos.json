@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-09-23T11:43:59.032Z",
+  "generatedAt": "2026-09-24T11:52:22.235Z",
   "videos": [
+    {
+      "id": "vjiXodwmt-A",
+      "title": "Centrica boosts NPS 89% with Amazon Connect Customer | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-23T19:12:17Z",
+      "url": "https://www.youtube.com/watch?v=vjiXodwmt-A",
+      "duration": "1:44",
+      "thumbnail": "https://i.ytimg.com/vi/vjiXodwmt-A/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "QjsN0CNw7SE",
+      "title": "Jev: Is This Tool Call Ready?",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-23T17:30:04Z",
+      "url": "https://www.youtube.com/watch?v=QjsN0CNw7SE",
+      "duration": "11:40",
+      "thumbnail": "https://i.ytimg.com/vi/QjsN0CNw7SE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "giJWdZ6Z64w",
+      "title": "Indeed's petabyte-scale data lake modernization with Amazon S3 Tables | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-23T15:19:53Z",
+      "url": "https://www.youtube.com/watch?v=giJWdZ6Z64w",
+      "duration": "2:49",
+      "thumbnail": "https://i.ytimg.com/vi/giJWdZ6Z64w/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "_gF8syYr4yM",
+      "title": "Retell: Reinventing Call Center Communications with Voice-First AI | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-23T15:15:13Z",
+      "url": "https://www.youtube.com/watch?v=_gF8syYr4yM",
+      "duration": "2:05",
+      "thumbnail": "https://i.ytimg.com/vi/_gF8syYr4yM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "mact_YPv97U",
+      "title": "SmarterDX: Using AI to Help Hospitals Capture Revenue and Save Doctors Time | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-23T15:14:25Z",
+      "url": "https://www.youtube.com/watch?v=mact_YPv97U",
+      "duration": "2:25",
+      "thumbnail": "https://i.ytimg.com/vi/mact_YPv97U/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "l-yHRZkWe-w",
       "title": "An Intro to AI Tokenomics",
@@ -3783,36 +3858,6 @@
       "trustTier": "official"
     },
     {
-      "id": "MUlUUiAVzj0",
-      "title": "Amazon CloudFront Flat-Rate Pricing Plans | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-29T16:00:36Z",
-      "url": "https://www.youtube.com/watch?v=MUlUUiAVzj0",
-      "duration": "1:28",
-      "thumbnail": "https://i.ytimg.com/vi/MUlUUiAVzj0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "XAh-9iKv8jU",
-      "title": "How Sanofi Cut AI Project Timelines by More Than 50% with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-29T14:03:47Z",
-      "url": "https://www.youtube.com/watch?v=XAh-9iKv8jU",
-      "duration": "2:07",
-      "thumbnail": "https://i.ytimg.com/vi/XAh-9iKv8jU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "Akm1sqvWG4A",
       "title": "Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3838,36 +3883,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_GKlaTRj3Og/mqdefault.jpg",
       "topics": [
         "bedrock"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "QElyxbkdgWw",
-      "title": "On-premises databases weren't built for agentic AI. Amazon RDS is. | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-26T21:55:10Z",
-      "url": "https://www.youtube.com/watch?v=QElyxbkdgWw",
-      "duration": "0:15",
-      "thumbnail": "https://i.ytimg.com/vi/QElyxbkdgWw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "3J6Q4t4cfm0",
-      "title": "On-premises databases weren't built for agentic AI. Amazon RDS is. | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-26T21:54:43Z",
-      "url": "https://www.youtube.com/watch?v=3J6Q4t4cfm0",
-      "duration": "0:15",
-      "thumbnail": "https://i.ytimg.com/vi/3J6Q4t4cfm0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
       ],
       "level": "talk",
       "trustTier": "official"
@@ -7746,21 +7761,6 @@
       "url": "https://www.youtube.com/watch?v=OHfEwTgUqPY",
       "duration": "0:55",
       "thumbnail": "https://i.ytimg.com/vi/OHfEwTgUqPY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "6lG0hnDP6hA",
-      "title": "Behind the Code! How We Built Amazon Q Developer CLI in Rust",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-28T07:00:08Z",
-      "url": "https://www.youtube.com/watch?v=6lG0hnDP6hA",
-      "duration": "30:33",
-      "thumbnail": "https://i.ytimg.com/vi/6lG0hnDP6hA/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
