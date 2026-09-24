@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-23T10:16:19.515Z",
+  "generatedAt": "2026-09-24T10:30:01.436Z",
   "updates": [
     {
-      "id": "introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applica",
-      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
-      "publishedAt": "2026-09-22T22:23:14.000Z",
-      "sourceName": "AWS News Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-",
-      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
-      "publishedAt": "2026-09-22T22:21:13.000Z",
-      "sourceName": "AWS News Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock",
-      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-      "publishedAt": "2026-09-22T18:10:22.000Z",
+      "id": "from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
+      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
+      "publishedAt": "2026-09-23T18:41:09.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "openai-gpt-6-sol-luna-on-amazon-bedrock",
-      "title": "OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/",
-      "publishedAt": "2026-09-22T18:09:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio",
+      "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio",
+      "url": "https://aws.amazon.com/blogs/big-data/configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio/",
+      "publishedAt": "2026-09-23T18:36:56.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
     },
     {
-      "id": "claude-opus-5-5-is-now-available-on-aws",
-      "title": "Claude Opus 5.5 is now available on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
-      "publishedAt": "2026-09-22T17:28:01.000Z",
+      "id": "announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere",
+      "title": "Announcing Spark Connect on Amazon EMR on EC2: Interactive PySpark anywhere",
+      "url": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere/",
+      "publishedAt": "2026-09-23T18:28:32.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai",
+      "title": "Query unstructured data in Amazon SageMaker Catalog using generative AI",
+      "url": "https://aws.amazon.com/blogs/big-data/query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai/",
+      "publishedAt": "2026-09-23T18:22:00.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "agentic-conversational-video-intelligence-built-on-aws",
+      "title": "Agentic conversational video intelligence built on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+      "publishedAt": "2026-09-23T18:21:54.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore",
-      "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-22T17:18:13.000Z",
+      "id": "use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock",
+      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
+      "publishedAt": "2026-09-23T18:17:44.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
