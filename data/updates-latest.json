@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-24T10:30:01.436Z",
+  "generatedAt": "2026-09-25T10:32:36.524Z",
   "updates": [
+    {
+      "id": "speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+      "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+      "publishedAt": "2026-09-24T16:20:12.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
+      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+      "publishedAt": "2026-09-24T16:12:47.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "aderant-builds-intelligent-ticket-triage-with-amazon-nova",
+      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+      "publishedAt": "2026-09-24T16:06:46.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "emr-eks-spark-connect-interactive",
+      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "sagemaker-hyperpod-inference-gateway",
+      "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
     {
       "id": "from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
       "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
       "publishedAt": "2026-09-23T18:41:09.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio",
-      "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio",
-      "url": "https://aws.amazon.com/blogs/big-data/configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio/",
-      "publishedAt": "2026-09-23T18:36:56.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere",
-      "title": "Announcing Spark Connect on Amazon EMR on EC2: Interactive PySpark anywhere",
-      "url": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere/",
-      "publishedAt": "2026-09-23T18:28:32.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai",
-      "title": "Query unstructured data in Amazon SageMaker Catalog using generative AI",
-      "url": "https://aws.amazon.com/blogs/big-data/query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai/",
-      "publishedAt": "2026-09-23T18:22:00.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "agentic-conversational-video-intelligence-built-on-aws",
-      "title": "Agentic conversational video intelligence built on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
-      "publishedAt": "2026-09-23T18:21:54.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock",
-      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
-      "publishedAt": "2026-09-23T18:17:44.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
