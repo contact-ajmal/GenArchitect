@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-24T11:52:22.235Z",
+  "generatedAt": "2026-09-25T11:55:38.320Z",
   "videos": [
+    {
+      "id": "QoXJbzYQ5oU",
+      "title": "How do I use templates to set up cross-account access in Amazon QuickSight?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-24T18:00:03Z",
+      "url": "https://www.youtube.com/watch?v=QoXJbzYQ5oU",
+      "duration": "8:46",
+      "thumbnail": "https://i.ytimg.com/vi/QoXJbzYQ5oU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "vjiXodwmt-A",
       "title": "Centrica boosts NPS 89% with Amazon Connect Customer | Amazon Web Services",
@@ -3836,21 +3851,6 @@
       "url": "https://www.youtube.com/watch?v=AZdQNBRmrNo",
       "duration": "9:12",
       "thumbnail": "https://i.ytimg.com/vi/AZdQNBRmrNo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "tlGUTzFl4_U",
-      "title": "MFA トークンを使って AWS CLI で AWS リソースへのアクセスを認証する方法を教えてください。",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-29T16:57:01Z",
-      "url": "https://www.youtube.com/watch?v=tlGUTzFl4_U",
-      "duration": "6:58",
-      "thumbnail": "https://i.ytimg.com/vi/tlGUTzFl4_U/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
