@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-25T10:32:36.524Z",
+  "generatedAt": "2026-09-26T10:14:34.122Z",
   "updates": [
     {
-      "id": "speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
-      "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
-      "publishedAt": "2026-09-24T16:20:12.000Z",
+      "id": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughp",
+      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+      "publishedAt": "2026-09-25T16:29:50.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
-      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
-      "publishedAt": "2026-09-24T16:12:47.000Z",
+      "id": "accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "publishedAt": "2026-09-25T16:18:07.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "aderant-builds-intelligent-ticket-triage-with-amazon-nova",
-      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
-      "publishedAt": "2026-09-24T16:06:46.000Z",
+      "id": "narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+      "publishedAt": "2026-09-25T16:15:22.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "emr-eks-spark-connect-interactive",
-      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+      "publishedAt": "2026-09-25T16:09:46.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     },
     {
-      "id": "sagemaker-hyperpod-inference-gateway",
-      "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+      "publishedAt": "2026-09-25T15:54:42.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     },
     {
-      "id": "from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
-      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
-      "publishedAt": "2026-09-23T18:41:09.000Z",
+      "id": "multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+      "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
+      "publishedAt": "2026-09-25T15:49:44.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
