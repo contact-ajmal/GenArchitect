@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-09-25T11:55:38.320Z",
+  "generatedAt": "2026-09-26T11:30:16.001Z",
   "videos": [
+    {
+      "id": "uKYiBE1WVYg",
+      "title": "Future of modern retail operations with Apotea | Retail Insights with AWS",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-25T14:04:30Z",
+      "url": "https://www.youtube.com/watch?v=uKYiBE1WVYg",
+      "duration": "24:00",
+      "thumbnail": "https://i.ytimg.com/vi/uKYiBE1WVYg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "ACPEpji5NV4",
+      "title": "Distill the LLM, Don't Serve It: Search & Personalization at DoorDash — Raghav Saboo, DoorDash",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-09-25T13:30:37Z",
+      "url": "https://www.youtube.com/watch?v=ACPEpji5NV4",
+      "duration": "22:11",
+      "thumbnail": "https://i.ytimg.com/vi/ACPEpji5NV4/mqdefault.jpg",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
     {
       "id": "QoXJbzYQ5oU",
       "title": "How do I use templates to set up cross-account access in Amazon QuickSight?",
@@ -3836,21 +3867,6 @@
       "url": "https://www.youtube.com/watch?v=FD_Pz38KcLM",
       "duration": "1:29",
       "thumbnail": "https://i.ytimg.com/vi/FD_Pz38KcLM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "AZdQNBRmrNo",
-      "title": "CloudFormation スタックが UPDATE_ROLLBACK_FAILED 状態で停止している場合に、回復する方法を教えてください",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-29T17:08:28Z",
-      "url": "https://www.youtube.com/watch?v=AZdQNBRmrNo",
-      "duration": "9:12",
-      "thumbnail": "https://i.ytimg.com/vi/AZdQNBRmrNo/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
