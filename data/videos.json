@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-28T14:02:58.418Z",
+  "generatedAt": "2026-09-29T12:59:07.131Z",
   "videos": [
+    {
+      "id": "_85NDNoXMxs",
+      "title": "What to write in your Service Quotas request",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-28T16:30:18Z",
+      "url": "https://www.youtube.com/watch?v=_85NDNoXMxs",
+      "duration": "0:59",
+      "thumbnail": "https://i.ytimg.com/vi/_85NDNoXMxs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "chEu-rmqFJ0",
+      "title": "AWS Cloud and AI Day Auckland 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-28T14:44:46Z",
+      "url": "https://www.youtube.com/watch?v=chEu-rmqFJ0",
+      "duration": "1:07:41",
+      "thumbnail": "https://i.ytimg.com/vi/chEu-rmqFJ0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "HkEXhFNzAjs",
       "title": "Blue Origin: Rockets, AI, and the psychology of trust | Amazon Web Services",
@@ -3844,21 +3874,6 @@
       "trustTier": "official"
     },
     {
-      "id": "koYKcUm6zl0",
-      "title": "The Right Brain of AI: Unlocking the Power of Structured Data | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-29T19:05:18Z",
-      "url": "https://www.youtube.com/watch?v=koYKcUm6zl0",
-      "duration": "23:44",
-      "thumbnail": "https://i.ytimg.com/vi/koYKcUm6zl0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "FfIWO1INfqk",
       "title": "AWS AI League 2026 | AWS Events",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -5831,21 +5846,6 @@
       "url": "https://www.youtube.com/watch?v=GTsmt_nBtN8",
       "duration": "1:00:13",
       "thumbnail": "https://i.ytimg.com/vi/GTsmt_nBtN8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "TdgzAVHv2xk",
-      "title": "Get Excited! - From Detection Signal to Automated Response in AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-19T07:21:22Z",
-      "url": "https://www.youtube.com/watch?v=TdgzAVHv2xk",
-      "duration": "58:21",
-      "thumbnail": "https://i.ytimg.com/vi/TdgzAVHv2xk/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
