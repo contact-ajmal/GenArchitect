@@ -1,6 +1,180 @@
 {
-  "generatedAt": "2026-09-28T11:58:38.622Z",
+  "generatedAt": "2026-09-29T11:33:31.567Z",
   "updates": [
+    {
+      "id": "grok-4-7-is-now-available-on-amazon-bedrock",
+      "title": "Grok 4.7 is now available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+      "publishedAt": "2026-09-28T22:13:16.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable…",
+      "author": "Suheel Farooq"
+    },
+    {
+      "id": "rekognition-liveness-feedback-codes",
+      "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
+      "publishedAt": "2026-09-28T20:41:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Rekognition Face Liveness now returns Feedback Codes that help customers understand why a liveness check&nbsp;received a low score and how users could retry successfully. The codes are returned in the…"
+    },
+    {
+      "id": "introducing-claude-sonnet-5-5-on-aws",
+      "title": "Introducing Claude Sonnet 5.5 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+      "publishedAt": "2026-09-28T18:57:13.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post…",
+      "author": "Dani Mitchell"
+    },
+    {
+      "id": "amazon-bedrock-grok-4-7",
+      "title": "Grok 4.7 is now available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/",
+      "publishedAt": "2026-09-28T18:29:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. &nbsp; Grok 4.7 builds on Grok 4.6 with better…"
+    },
+    {
+      "id": "build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1",
+      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+      "publishedAt": "2026-09-28T16:15:46.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and…",
+      "author": "Yadan Wei"
+    },
+    {
+      "id": "generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
+      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+      "publishedAt": "2026-09-28T16:15:17.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE…",
+      "author": "Yadan Wei"
+    },
+    {
+      "id": "aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-an",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "publishedAt": "2026-09-28T16:14:54.000Z",
+      "sourceId": "aws-news",
+      "sourceName": "AWS News Blog",
+      "kind": "blog",
+      "topics": [
+        "strands",
+        "bedrock",
+        "observability",
+        "genai-general"
+      ],
+      "excerpt": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this…",
+      "author": "Daniel Abib"
+    },
+    {
+      "id": "implementing-synthetic-monitoring-using-amazon-nova-act",
+      "title": "Implementing synthetic monitoring using Amazon Nova Act",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
+      "publishedAt": "2026-09-28T15:56:32.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "agentcore",
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond…",
+      "author": "Sarath Krishnan"
+    },
+    {
+      "id": "automating-amazon-textract-adapter-lifecycle-management-across-accounts",
+      "title": "Automating Amazon Textract adapter lifecycle management across accounts",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/",
+      "publishedAt": "2026-09-28T15:49:04.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Learn how to operationalize Amazon Textract Custom Queries adapters for production: infrastructure as code with AWS CloudFormation and Terraform, a cross-account adapter promotion process, a pre-classification routing…",
+      "author": "Bhavya Sruthi Sode"
+    },
+    {
+      "id": "enforce-iam-permissions-boundaries-for-amazon-sagemaker-unified-studio-tooling-blueprints",
+      "title": "Enforce IAM permissions boundaries for Amazon SageMaker Unified Studio Tooling blueprints",
+      "url": "https://aws.amazon.com/blogs/big-data/enforce-iam-permissions-boundaries-for-amazon-sagemaker-unified-studio-tooling-blueprints/",
+      "publishedAt": "2026-09-28T15:45:42.000Z",
+      "sourceId": "big-data",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker Unified Studio now supports custom permissions boundaries for the IAM roles its Tooling blueprint creates. Learn how to create a permissions boundary that restricts AI agent capabilities, configure it…",
+      "author": "Sanjana Sekar"
+    },
+    {
+      "id": "claude-sonnet-5-5-aws-govcloud-us",
+      "title": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/",
+      "publishedAt": "2026-09-28T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work ag faster speed. Claude…"
+    },
+    {
+      "id": "claude-sonnet-5-5-aws",
+      "title": "Claude Sonnet 5.5 now available on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
+      "publishedAt": "2026-09-28T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a…"
+    },
     {
       "id": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughp",
       "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
@@ -145,19 +319,6 @@
       "author": "Angela Mapes"
     },
     {
-      "id": "sagemaker-hyperpod-inference-gateway",
-      "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By…"
-    },
-    {
       "id": "emr-eks-spark-connect-interactive",
       "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
@@ -169,6 +330,19 @@
         "genai-general"
       ],
       "excerpt": "Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon…"
+    },
+    {
+      "id": "sagemaker-hyperpod-inference-gateway",
+      "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By…"
     },
     {
       "id": "from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
@@ -274,7 +448,7 @@
     },
     {
       "id": "introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applica",
-      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
       "publishedAt": "2026-09-22T22:23:14.000Z",
       "sourceId": "aws-news",
@@ -449,20 +623,6 @@
       "author": "Christian Ramirez"
     },
     {
-      "id": "claude-opus-5-5-aws-govcloud",
-      "title": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/",
-      "publishedAt": "2026-09-22T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting…"
-    },
-    {
       "id": "claude-opus-5-5-aws",
       "title": "Claude Opus 5.5 is now available on AWS",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
@@ -475,6 +635,20 @@
         "genai-general"
       ],
       "excerpt": "AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on…"
+    },
+    {
+      "id": "claude-opus-5-5-aws-govcloud",
+      "title": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/",
+      "publishedAt": "2026-09-22T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting…"
     },
     {
       "id": "security-hub-ai-inventory-azure-support",
@@ -1303,19 +1477,6 @@
       "excerpt": "AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to create multimodal embeddings for video, audio, and image content. Amazon…"
     },
     {
-      "id": "aws-devops-agent-bidirectional-slack-communication",
-      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "rag"
-      ],
-      "excerpt": "AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call…"
-    },
-    {
       "id": "aws-healthomics-realtime-run-metrics",
       "title": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
@@ -1328,6 +1489,19 @@
         "observability"
       ],
       "excerpt": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute. The 14 new run metrics span CPU and GPU usage, memory usage, file…"
+    },
+    {
+      "id": "aws-devops-agent-bidirectional-slack-communication",
+      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag"
+      ],
+      "excerpt": "AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call…"
     },
     {
       "id": "from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore",
@@ -1740,9 +1914,9 @@
       "excerpt": "Amazon SageMaker Feature Store is a fully managed capability that makes it easy to compute, store, and retrieve features for training and deploying AI models. SageMaker Feature Store now supports feature-level writes, a…"
     },
     {
-      "id": "pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
+      "id": "pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
       "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
       "publishedAt": "2026-09-08T19:12:51.000Z",
       "sourceId": "machine-learning",
       "sourceName": "AWS Machine Learning Blog",
@@ -1755,9 +1929,9 @@
       "author": "Paulo Aragão"
     },
     {
-      "id": "pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
+      "id": "pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
       "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
       "publishedAt": "2026-09-08T19:12:51.000Z",
       "sourceId": "machine-learning",
       "sourceName": "AWS Machine Learning Blog",
@@ -1842,35 +2016,17 @@
       "author": "Mona Mona"
     },
     {
-      "id": "how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock",
-      "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
-      "publishedAt": "2026-09-08T16:15:23.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
+      "id": "aws-healthomics-resourcefallback-wdl",
+      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
       "topics": [
-        "strands",
-        "bedrock",
-        "multi-agent",
         "genai-general"
       ],
-      "excerpt": "HPE Zerto built an agentic troubleshooting system powered by Amazon Bedrock that runs on-premises inside the customer environment. This post describes the multi-agent architecture, the on-premises deployment model built…",
-      "author": "Snir Cohen"
-    },
-    {
-      "id": "how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock",
-      "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
-      "publishedAt": "2026-09-08T16:11:11.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "DiDi built a transparent, self-owned contact center quality assurance (QA) system on Amazon Bedrock, replacing an opaque third-party tool. Intent verification accuracy rose from 38% to 86%, compliance scoring topped…",
-      "author": "Fei Huang, Raphael Hua"
+      "excerpt": "Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances, for tasks in your Workflow…"
     },
     {
       "id": "agentcore-memory-direct-ingest",
@@ -1887,19 +2043,6 @@
       "excerpt": "Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term memory event. The new IngestData API accepts content, fans it out to the…"
     },
     {
-      "id": "aws-healthomics-resourcefallback-wdl",
-      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
-      "publishedAt": "2026-09-08T16:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances, for tasks in your Workflow…"
-    },
-    {
       "id": "aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-busi",
       "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
@@ -1913,22 +2056,6 @@
       ],
       "excerpt": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable…",
       "author": "Channy Yun (윤석찬)"
-    },
-    {
-      "id": "deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
-      "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-04T21:45:52.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "agentcore",
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon…",
-      "author": "Salman Ahmed"
     },
     {
       "id": "from-silos-to-insights-federated-data-access-patterns-for-ai-agents",
@@ -1989,21 +2116,6 @@
       "excerpt": "AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and advanced retrieval…"
     },
     {
-      "id": "designing-lifecycle-policies-for-agentcore-memory",
-      "title": "Designing lifecycle policies for AgentCore memory",
-      "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
-      "publishedAt": "2026-09-04T17:20:04.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "agentcore",
-        "bedrock"
-      ],
-      "excerpt": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent…",
-      "author": "Akarsha Sehwag"
-    },
-    {
       "id": "aws-mcp-server-serverless",
       "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
@@ -2015,34 +2127,6 @@
         "genai-general"
       ],
       "excerpt": "Today, AWS Model Context Protocol Server (AWS MCP Server) added a serverless capability so that coding agents such as Claude Code and Kiro can efficiently diagnose issues with your Lambda functions. The serverless…"
-    },
-    {
-      "id": "build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod",
-      "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
-      "publishedAt": "2026-09-04T16:16:00.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA…",
-      "author": "Nathan Arnold"
-    },
-    {
-      "id": "run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
-      "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
-      "publishedAt": "2026-09-04T16:12:17.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface…",
-      "author": "Hao Zheng"
     },
     {
       "id": "sagemaker-batch-transform-g6e-instances",
@@ -2415,20 +2499,6 @@
       "excerpt": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR) solution. Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety…"
     },
     {
-      "id": "agentcorememory-flexible-namespaces",
-      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "agentcore",
-        "bedrock"
-      ],
-      "excerpt": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without…"
-    },
-    {
       "id": "agentcorememory-fine-grained-access-control",
       "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
@@ -2441,6 +2511,20 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic…"
+    },
+    {
+      "id": "agentcorememory-flexible-namespaces",
+      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "agentcore",
+        "bedrock"
+      ],
+      "excerpt": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - without…"
     },
     {
       "id": "aws-transform-fedramp-class-c",
@@ -2536,6 +2620,19 @@
       "excerpt": "Amazon Redshift now integrates with the Agent Toolkit for AWS , enabling you to build, query, troubleshoot, and migrate to Amazon Redshift data warehouses and data lakes directly from AI agents such as Claude Code…"
     },
     {
+      "id": "connect-customer-analytics-cape-town",
+      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
+      "publishedAt": "2026-08-27T18:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
+    },
+    {
       "id": "bedrock-agentcore-two-new-regions",
       "title": "Amazon Bedrock AgentCore expands to two new regions",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
@@ -2548,19 +2645,6 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps…"
-    },
-    {
-      "id": "connect-customer-analytics-cape-town",
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
-      "publishedAt": "2026-08-27T18:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics…"
     },
     {
       "id": "extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
@@ -2703,60 +2787,6 @@
       ],
       "excerpt": "Walk through upgrading a PySpark ETL job from AWS Glue 5.1 to AWS Glue 6.0 using the generative AI upgrades for Apache Spark. The upgrade analysis automatically detects incompatibilities, applies fixes, and validates…",
       "author": "Prasad Nadig"
-    },
-    {
-      "id": "amazon-sagemaker-hyperpod-ray",
-      "title": "Amazon SageMaker HyperPod enhances support for Ray",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
-      "publishedAt": "2026-08-24T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "observability",
-        "genai-general"
-      ],
-      "excerpt": "Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed development environments. Ray is a popular open-source framework for scaling AI…"
-    },
-    {
-      "id": "openai-gpt-terra-luna-govcloud",
-      "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "GPT-5.6 Terra and Luna are now generally available on Amazon Bedrock in AWS GovCloud (US-West) and AWS GovCloud (US-East), bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference…"
-    },
-    {
-      "id": "aws-announce-neuron-2-32-0",
-      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
-      "publishedAt": "2026-08-21T21:11:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ranks hold differently sized tensors, and new loop constructs for…"
-    },
-    {
-      "id": "bedrock-openai-gpt-56-sol-reduced-pricing",
-      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
-      "publishedAt": "2026-08-21T20:11:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per million input tokens and $20 per million output tokens—20% lower…"
     },
     {
       "id": "build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock",

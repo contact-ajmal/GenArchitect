@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-28T11:58:38.622Z",
+  "generatedAt": "2026-09-29T11:33:31.567Z",
   "updates": [
     {
-      "id": "scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughp",
-      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
-      "publishedAt": "2026-09-25T16:29:50.000Z",
+      "id": "grok-4-7-is-now-available-on-amazon-bedrock",
+      "title": "Grok 4.7 is now available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+      "publishedAt": "2026-09-28T22:13:16.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
-      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
-      "publishedAt": "2026-09-25T16:18:07.000Z",
+      "id": "rekognition-liveness-feedback-codes",
+      "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
+      "publishedAt": "2026-09-28T20:41:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "introducing-claude-sonnet-5-5-on-aws",
+      "title": "Introducing Claude Sonnet 5.5 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+      "publishedAt": "2026-09-28T18:57:13.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
-      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
-      "publishedAt": "2026-09-25T16:15:22.000Z",
+      "id": "amazon-bedrock-grok-4-7",
+      "title": "Grok 4.7 is now available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/",
+      "publishedAt": "2026-09-28T18:29:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1",
+      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+      "publishedAt": "2026-09-28T16:15:46.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
-      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
-      "publishedAt": "2026-09-25T16:09:46.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
-      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
-      "publishedAt": "2026-09-25T15:54:42.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
-      "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
-      "publishedAt": "2026-09-25T15:49:44.000Z",
+      "id": "generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
+      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+      "publishedAt": "2026-09-28T16:15:17.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
