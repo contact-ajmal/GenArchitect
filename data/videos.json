@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-29T12:59:07.131Z",
+  "generatedAt": "2026-09-30T12:41:26.177Z",
   "videos": [
+    {
+      "id": "I7g27RIvGIM",
+      "title": "AWS Cloud and AI Day Auckland 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-09-29T20:15:48Z",
+      "url": "https://www.youtube.com/watch?v=I7g27RIvGIM",
+      "duration": "1:07:41",
+      "thumbnail": "https://i.ytimg.com/vi/I7g27RIvGIM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "oB7hZhEI4_o",
+      "title": "How do I use a Lambda function to stop an Amazon RDS instance for longer than 7 days?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-29T18:00:18Z",
+      "url": "https://www.youtube.com/watch?v=oB7hZhEI4_o",
+      "duration": "5:30",
+      "thumbnail": "https://i.ytimg.com/vi/oB7hZhEI4_o/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "9hdjiFQV2rU",
+      "title": "Cloud Report: Let's build a game with Kiro | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-29T14:35:08Z",
+      "url": "https://www.youtube.com/watch?v=9hdjiFQV2rU",
+      "duration": "7:15",
+      "thumbnail": "https://i.ytimg.com/vi/9hdjiFQV2rU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "_85NDNoXMxs",
       "title": "What to write in your Service Quotas request",
@@ -3783,21 +3828,6 @@
       "trustTier": "official"
     },
     {
-      "id": "or7Phc2y5R0",
-      "title": "Build with AWS for Startups | AWS Activate Credits, Tools and Expert Support | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-30T18:44:46Z",
-      "url": "https://www.youtube.com/watch?v=or7Phc2y5R0",
-      "duration": "1:24",
-      "thumbnail": "https://i.ytimg.com/vi/or7Phc2y5R0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
       "id": "ZX8Sv7PWen0",
       "title": "AWS Tech Tales: Configuring Claude Code on Amazon Bedrock",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3839,21 +3869,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TSM7hnX7lEw/mqdefault.jpg",
       "topics": [
         "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "DJ-A0b8c7E0",
-      "title": "How do I turn on audit logging for my Aurora MySQL DB cluster and publish the logs to CloudWatch?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-06-30T05:36:47Z",
-      "url": "https://www.youtube.com/watch?v=DJ-A0b8c7E0",
-      "duration": "3:39",
-      "thumbnail": "https://i.ytimg.com/vi/DJ-A0b8c7E0/mqdefault.jpg",
-      "topics": [
-        "observability"
       ],
       "level": "talk",
       "trustTier": "official"
@@ -5836,21 +5851,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "GTsmt_nBtN8",
-      "title": "Starting with AWS Security Agent | AWS Tech Tales",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-19T10:06:02Z",
-      "url": "https://www.youtube.com/watch?v=GTsmt_nBtN8",
-      "duration": "1:00:13",
-      "thumbnail": "https://i.ytimg.com/vi/GTsmt_nBtN8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "ZkzkdhmcIVQ",
