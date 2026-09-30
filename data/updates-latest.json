@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-09-29T11:33:31.567Z",
+  "generatedAt": "2026-09-30T11:20:50.172Z",
   "updates": [
     {
-      "id": "grok-4-7-is-now-available-on-amazon-bedrock",
-      "title": "Grok 4.7 is now available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
-      "publishedAt": "2026-09-28T22:13:16.000Z",
+      "id": "amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference",
+      "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+      "publishedAt": "2026-09-30T01:13:14.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "rekognition-liveness-feedback-codes",
-      "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
-      "publishedAt": "2026-09-28T20:41:00.000Z",
+      "id": "introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singap",
+      "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+      "publishedAt": "2026-09-30T01:13:12.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "bedrock-managed-agents-preview",
+      "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
+      "publishedAt": "2026-09-29T21:10:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "introducing-claude-sonnet-5-5-on-aws",
-      "title": "Introducing Claude Sonnet 5.5 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
-      "publishedAt": "2026-09-28T18:57:13.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "amazon-bedrock-grok-4-7",
-      "title": "Grok 4.7 is now available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/",
-      "publishedAt": "2026-09-28T18:29:00.000Z",
+      "id": "openai-gpt-6-1-sol-on-amazon-bedrock",
+      "title": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
+      "publishedAt": "2026-09-29T20:17:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1",
-      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
-      "publishedAt": "2026-09-28T16:15:46.000Z",
+      "id": "bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock",
+      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+      "publishedAt": "2026-09-29T19:34:14.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
-      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
-      "publishedAt": "2026-09-28T16:15:17.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
+      "id": "amazon-connect-manage-data-tables",
+      "title": "Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
+      "publishedAt": "2026-09-29T17:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
