@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-09-30T12:41:26.177Z",
+  "generatedAt": "2026-10-01T13:24:41.588Z",
   "videos": [
+    {
+      "id": "BBcSHCUHjNk",
+      "title": "Cross partition data movement with AWS DataSync Enhanced mode | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T19:58:11Z",
+      "url": "https://www.youtube.com/watch?v=BBcSHCUHjNk",
+      "duration": "13:43",
+      "thumbnail": "https://i.ytimg.com/vi/BBcSHCUHjNk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "hKarVZxyH70",
+      "title": "Getting Started on AWS Just Got Easier",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-09-30T18:00:13Z",
+      "url": "https://www.youtube.com/watch?v=hKarVZxyH70",
+      "duration": "1:26",
+      "thumbnail": "https://i.ytimg.com/vi/hKarVZxyH70/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "7OTfL7HgEI8",
+      "title": "How Rokt and ScaleOps Optimize on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:53Z",
+      "url": "https://www.youtube.com/watch?v=7OTfL7HgEI8",
+      "duration": "1:31",
+      "thumbnail": "https://i.ytimg.com/vi/7OTfL7HgEI8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "jzBFmT0LlVo",
+      "title": "How Major League Soccer and Expel Secure on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:49Z",
+      "url": "https://www.youtube.com/watch?v=jzBFmT0LlVo",
+      "duration": "1:31",
+      "thumbnail": "https://i.ytimg.com/vi/jzBFmT0LlVo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "ooaSQXedwwE",
+      "title": "How CloudZero Helps Customers Optimize Cloud Costs on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:45Z",
+      "url": "https://www.youtube.com/watch?v=ooaSQXedwwE",
+      "duration": "1:13",
+      "thumbnail": "https://i.ytimg.com/vi/ooaSQXedwwE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Vhy1_5v6_Oc",
+      "title": "How Expel Delivers Managed Security on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:41Z",
+      "url": "https://www.youtube.com/watch?v=Vhy1_5v6_Oc",
+      "duration": "1:24",
+      "thumbnail": "https://i.ytimg.com/vi/Vhy1_5v6_Oc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "o-XCDysKLJQ",
+      "title": "How Octus and Terra Security Protect on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:34Z",
+      "url": "https://www.youtube.com/watch?v=o-XCDysKLJQ",
+      "duration": "1:22",
+      "thumbnail": "https://i.ytimg.com/vi/o-XCDysKLJQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "WwQaa7BFvfM",
+      "title": "How A+E Global Media and Pulumi Build on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:30Z",
+      "url": "https://www.youtube.com/watch?v=WwQaa7BFvfM",
+      "duration": "1:06",
+      "thumbnail": "https://i.ytimg.com/vi/WwQaa7BFvfM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "kWUhuT-qnsM",
+      "title": "How ProsperOps Automates Cloud Savings on AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-30T13:51:26Z",
+      "url": "https://www.youtube.com/watch?v=kWUhuT-qnsM",
+      "duration": "1:17",
+      "thumbnail": "https://i.ytimg.com/vi/kWUhuT-qnsM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "UOcHfR3_tys",
+      "title": "Your Agents Are in Solitary Confinement: Why MCP & A2A Aren't Enough — Vlad Luzin, Band",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-09-30T13:00:33Z",
+      "url": "https://www.youtube.com/watch?v=UOcHfR3_tys",
+      "duration": "17:34",
+      "thumbnail": "https://i.ytimg.com/vi/UOcHfR3_tys/mqdefault.jpg",
+      "topics": [
+        "multi-agent",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
     {
       "id": "I7g27RIvGIM",
       "title": "AWS Cloud and AI Day Auckland 2026 | AWS Events",
@@ -3458,21 +3612,6 @@
       "trustTier": "official"
     },
     {
-      "id": "vukY9tKjZB0",
-      "title": "Qualcomm & SoftServe: AI-powered AR glasses on AWS Local Zones | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-09T19:39:40Z",
-      "url": "https://www.youtube.com/watch?v=vukY9tKjZB0",
-      "duration": "1:51",
-      "thumbnail": "https://i.ytimg.com/vi/vukY9tKjZB0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "3JHA7ayOJuE",
       "title": "NYC Executive Forum 2026 - The Collective Edge: Cross-functional Strategies for AI at Scale",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3626,51 +3765,6 @@
       "trustTier": "official"
     },
     {
-      "id": "Oz2FAAR8_gk",
-      "title": "AWS Startup Stories: Halter | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-07T13:42:20Z",
-      "url": "https://www.youtube.com/watch?v=Oz2FAAR8_gk",
-      "duration": "1:56",
-      "thumbnail": "https://i.ytimg.com/vi/Oz2FAAR8_gk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "v00SNumPNJw",
-      "title": "How Federated AI Is Transforming Drug Discovery | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-06T19:53:30Z",
-      "url": "https://www.youtube.com/watch?v=v00SNumPNJw",
-      "duration": "1:50",
-      "thumbnail": "https://i.ytimg.com/vi/v00SNumPNJw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "e2LQ3UpF5_w",
-      "title": "Using Amazon Quick to Spend More Time with Customers | Riana Rabemananjara | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-06T17:17:45Z",
-      "url": "https://www.youtube.com/watch?v=e2LQ3UpF5_w",
-      "duration": "2:12",
-      "thumbnail": "https://i.ytimg.com/vi/e2LQ3UpF5_w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "sAOBXCDiDOs",
       "title": "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3699,69 +3793,6 @@
       "thumbnail": "https://i.ytimg.com/vi/tmGiEG8a2Io/mqdefault.jpg",
       "topics": [
         "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "BDwPdLJMwbc",
-      "title": "Building AI-powered Semantic Search for MySQL/MariaDB Workloads | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-02T17:38:24Z",
-      "url": "https://www.youtube.com/watch?v=BDwPdLJMwbc",
-      "duration": "7:12",
-      "thumbnail": "https://i.ytimg.com/vi/BDwPdLJMwbc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "K47XVL3dgeU",
-      "title": "How do I troubleshoot Amazon EC2 Auto Scaling issues in my Elastic Beanstalk environment?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-02T05:43:28Z",
-      "url": "https://www.youtube.com/watch?v=K47XVL3dgeU",
-      "duration": "2:58",
-      "thumbnail": "https://i.ytimg.com/vi/K47XVL3dgeU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "tgPfEwunMuQ",
-      "title": "How do I collect API Gateway request IDs?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-02T05:43:22Z",
-      "url": "https://www.youtube.com/watch?v=tgPfEwunMuQ",
-      "duration": "5:30",
-      "thumbnail": "https://i.ytimg.com/vi/tgPfEwunMuQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "gateway-targets"
-      ]
-    },
-    {
-      "id": "9SgA9PBjk10",
-      "title": "Amazon OpenSearch Services optimized for log analytics | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-01T20:00:22Z",
-      "url": "https://www.youtube.com/watch?v=9SgA9PBjk10",
-      "duration": "1:07",
-      "thumbnail": "https://i.ytimg.com/vi/9SgA9PBjk10/mqdefault.jpg",
-      "topics": [
-        "vector-search"
       ],
       "level": "talk",
       "trustTier": "official"
@@ -7767,21 +7798,6 @@
         "agent-loop",
         "mcp-tools"
       ]
-    },
-    {
-      "id": "OHfEwTgUqPY",
-      "title": "🐛 Every Developer's Debugging NIGHTMARE (Until Now)",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-06-30T19:42:23Z",
-      "url": "https://www.youtube.com/watch?v=OHfEwTgUqPY",
-      "duration": "0:55",
-      "thumbnail": "https://i.ytimg.com/vi/OHfEwTgUqPY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "6qW24zyOv0Y",
