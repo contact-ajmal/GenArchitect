@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-09-30T11:20:50.172Z",
+  "generatedAt": "2026-10-01T11:47:46.028Z",
   "updates": [
     {
-      "id": "amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference",
-      "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
-      "publishedAt": "2026-09-30T01:13:14.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-search",
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+      "publishedAt": "2026-09-30T20:03:34.000Z",
+      "sourceName": "AWS News Blog",
       "kind": "blog"
     },
     {
-      "id": "introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singap",
-      "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
-      "publishedAt": "2026-09-30T01:13:12.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "bedrock-managed-agents-preview",
-      "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
-      "publishedAt": "2026-09-29T21:10:00.000Z",
+      "id": "openai-gpt-6-astra-ultrafast-on-amazon-bedrock",
+      "title": "OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/",
+      "publishedAt": "2026-09-30T19:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "openai-gpt-6-1-sol-on-amazon-bedrock",
-      "title": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
-      "publishedAt": "2026-09-29T20:17:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock",
-      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-      "publishedAt": "2026-09-29T19:34:14.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock",
+      "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
+      "publishedAt": "2026-09-30T18:30:24.000Z",
+      "sourceName": "AWS Architecture Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-connect-manage-data-tables",
-      "title": "Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
-      "publishedAt": "2026-09-29T17:00:00.000Z",
+      "id": "aurora-serverless-instant-16-acu-scaling",
+      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/",
+      "publishedAt": "2026-09-30T17:50:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
+    },
+    {
+      "id": "claude-region-expansion-lhr",
+      "title": "Amazon Bedrock expands Claude models in-region support in the UK (London)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-lhr/",
+      "publishedAt": "2026-09-30T17:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide",
+      "title": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
+      "url": "https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/",
+      "publishedAt": "2026-09-30T15:43:51.000Z",
+      "sourceName": "AWS DevOps & Developer Productivity Blog",
+      "kind": "blog"
     }
   ]
 }
