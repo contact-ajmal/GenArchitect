@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-10-01T13:24:41.588Z",
+  "generatedAt": "2026-10-02T12:42:57.768Z",
   "videos": [
+    {
+      "id": "bBSkzwU3TtA",
+      "title": "Think you could make a Next Gen Stat for the NFL?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-02T08:06:46Z",
+      "url": "https://www.youtube.com/watch?v=bBSkzwU3TtA",
+      "duration": "59:19",
+      "thumbnail": "https://i.ytimg.com/vi/bBSkzwU3TtA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "fLVH6KuUsDk",
+      "title": "AWS: AI Answered — What does it take to run AI in production? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-01T20:51:36Z",
+      "url": "https://www.youtube.com/watch?v=fLVH6KuUsDk",
+      "duration": "0:42",
+      "thumbnail": "https://i.ytimg.com/vi/fLVH6KuUsDk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Kmellvolllk",
+      "title": "AWS: AI Answered — What does it take to run AI in production? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-01T20:50:35Z",
+      "url": "https://www.youtube.com/watch?v=Kmellvolllk",
+      "duration": "37:33",
+      "thumbnail": "https://i.ytimg.com/vi/Kmellvolllk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "xk_TKy5Epzg",
+      "title": "Invite Your Teammate to Your AWS Project",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-01T18:30:36Z",
+      "url": "https://www.youtube.com/watch?v=xk_TKy5Epzg",
+      "duration": "3:50",
+      "thumbnail": "https://i.ytimg.com/vi/xk_TKy5Epzg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "9VxXZ4ZvKsU",
+      "title": "Why is my OpenSearch Service cluster in a red or yellow status?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-01T18:00:30Z",
+      "url": "https://www.youtube.com/watch?v=9VxXZ4ZvKsU",
+      "duration": "4:54",
+      "thumbnail": "https://i.ytimg.com/vi/9VxXZ4ZvKsU/mqdefault.jpg",
+      "topics": [
+        "vector-search"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "BBcSHCUHjNk",
       "title": "Cross partition data movement with AWS DataSync Enhanced mode | Amazon Web Services",
@@ -3453,21 +3528,6 @@
       "trustTier": "official"
     },
     {
-      "id": "np2bT6wS9Y8",
-      "title": "Migration & modernization with the amdocs team and Amazon FSx for NetApp ONTAP | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-13T19:24:57Z",
-      "url": "https://www.youtube.com/watch?v=np2bT6wS9Y8",
-      "duration": "16:11",
-      "thumbnail": "https://i.ytimg.com/vi/np2bT6wS9Y8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "8oyalrfwgjw",
       "title": "RLM: Recursive Language Models for Large Codebases - Shashi, Superagentic AI",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3564,51 +3624,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "S8n7Anu46bo",
-      "title": "TBX scales transaction banking and AI innovation with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-10T14:11:44Z",
-      "url": "https://www.youtube.com/watch?v=S8n7Anu46bo",
-      "duration": "1:24",
-      "thumbnail": "https://i.ytimg.com/vi/S8n7Anu46bo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "H_vr8uAktzA",
-      "title": "DialogWorld Migrates Seamlessly to Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-09T22:29:12Z",
-      "url": "https://www.youtube.com/watch?v=H_vr8uAktzA",
-      "duration": "1:29",
-      "thumbnail": "https://i.ytimg.com/vi/H_vr8uAktzA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "GQyJdoEQmTo",
-      "title": "rumik builds human-like voice intelligence with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-09T21:38:10Z",
-      "url": "https://www.youtube.com/watch?v=GQyJdoEQmTo",
-      "duration": "1:13",
-      "thumbnail": "https://i.ytimg.com/vi/GQyJdoEQmTo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
       "trustTier": "official"
     },
     {
@@ -7778,26 +7793,6 @@
       ],
       "level": "talk",
       "trustTier": "official"
-    },
-    {
-      "id": "bHSbjCZZFjE",
-      "title": "Integrating Model Context Protocol (MCP) Tools with Strands Agents (How-to)",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-01T07:00:40Z",
-      "url": "https://www.youtube.com/watch?v=bHSbjCZZFjE",
-      "duration": "8:03",
-      "thumbnail": "https://i.ytimg.com/vi/bHSbjCZZFjE/mqdefault.jpg",
-      "topics": [
-        "strands",
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "agent-loop",
-        "mcp-tools"
-      ]
     },
     {
       "id": "6qW24zyOv0Y",
