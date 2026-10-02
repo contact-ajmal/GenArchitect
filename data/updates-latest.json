@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-10-01T11:47:46.028Z",
+  "generatedAt": "2026-10-02T11:20:34.171Z",
   "updates": [
     {
-      "id": "amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-search",
-      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
-      "publishedAt": "2026-09-30T20:03:34.000Z",
+      "id": "scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
+      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-01T22:06:14.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-en",
+      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+      "publishedAt": "2026-10-01T20:04:04.000Z",
       "sourceName": "AWS News Blog",
       "kind": "blog"
     },
     {
-      "id": "openai-gpt-6-astra-ultrafast-on-amazon-bedrock",
-      "title": "OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/",
-      "publishedAt": "2026-09-30T19:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock",
-      "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
-      "publishedAt": "2026-09-30T18:30:24.000Z",
-      "sourceName": "AWS Architecture Blog",
+      "id": "serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
+      "title": "Serve live, governed data in AI-built apps with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
+      "publishedAt": "2026-10-01T19:49:06.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "aurora-serverless-instant-16-acu-scaling",
-      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/",
-      "publishedAt": "2026-09-30T17:50:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors",
+      "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
+      "publishedAt": "2026-10-01T17:34:56.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     },
     {
-      "id": "claude-region-expansion-lhr",
-      "title": "Amazon Bedrock expands Claude models in-region support in the UK (London)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-lhr/",
-      "publishedAt": "2026-09-30T17:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-b",
+      "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/",
+      "publishedAt": "2026-10-01T16:51:04.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     },
     {
-      "id": "accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide",
-      "title": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
-      "url": "https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/",
-      "publishedAt": "2026-09-30T15:43:51.000Z",
-      "sourceName": "AWS DevOps & Developer Productivity Blog",
+      "id": "building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-i",
+      "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
+      "publishedAt": "2026-10-01T16:40:24.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
   ]
