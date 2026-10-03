@@ -1,6 +1,84 @@
 {
-  "generatedAt": "2026-10-02T12:42:57.768Z",
+  "generatedAt": "2026-10-03T11:44:14.095Z",
   "videos": [
+    {
+      "id": "0M2VXqp1HkU",
+      "title": "Same Code, New Chip, Who Dis?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-02T20:11:49Z",
+      "url": "https://www.youtube.com/watch?v=0M2VXqp1HkU",
+      "duration": "2:03:57",
+      "thumbnail": "https://i.ytimg.com/vi/0M2VXqp1HkU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "CfI2tJa9q-Q",
+      "title": "AWS Summit Johannesburg 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-02T20:02:28Z",
+      "url": "https://www.youtube.com/watch?v=CfI2tJa9q-Q",
+      "duration": "2:39",
+      "thumbnail": "https://i.ytimg.com/vi/CfI2tJa9q-Q/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "hg30GtLXY-Y",
+      "title": "GenerAIly Speaking: Let's Talk Tokenomics | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-02T18:53:20Z",
+      "url": "https://www.youtube.com/watch?v=hg30GtLXY-Y",
+      "duration": "9:28",
+      "thumbnail": "https://i.ytimg.com/vi/hg30GtLXY-Y/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "NtJuFSOcZfk",
+      "title": "GenerAIly Speaking: So, what exactly is a Token? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-02T18:53:03Z",
+      "url": "https://www.youtube.com/watch?v=NtJuFSOcZfk",
+      "duration": "5:53",
+      "thumbnail": "https://i.ytimg.com/vi/NtJuFSOcZfk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "pAnLpiAG6Es",
+      "title": "MCP Doesn't Suck. Your Agent Does. — Jan Čurn, Apify",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-02T14:00:05Z",
+      "url": "https://www.youtube.com/watch?v=pAnLpiAG6Es",
+      "duration": "18:44",
+      "thumbnail": "https://i.ytimg.com/vi/pAnLpiAG6Es/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
     {
       "id": "bBSkzwU3TtA",
       "title": "Think you could make a Next Gen Stat for the NFL?",
@@ -3415,36 +3493,6 @@
       "trustTier": "official"
     },
     {
-      "id": "SB04ScBSkXU",
-      "title": "Amazon Sales Ops Team Uses Amazon Quick to Process Contracts in Minutes | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-14T18:08:35Z",
-      "url": "https://www.youtube.com/watch?v=SB04ScBSkXU",
-      "duration": "2:08",
-      "thumbnail": "https://i.ytimg.com/vi/SB04ScBSkXU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "4doZZtycrqg",
-      "title": "Inside the Ropes: PGA TOUR X AWS: Powering TOURCAST | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-14T17:10:28Z",
-      "url": "https://www.youtube.com/watch?v=4doZZtycrqg",
-      "duration": "46:57",
-      "thumbnail": "https://i.ytimg.com/vi/4doZZtycrqg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "S_ZRZFDJ6wE",
       "title": "Deploying Agents to the Cloud",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3511,21 +3559,6 @@
       "relatedPatternIds": [
         "multi_agent_rag"
       ]
-    },
-    {
-      "id": "5BCLhSPP9NQ",
-      "title": "The growth strategy hiding inside sustainability — and why AI unlocks it | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-13T20:35:27Z",
-      "url": "https://www.youtube.com/watch?v=5BCLhSPP9NQ",
-      "duration": "34:05",
-      "thumbnail": "https://i.ytimg.com/vi/5BCLhSPP9NQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "8oyalrfwgjw",
@@ -5879,24 +5912,6 @@
       ],
       "level": "talk",
       "trustTier": "official"
-    },
-    {
-      "id": "mUhYA_Obh-4",
-      "title": "Building Apps with AI + MCP Servers | Serverless Office Hours",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-20T07:23:01Z",
-      "url": "https://www.youtube.com/watch?v=mUhYA_Obh-4",
-      "duration": "1:00:16",
-      "thumbnail": "https://i.ytimg.com/vi/mUhYA_Obh-4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "mcp-tools"
-      ]
     },
     {
       "id": "ZkzkdhmcIVQ",
