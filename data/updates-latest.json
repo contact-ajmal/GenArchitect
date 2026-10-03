@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-02T11:20:34.171Z",
+  "generatedAt": "2026-10-03T10:35:58.850Z",
   "updates": [
     {
-      "id": "scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-01T22:06:14.000Z",
+      "id": "sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-patt",
+      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+      "url": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "publishedAt": "2026-10-02T15:48:26.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-en",
-      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
-      "publishedAt": "2026-10-01T20:04:04.000Z",
-      "sourceName": "AWS News Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
-      "title": "Serve live, governed data in AI-built apps with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
-      "publishedAt": "2026-10-01T19:49:06.000Z",
+      "id": "add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore",
+      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-02T15:46:05.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors",
-      "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
-      "publishedAt": "2026-10-01T17:34:56.000Z",
+      "id": "fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
+      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+      "publishedAt": "2026-10-02T15:44:20.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-b",
-      "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/",
-      "publishedAt": "2026-10-01T16:51:04.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "closed-loop-incident-response-connect-aws-devops-agent-to-opensearch",
+      "title": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
+      "url": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/",
+      "publishedAt": "2026-10-02T15:24:49.000Z",
+      "sourceName": "AWS DevOps & Developer Productivity Blog",
       "kind": "blog"
     },
     {
-      "id": "building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-i",
-      "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
-      "publishedAt": "2026-10-01T16:40:24.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
+      "id": "agentcore-gateway-private-tls-vpc",
+      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "aws-mcp-server-six-additional-regions",
+      "title": "The AWS MCP Server is now available in six additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
