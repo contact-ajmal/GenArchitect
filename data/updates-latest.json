@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:35:58.850Z",
+  "generatedAt": "2026-10-04T11:16:19.754Z",
   "updates": [
     {
       "id": "sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-patt",
@@ -34,17 +34,17 @@
       "kind": "blog"
     },
     {
-      "id": "agentcore-gateway-private-tls-vpc",
-      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
+      "id": "aws-mcp-server-six-additional-regions",
+      "title": "The AWS MCP Server is now available in six additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
       "publishedAt": "2026-10-02T08:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "aws-mcp-server-six-additional-regions",
-      "title": "The AWS MCP Server is now available in six additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
+      "id": "agentcore-gateway-private-tls-vpc",
+      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
       "publishedAt": "2026-10-02T08:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
