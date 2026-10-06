@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-05T12:37:07.011Z",
+  "generatedAt": "2026-10-06T12:12:55.694Z",
   "updates": [
     {
-      "id": "sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-patt",
-      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "url": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
-      "publishedAt": "2026-10-02T15:48:26.000Z",
+      "id": "introducing-glm-5-3-on-amazon-bedrock",
+      "title": "Introducing GLM 5.3 on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+      "publishedAt": "2026-10-05T23:25:17.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore",
-      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-02T15:46:05.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
-      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
-      "publishedAt": "2026-10-02T15:44:20.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "closed-loop-incident-response-connect-aws-devops-agent-to-opensearch",
-      "title": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
-      "url": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/",
-      "publishedAt": "2026-10-02T15:24:49.000Z",
-      "sourceName": "AWS DevOps & Developer Productivity Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "agentcore-gateway-private-tls-vpc",
-      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "id": "amazon-bedrock-glm-5-3",
+      "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
+      "publishedAt": "2026-10-05T21:42:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "aws-mcp-server-six-additional-regions",
-      "title": "The AWS MCP Server is now available in six additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "materialize-once-query-anywhere-introducing-iceberg-materialized-views-in-amazon-redshift",
+      "title": "Materialize once, query anywhere: Introducing Iceberg materialized views in Amazon Redshift",
+      "url": "https://aws.amazon.com/blogs/big-data/materialize-once-query-anywhere-introducing-iceberg-materialized-views-in-amazon-redshift/",
+      "publishedAt": "2026-10-05T21:41:49.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock",
+      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+      "publishedAt": "2026-10-05T17:25:20.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent",
+      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+      "publishedAt": "2026-10-05T17:23:19.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion",
+      "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+      "url": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+      "publishedAt": "2026-10-05T15:56:28.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     }
   ]
 }
