@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-05T14:48:38.161Z",
+  "generatedAt": "2026-10-06T13:22:53.420Z",
   "videos": [
+    {
+      "id": "hfEczxdNyvU",
+      "title": "Advanced Workshop: Mastering AI Observability — Doug Guthrie, Braintrust",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-06T01:00:25Z",
+      "url": "https://www.youtube.com/watch?v=hfEczxdNyvU",
+      "duration": "1:51:37",
+      "thumbnail": "https://i.ytimg.com/vi/hfEczxdNyvU/mqdefault.jpg",
+      "topics": [
+        "observability"
+      ],
+      "level": "deep-dive",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "observability-trace"
+      ]
+    },
+    {
+      "id": "4wcNbPJTo8k",
+      "title": "Can agents run research and robots?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-05T21:49:57Z",
+      "url": "https://www.youtube.com/watch?v=4wcNbPJTo8k",
+      "thumbnail": "https://i.ytimg.com/vi/4wcNbPJTo8k/mqdefault_live.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "T3SS931wU0I",
+      "title": "Agentic Search vs Vector Search for Coding Agents: We Ran the Eval — Braintrust",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-05T15:30:36Z",
+      "url": "https://www.youtube.com/watch?v=T3SS931wU0I",
+      "duration": "18:15",
+      "thumbnail": "https://i.ytimg.com/vi/T3SS931wU0I/mqdefault.jpg",
+      "topics": [
+        "vector-search",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
     {
       "id": "0M2VXqp1HkU",
       "title": "Same Code, New Chip, Who Dis?",
@@ -3471,21 +3519,6 @@
       "url": "https://www.youtube.com/watch?v=kamNuuevbno",
       "duration": "39:38",
       "thumbnail": "https://i.ytimg.com/vi/kamNuuevbno/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "F4s2HvRH9JI",
-      "title": "The Future of Marketing: Using AI science to amplify brand art | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-15T19:00:11Z",
-      "url": "https://www.youtube.com/watch?v=F4s2HvRH9JI",
-      "duration": "1:03:10",
-      "thumbnail": "https://i.ytimg.com/vi/F4s2HvRH9JI/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
