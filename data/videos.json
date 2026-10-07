@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-06T13:22:53.420Z",
+  "generatedAt": "2026-10-07T13:31:14.106Z",
   "videos": [
+    {
+      "id": "X4w2Pkz5tDY",
+      "title": "Grep or Embeddings? Agentic Search Over Company Documents — George He, LlamaIndex",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-07T01:30:36Z",
+      "url": "https://www.youtube.com/watch?v=X4w2Pkz5tDY",
+      "duration": "23:22",
+      "thumbnail": "https://i.ytimg.com/vi/X4w2Pkz5tDY/mqdefault.jpg",
+      "topics": [
+        "vector-search",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
+    {
+      "id": "X2LkopQ33ug",
+      "title": "Amazon Connect Customer - Omnichannel Customer Experience | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-06T19:02:36Z",
+      "url": "https://www.youtube.com/watch?v=X2LkopQ33ug",
+      "duration": "1:24",
+      "thumbnail": "https://i.ytimg.com/vi/X2LkopQ33ug/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "7aOb0vZHT5k",
+      "title": "AWS Free Tier and the New AWS Experience",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-06T18:15:02Z",
+      "url": "https://www.youtube.com/watch?v=7aOb0vZHT5k",
+      "duration": "7:08",
+      "thumbnail": "https://i.ytimg.com/vi/7aOb0vZHT5k/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "URV5hiGHUE4",
+      "title": "How do I troubleshoot PostgreSQL performance problems on Amazon RDS or Aurora?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-06T18:00:22Z",
+      "url": "https://www.youtube.com/watch?v=URV5hiGHUE4",
+      "duration": "4:49",
+      "thumbnail": "https://i.ytimg.com/vi/URV5hiGHUE4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Gl-LRKvLZvQ",
+      "title": "How to add a recovery email to your AWS Builder ID",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-06T16:15:08Z",
+      "url": "https://www.youtube.com/watch?v=Gl-LRKvLZvQ",
+      "duration": "0:50",
+      "thumbnail": "https://i.ytimg.com/vi/Gl-LRKvLZvQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "35VJ67zoyeY",
+      "title": "AWS Summit Milan 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-06T15:43:27Z",
+      "url": "https://www.youtube.com/watch?v=35VJ67zoyeY",
+      "duration": "1:29",
+      "thumbnail": "https://i.ytimg.com/vi/35VJ67zoyeY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "hfEczxdNyvU",
       "title": "Advanced Workshop: Mastering AI Observability — Doug Guthrie, Braintrust",
@@ -3370,36 +3461,6 @@
       "trustTier": "community"
     },
     {
-      "id": "o4JQIVshwn4",
-      "title": "DSU: From Assistant to Teammate: Inside Amazon Quick | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-21T21:10:30Z",
-      "url": "https://www.youtube.com/watch?v=o4JQIVshwn4",
-      "duration": "15:44",
-      "thumbnail": "https://i.ytimg.com/vi/o4JQIVshwn4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ALNaZKfgdhE",
-      "title": "F1 Insights powered by AWS: Power Circuits | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-21T14:41:25Z",
-      "url": "https://www.youtube.com/watch?v=ALNaZKfgdhE",
-      "duration": "0:47",
-      "thumbnail": "https://i.ytimg.com/vi/ALNaZKfgdhE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "igsklrIO3fo",
       "title": "Build AI Agents on AWS in Under 10 Minutes (Bedrock, Strands, AgentCore)",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3433,21 +3494,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "9wzLGoPy4as",
-      "title": "Accelerating Advanced Nuclear Innovation with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-20T16:44:26Z",
-      "url": "https://www.youtube.com/watch?v=9wzLGoPy4as",
-      "duration": "1:44",
-      "thumbnail": "https://i.ytimg.com/vi/9wzLGoPy4as/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "deep-dive",
       "trustTier": "official"
     },
     {
@@ -5932,21 +5978,6 @@
       "trustTier": "official"
     },
     {
-      "id": "LQOqHsjoIQo",
-      "title": "Kafka Migration Made Easy: From Self-Managed to Amazon MSK Express in days time",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-20T08:28:13Z",
-      "url": "https://www.youtube.com/watch?v=LQOqHsjoIQo",
-      "duration": "46:46",
-      "thumbnail": "https://i.ytimg.com/vi/LQOqHsjoIQo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "ZkzkdhmcIVQ",
       "title": "Become an AI Native Cloud Engineer",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -7761,21 +7792,6 @@
       "url": "https://www.youtube.com/watch?v=B36i7qhWFp8",
       "duration": "1:40",
       "thumbnail": "https://i.ytimg.com/vi/B36i7qhWFp8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "7d3wiGhQJbY",
-      "title": "🎯 AWS Certification Study Hack with PartyRock #shorts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-01T20:22:37Z",
-      "url": "https://www.youtube.com/watch?v=7d3wiGhQJbY",
-      "duration": "0:39",
-      "thumbnail": "https://i.ytimg.com/vi/7d3wiGhQJbY/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
