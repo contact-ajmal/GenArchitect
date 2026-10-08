@@ -1,6 +1,196 @@
 {
-  "generatedAt": "2026-10-07T11:59:11.750Z",
+  "generatedAt": "2026-10-08T12:13:41.961Z",
   "updates": [
+    {
+      "id": "configuring-your-ai-vulnerability-harness-part-2-the-steering-file",
+      "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+      "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
+      "publishedAt": "2026-10-07T21:49:50.000Z",
+      "sourceId": "security",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "This post shows you how to configure an AI model to perform structured, evidence-based vulnerability triage with the consistency of a seasoned security analyst. You’ll learn the design decisions behind five…",
+      "author": "Justin Kontny"
+    },
+    {
+      "id": "building-your-ai-vulnerability-harness-part-1",
+      "title": "Building your AI vulnerability harness, Part 1",
+      "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/",
+      "publishedAt": "2026-10-07T21:49:43.000Z",
+      "sourceId": "security",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Vulnerability scanners produce findings faster than manual triage can process them. Your developers ship more code with more dependencies, and the volume of candidate findings grows with it. Many findings a scanner…",
+      "author": "Nidhi Ramakant"
+    },
+    {
+      "id": "introducing-claude-haiku-5-5-on-aws",
+      "title": "Introducing Claude Haiku 5.5 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+      "publishedAt": "2026-10-07T18:52:10.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume…",
+      "author": "Aamna Najmi"
+    },
+    {
+      "id": "rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+      "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+      "publishedAt": "2026-10-07T18:34:44.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "rag",
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Learn how Amazon Quick and Amazon Bedrock Knowledge Bases enforce…",
+      "author": "Amit Choudhary"
+    },
+    {
+      "id": "introducing-strands-box-ai-agent-sandboxes-powered-by-dogwood",
+      "title": "Introducing Strands Box: AI agent sandboxes powered by Dogwood",
+      "url": "https://aws.amazon.com/blogs/opensource/introducing-strands-box-ai-agent-sandboxes-powered-by-dogwood/",
+      "publishedAt": "2026-10-07T17:36:46.000Z",
+      "sourceId": "opensource",
+      "sourceName": "AWS Open Source Blog",
+      "kind": "blog",
+      "topics": [
+        "strands"
+      ],
+      "excerpt": "As developers increasingly delegate work to AI agents, these agents require broader access to systems and resources. They read files, run shell commands, execute generated code, and call APIs. That is what makes agents…",
+      "author": "Fernando Dingler"
+    },
+    {
+      "id": "beyond-hours-saved-building-the-business-case-for-agentic-automation",
+      "title": "Beyond hours saved: Building the business case for agentic automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+      "publishedAt": "2026-10-07T15:50:00.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision…",
+      "author": "Manish Ballal"
+    },
+    {
+      "id": "how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock",
+      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+      "publishedAt": "2026-10-07T15:48:46.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock",
+        "guardrails",
+        "multi-agent",
+        "genai-general"
+      ],
+      "excerpt": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with cross-Region…",
+      "author": "Sunil Yerkola"
+    },
+    {
+      "id": "automate-remediation-post-aws-devops-agent-investigation",
+      "title": "Automate remediation post AWS DevOps Agent investigation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
+      "publishedAt": "2026-10-07T15:46:49.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "bedrock"
+      ],
+      "excerpt": "AWS DevOps Agent can diagnose production incidents but is kept in observe-and-report mode so it does not change resources directly. This post shows how to use AWS Lambda Durable Functions, Amazon EventBridge, and Amazon…",
+      "author": "Michele Scarimbolo"
+    },
+    {
+      "id": "building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap",
+      "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap/",
+      "publishedAt": "2026-10-07T15:44:27.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The biggest barrier to AI adoption isn't awareness. It's the gap between talking about AI and building with it. Here's the playbook we used to turn non-technical, customer-facing professionals into confident AI builders…",
+      "author": "Alicia Retzlaff"
+    },
+    {
+      "id": "how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock",
+      "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/",
+      "publishedAt": "2026-10-07T15:38:28.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "strands",
+        "bedrock",
+        "multi-agent"
+      ],
+      "excerpt": "Cornerstone OnDemand built Orion AI, a multi-agent system on Amazon Bedrock and Strands Agents, to turn database operations from reactive firefighting into proactive automation. A three-person team cut database…",
+      "author": "Derek Ziehl"
+    },
+    {
+      "id": "aws-config-new-resource-types",
+      "title": "AWS Config now supports 77 new resource types",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
+      "publishedAt": "2026-10-07T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "excerpt": "AWS Config now supports 77 additional AWS resource types across key services including Amazon EC2, Amazon S3 Files, and Amazon Q Business. This expansion provides greater coverage over your AWS environment, enabling you…"
+    },
+    {
+      "id": "claude-haiku-5-5-aws-govcloud",
+      "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less…"
+    },
+    {
+      "id": "claude-haiku-5-5-aws",
+      "title": "Claude Haiku 5.5 is now available on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude…"
+    },
     {
       "id": "building-a-context-aware-ai-assistant-on-agentcore-and-openclaw",
       "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
@@ -332,6 +522,19 @@
       "author": "Sitaraman Vijay Krishna"
     },
     {
+      "id": "aws-mcp-server-six-additional-regions",
+      "title": "The AWS MCP Server is now available in six additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, part…"
+    },
+    {
       "id": "agentcore-gateway-private-tls-vpc",
       "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
@@ -344,19 +547,6 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Gateway now supports TLS certificates signed by private certificate authorities (CAs) on MCP, OpenAPI, and HTTP proxy targets. This feature enables you to connect securely to gateway targets…"
-    },
-    {
-      "id": "aws-mcp-server-six-additional-regions",
-      "title": "The AWS MCP Server is now available in six additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, part…"
     },
     {
       "id": "scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
@@ -652,19 +842,6 @@
       "author": "Evandro Franco"
     },
     {
-      "id": "quick-hierarchy-filter",
-      "title": "Amazon Quick adds Hierarchy Filter for guided dashboard drill-down",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City. It replaces several stacked filter controls with one, cutting…"
-    },
-    {
       "id": "live-data-in-apps",
       "title": "Amazon Quick now supports live data from your datasets in apps",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps",
@@ -676,6 +853,19 @@
         "genai-general"
       ],
       "excerpt": "Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These…"
+    },
+    {
+      "id": "quick-hierarchy-filter",
+      "title": "Amazon Quick adds Hierarchy Filter for guided dashboard drill-down",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City. It replaces several stacked filter controls with one, cutting…"
     },
     {
       "id": "marketplace-ai-agent-metering",
@@ -1070,20 +1260,6 @@
       "author": "Sanjana Sekar"
     },
     {
-      "id": "claude-sonnet-5-5-aws-govcloud-us",
-      "title": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/",
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work ag faster speed. Claude…"
-    },
-    {
       "id": "claude-sonnet-5-5-aws",
       "title": "Claude Sonnet 5.5 now available on AWS",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
@@ -1096,6 +1272,20 @@
         "genai-general"
       ],
       "excerpt": "AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a…"
+    },
+    {
+      "id": "claude-sonnet-5-5-aws-govcloud-us",
+      "title": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/",
+      "publishedAt": "2026-09-28T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work ag faster speed. Claude…"
     },
     {
       "id": "sagemaker-iceberg-rest-iam-documentdb",
@@ -1254,19 +1444,6 @@
       "author": "Angela Mapes"
     },
     {
-      "id": "emr-eks-spark-connect-interactive",
-      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon…"
-    },
-    {
       "id": "sagemaker-hyperpod-inference-gateway",
       "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
@@ -1278,6 +1455,19 @@
         "genai-general"
       ],
       "excerpt": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By…"
+    },
+    {
+      "id": "emr-eks-spark-connect-interactive",
+      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon…"
     },
     {
       "id": "from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
@@ -1558,20 +1748,6 @@
       "author": "Christian Ramirez"
     },
     {
-      "id": "claude-opus-5-5-aws",
-      "title": "Claude Opus 5.5 is now available on AWS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
-      "publishedAt": "2026-09-22T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on…"
-    },
-    {
       "id": "claude-opus-5-5-aws-govcloud",
       "title": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/",
@@ -1584,6 +1760,20 @@
         "genai-general"
       ],
       "excerpt": "AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting…"
+    },
+    {
+      "id": "claude-opus-5-5-aws",
+      "title": "Claude Opus 5.5 is now available on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
+      "publishedAt": "2026-09-22T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on…"
     },
     {
       "id": "security-hub-ai-inventory-azure-support",
@@ -1920,52 +2110,6 @@
       "author": "Shridhar Navanageri"
     },
     {
-      "id": "how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
-      "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
-      "publishedAt": "2026-09-17T15:36:42.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "agentcore",
-        "strands",
-        "bedrock"
-      ],
-      "excerpt": "Learn how MRH Trowe, one of Germany's leading commercial and industrial insurance brokers, gave about 400 employees secure, self-service access to AI agents in its first month of production - using Strands Agents…",
-      "author": "Marouane El Bostahi"
-    },
-    {
-      "id": "implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
-      "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/",
-      "publishedAt": "2026-09-17T15:30:17.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "agentcore",
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "Learn how to enforce defense-in-depth authorization for Model Context Protocol (MCP) tools on Amazon Quick. This walkthrough wires Microsoft Entra ID group and claims-based JWTs through an Amazon Bedrock AgentCore…",
-      "author": "Anneline Sibanda"
-    },
-    {
-      "id": "enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
-      "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
-      "publishedAt": "2026-09-17T15:28:08.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Learn how to build a synthetic data augmentation pipeline on Amazon SageMaker AI and Amazon Rekognition that generates photo-realistic, auto-labeled training images for industrial safety AI. This approach improved…",
-      "author": "Dimitri Voytan"
-    },
-    {
       "id": "how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons",
       "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
       "url": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/",
@@ -1995,51 +2139,6 @@
       "excerpt": "Amazon SageMaker AI now supports serverless model customization for the NVIDIA Nemotron 3.5 Lightning model using supervised fine-tuning (SFT), Direct Preference Optimization (DPO), and reinforcement fine-tuning (RFT)…"
     },
     {
-      "id": "improving-hcls-ai-reasoning-with-open-source-agent-skills",
-      "title": "Improving HCLS AI reasoning with open-source agent skills",
-      "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
-      "publishedAt": "2026-09-16T19:00:00.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "strands",
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains…",
-      "author": "Michael Hsieh"
-    },
-    {
-      "id": "fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
-      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
-      "publishedAt": "2026-09-16T18:59:25.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process…",
-      "author": "Aravind Neelakantan"
-    },
-    {
-      "id": "optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
-      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-16T15:47:39.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "agentcore",
-        "bedrock"
-      ],
-      "excerpt": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector…",
-      "author": "Han Ding"
-    },
-    {
       "id": "discover-and-govern-snowflake-data-using-sagemaker-unified-studio",
       "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
       "url": "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio/",
@@ -2052,20 +2151,6 @@
       ],
       "excerpt": "Connect Snowflake to Amazon SageMaker Unified Studio to build a unified data catalog. Query federated Snowflake tables without moving data, publish enriched assets to SageMaker Catalog, and validate data quality with…",
       "author": "Marco Duarte"
-    },
-    {
-      "id": "build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
-      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
-      "publishedAt": "2026-09-16T15:17:37.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom blueprint redacts…",
-      "author": "Samantha Stuart"
     },
     {
       "id": "amazon-connect-talent",
@@ -2246,6 +2331,19 @@
       "excerpt": "AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to create multimodal embeddings for video, audio, and image content. Amazon…"
     },
     {
+      "id": "aws-devops-agent-bidirectional-slack-communication",
+      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag"
+      ],
+      "excerpt": "AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call…"
+    },
+    {
       "id": "aws-healthomics-realtime-run-metrics",
       "title": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
@@ -2258,19 +2356,6 @@
         "observability"
       ],
       "excerpt": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute. The 14 new run metrics span CPU and GPU usage, memory usage, file…"
-    },
-    {
-      "id": "aws-devops-agent-bidirectional-slack-communication",
-      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "rag"
-      ],
-      "excerpt": "AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call…"
     },
     {
       "id": "from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore",
@@ -2475,19 +2560,6 @@
       "excerpt": "Amazon SageMaker Feature Store is a fully managed capability that makes it easy to compute, store, and retrieve features for training and deploying AI models. SageMaker Feature Store now supports feature-level writes, a…"
     },
     {
-      "id": "aws-healthomics-resourcefallback-wdl",
-      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
-      "publishedAt": "2026-09-08T16:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances, for tasks in your Workflow…"
-    },
-    {
       "id": "agentcore-memory-direct-ingest",
       "title": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
@@ -2500,6 +2572,19 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term memory event. The new IngestData API accepts content, fans it out to the…"
+    },
+    {
+      "id": "aws-healthomics-resourcefallback-wdl",
+      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances, for tasks in your Workflow…"
     },
     {
       "id": "aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-busi",
@@ -2751,21 +2836,6 @@
       "author": "Lee Hannigan"
     },
     {
-      "id": "aws-config-new-resource-types",
-      "title": "AWS Config now supports 60 new resource types",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
-      "publishedAt": "2026-09-02T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "rag",
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock,&nbsp; Amazon EC2, Amazon SageMaker, and AWS Organizations. This expansion provides greater coverage over your AWS…"
-    },
-    {
       "id": "sagemaker-cicd-notebook-ai-manifest",
       "title": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
@@ -2863,20 +2933,6 @@
       "excerpt": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and…"
     },
     {
-      "id": "claude-fable-5-1-aws-govcloud",
-      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/",
-      "publishedAt": "2026-09-01T14:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "Claude Fable 5.1 is generally available on Amazon Bedrock in AWS GovCloud (US) and brings Anthropic's most capable frontier model to regulated industry customers. Fable 5.1 delivers frontier intelligence for ambitious…"
-    },
-    {
       "id": "mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected",
       "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
       "url": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/",
@@ -2890,19 +2946,6 @@
       ],
       "excerpt": "On July 28, 2026, MCP made its protocol core stateless, removing the initialize handshake and session header. This post maps the MCP 2026-07-28 specification to the AWS Well-Architected Agentic AI Lens, pillar by…",
       "author": "Anand Komandooru"
-    },
-    {
-      "id": "aws-agent-registry-agents-mcp-servers-quick",
-      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
-      "publishedAt": "2026-08-31T21:05:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Registry supports MCP…"
     },
     {
       "id": "aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-au",
