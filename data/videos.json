@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-07T13:31:14.106Z",
+  "generatedAt": "2026-10-08T13:37:01.680Z",
   "videos": [
+    {
+      "id": "dP6VXSU6yOI",
+      "title": "Lost Glacier: Scaling regenerative agriculture with AWS AI | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-07T21:03:06Z",
+      "url": "https://www.youtube.com/watch?v=dP6VXSU6yOI",
+      "duration": "2:38",
+      "thumbnail": "https://i.ytimg.com/vi/dP6VXSU6yOI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "pz8_Hda21GY",
+      "title": "Think Quick | Teaser",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-07T15:06:09Z",
+      "url": "https://www.youtube.com/watch?v=pz8_Hda21GY",
+      "duration": "0:17",
+      "thumbnail": "https://i.ytimg.com/vi/pz8_Hda21GY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "oBP3606FZVM",
+      "title": "Think Quick | Teaser",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-07T14:59:41Z",
+      "url": "https://www.youtube.com/watch?v=oBP3606FZVM",
+      "duration": "0:17",
+      "thumbnail": "https://i.ytimg.com/vi/oBP3606FZVM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "X4w2Pkz5tDY",
       "title": "Grep or Embeddings? Agentic Search Over Company Documents — George He, LlamaIndex",
@@ -3349,21 +3394,6 @@
       "trustTier": "official"
     },
     {
-      "id": "IbdAfOKt7i8",
-      "title": "Fibe scales AI-powered lending with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-23T18:16:06Z",
-      "url": "https://www.youtube.com/watch?v=IbdAfOKt7i8",
-      "duration": "1:00",
-      "thumbnail": "https://i.ytimg.com/vi/IbdAfOKt7i8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "Ah8rrgOq-c8",
       "title": "The Only Networking You Need to Start Building on AWS",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3376,21 +3406,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "AiN5H7Nab70",
-      "title": "How AI Is Transforming Insurance Claims Documentation | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-23T13:52:48Z",
-      "url": "https://www.youtube.com/watch?v=AiN5H7Nab70",
-      "duration": "1:53",
-      "thumbnail": "https://i.ytimg.com/vi/AiN5H7Nab70/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
@@ -3429,21 +3444,6 @@
       "relatedPatternIds": [
         "graph_rag"
       ]
-    },
-    {
-      "id": "uNc0gsooPOQ",
-      "title": "Anuttacon Launches AI-Powered Game on AWS with Zero Downtime | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-22T19:17:56Z",
-      "url": "https://www.youtube.com/watch?v=uNc0gsooPOQ",
-      "duration": "4:00",
-      "thumbnail": "https://i.ytimg.com/vi/uNc0gsooPOQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "Q0VkgCyNVUg",
