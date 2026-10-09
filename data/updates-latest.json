@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-10-08T12:13:41.961Z",
+  "generatedAt": "2026-10-09T12:05:17.456Z",
   "updates": [
+    {
+      "id": "openai-gpt-sol-ultrafast-amazon",
+      "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
+      "publishedAt": "2026-10-08T19:41:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "aws-bedrock-attributes-in-cost-explorer",
+      "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
+      "publishedAt": "2026-10-08T18:51:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-paym",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "publishedAt": "2026-10-08T18:33:29.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpo",
+      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "publishedAt": "2026-10-08T16:20:04.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-n",
+      "title": "How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock/",
+      "publishedAt": "2026-10-08T15:24:02.000Z",
+      "sourceName": "AWS Database Blog",
+      "kind": "blog"
+    },
     {
       "id": "configuring-your-ai-vulnerability-harness-part-2-the-steering-file",
       "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
       "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
       "publishedAt": "2026-10-07T21:49:50.000Z",
       "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "building-your-ai-vulnerability-harness-part-1",
-      "title": "Building your AI vulnerability harness, Part 1",
-      "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/",
-      "publishedAt": "2026-10-07T21:49:43.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "introducing-claude-haiku-5-5-on-aws",
-      "title": "Introducing Claude Haiku 5.5 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
-      "publishedAt": "2026-10-07T18:52:10.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
-      "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
-      "publishedAt": "2026-10-07T18:34:44.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "introducing-strands-box-ai-agent-sandboxes-powered-by-dogwood",
-      "title": "Introducing Strands Box: AI agent sandboxes powered by Dogwood",
-      "url": "https://aws.amazon.com/blogs/opensource/introducing-strands-box-ai-agent-sandboxes-powered-by-dogwood/",
-      "publishedAt": "2026-10-07T17:36:46.000Z",
-      "sourceName": "AWS Open Source Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "beyond-hours-saved-building-the-business-case-for-agentic-automation",
-      "title": "Beyond hours saved: Building the business case for agentic automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
-      "publishedAt": "2026-10-07T15:50:00.000Z",
-      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
   ]
