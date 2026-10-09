@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-08T13:37:01.680Z",
+  "generatedAt": "2026-10-09T13:23:19.818Z",
   "videos": [
+    {
+      "id": "rJa3qKFBeNQ",
+      "title": "How do I use SMTP to send emails through Amazon SES?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-08T18:00:07Z",
+      "url": "https://www.youtube.com/watch?v=rJa3qKFBeNQ",
+      "duration": "4:16",
+      "thumbnail": "https://i.ytimg.com/vi/rJa3qKFBeNQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "VcS-z9g7dCM",
+      "title": "Build on AWS Without Worrying About Permissions",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-08T17:30:25Z",
+      "url": "https://www.youtube.com/watch?v=VcS-z9g7dCM",
+      "duration": "4:37",
+      "thumbnail": "https://i.ytimg.com/vi/VcS-z9g7dCM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "3GeSYVdGGjc",
+      "title": "AWS Summit Stockholm 2026 | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-08T17:18:10Z",
+      "url": "https://www.youtube.com/watch?v=3GeSYVdGGjc",
+      "duration": "2:07",
+      "thumbnail": "https://i.ytimg.com/vi/3GeSYVdGGjc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "jJQoVkd5yLg",
+      "title": "Why We Deleted Our MCP Server and Rebuilt It — Abhi Arya, Reducto",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-08T17:00:23Z",
+      "url": "https://www.youtube.com/watch?v=jJQoVkd5yLg",
+      "duration": "16:40",
+      "thumbnail": "https://i.ytimg.com/vi/jJQoVkd5yLg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
     {
       "id": "dP6VXSU6yOI",
       "title": "Lost Glacier: Scaling regenerative agriculture with AWS AI | Amazon Web Services",
@@ -3379,21 +3442,6 @@
       "trustTier": "official"
     },
     {
-      "id": "Vpda9XIFTns",
-      "title": "F1 Insights powered by AWS: All-Rounder Circuits | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-24T18:20:31Z",
-      "url": "https://www.youtube.com/watch?v=Vpda9XIFTns",
-      "duration": "0:53",
-      "thumbnail": "https://i.ytimg.com/vi/Vpda9XIFTns/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "Ah8rrgOq-c8",
       "title": "The Only Networking You Need to Start Building on AWS",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -5963,21 +6011,6 @@
       "trustTier": "official"
     },
     {
-      "id": "oB3Ae4KGJ90",
-      "title": "AWS Managed Microsoft AD (Hybrid Edition), providing seamless migration to the cloud",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-20T10:19:00Z",
-      "url": "https://www.youtube.com/watch?v=oB3Ae4KGJ90",
-      "duration": "57:51",
-      "thumbnail": "https://i.ytimg.com/vi/oB3Ae4KGJ90/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "ZkzkdhmcIVQ",
       "title": "Become an AI Native Cloud Engineer",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -7782,21 +7815,6 @@
       "relatedAtlasTopicIds": [
         "agent-loop"
       ]
-    },
-    {
-      "id": "B36i7qhWFp8",
-      "title": "Smart development just found its home base 🏠🎯💻",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-02T00:35:22Z",
-      "url": "https://www.youtube.com/watch?v=B36i7qhWFp8",
-      "duration": "1:40",
-      "thumbnail": "https://i.ytimg.com/vi/B36i7qhWFp8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "5tDWQIzy5uQ",
