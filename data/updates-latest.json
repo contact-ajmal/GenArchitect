@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-09T12:05:17.456Z",
+  "generatedAt": "2026-10-10T11:21:25.633Z",
   "updates": [
     {
-      "id": "openai-gpt-sol-ultrafast-amazon",
-      "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
-      "publishedAt": "2026-10-08T19:41:00.000Z",
+      "id": "amazon-bedrock-reasoning-summaries-openai",
+      "title": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
+      "publishedAt": "2026-10-09T17:44:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "aws-bedrock-attributes-in-cost-explorer",
-      "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
-      "publishedAt": "2026-10-08T18:51:00.000Z",
+      "id": "kiro-claude-5-5-aws-govcloud-us",
+      "title": "Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/",
+      "publishedAt": "2026-10-09T17:13:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-paym",
-      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
-      "publishedAt": "2026-10-08T18:33:29.000Z",
+      "id": "icymi-what-landed-for-ai-builders-in-september-2026",
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "publishedAt": "2026-10-09T15:38:39.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpo",
-      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
-      "publishedAt": "2026-10-08T16:20:04.000Z",
+      "id": "how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "publishedAt": "2026-10-09T15:35:02.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-n",
-      "title": "How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock/",
-      "publishedAt": "2026-10-08T15:24:02.000Z",
-      "sourceName": "AWS Database Blog",
-      "kind": "blog"
+      "id": "amazon-quick-brand-templates-on-brand-presentations-documents",
+      "title": "Amazon Quick now supports brand templates for on-brand presentations and documents",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/",
+      "publishedAt": "2026-10-09T15:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     },
     {
-      "id": "configuring-your-ai-vulnerability-harness-part-2-the-steering-file",
-      "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
-      "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
-      "publishedAt": "2026-10-07T21:49:50.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
+      "id": "sagemaker-custom-tooling-blueprints",
+      "title": "Amazon SageMaker Unified Studio now supports custom Tooling blueprints",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/",
+      "publishedAt": "2026-10-09T08:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
