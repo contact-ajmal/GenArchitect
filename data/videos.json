@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-10T12:37:59.589Z",
+  "generatedAt": "2026-10-11T12:57:09.050Z",
   "videos": [
+    {
+      "id": "LJ2a9nX3vlo",
+      "title": "RAG Needs a Map: Using GraphRAG to Retrieve Connected Context — Nyah Macklin, Neo4j",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-11T10:30:20Z",
+      "url": "https://www.youtube.com/watch?v=LJ2a9nX3vlo",
+      "duration": "52:59",
+      "thumbnail": "https://i.ytimg.com/vi/LJ2a9nX3vlo/mqdefault.jpg",
+      "topics": [
+        "rag"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedPatternIds": [
+        "graph_rag"
+      ]
+    },
+    {
+      "id": "spxoDAfh5ig",
+      "title": "Beyond RAG: Build a Relational Context Engine from Scratch — Peter Werry, Unblocked",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-11T10:00:18Z",
+      "url": "https://www.youtube.com/watch?v=spxoDAfh5ig",
+      "duration": "38:19",
+      "thumbnail": "https://i.ytimg.com/vi/spxoDAfh5ig/mqdefault.jpg",
+      "topics": [
+        "rag"
+      ],
+      "level": "demo",
+      "trustTier": "community"
+    },
+    {
+      "id": "ORVh4GivEU0",
+      "title": "Beyond RAG: A Relational Context Engine That Cuts Token Burn — Unblocked",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-10T19:30:39Z",
+      "url": "https://www.youtube.com/watch?v=ORVh4GivEU0",
+      "duration": "19:44",
+      "thumbnail": "https://i.ytimg.com/vi/ORVh4GivEU0/mqdefault.jpg",
+      "topics": [
+        "rag"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
     {
       "id": "rJa3qKFBeNQ",
       "title": "How do I use SMTP to send emails through Amazon SES?",
