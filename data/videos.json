@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-10-11T12:57:09.050Z",
+  "generatedAt": "2026-10-12T15:34:39.458Z",
   "videos": [
+    {
+      "id": "gpmze-6ueGU",
+      "title": "We Let Our Financial Planners Write the Agents — Matthew Ragone, Range",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-12T12:00:24Z",
+      "url": "https://www.youtube.com/watch?v=gpmze-6ueGU",
+      "duration": "8:54",
+      "thumbnail": "https://i.ytimg.com/vi/gpmze-6ueGU/mqdefault.jpg",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
+    {
+      "id": "EEt3ZSG4a1s",
+      "title": "Hiring Employable Agents + Startup Battlefield Finals — Howie Liu, HyperAgent",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-12T05:01:33Z",
+      "url": "https://www.youtube.com/watch?v=EEt3ZSG4a1s",
+      "duration": "47:37",
+      "thumbnail": "https://i.ytimg.com/vi/EEt3ZSG4a1s/mqdefault.jpg",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
+    {
+      "id": "ksjwtQop4os",
+      "title": "Vector Isn't Enough: Hybrid Search & Retrieval — Jeff Vestal & James Williams, Elastic",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-10-11T13:00:18Z",
+      "url": "https://www.youtube.com/watch?v=ksjwtQop4os",
+      "duration": "1:16:20",
+      "thumbnail": "https://i.ytimg.com/vi/ksjwtQop4os/mqdefault.jpg",
+      "topics": [
+        "vector-search"
+      ],
+      "level": "talk",
+      "trustTier": "community",
+      "relatedPatternIds": [
+        "hybrid_rerank_rag"
+      ]
+    },
     {
       "id": "LJ2a9nX3vlo",
       "title": "RAG Needs a Map: Using GraphRAG to Retrieve Connected Context — Nyah Macklin, Neo4j",
