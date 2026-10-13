@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-10-12T15:34:39.458Z",
+  "generatedAt": "2026-10-13T14:17:46.183Z",
   "videos": [
+    {
+      "id": "RDjKqsGVqwU",
+      "title": "Introducing AWS Lambda Web Functions | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-12T23:35:05Z",
+      "url": "https://www.youtube.com/watch?v=RDjKqsGVqwU",
+      "duration": "0:29",
+      "thumbnail": "https://i.ytimg.com/vi/RDjKqsGVqwU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "tzFEuhTZq4o",
+      "title": "Ketryx: From a napkin sketch to millions of patients | AWS Startups | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-12T21:27:05Z",
+      "url": "https://www.youtube.com/watch?v=tzFEuhTZq4o",
+      "duration": "2:16",
+      "thumbnail": "https://i.ytimg.com/vi/tzFEuhTZq4o/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "tqHaIqImNi0",
+      "title": "Amazon SageMaker demo: Business intelligence dashboards | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-12T18:28:04Z",
+      "url": "https://www.youtube.com/watch?v=tqHaIqImNi0",
+      "duration": "4:26",
+      "thumbnail": "https://i.ytimg.com/vi/tqHaIqImNi0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "v3_iOrP9iQw",
+      "title": "How the NBA Migrated to AWS in Just Six Months | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-12T17:14:38Z",
+      "url": "https://www.youtube.com/watch?v=v3_iOrP9iQw",
+      "duration": "0:59",
+      "thumbnail": "https://i.ytimg.com/vi/v3_iOrP9iQw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "FXwto9tU884",
+      "title": "Keep your AWS payment method up to date",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-12T16:30:32Z",
+      "url": "https://www.youtube.com/watch?v=FXwto9tU884",
+      "duration": "0:52",
+      "thumbnail": "https://i.ytimg.com/vi/FXwto9tU884/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "gpmze-6ueGU",
       "title": "We Let Our Financial Planners Write the Agents — Matthew Ragone, Range",
@@ -3458,81 +3533,6 @@
       "url": "https://www.youtube.com/watch?v=rGer3HTBg3g",
       "duration": "1:38",
       "thumbnail": "https://i.ytimg.com/vi/rGer3HTBg3g/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "H8o_yhUNivk",
-      "title": "Cerebrium AI uses AWS and NVIDIA to save their customers time ad money | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-27T17:36:59Z",
-      "url": "https://www.youtube.com/watch?v=H8o_yhUNivk",
-      "duration": "1:33",
-      "thumbnail": "https://i.ytimg.com/vi/H8o_yhUNivk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "oFYXUxkbZdQ",
-      "title": "Innoactive brings labs to life for Roche diagnostics with AWS and NVIDIA | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-27T17:36:55Z",
-      "url": "https://www.youtube.com/watch?v=oFYXUxkbZdQ",
-      "duration": "1:48",
-      "thumbnail": "https://i.ytimg.com/vi/oFYXUxkbZdQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "FDSpc98livI",
-      "title": "Kuvia uses AWS and NVIDIA to accelerate cancer treatments | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-27T17:36:51Z",
-      "url": "https://www.youtube.com/watch?v=FDSpc98livI",
-      "duration": "1:46",
-      "thumbnail": "https://i.ytimg.com/vi/FDSpc98livI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "odr2vwA6OG0",
-      "title": "Hugging Face uses AWS and NVIDIA to help customers scale AI solutions | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-27T17:36:47Z",
-      "url": "https://www.youtube.com/watch?v=odr2vwA6OG0",
-      "duration": "2:03",
-      "thumbnail": "https://i.ytimg.com/vi/odr2vwA6OG0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "9QTr7GxwI4M",
-      "title": "AWS AI | How the World’s Biggest Sports Leagues Innovate | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-27T17:36:29Z",
-      "url": "https://www.youtube.com/watch?v=9QTr7GxwI4M",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/9QTr7GxwI4M/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
