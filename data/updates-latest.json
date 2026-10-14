@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-13T12:56:08.427Z",
+  "generatedAt": "2026-10-14T10:35:29.693Z",
   "updates": [
     {
-      "id": "accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thaila",
-      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "publishedAt": "2026-10-12T17:52:22.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "agentcore-memory-consumption-based-pricing",
-      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
-      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
-      "publishedAt": "2026-10-12T15:51:46.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
-      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
-      "publishedAt": "2026-10-12T15:50:14.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agen",
-      "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-12T14:34:57.000Z",
+      "id": "scope-workloads-and-share-resilience-policies-with-aws-resilience-hub",
+      "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
+      "url": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
+      "publishedAt": "2026-10-13T21:30:10.000Z",
       "sourceName": "AWS Architecture Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-bedrock-reasoning-summaries-openai",
-      "title": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
-      "publishedAt": "2026-10-09T17:44:00.000Z",
+      "id": "aws-agent-registry-custom-metadata-registry-records",
+      "title": "AWS Agent Registry now supports custom metadata for registry records",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+      "publishedAt": "2026-10-13T21:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
+    },
+    {
+      "id": "building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+      "publishedAt": "2026-10-13T20:10:33.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
+      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "url": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
+      "publishedAt": "2026-10-13T17:17:25.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "natural-language-security-queries-at-orca-security-using-amazon-bedrock",
+      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
+      "publishedAt": "2026-10-13T16:03:31.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-an",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "publishedAt": "2026-10-13T15:59:06.000Z",
+      "sourceName": "AWS News Blog",
+      "kind": "blog"
     }
   ]
 }
