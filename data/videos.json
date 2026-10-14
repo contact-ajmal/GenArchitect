@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-13T14:17:46.183Z",
+  "generatedAt": "2026-10-14T11:59:38.150Z",
   "videos": [
+    {
+      "id": "sFTYgdJA7G8",
+      "title": "Web Functions with AWS Lambda",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-13T18:30:22Z",
+      "url": "https://www.youtube.com/watch?v=sFTYgdJA7G8",
+      "duration": "1:54",
+      "thumbnail": "https://i.ytimg.com/vi/sFTYgdJA7G8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "CJdHK433JYI",
+      "title": "Why is my AMI or EBS snapshot creation slow or stuck in the Pending state?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-13T18:00:18Z",
+      "url": "https://www.youtube.com/watch?v=CJdHK433JYI",
+      "duration": "8:52",
+      "thumbnail": "https://i.ytimg.com/vi/CJdHK433JYI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "RDjKqsGVqwU",
       "title": "Introducing AWS Lambda Web Functions | Amazon Web Services",
@@ -3518,21 +3548,6 @@
       "url": "https://www.youtube.com/watch?v=a6XIYDf-JKc",
       "duration": "6:38",
       "thumbnail": "https://i.ytimg.com/vi/a6XIYDf-JKc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "rGer3HTBg3g",
-      "title": "Capital One uses AWS and NVIDIA to serve customers and guard against fraud | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-27T17:37:02Z",
-      "url": "https://www.youtube.com/watch?v=rGer3HTBg3g",
-      "duration": "1:38",
-      "thumbnail": "https://i.ytimg.com/vi/rGer3HTBg3g/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7894,25 +7909,6 @@
       ],
       "level": "talk",
       "trustTier": "official"
-    },
-    {
-      "id": "EGhIZCfOvG4",
-      "title": "Strands Tools: Building Custom AI Agents with Python",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-03T19:00:13Z",
-      "url": "https://www.youtube.com/watch?v=EGhIZCfOvG4",
-      "duration": "8:33",
-      "thumbnail": "https://i.ytimg.com/vi/EGhIZCfOvG4/mqdefault.jpg",
-      "topics": [
-        "strands",
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "agent-loop"
-      ]
     },
     {
       "id": "5tDWQIzy5uQ",
