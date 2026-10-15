@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-14T11:59:38.150Z",
+  "generatedAt": "2026-10-15T11:36:01.631Z",
   "videos": [
+    {
+      "id": "JHez8X_iFjk",
+      "title": "Event-Driven Architecture on AWS Explained for Beginners",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-14T19:30:36Z",
+      "url": "https://www.youtube.com/watch?v=JHez8X_iFjk",
+      "duration": "16:18",
+      "thumbnail": "https://i.ytimg.com/vi/JHez8X_iFjk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "deep-dive",
+      "trustTier": "official"
+    },
     {
       "id": "sFTYgdJA7G8",
       "title": "Web Functions with AWS Lambda",
@@ -7889,21 +7904,6 @@
       "url": "https://www.youtube.com/watch?v=1jI3p5aq5Bs",
       "duration": "0:33",
       "thumbnail": "https://i.ytimg.com/vi/1jI3p5aq5Bs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "KtsQTGbdT5g",
-      "title": "🤖 Stop AI Hallucinations: 3 Model Customization Secrets",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-03T22:01:26Z",
-      "url": "https://www.youtube.com/watch?v=KtsQTGbdT5g",
-      "duration": "1:10",
-      "thumbnail": "https://i.ytimg.com/vi/KtsQTGbdT5g/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
