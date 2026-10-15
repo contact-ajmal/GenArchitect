@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-10-14T10:35:29.693Z",
+  "generatedAt": "2026-10-15T10:17:03.789Z",
   "updates": [
     {
-      "id": "scope-workloads-and-share-resilience-policies-with-aws-resilience-hub",
-      "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
-      "url": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
-      "publishedAt": "2026-10-13T21:30:10.000Z",
-      "sourceName": "AWS Architecture Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "aws-agent-registry-custom-metadata-registry-records",
-      "title": "AWS Agent Registry now supports custom metadata for registry records",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
-      "publishedAt": "2026-10-13T21:00:00.000Z",
+      "id": "sagemaker-studio-social-sign-in",
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
+      "publishedAt": "2026-10-14T22:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
-      "title": "Building agents that transact with Anchor Browser and AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
-      "publishedAt": "2026-10-13T20:10:33.000Z",
+      "id": "penetration-testing-every-deployment-with-aws-continuum",
+      "title": "Penetration testing every deployment with AWS Continuum",
+      "url": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
+      "publishedAt": "2026-10-14T20:21:52.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-14T16:24:07.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
-      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
-      "publishedAt": "2026-10-13T17:17:25.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "aws-healthomics-resource-fallback-for-nextflow",
+      "title": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "how-uts-established-a-modern-curriculum-data-services-foundation-on-aws",
+      "title": "How UTS established a modern curriculum data services foundation on AWS",
+      "url": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/",
+      "publishedAt": "2026-10-14T14:29:10.000Z",
+      "sourceName": "AWS Architecture Blog",
       "kind": "blog"
     },
     {
-      "id": "natural-language-security-queries-at-orca-security-using-amazon-bedrock",
-      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
-      "publishedAt": "2026-10-13T16:03:31.000Z",
+      "id": "generate-presentations-with-amazon-bedrock-agentcore",
+      "title": "Generate presentations with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-14T13:58:43.000Z",
       "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-an",
-      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
-      "publishedAt": "2026-10-13T15:59:06.000Z",
-      "sourceName": "AWS News Blog",
       "kind": "blog"
     }
   ]
