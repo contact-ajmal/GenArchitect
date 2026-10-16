@@ -1,6 +1,144 @@
 {
-  "generatedAt": "2026-10-15T11:36:01.631Z",
+  "generatedAt": "2026-10-16T11:30:21.843Z",
   "videos": [
+    {
+      "id": "EF7iowMYTw8",
+      "title": "Stretto's Production-Scale GenAI Platform for Regulated Legal Workflows | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-15T22:04:41Z",
+      "url": "https://www.youtube.com/watch?v=EF7iowMYTw8",
+      "duration": "16:38",
+      "thumbnail": "https://i.ytimg.com/vi/EF7iowMYTw8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "b7yFG4MQwzI",
+      "title": "Dark Matter - Reimagining Mortgage Origination with AI | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-15T21:57:58Z",
+      "url": "https://www.youtube.com/watch?v=b7yFG4MQwzI",
+      "duration": "22:58",
+      "thumbnail": "https://i.ytimg.com/vi/b7yFG4MQwzI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "ljYi5STIDbw",
+      "title": "AWS Sustainability Console Overview | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-15T21:52:28Z",
+      "url": "https://www.youtube.com/watch?v=ljYi5STIDbw",
+      "duration": "1:14",
+      "thumbnail": "https://i.ytimg.com/vi/ljYi5STIDbw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "5ro5MYbUCzI",
+      "title": "From Legacy to Amazon Quick - How AWS helped RootMetrics Build BI | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-15T21:51:59Z",
+      "url": "https://www.youtube.com/watch?v=5ro5MYbUCzI",
+      "duration": "25:29",
+      "thumbnail": "https://i.ytimg.com/vi/5ro5MYbUCzI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "vjisfvBRLH0",
+      "title": "iBusiness Reimagining Small Business Lending with Composable AI on AWS | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-15T21:34:04Z",
+      "url": "https://www.youtube.com/watch?v=vjisfvBRLH0",
+      "duration": "24:08",
+      "thumbnail": "https://i.ytimg.com/vi/vjisfvBRLH0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "uaTxwgJZI5o",
+      "title": "AdRoll & AWS DevOps Agent Operational Wins | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-15T21:11:36Z",
+      "url": "https://www.youtube.com/watch?v=uaTxwgJZI5o",
+      "duration": "11:39",
+      "thumbnail": "https://i.ytimg.com/vi/uaTxwgJZI5o/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "FZSuJnJPDYA",
+      "title": "How do I troubleshoot CCP user interface errors in Amazon Connect?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-15T18:00:20Z",
+      "url": "https://www.youtube.com/watch?v=FZSuJnJPDYA",
+      "duration": "4:08",
+      "thumbnail": "https://i.ytimg.com/vi/FZSuJnJPDYA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "j6zR0sPeMko",
+      "title": "Strands Decider Standup",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-15T16:00:08Z",
+      "url": "https://www.youtube.com/watch?v=j6zR0sPeMko",
+      "duration": "24:16",
+      "thumbnail": "https://i.ytimg.com/vi/j6zR0sPeMko/mqdefault.jpg",
+      "topics": [
+        "strands"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
+    {
+      "id": "xhceh_wIVg4",
+      "title": "Jack & Jill: The AI Agents Reinventing How People Find Jobs and Companies Hire | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-15T14:07:50Z",
+      "url": "https://www.youtube.com/watch?v=xhceh_wIVg4",
+      "duration": "2:08",
+      "thumbnail": "https://i.ytimg.com/vi/xhceh_wIVg4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "JHez8X_iFjk",
       "title": "Event-Driven Architecture on AWS Explained for Beginners",
@@ -3401,36 +3539,6 @@
       "trustTier": "official"
     },
     {
-      "id": "Usr4SflNC3E",
-      "title": "Understanding the CLOUD Act: What It Means for Your Data | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-30T14:11:21Z",
-      "url": "https://www.youtube.com/watch?v=Usr4SflNC3E",
-      "duration": "4:22",
-      "thumbnail": "https://i.ytimg.com/vi/Usr4SflNC3E/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "wfNFI6y6KwI",
-      "title": "How AWS European Sovereign Cloud helps Dedalus put patients first | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-29T23:59:41Z",
-      "url": "https://www.youtube.com/watch?v=wfNFI6y6KwI",
-      "duration": "3:10",
-      "thumbnail": "https://i.ytimg.com/vi/wfNFI6y6KwI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "H-woAjsLcuE",
       "title": "What is an Agent Harness? (And How We Built One)",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3548,21 +3656,6 @@
       "url": "https://www.youtube.com/watch?v=Sww2jYuqk7w",
       "duration": "38:40",
       "thumbnail": "https://i.ytimg.com/vi/Sww2jYuqk7w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "a6XIYDf-JKc",
-      "title": "Amazon MSK data delivery to streaming tables | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-28T20:19:36Z",
-      "url": "https://www.youtube.com/watch?v=a6XIYDf-JKc",
-      "duration": "6:38",
-      "thumbnail": "https://i.ytimg.com/vi/a6XIYDf-JKc/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -6045,70 +6138,6 @@
       "trustTier": "official"
     },
     {
-      "id": "Rw_OCKAx1H4",
-      "title": "London Executive Forum 2026 - Leading Transformation When Technology Won't Wait",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T18:26:28Z",
-      "url": "https://www.youtube.com/watch?v=Rw_OCKAx1H4",
-      "duration": "45:25",
-      "thumbnail": "https://i.ytimg.com/vi/Rw_OCKAx1H4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "1k_RJf274OM",
-      "title": "The AWS Pulse | EP10 | Building the AI-Native Organization",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T11:51:20Z",
-      "url": "https://www.youtube.com/watch?v=1k_RJf274OM",
-      "duration": "59:35",
-      "thumbnail": "https://i.ytimg.com/vi/1k_RJf274OM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "xMexT_jPziU",
-      "title": "Build & Deploy Agents with Strands | S1E3 | Ship It: Agentic Apps in the AWS Cloud",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T10:13:03Z",
-      "url": "https://www.youtube.com/watch?v=xMexT_jPziU",
-      "duration": "1:00:59",
-      "thumbnail": "https://i.ytimg.com/vi/xMexT_jPziU/mqdefault.jpg",
-      "topics": [
-        "strands",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "agent-loop"
-      ]
-    },
-    {
-      "id": "GNKFx-35WXk",
-      "title": "Back to Basics: Understanding Availability Zones in the Context of Networking",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T07:05:34Z",
-      "url": "https://www.youtube.com/watch?v=GNKFx-35WXk",
-      "duration": "56:51",
-      "thumbnail": "https://i.ytimg.com/vi/GNKFx-35WXk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "9Pk2J_5qnlk",
       "title": "Learn AWS IAM in less than 10 minutes",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -6117,21 +6146,6 @@
       "url": "https://www.youtube.com/watch?v=9Pk2J_5qnlk",
       "duration": "9:04",
       "thumbnail": "https://i.ytimg.com/vi/9Pk2J_5qnlk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "cHWttOWM3k0",
-      "title": "From Model to Production: Deploying AI/ML Inference at Scale with SageMaker AI | AWS Show and Tell",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-20T11:38:04Z",
-      "url": "https://www.youtube.com/watch?v=cHWttOWM3k0",
-      "duration": "59:20",
-      "thumbnail": "https://i.ytimg.com/vi/cHWttOWM3k0/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7889,21 +7903,6 @@
       "url": "https://www.youtube.com/watch?v=5cGXSv_h7PM",
       "duration": "0:52",
       "thumbnail": "https://i.ytimg.com/vi/5cGXSv_h7PM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "1jI3p5aq5Bs",
-      "title": "🤖 Which HTTP Status Code Matches Your Personality? #Shorts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-08T20:11:23Z",
-      "url": "https://www.youtube.com/watch?v=1jI3p5aq5Bs",
-      "duration": "0:33",
-      "thumbnail": "https://i.ytimg.com/vi/1jI3p5aq5Bs/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
