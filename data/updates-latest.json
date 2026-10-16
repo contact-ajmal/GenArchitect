@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-10-15T10:17:03.789Z",
+  "generatedAt": "2026-10-16T10:05:40.710Z",
   "updates": [
     {
-      "id": "sagemaker-studio-social-sign-in",
-      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
-      "publishedAt": "2026-10-14T22:00:00.000Z",
+      "id": "amazon-bedrock-agentcore",
+      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-15T20:40:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "penetration-testing-every-deployment-with-aws-continuum",
-      "title": "Penetration testing every deployment with AWS Continuum",
-      "url": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
-      "publishedAt": "2026-10-14T20:21:52.000Z",
+      "id": "sagemaker-studio-new-sign-in-options",
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+      "publishedAt": "2026-10-15T20:10:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "muse-spark-open-on-sagemaker-jumpstart",
+      "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/",
+      "publishedAt": "2026-10-15T18:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "publishedAt": "2026-10-15T17:43:35.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "omics-workflows-shared-vpcs",
+      "title": "AWS HealthOmics now supports shared VPCs",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/",
+      "publishedAt": "2026-10-15T17:42:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves",
+      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+      "url": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+      "publishedAt": "2026-10-15T16:10:14.000Z",
       "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "build-self-improving-document-processing-using-amazon-bedrock-agentcore",
-      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-14T16:24:07.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "aws-healthomics-resource-fallback-for-nextflow",
-      "title": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "how-uts-established-a-modern-curriculum-data-services-foundation-on-aws",
-      "title": "How UTS established a modern curriculum data services foundation on AWS",
-      "url": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/",
-      "publishedAt": "2026-10-14T14:29:10.000Z",
-      "sourceName": "AWS Architecture Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "generate-presentations-with-amazon-bedrock-agentcore",
-      "title": "Generate presentations with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-14T13:58:43.000Z",
-      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
   ]
