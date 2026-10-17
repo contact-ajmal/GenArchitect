@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-16T11:30:21.843Z",
+  "generatedAt": "2026-10-17T10:50:21.427Z",
   "videos": [
+    {
+      "id": "NN7iEHF8fK0",
+      "title": "AWS Glow-Up: New Sign-Ups & Surviving Day One with Kiro",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-17T07:16:04Z",
+      "url": "https://www.youtube.com/watch?v=NN7iEHF8fK0",
+      "duration": "1:08:31",
+      "thumbnail": "https://i.ytimg.com/vi/NN7iEHF8fK0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "PS9uqQjVpB0",
+      "title": "Strands Decider Standup",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-16T17:45:05Z",
+      "url": "https://www.youtube.com/watch?v=PS9uqQjVpB0",
+      "duration": "0:55",
+      "thumbnail": "https://i.ytimg.com/vi/PS9uqQjVpB0/mqdefault.jpg",
+      "topics": [
+        "strands"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
     {
       "id": "EF7iowMYTw8",
       "title": "Stretto's Production-Scale GenAI Platform for Regulated Legal Workflows | AWS Events",
@@ -6123,21 +6156,6 @@
       "trustTier": "official"
     },
     {
-      "id": "gRJRsUkskQg",
-      "title": "London Executive Forum 2026 - Thriving Amid Change: Navigating Continuous Business Transformation",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T18:26:31Z",
-      "url": "https://www.youtube.com/watch?v=gRJRsUkskQg",
-      "duration": "27:32",
-      "thumbnail": "https://i.ytimg.com/vi/gRJRsUkskQg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "9Pk2J_5qnlk",
       "title": "Learn AWS IAM in less than 10 minutes",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -7888,21 +7906,6 @@
       "url": "https://www.youtube.com/watch?v=qx998xjpuhE",
       "duration": "0:45",
       "thumbnail": "https://i.ytimg.com/vi/qx998xjpuhE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "5cGXSv_h7PM",
-      "title": "Different LLMs, one party language",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-10T21:17:26Z",
-      "url": "https://www.youtube.com/watch?v=5cGXSv_h7PM",
-      "duration": "0:52",
-      "thumbnail": "https://i.ytimg.com/vi/5cGXSv_h7PM/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
