@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-16T10:05:40.710Z",
+  "generatedAt": "2026-10-17T09:39:42.243Z",
   "updates": [
+    {
+      "id": "building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-ag",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-16T20:48:16.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "nvidia-nemotron-3-5-super-vl-on-sagemaker-jumpstart",
+      "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
+      "publishedAt": "2026-10-16T17:59:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "reflection-beam-on-sagemaker-jumpstart-and-aws-trainium",
+      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+      "publishedAt": "2026-10-16T15:23:10.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
     {
       "id": "amazon-bedrock-agentcore",
       "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
@@ -16,38 +48,6 @@
       "publishedAt": "2026-10-15T20:10:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
-    },
-    {
-      "id": "muse-spark-open-on-sagemaker-jumpstart",
-      "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
-      "publishedAt": "2026-10-15T17:43:35.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "omics-workflows-shared-vpcs",
-      "title": "AWS HealthOmics now supports shared VPCs",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/",
-      "publishedAt": "2026-10-15T17:42:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves",
-      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
-      "url": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
-      "publishedAt": "2026-10-15T16:10:14.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
     }
   ]
 }
