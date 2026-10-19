@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-18T11:14:04.684Z",
+  "generatedAt": "2026-10-19T13:26:07.498Z",
   "videos": [
+    {
+      "id": "Dc2DUl9KyYI",
+      "title": "AWS Startups: Made in Paris, powered by AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-19T13:24:32Z",
+      "url": "https://www.youtube.com/watch?v=Dc2DUl9KyYI",
+      "duration": "1:52",
+      "thumbnail": "https://i.ytimg.com/vi/Dc2DUl9KyYI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "NN7iEHF8fK0",
       "title": "AWS Glow-Up: New Sign-Ups & Surviving Day One with Kiro",
@@ -3550,21 +3565,6 @@
       "url": "https://www.youtube.com/watch?v=rGuGBeR2VMU",
       "duration": "1:56",
       "thumbnail": "https://i.ytimg.com/vi/rGuGBeR2VMU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "SlsOSxC5hwc",
-      "title": "B&B Hotels Accelerates CX with Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-30T14:11:28Z",
-      "url": "https://www.youtube.com/watch?v=SlsOSxC5hwc",
-      "duration": "1:29",
-      "thumbnail": "https://i.ytimg.com/vi/SlsOSxC5hwc/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
