@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-19T11:14:45.442Z",
+  "generatedAt": "2026-10-20T10:24:13.747Z",
   "updates": [
     {
-      "id": "building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-ag",
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-16T20:48:16.000Z",
+      "id": "structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
+      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "publishedAt": "2026-10-19T23:32:19.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "nvidia-nemotron-3-5-super-vl-on-sagemaker-jumpstart",
-      "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
-      "publishedAt": "2026-10-16T17:59:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "reflection-beam-on-sagemaker-jumpstart-and-aws-trainium",
-      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
-      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "publishedAt": "2026-10-16T15:23:10.000Z",
+      "id": "developers-can-now-access-sagemaker-studio-through-the-new-aws-experience",
+      "title": "Developers can now access SageMaker Studio through the new AWS experience",
+      "url": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
+      "publishedAt": "2026-10-19T22:39:24.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-bedrock-agentcore",
-      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-15T20:40:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "amazon-sagemaker-jumpstart-2026-year-to-date-in-review",
+      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+      "publishedAt": "2026-10-19T21:14:44.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     },
     {
-      "id": "sagemaker-studio-new-sign-in-options",
-      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
-      "publishedAt": "2026-10-15T20:10:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server",
+      "title": "Analyzing Aurora MySQL issues with Kiro IDE and Aurora MySQL MCP server",
+      "url": "https://aws.amazon.com/blogs/database/analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server/",
+      "publishedAt": "2026-10-19T17:59:27.000Z",
+      "sourceName": "AWS Database Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
+      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "publishedAt": "2026-10-19T16:49:19.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
+      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "publishedAt": "2026-10-19T16:23:22.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     }
   ]
 }
