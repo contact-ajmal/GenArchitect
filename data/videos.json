@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-10-19T13:26:07.498Z",
+  "generatedAt": "2026-10-20T11:44:53.802Z",
   "videos": [
+    {
+      "id": "_J4XqAbLeGs",
+      "title": "Introducing Amazon EKS Capabilities | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T00:06:20Z",
+      "url": "https://www.youtube.com/watch?v=_J4XqAbLeGs",
+      "duration": "0:35",
+      "thumbnail": "https://i.ytimg.com/vi/_J4XqAbLeGs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "nQX30d3ETB8",
+      "title": "AWS Transform for Amazon MSK migration | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-19T19:51:23Z",
+      "url": "https://www.youtube.com/watch?v=nQX30d3ETB8",
+      "duration": "7:06",
+      "thumbnail": "https://i.ytimg.com/vi/nQX30d3ETB8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "UViYCPMAFeo",
+      "title": "Break down your AWS bill by service in Cost Explorer",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-19T17:11:36Z",
+      "url": "https://www.youtube.com/watch?v=UViYCPMAFeo",
+      "duration": "0:53",
+      "thumbnail": "https://i.ytimg.com/vi/UViYCPMAFeo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "DpO9hcm0ggQ",
+      "title": "Mexico City Executive Forum 2026 - Cuando la IA Decide: Autonomía con Rumbo de Negocio",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-19T14:40:31Z",
+      "url": "https://www.youtube.com/watch?v=DpO9hcm0ggQ",
+      "duration": "16:00",
+      "thumbnail": "https://i.ytimg.com/vi/DpO9hcm0ggQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "av5DnWZZHnk",
+      "title": "Mexico City Executive Forum '26- Ganando en la era de la IA: de la experimentación a lo nativo en IA",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-19T14:40:27Z",
+      "url": "https://www.youtube.com/watch?v=av5DnWZZHnk",
+      "duration": "29:33",
+      "thumbnail": "https://i.ytimg.com/vi/av5DnWZZHnk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "zQ61N7UA22s",
+      "title": "Mexico City Executive Forum 2026 -  Una guía para líderes en IA Agéntica",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-19T14:40:15Z",
+      "url": "https://www.youtube.com/watch?v=zQ61N7UA22s",
+      "duration": "30:43",
+      "thumbnail": "https://i.ytimg.com/vi/zQ61N7UA22s/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "sBG1gpcugA0",
+      "title": "Mexico City Executive Forum 2026 - Anthropic | IA de Próxima Generación: Confianza Empresarial",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-19T14:40:11Z",
+      "url": "https://www.youtube.com/watch?v=sBG1gpcugA0",
+      "duration": "14:49",
+      "thumbnail": "https://i.ytimg.com/vi/sBG1gpcugA0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "MLz_hEutKck",
+      "title": "Mexico City Executive Forum 2026 - Executive Forum Bienvenida",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-19T14:40:08Z",
+      "url": "https://www.youtube.com/watch?v=MLz_hEutKck",
+      "duration": "19:06",
+      "thumbnail": "https://i.ytimg.com/vi/MLz_hEutKck/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "Dc2DUl9KyYI",
       "title": "AWS Startups: Made in Paris, powered by AWS | Amazon Web Services",
@@ -3487,25 +3607,6 @@
       "trustTier": "official"
     },
     {
-      "id": "wjPtTAIvPzc",
-      "title": "Comprehensive LLM Observability On AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-03T15:43:46Z",
-      "url": "https://www.youtube.com/watch?v=wjPtTAIvPzc",
-      "duration": "9:43",
-      "thumbnail": "https://i.ytimg.com/vi/wjPtTAIvPzc/mqdefault.jpg",
-      "topics": [
-        "observability",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official",
-      "relatedAtlasTopicIds": [
-        "observability-trace"
-      ]
-    },
-    {
       "id": "-jY2T2PiJBE",
       "title": "MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3540,36 +3641,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "eG3cFJCqfuQ",
-      "title": "From 5K to 8M Users: How Collectr Scaled with AWS + Dedicatted | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-31T20:34:09Z",
-      "url": "https://www.youtube.com/watch?v=eG3cFJCqfuQ",
-      "duration": "4:55",
-      "thumbnail": "https://i.ytimg.com/vi/eG3cFJCqfuQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "rGuGBeR2VMU",
-      "title": "Amazon Redshift RG Instances - Powered by AWS Graviton | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-07-30T14:26:21Z",
-      "url": "https://www.youtube.com/watch?v=rGuGBeR2VMU",
-      "duration": "1:56",
-      "thumbnail": "https://i.ytimg.com/vi/rGuGBeR2VMU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "H-woAjsLcuE",
@@ -6066,21 +6137,6 @@
       "trustTier": "official"
     },
     {
-      "id": "rB2uJr2LLLw",
-      "title": "Hannover Messe 2026 - Realizing Industrial AI at Scale with AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-22T20:17:50Z",
-      "url": "https://www.youtube.com/watch?v=rB2uJr2LLLw",
-      "duration": "31:20",
-      "thumbnail": "https://i.ytimg.com/vi/rB2uJr2LLLw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "O-QEhFFhXNA",
       "title": "Stop AI Hallucinations With These 5 Techniques",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -6089,66 +6145,6 @@
       "url": "https://www.youtube.com/watch?v=O-QEhFFhXNA",
       "duration": "46:23",
       "thumbnail": "https://i.ytimg.com/vi/O-QEhFFhXNA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "71XG_RO7WUU",
-      "title": "Search Smarter: Hybrid Full-Text & Vector Search with Amazon ElastiCache for Valkey at Speed",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-22T05:41:38Z",
-      "url": "https://www.youtube.com/watch?v=71XG_RO7WUU",
-      "duration": "1:00:21",
-      "thumbnail": "https://i.ytimg.com/vi/71XG_RO7WUU/mqdefault.jpg",
-      "topics": [
-        "vector-search"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "noQ_wW-_ozk",
-      "title": "FinOps Foundation FOCUS V1.4 | The Keys to AWS Optimization | S17 E5",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-22T04:18:30Z",
-      "url": "https://www.youtube.com/watch?v=noQ_wW-_ozk",
-      "duration": "58:44",
-      "thumbnail": "https://i.ytimg.com/vi/noQ_wW-_ozk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "2gYfrJY14IU",
-      "title": "London Executive Forum 2026 - Closing Keynote: A Visionary to End the Day",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T18:26:40Z",
-      "url": "https://www.youtube.com/watch?v=2gYfrJY14IU",
-      "duration": "30:09",
-      "thumbnail": "https://i.ytimg.com/vi/2gYfrJY14IU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ECLHOG3uYzk",
-      "title": "London Executive Forum 2026 - A leader's guide to advanced team structures in an agentic world",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-21T18:26:36Z",
-      "url": "https://www.youtube.com/watch?v=ECLHOG3uYzk",
-      "duration": "43:54",
-      "thumbnail": "https://i.ytimg.com/vi/ECLHOG3uYzk/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
