@@ -1,6 +1,279 @@
 {
-  "generatedAt": "2026-10-20T11:44:53.802Z",
+  "generatedAt": "2026-10-21T11:56:46.052Z",
   "videos": [
+    {
+      "id": "PxNITAt23l8",
+      "title": "Meet Nick | Research Analyst",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-21T03:59:49Z",
+      "url": "https://www.youtube.com/watch?v=PxNITAt23l8",
+      "duration": "0:31",
+      "thumbnail": "https://i.ytimg.com/vi/PxNITAt23l8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "S9iFT6Sid5g",
+      "title": "Meet Hemesh | UGC/Community Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-21T03:59:44Z",
+      "url": "https://www.youtube.com/watch?v=S9iFT6Sid5g",
+      "duration": "0:34",
+      "thumbnail": "https://i.ytimg.com/vi/S9iFT6Sid5g/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "MP13n112UW4",
+      "title": "Meet Vitoria | Channel Distribution Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-21T03:58:47Z",
+      "url": "https://www.youtube.com/watch?v=MP13n112UW4",
+      "duration": "0:38",
+      "thumbnail": "https://i.ytimg.com/vi/MP13n112UW4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "X0MAZ-lr6FM",
+      "title": "Meet Gary | Content Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-21T03:58:29Z",
+      "url": "https://www.youtube.com/watch?v=X0MAZ-lr6FM",
+      "duration": "0:37",
+      "thumbnail": "https://i.ytimg.com/vi/X0MAZ-lr6FM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "LOZnI3krJMg",
+      "title": "Meet Conrad | Strategy Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-21T03:58:10Z",
+      "url": "https://www.youtube.com/watch?v=LOZnI3krJMg",
+      "duration": "0:35",
+      "thumbnail": "https://i.ytimg.com/vi/LOZnI3krJMg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "wrhJQi0k62Y",
+      "title": "Think Quick | Official Trailer | An AWS original series",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-21T03:57:52Z",
+      "url": "https://www.youtube.com/watch?v=wrhJQi0k62Y",
+      "duration": "0:39",
+      "thumbnail": "https://i.ytimg.com/vi/wrhJQi0k62Y/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "BkzMdh_9EPY",
+      "title": "AWS WAF cost budgeting & monitoring | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T22:21:17Z",
+      "url": "https://www.youtube.com/watch?v=BkzMdh_9EPY",
+      "duration": "6:31",
+      "thumbnail": "https://i.ytimg.com/vi/BkzMdh_9EPY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "58ENTbfZD64",
+      "title": "EP12 : Forge & Parcel.ai  Model Customization at Scale | AWS for AI Podcast | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T21:29:23Z",
+      "url": "https://www.youtube.com/watch?v=58ENTbfZD64",
+      "duration": "1:06:37",
+      "thumbnail": "https://i.ytimg.com/vi/58ENTbfZD64/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Wiun7ZGu-Ks",
+      "title": "What are MCP Apps? Building Apps that Run on Claude & ChatGPT",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-20T18:30:00Z",
+      "url": "https://www.youtube.com/watch?v=Wiun7ZGu-Ks",
+      "duration": "14:20",
+      "thumbnail": "https://i.ytimg.com/vi/Wiun7ZGu-Ks/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
+    {
+      "id": "qbZ0ocNrqV0",
+      "title": "How do I upgrade my ElastiCache for Redis or Valkey engine version?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T18:00:32Z",
+      "url": "https://www.youtube.com/watch?v=qbZ0ocNrqV0",
+      "duration": "2:38",
+      "thumbnail": "https://i.ytimg.com/vi/qbZ0ocNrqV0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "TyFbwdWimTQ",
+      "title": "AWS Elastic Beanstalk Explainer Video | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:55:01Z",
+      "url": "https://www.youtube.com/watch?v=TyFbwdWimTQ",
+      "duration": "2:03",
+      "thumbnail": "https://i.ytimg.com/vi/TyFbwdWimTQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "72Ulq2jDn5g",
+      "title": "Meet Nick | Research Analyst",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:03:22Z",
+      "url": "https://www.youtube.com/watch?v=72Ulq2jDn5g",
+      "duration": "0:31",
+      "thumbnail": "https://i.ytimg.com/vi/72Ulq2jDn5g/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "HiiMb-XEyVc",
+      "title": "Meet Hemesh | UGC/Community Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:03:00Z",
+      "url": "https://www.youtube.com/watch?v=HiiMb-XEyVc",
+      "duration": "0:34",
+      "thumbnail": "https://i.ytimg.com/vi/HiiMb-XEyVc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "3Lz4Hzzy8Dg",
+      "title": "Meet Vitoria | Channel Distribution Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:02:38Z",
+      "url": "https://www.youtube.com/watch?v=3Lz4Hzzy8Dg",
+      "duration": "0:38",
+      "thumbnail": "https://i.ytimg.com/vi/3Lz4Hzzy8Dg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "BIeNFiEkwQ0",
+      "title": "Meet Gary | Content Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:02:13Z",
+      "url": "https://www.youtube.com/watch?v=BIeNFiEkwQ0",
+      "duration": "0:37",
+      "thumbnail": "https://i.ytimg.com/vi/BIeNFiEkwQ0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "gIv5JhiX2as",
+      "title": "Meet Conrad | Strategy Lead",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:01:47Z",
+      "url": "https://www.youtube.com/watch?v=gIv5JhiX2as",
+      "duration": "0:35",
+      "thumbnail": "https://i.ytimg.com/vi/gIv5JhiX2as/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "ELVi7GPeizc",
+      "title": "Five Days",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:00:30Z",
+      "url": "https://www.youtube.com/watch?v=ELVi7GPeizc",
+      "duration": "8:33",
+      "thumbnail": "https://i.ytimg.com/vi/ELVi7GPeizc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "CKnRprPxPFk",
+      "title": "Think Quick | Official Trailer | An AWS original series",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-20T15:00:08Z",
+      "url": "https://www.youtube.com/watch?v=CKnRprPxPFk",
+      "duration": "0:40",
+      "thumbnail": "https://i.ytimg.com/vi/CKnRprPxPFk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "_J4XqAbLeGs",
       "title": "Introducing Amazon EKS Capabilities | Amazon Web Services",
@@ -3217,34 +3490,6 @@
       "trustTier": "official"
     },
     {
-      "id": "z5VhZ8lva6A",
-      "title": "How do I configure and manage Amazon VPC security groups and network ACLs?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-13T18:00:38+00:00",
-      "url": "https://www.youtube.com/watch?v=z5VhZ8lva6A",
-      "thumbnail": "https://i.ytimg.com/vi/z5VhZ8lva6A/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "srg4s5wp4UE",
-      "title": "How three nonprofits united to bridge healthcare and social care using AWS AI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-13T15:14:40+00:00",
-      "url": "https://www.youtube.com/watch?v=srg4s5wp4UE",
-      "thumbnail": "https://i.ytimg.com/vi/srg4s5wp4UE/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "QppcKeWmSl0",
       "title": "System Design for Beginners",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3279,49 +3524,6 @@
       ]
     },
     {
-      "id": "dmpsY2YHluE",
-      "title": "Cloud Report: We used AI to recreate our mom's chicken recipe | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-11T22:22:09+00:00",
-      "url": "https://www.youtube.com/watch?v=dmpsY2YHluE",
-      "thumbnail": "https://i.ytimg.com/vi/dmpsY2YHluE/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "2r4DL6-cr6o",
-      "title": "Cloud Report: Your AI personal trainer, live in 20 minutes with AgentCore | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-11T20:55:04+00:00",
-      "url": "https://www.youtube.com/watch?v=2r4DL6-cr6o",
-      "thumbnail": "https://i.ytimg.com/vi/2r4DL6-cr6o/hqdefault.jpg",
-      "topics": [
-        "agentcore",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "JnPkam4giq8",
-      "title": "AWS Cloud Quest 2.0 | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-11T20:41:28+00:00",
-      "url": "https://www.youtube.com/watch?v=JnPkam4giq8",
-      "thumbnail": "https://i.ytimg.com/vi/JnPkam4giq8/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "_VXcDKI7JvA",
       "title": "MCP: When to Use It (And When You Shouldn't)",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3338,77 +3540,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "juL8LL0TazU",
-      "title": "How do I import a third-party issued TLS/SSL certificate to ACM?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-11T16:20:50+00:00",
-      "url": "https://www.youtube.com/watch?v=juL8LL0TazU",
-      "thumbnail": "https://i.ytimg.com/vi/juL8LL0TazU/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "uZ0XD5F8IoA",
-      "title": "How do I troubleshoot high CPU utilization on my OpenSearch Service cluster?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-11T07:00:01+00:00",
-      "url": "https://www.youtube.com/watch?v=uZ0XD5F8IoA",
-      "thumbnail": "https://i.ytimg.com/vi/uZ0XD5F8IoA/hqdefault.jpg",
-      "topics": [
-        "vector-search"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "h1Hx8M9QmG0",
-      "title": "AWS Security Hub Network Scanning and Impact Analysis for Exposure Findings | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-10T16:04:20+00:00",
-      "url": "https://www.youtube.com/watch?v=h1Hx8M9QmG0",
-      "thumbnail": "https://i.ytimg.com/vi/h1Hx8M9QmG0/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "yibZlPf87b0",
-      "title": "Ep 1 | Using AgentCore for fitness, and DynamoDB for cooking",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-08T08:32:08+00:00",
-      "url": "https://www.youtube.com/watch?v=yibZlPf87b0",
-      "thumbnail": "https://i.ytimg.com/vi/yibZlPf87b0/hqdefault.jpg",
-      "topics": [
-        "agentcore",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "LlPE8wOTe98",
-      "title": "How Widdix Keeps Regulated Data Secure in a Sovereign Cloud | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-07T18:48:55+00:00",
-      "url": "https://www.youtube.com/watch?v=LlPE8wOTe98",
-      "thumbnail": "https://i.ytimg.com/vi/LlPE8wOTe98/hqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "Xj-HwSSJ9t4",
@@ -3457,66 +3588,6 @@
       "trustTier": "official"
     },
     {
-      "id": "YSvar4mxBPc",
-      "title": "Arvato Systems Modernizes Healthcare Where Sovereignty Meets Innovation | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-06T16:04:56Z",
-      "url": "https://www.youtube.com/watch?v=YSvar4mxBPc",
-      "duration": "1:54",
-      "thumbnail": "https://i.ytimg.com/vi/YSvar4mxBPc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "OAQ_2SLaSNs",
-      "title": "AWS Security Hub AI Inventory for Organization-Wide Visibility of AI Assets | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-06T16:02:33Z",
-      "url": "https://www.youtube.com/watch?v=OAQ_2SLaSNs",
-      "duration": "4:49",
-      "thumbnail": "https://i.ytimg.com/vi/OAQ_2SLaSNs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "MlscQ8HfWyc",
-      "title": "AWS Security Hub Multicloud Security Management for Microsoft Azure | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-06T16:02:31Z",
-      "url": "https://www.youtube.com/watch?v=MlscQ8HfWyc",
-      "duration": "5:01",
-      "thumbnail": "https://i.ytimg.com/vi/MlscQ8HfWyc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "MwUnJJDPpc4",
-      "title": "How do I troubleshoot issues that cause my Aurora read replica to lag and restart?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-05T14:08:24Z",
-      "url": "https://www.youtube.com/watch?v=MwUnJJDPpc4",
-      "duration": "11:47",
-      "thumbnail": "https://i.ytimg.com/vi/MwUnJJDPpc4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "xh10ChpIn3I",
       "title": "What Happens When You Call Amazon Bedrock?",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3547,36 +3618,6 @@
       "trustTier": "official"
     },
     {
-      "id": "e9AFAKNGCiQ",
-      "title": "Amadeus Transforms Travel CX with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-03T20:52:05Z",
-      "url": "https://www.youtube.com/watch?v=e9AFAKNGCiQ",
-      "duration": "1:14",
-      "thumbnail": "https://i.ytimg.com/vi/e9AFAKNGCiQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "BHigvOBONWU",
-      "title": "Assisted Maintenance & Agentic Workflows for Industrial Equipment Fleets | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-03T20:32:29Z",
-      "url": "https://www.youtube.com/watch?v=BHigvOBONWU",
-      "duration": "2:07",
-      "thumbnail": "https://i.ytimg.com/vi/BHigvOBONWU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "jQDXzEVHMSE",
       "title": "Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3590,21 +3631,6 @@
       ],
       "level": "demo",
       "trustTier": "community"
-    },
-    {
-      "id": "Zpmd-ya9J2s",
-      "title": "Amazon GuardDuty Malware Protection for AWS Backup | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-03T17:40:00Z",
-      "url": "https://www.youtube.com/watch?v=Zpmd-ya9J2s",
-      "duration": "8:02",
-      "thumbnail": "https://i.ytimg.com/vi/Zpmd-ya9J2s/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "-jY2T2PiJBE",
@@ -7887,21 +7913,6 @@
       "url": "https://www.youtube.com/watch?v=gYoUifln-Z8",
       "duration": "5:03",
       "thumbnail": "https://i.ytimg.com/vi/gYoUifln-Z8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "qx998xjpuhE",
-      "title": "🧠 The Art of Asking Better Questions as a Developer #shorts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-12T18:53:21Z",
-      "url": "https://www.youtube.com/watch?v=qx998xjpuhE",
-      "duration": "0:45",
-      "thumbnail": "https://i.ytimg.com/vi/qx998xjpuhE/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
