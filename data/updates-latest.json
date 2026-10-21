@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-10-20T10:24:13.747Z",
+  "generatedAt": "2026-10-21T10:34:23.924Z",
   "updates": [
     {
-      "id": "structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
-      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
-      "publishedAt": "2026-10-19T23:32:19.000Z",
+      "id": "beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-tra",
+      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+      "publishedAt": "2026-10-20T21:14:10.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "developers-can-now-access-sagemaker-studio-through-the-new-aws-experience",
-      "title": "Developers can now access SageMaker Studio through the new AWS experience",
-      "url": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
-      "publishedAt": "2026-10-19T22:39:24.000Z",
+      "id": "work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
+      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+      "publishedAt": "2026-10-20T17:59:07.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-sagemaker-jumpstart-2026-year-to-date-in-review",
-      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
-      "publishedAt": "2026-10-19T21:14:44.000Z",
+      "id": "from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amaz",
+      "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-20T17:52:50.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server",
-      "title": "Analyzing Aurora MySQL issues with Kiro IDE and Aurora MySQL MCP server",
-      "url": "https://aws.amazon.com/blogs/database/analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server/",
-      "publishedAt": "2026-10-19T17:59:27.000Z",
-      "sourceName": "AWS Database Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
-      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
-      "publishedAt": "2026-10-19T16:49:19.000Z",
+      "id": "fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
+      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+      "publishedAt": "2026-10-20T17:48:27.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
-      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
-      "publishedAt": "2026-10-19T16:23:22.000Z",
+      "id": "how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
+      "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+      "publishedAt": "2026-10-20T17:34:04.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
+      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+      "publishedAt": "2026-10-20T16:42:53.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
