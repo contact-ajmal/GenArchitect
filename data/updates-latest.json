@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-10-21T10:34:23.924Z",
+  "generatedAt": "2026-10-22T10:37:50.072Z",
   "updates": [
     {
-      "id": "beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-tra",
-      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
-      "publishedAt": "2026-10-20T21:14:10.000Z",
+      "id": "securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "publishedAt": "2026-10-21T23:38:38.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
-      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
-      "publishedAt": "2026-10-20T17:59:07.000Z",
+      "id": "5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "url": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+      "publishedAt": "2026-10-21T23:36:47.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amaz",
-      "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-10-20T17:52:50.000Z",
+      "id": "automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore",
+      "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-10-21T21:26:23.000Z",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "adaptive-agentic-intelligence-framework-using-strands-agents",
+      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
+      "publishedAt": "2026-10-21T21:23:26.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
-      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
-      "publishedAt": "2026-10-20T17:48:27.000Z",
+      "id": "train-qwen3-on-aws-trainium-with-torchtitan",
+      "title": "Train Qwen3 on AWS Trainium with torchtitan",
+      "url": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
+      "publishedAt": "2026-10-21T20:00:22.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
-      "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
-      "publishedAt": "2026-10-20T17:34:04.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
-      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "url": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
-      "publishedAt": "2026-10-20T16:42:53.000Z",
+      "id": "how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
+      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
+      "publishedAt": "2026-10-21T19:19:50.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
