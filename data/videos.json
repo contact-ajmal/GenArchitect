@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-22T11:59:04.952Z",
+  "generatedAt": "2026-10-23T11:44:55.615Z",
   "videos": [
+    {
+      "id": "1cDvaWDwD00",
+      "title": "AI and the Holy Organ: Inside Neurosurgery at Johns Hopkins | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-22T20:26:06Z",
+      "url": "https://www.youtube.com/watch?v=1cDvaWDwD00",
+      "duration": "25:49",
+      "thumbnail": "https://i.ytimg.com/vi/1cDvaWDwD00/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "-0wzIlNQN1I",
+      "title": "What is a REST API? (Build One in 5 Minutes)",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-22T18:45:17Z",
+      "url": "https://www.youtube.com/watch?v=-0wzIlNQN1I",
+      "duration": "8:29",
+      "thumbnail": "https://i.ytimg.com/vi/-0wzIlNQN1I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "o0rASDZgwXk",
+      "title": "How can I set up cross-account replication across my Amazon S3 buckets with Object Lock?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-22T18:00:16Z",
+      "url": "https://www.youtube.com/watch?v=o0rASDZgwXk",
+      "duration": "11:49",
+      "thumbnail": "https://i.ytimg.com/vi/o0rASDZgwXk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "_NdSXK9rDiQ",
       "title": "So an AI walks into your poker game... hear us out",
@@ -3250,21 +3295,6 @@
       "trustTier": "official"
     },
     {
-      "id": "9OPIU5ox5VU",
-      "title": "How do I keep my Amazon EC2 Linux instance updated with the latest patches and security updates?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-20T19:43:53Z",
-      "url": "https://www.youtube.com/watch?v=9OPIU5ox5VU",
-      "duration": "7:13",
-      "thumbnail": "https://i.ytimg.com/vi/9OPIU5ox5VU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "JovBxtrHxcI",
       "title": "FSI Sydney 2026: What Comes Next: Six Trends Defining the Agentic AI Era",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3423,21 +3453,6 @@
       "url": "https://www.youtube.com/watch?v=BgxMyuS3-rI",
       "duration": "1:16:43",
       "thumbnail": "https://i.ytimg.com/vi/BgxMyuS3-rI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "mX4uqvPUdeo",
-      "title": "AWS Startups: Made in Boston, powered by AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-20T13:59:50Z",
-      "url": "https://www.youtube.com/watch?v=mX4uqvPUdeo",
-      "duration": "1:44",
-      "thumbnail": "https://i.ytimg.com/vi/mX4uqvPUdeo/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7873,21 +7888,6 @@
       "url": "https://www.youtube.com/watch?v=5-Ij0QBYEi0",
       "duration": "0:51",
       "thumbnail": "https://i.ytimg.com/vi/5-Ij0QBYEi0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "SBOIkNbxxe8",
-      "title": "3 LLM Tips Developers Should Know",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-17T21:13:36Z",
-      "url": "https://www.youtube.com/watch?v=SBOIkNbxxe8",
-      "duration": "2:38",
-      "thumbnail": "https://i.ytimg.com/vi/SBOIkNbxxe8/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
