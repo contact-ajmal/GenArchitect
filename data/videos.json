@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-23T11:44:55.615Z",
+  "generatedAt": "2026-10-24T11:08:47.730Z",
   "videos": [
+    {
+      "id": "i3YrL5LYpwk",
+      "title": "Strands Decider Standup: Can a Decision Model Stop a Robot Before It Crashes?",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-23T20:00:36Z",
+      "url": "https://www.youtube.com/watch?v=i3YrL5LYpwk",
+      "duration": "26:46",
+      "thumbnail": "https://i.ytimg.com/vi/i3YrL5LYpwk/mqdefault.jpg",
+      "topics": [
+        "strands"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
+    {
+      "id": "3tq9kTueReM",
+      "title": "Moments that Matter: Reimagining Customer Experience | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-23T15:58:33Z",
+      "url": "https://www.youtube.com/watch?v=3tq9kTueReM",
+      "duration": "1:30",
+      "thumbnail": "https://i.ytimg.com/vi/3tq9kTueReM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "HNd7fm2ki4I",
+      "title": "How One NZ went from two system upgrades a year to 518 | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-23T15:30:25Z",
+      "url": "https://www.youtube.com/watch?v=HNd7fm2ki4I",
+      "duration": "3:00",
+      "thumbnail": "https://i.ytimg.com/vi/HNd7fm2ki4I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "yPoI06m7AAM",
+      "title": "How United Way cut crisis call wait times from 11 minutes to under 2 | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-23T15:30:14Z",
+      "url": "https://www.youtube.com/watch?v=yPoI06m7AAM",
+      "duration": "3:20",
+      "thumbnail": "https://i.ytimg.com/vi/yPoI06m7AAM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "1cDvaWDwD00",
       "title": "AI and the Holy Organ: Inside Neurosurgery at Johns Hopkins | Amazon Web Services",
@@ -3221,36 +3284,6 @@
       "trustTier": "official"
     },
     {
-      "id": "8RPwhLc1M9k",
-      "title": "Black Girls Do Engineer: Closing the STEM Gap with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-24T14:04:17Z",
-      "url": "https://www.youtube.com/watch?v=8RPwhLc1M9k",
-      "duration": "2:32",
-      "thumbnail": "https://i.ytimg.com/vi/8RPwhLc1M9k/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "pl4MWkk5opM",
-      "title": "AWS Glue 6.0 Serverless Data Integration Simplified | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-21T18:57:23Z",
-      "url": "https://www.youtube.com/watch?v=pl4MWkk5opM",
-      "duration": "1:33",
-      "thumbnail": "https://i.ytimg.com/vi/pl4MWkk5opM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "cKzYBRE0jI4",
       "title": "Hackathon Tips for Beginners",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3263,20 +3296,6 @@
         "genai-general"
       ],
       "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "iAKM-OalIKA",
-      "title": "Creating playable game demos, and... wait who is attacking my soccer app?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-20T21:17:46Z",
-      "url": "https://www.youtube.com/watch?v=iAKM-OalIKA",
-      "thumbnail": "https://i.ytimg.com/vi/iAKM-OalIKA/mqdefault_live.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
       "trustTier": "official"
     },
     {
@@ -7873,21 +7892,6 @@
       "url": "https://www.youtube.com/watch?v=moCIuBJE5gk",
       "duration": "1:03",
       "thumbnail": "https://i.ytimg.com/vi/moCIuBJE5gk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "5-Ij0QBYEi0",
-      "title": "Stop \"Noisy Neighbors\" with Amazon SQS Fair Queues",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-21T22:15:40Z",
-      "url": "https://www.youtube.com/watch?v=5-Ij0QBYEi0",
-      "duration": "0:51",
-      "thumbnail": "https://i.ytimg.com/vi/5-Ij0QBYEi0/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
