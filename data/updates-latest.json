@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-10-23T10:29:57.315Z",
+  "generatedAt": "2026-10-24T09:46:48.753Z",
   "updates": [
     {
-      "id": "amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
-      "title": "Amazon Polly delivers a major upgrade to its Generative engine",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
-      "publishedAt": "2026-10-22T18:06:35.000Z",
+      "id": "build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion",
+      "title": "Build RAG-ready indexes from Amazon S3 with Amazon OpenSearch intelligent ingestion",
+      "url": "https://aws.amazon.com/blogs/big-data/build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion/",
+      "publishedAt": "2026-10-23T21:50:38.000Z",
+      "sourceName": "AWS Big Data Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "bedrock-web-search-domain-user-location",
+      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+      "publishedAt": "2026-10-23T21:04:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "publishedAt": "2026-10-23T17:48:54.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases",
-      "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
-      "publishedAt": "2026-10-22T18:01:53.000Z",
+      "id": "orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+      "publishedAt": "2026-10-23T16:30:10.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
-      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
-      "publishedAt": "2026-10-22T18:00:04.000Z",
+      "id": "visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+      "publishedAt": "2026-10-23T16:24:55.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
-      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/",
-      "publishedAt": "2026-10-22T18:00:01.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
-      "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/",
-      "publishedAt": "2026-10-22T17:48:22.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
-      "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
-      "publishedAt": "2026-10-22T17:45:58.000Z",
+      "id": "how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-a",
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+      "publishedAt": "2026-10-23T16:21:36.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
