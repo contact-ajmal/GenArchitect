@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:46:48.753Z",
+  "generatedAt": "2026-10-25T10:07:31.547Z",
   "updates": [
     {
       "id": "build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion",
@@ -11,7 +11,7 @@
     },
     {
       "id": "bedrock-web-search-domain-user-location",
-      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
       "publishedAt": "2026-10-23T21:04:00.000Z",
       "sourceName": "What's New with AWS",
