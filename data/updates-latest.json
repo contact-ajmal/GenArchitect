@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-26T11:31:44.151Z",
+  "generatedAt": "2026-10-27T10:58:00.538Z",
   "updates": [
     {
-      "id": "build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion",
-      "title": "Build RAG-ready indexes from Amazon S3 with Amazon OpenSearch intelligent ingestion",
-      "url": "https://aws.amazon.com/blogs/big-data/build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion/",
-      "publishedAt": "2026-10-23T21:50:38.000Z",
-      "sourceName": "AWS Big Data Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "bedrock-web-search-domain-user-location",
-      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-      "publishedAt": "2026-10-23T21:04:00.000Z",
+      "id": "openai-gpt-6-1-terra-on-amazon-bedrock",
+      "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+      "publishedAt": "2026-10-26T18:27:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
-      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
-      "publishedAt": "2026-10-23T17:48:54.000Z",
+      "id": "fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+      "publishedAt": "2026-10-26T17:56:58.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
-      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
-      "publishedAt": "2026-10-23T16:30:10.000Z",
+      "id": "groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedr",
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "publishedAt": "2026-10-26T17:27:20.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
-      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-      "url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
-      "publishedAt": "2026-10-23T16:24:55.000Z",
+      "id": "the-new-york-times-cut-oracle-migration-time-from-18-to-5-months",
+      "title": "The New York Times cut Oracle migration time from 18 to 5 months",
+      "url": "https://aws.amazon.com/blogs/database/the-new-york-times-cut-oracle-migration-time-from-18-to-5-months/",
+      "publishedAt": "2026-10-26T17:24:10.000Z",
+      "sourceName": "AWS Database Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+      "publishedAt": "2026-10-26T17:15:14.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-a",
-      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
-      "publishedAt": "2026-10-23T16:21:36.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
+      "id": "smus-light-mode",
+      "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+      "publishedAt": "2026-10-26T15:32:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
