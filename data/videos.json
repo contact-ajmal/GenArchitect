@@ -1,6 +1,84 @@
 {
-  "generatedAt": "2026-10-27T12:19:19.875Z",
+  "generatedAt": "2026-10-28T13:01:36.034Z",
   "videos": [
+    {
+      "id": "w6abqSOJZws",
+      "title": "Spend Limit Accounts Are Here",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-27T18:15:33Z",
+      "url": "https://www.youtube.com/watch?v=w6abqSOJZws",
+      "duration": "5:03",
+      "thumbnail": "https://i.ytimg.com/vi/w6abqSOJZws/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "o4HCCFL4lh8",
+      "title": "How do I resolve tasks that are stuck in the running state in my Amazon MWAA environment?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-27T18:00:08Z",
+      "url": "https://www.youtube.com/watch?v=o4HCCFL4lh8",
+      "duration": "7:49",
+      "thumbnail": "https://i.ytimg.com/vi/o4HCCFL4lh8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "0cfi4nTl1r0",
+      "title": "Trick or Trace: Build an AWS incident triage agent with Strands harness",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-10-27T17:15:57Z",
+      "url": "https://www.youtube.com/watch?v=0cfi4nTl1r0",
+      "thumbnail": "https://i.ytimg.com/vi/0cfi4nTl1r0/mqdefault.jpg",
+      "topics": [
+        "strands",
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
+    {
+      "id": "rTky9eZA04s",
+      "title": "Amazonian Like that",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-27T15:00:10Z",
+      "url": "https://www.youtube.com/watch?v=rTky9eZA04s",
+      "duration": "8:09",
+      "thumbnail": "https://i.ytimg.com/vi/rTky9eZA04s/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "vS8nKPKfZ7I",
+      "title": "AI and the Holy Organ: Inside Neurosurgery at Johns Hopkins | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-27T13:00:15Z",
+      "url": "https://www.youtube.com/watch?v=vS8nKPKfZ7I",
+      "duration": "0:46",
+      "thumbnail": "https://i.ytimg.com/vi/vS8nKPKfZ7I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "Hf8r_F2VG-s",
       "title": "Strands Decider Standup: Can a Decision Model Stop a Robot Before It Crashes?",
@@ -3254,51 +3332,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "pqkATlaejoA",
-      "title": "Kereis Modernizes Insurance CX with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:34:53Z",
-      "url": "https://www.youtube.com/watch?v=pqkATlaejoA",
-      "duration": "1:14",
-      "thumbnail": "https://i.ytimg.com/vi/pqkATlaejoA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "hUcbYQHYG0I",
-      "title": "Equiniti Reinvents Fintech CX with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:34:43Z",
-      "url": "https://www.youtube.com/watch?v=hUcbYQHYG0I",
-      "duration": "1:24",
-      "thumbnail": "https://i.ytimg.com/vi/hUcbYQHYG0I/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "qJkSllx0FaQ",
-      "title": "Community Fibre Scales CX with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:34:34Z",
-      "url": "https://www.youtube.com/watch?v=qJkSllx0FaQ",
-      "duration": "1:29",
-      "thumbnail": "https://i.ytimg.com/vi/qJkSllx0FaQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
@@ -7869,36 +7902,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "m5-r6L9cJVY",
-      "title": "🤝 One Teacher Changed My Entire Tech Career #shorts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-29T19:41:28Z",
-      "url": "https://www.youtube.com/watch?v=m5-r6L9cJVY",
-      "duration": "0:53",
-      "thumbnail": "https://i.ytimg.com/vi/m5-r6L9cJVY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "IsVg7wrGVJo",
-      "title": "🎯 4 Secrets to Creating Viral Tech Content That Converts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-07-26T19:11:24Z",
-      "url": "https://www.youtube.com/watch?v=IsVg7wrGVJo",
-      "duration": "0:38",
-      "thumbnail": "https://i.ytimg.com/vi/IsVg7wrGVJo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
