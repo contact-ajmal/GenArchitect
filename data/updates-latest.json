@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-10-27T10:58:00.538Z",
+  "generatedAt": "2026-10-28T11:37:44.380Z",
   "updates": [
     {
-      "id": "openai-gpt-6-1-terra-on-amazon-bedrock",
-      "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-      "publishedAt": "2026-10-26T18:27:00.000Z",
+      "id": "mflow-version-3-16",
+      "title": "SageMaker MLflow Apps now support MLflow 3.16",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+      "publishedAt": "2026-10-27T20:40:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
-      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
-      "publishedAt": "2026-10-26T17:56:58.000Z",
+      "id": "aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+      "publishedAt": "2026-10-27T18:03:12.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedr",
-      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
-      "publishedAt": "2026-10-26T17:27:20.000Z",
+      "id": "publishing-lms-courses-with-a-kiro-scorm-pipeline",
+      "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+      "url": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
+      "publishedAt": "2026-10-27T17:23:23.000Z",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+      "publishedAt": "2026-10-27T17:00:39.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "the-new-york-times-cut-oracle-migration-time-from-18-to-5-months",
-      "title": "The New York Times cut Oracle migration time from 18 to 5 months",
-      "url": "https://aws.amazon.com/blogs/database/the-new-york-times-cut-oracle-migration-time-from-18-to-5-months/",
-      "publishedAt": "2026-10-26T17:24:10.000Z",
-      "sourceName": "AWS Database Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
-      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
-      "publishedAt": "2026-10-26T17:15:14.000Z",
+      "id": "fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+      "publishedAt": "2026-10-27T16:53:02.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "smus-light-mode",
-      "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
-      "publishedAt": "2026-10-26T15:32:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
+      "id": "exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
+      "publishedAt": "2026-10-27T16:50:55.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
     }
   ]
 }
