@@ -1,6 +1,65 @@
 {
-  "generatedAt": "2026-10-28T13:01:36.034Z",
+  "generatedAt": "2026-10-29T13:09:26.854Z",
   "videos": [
+    {
+      "id": "UiibmlbYpAQ",
+      "title": "AWS is how fans get closer to the world's game | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-28T22:35:52Z",
+      "url": "https://www.youtube.com/watch?v=UiibmlbYpAQ",
+      "duration": "0:31",
+      "thumbnail": "https://i.ytimg.com/vi/UiibmlbYpAQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "yZLZNfiFCwA",
+      "title": "AWS GameDay: Boo-Unicorn Rentals, a Terrifyingly Good Time!",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-28T18:16:32Z",
+      "url": "https://www.youtube.com/watch?v=yZLZNfiFCwA",
+      "thumbnail": "https://i.ytimg.com/vi/yZLZNfiFCwA/mqdefault.jpg?v=6ae23c03",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "CuDq4eNjN1Y",
+      "title": "Amazon SageMaker Unified Studio CI/CD CLI Demo | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-28T14:39:49Z",
+      "url": "https://www.youtube.com/watch?v=CuDq4eNjN1Y",
+      "duration": "10:56",
+      "thumbnail": "https://i.ytimg.com/vi/CuDq4eNjN1Y/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "ob4KaUbHf2Q",
+      "title": "2026 AWS Imagine for Nonprofits Conference | Recap",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-10-28T14:03:00Z",
+      "url": "https://www.youtube.com/watch?v=ob4KaUbHf2Q",
+      "duration": "1:38",
+      "thumbnail": "https://i.ytimg.com/vi/ob4KaUbHf2Q/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "w6abqSOJZws",
       "title": "Spend Limit Accounts Are Here",
@@ -3290,51 +3349,6 @@
       "trustTier": "official"
     },
     {
-      "id": "Js6QEle1IyQ",
-      "title": "Jupiter Medical Center improves access to care with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:35:27Z",
-      "url": "https://www.youtube.com/watch?v=Js6QEle1IyQ",
-      "duration": "1:48",
-      "thumbnail": "https://i.ytimg.com/vi/Js6QEle1IyQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "XAIBSj6cuHc",
-      "title": "TUI Cuts Customer Experience Fragmentation with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:35:19Z",
-      "url": "https://www.youtube.com/watch?v=XAIBSj6cuHc",
-      "duration": "2:14",
-      "thumbnail": "https://i.ytimg.com/vi/XAIBSj6cuHc/mqdefault.jpg",
-      "topics": [
-        "rag"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "cwHOHl58a1U",
-      "title": "So Energy Builds an AI-First CX with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:35:02Z",
-      "url": "https://www.youtube.com/watch?v=cwHOHl58a1U",
-      "duration": "1:11",
-      "thumbnail": "https://i.ytimg.com/vi/cwHOHl58a1U/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
       "id": "cKzYBRE0jI4",
       "title": "Hackathon Tips for Beginners",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -6236,21 +6250,6 @@
       ],
       "level": "talk",
       "trustTier": "community"
-    },
-    {
-      "id": "iVh8ddxWxu0",
-      "title": "Performance Testing in the Age of AI | AWS OnAir | S07Ep10",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-23T08:23:51Z",
-      "url": "https://www.youtube.com/watch?v=iVh8ddxWxu0",
-      "duration": "1:02:48",
-      "thumbnail": "https://i.ytimg.com/vi/iVh8ddxWxu0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "O-QEhFFhXNA",
