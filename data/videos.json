@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-30T13:02:01.233Z",
+  "generatedAt": "2026-10-31T12:40:34.361Z",
   "videos": [
+    {
+      "id": "1szMYsCqVx4",
+      "title": "Solving the Great Grocery Mystery, & The Bot That Never Naps",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-31T06:13:01Z",
+      "url": "https://www.youtube.com/watch?v=1szMYsCqVx4",
+      "duration": "1:03:35",
+      "thumbnail": "https://i.ytimg.com/vi/1szMYsCqVx4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "IED0R9rh48I",
+      "title": "What is Amazon DynamoDB? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-30T22:08:55Z",
+      "url": "https://www.youtube.com/watch?v=IED0R9rh48I",
+      "duration": "1:30",
+      "thumbnail": "https://i.ytimg.com/vi/IED0R9rh48I/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "2hWybhUtsKk",
+      "title": "Dedalus Labs: Building the Compute Layer for Every AI Agent | AWS Startups | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-10-30T16:10:51Z",
+      "url": "https://www.youtube.com/watch?v=2hWybhUtsKk",
+      "duration": "3:00",
+      "thumbnail": "https://i.ytimg.com/vi/2hWybhUtsKk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "N3tqEBWFD00",
       "title": "Optimize Your Prompts with Amazon Bedrock",
@@ -3312,51 +3357,6 @@
       "url": "https://www.youtube.com/watch?v=u5LCF5raoeM",
       "duration": "47:43",
       "thumbnail": "https://i.ytimg.com/vi/u5LCF5raoeM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "TPtNdmekyPs",
-      "title": "American Airline's CX Transformation with Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:36:15Z",
-      "url": "https://www.youtube.com/watch?v=TPtNdmekyPs",
-      "duration": "1:17",
-      "thumbnail": "https://i.ytimg.com/vi/TPtNdmekyPs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "PWDwb4vt8h8",
-      "title": "U.S. Bank streamlines customer experience using Amazon Connect Customer | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:36:09Z",
-      "url": "https://www.youtube.com/watch?v=PWDwb4vt8h8",
-      "duration": "1:32",
-      "thumbnail": "https://i.ytimg.com/vi/PWDwb4vt8h8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "S64mleNIpic",
-      "title": "Singapore’s CPFB: Modernizing Customer Service with Amazon Connect Customer| Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T16:36:00Z",
-      "url": "https://www.youtube.com/watch?v=S64mleNIpic",
-      "duration": "3:11",
-      "thumbnail": "https://i.ytimg.com/vi/S64mleNIpic/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
