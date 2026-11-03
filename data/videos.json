@@ -1,6 +1,171 @@
 {
-  "generatedAt": "2026-11-02T16:04:13.291Z",
+  "generatedAt": "2026-11-03T14:23:44.684Z",
   "videos": [
+    {
+      "id": "HMVLd4s0rjg",
+      "title": "AI and the Holy Organ: Inside Neurosurgery at Johns Hopkins | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-03T14:00:07Z",
+      "url": "https://www.youtube.com/watch?v=HMVLd4s0rjg",
+      "duration": "1:02",
+      "thumbnail": "https://i.ytimg.com/vi/HMVLd4s0rjg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "hGTZlh1LJI8",
+      "title": "Agentic Operations Foundations - Module 6 - Frontier Agents | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T21:31:53Z",
+      "url": "https://www.youtube.com/watch?v=hGTZlh1LJI8",
+      "duration": "6:51",
+      "thumbnail": "https://i.ytimg.com/vi/hGTZlh1LJI8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "gTqsd2q3wUc",
+      "title": "Agentic Operations Foundations - Module 5 - Security and Organization | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T21:31:48Z",
+      "url": "https://www.youtube.com/watch?v=gTqsd2q3wUc",
+      "duration": "12:29",
+      "thumbnail": "https://i.ytimg.com/vi/gTqsd2q3wUc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "eflczOYnqxQ",
+      "title": "Agentic Operations Foundations - Module  4- Cost Management | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T21:31:42Z",
+      "url": "https://www.youtube.com/watch?v=eflczOYnqxQ",
+      "duration": "12:06",
+      "thumbnail": "https://i.ytimg.com/vi/eflczOYnqxQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "SVQypqW1q0o",
+      "title": "Agentic Operations Foundations - Module 3 - Data Access and Integration | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T21:31:36Z",
+      "url": "https://www.youtube.com/watch?v=SVQypqW1q0o",
+      "duration": "9:21",
+      "thumbnail": "https://i.ytimg.com/vi/SVQypqW1q0o/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "DbAxrTSNtUI",
+      "title": "Agentic Operations Foundations - Module 2 - Governance and Reliability | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T21:31:22Z",
+      "url": "https://www.youtube.com/watch?v=DbAxrTSNtUI",
+      "duration": "15:47",
+      "thumbnail": "https://i.ytimg.com/vi/DbAxrTSNtUI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "WD0caEH76og",
+      "title": "Agentic Operations Foundations - Module 1 - What is AIOps | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T21:31:15Z",
+      "url": "https://www.youtube.com/watch?v=WD0caEH76og",
+      "duration": "11:47",
+      "thumbnail": "https://i.ytimg.com/vi/WD0caEH76og/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "ZEfmlXJOpME",
+      "title": "GenerAIly Speaking: Let's build a research agent from scratch",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T20:48:52Z",
+      "url": "https://www.youtube.com/watch?v=ZEfmlXJOpME",
+      "duration": "9:11",
+      "thumbnail": "https://i.ytimg.com/vi/ZEfmlXJOpME/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "ljUjsyPhVOE",
+      "title": "GenerAIly Speaking: Let's train some humanoids",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T20:48:23Z",
+      "url": "https://www.youtube.com/watch?v=ljUjsyPhVOE",
+      "duration": "10:00",
+      "thumbnail": "https://i.ytimg.com/vi/ljUjsyPhVOE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "ML8cACbnKTg",
+      "title": "Eve's Ark Uses AWS AI to Build a Digital Matriach Supporting Women's Health Research",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T19:54:31Z",
+      "url": "https://www.youtube.com/watch?v=ML8cACbnKTg",
+      "duration": "1:46",
+      "thumbnail": "https://i.ytimg.com/vi/ML8cACbnKTg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "G_OJTnNDFjE",
+      "title": "How to identify and clean up unused EBS volumes",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-02T17:30:21Z",
+      "url": "https://www.youtube.com/watch?v=G_OJTnNDFjE",
+      "duration": "1:00",
+      "thumbnail": "https://i.ytimg.com/vi/G_OJTnNDFjE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
     {
       "id": "1szMYsCqVx4",
       "title": "Solving the Great Grocery Mystery, & The Bot That Never Naps",
@@ -3169,156 +3334,6 @@
       "trustTier": "official"
     },
     {
-      "id": "_HznOW-pkxM",
-      "title": "AWS: AI Answered - Is AI too expensive? | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-27T16:56:24Z",
-      "url": "https://www.youtube.com/watch?v=_HznOW-pkxM",
-      "duration": "38:00",
-      "thumbnail": "https://i.ytimg.com/vi/_HznOW-pkxM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Nulv3cSORQg",
-      "title": "Cloud Report: Playable Demos on GameLift Streams | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-27T15:21:48Z",
-      "url": "https://www.youtube.com/watch?v=Nulv3cSORQg",
-      "duration": "12:04",
-      "thumbnail": "https://i.ytimg.com/vi/Nulv3cSORQg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "KBFfjIYCqco",
-      "title": "AWS DevOps Agent integration with Grafana | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T17:43:22Z",
-      "url": "https://www.youtube.com/watch?v=KBFfjIYCqco",
-      "duration": "10:32",
-      "thumbnail": "https://i.ytimg.com/vi/KBFfjIYCqco/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "8cgnkgbPQkg",
-      "title": "LLM discoverability- Agentic Commerce in Luxury Retail | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T14:22:46Z",
-      "url": "https://www.youtube.com/watch?v=8cgnkgbPQkg",
-      "duration": "0:35",
-      "thumbnail": "https://i.ytimg.com/vi/8cgnkgbPQkg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "X2CZ49QeKDI",
-      "title": "Small teams, big impact - Agentic Commerce in Luxury Retail | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T14:18:56Z",
-      "url": "https://www.youtube.com/watch?v=X2CZ49QeKDI",
-      "duration": "0:39",
-      "thumbnail": "https://i.ytimg.com/vi/X2CZ49QeKDI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "VlBE8643GvE",
-      "title": "Defend, Extend, Append-Agentic Commerce in Luxury Retail | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T14:13:58Z",
-      "url": "https://www.youtube.com/watch?v=VlBE8643GvE",
-      "duration": "0:37",
-      "thumbnail": "https://i.ytimg.com/vi/VlBE8643GvE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "P6InWXVEvuI",
-      "title": "Hot Take - Agentic Commerce in Luxury Retail | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T14:08:04Z",
-      "url": "https://www.youtube.com/watch?v=P6InWXVEvuI",
-      "duration": "0:39",
-      "thumbnail": "https://i.ytimg.com/vi/P6InWXVEvuI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Zzt8MppAGiQ",
-      "title": "The soul of a brand- Agentic Commerce in Luxury Retail | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T13:59:06Z",
-      "url": "https://www.youtube.com/watch?v=Zzt8MppAGiQ",
-      "duration": "0:38",
-      "thumbnail": "https://i.ytimg.com/vi/Zzt8MppAGiQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "MHER3IqYNYI",
-      "title": "Agentic Commerce in Luxury Retail with Tapestry | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-26T13:25:22Z",
-      "url": "https://www.youtube.com/watch?v=MHER3IqYNYI",
-      "duration": "26:37",
-      "thumbnail": "https://i.ytimg.com/vi/MHER3IqYNYI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "CtHpyBmublY",
-      "title": "Cloud Report: Help us protect our soccer app | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T21:46:38Z",
-      "url": "https://www.youtube.com/watch?v=CtHpyBmublY",
-      "duration": "15:51",
-      "thumbnail": "https://i.ytimg.com/vi/CtHpyBmublY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "6MND3vUVgCs",
       "title": "How to Build Agents That Write Their Own Tools",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3331,21 +3346,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "LcfRQTUTiVY",
-      "title": "How do I optimize disk storage when my RDS for MySQL instance uses more space than expected?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-25T18:00:27Z",
-      "url": "https://www.youtube.com/watch?v=LcfRQTUTiVY",
-      "duration": "3:47",
-      "thumbnail": "https://i.ytimg.com/vi/LcfRQTUTiVY/mqdefault.jpg",
-      "topics": [
-        "rag"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
