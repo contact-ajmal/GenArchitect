@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-03T14:23:44.684Z",
+  "generatedAt": "2026-11-04T14:38:53.839Z",
   "videos": [
+    {
+      "id": "2q22tDbYoRQ",
+      "title": "Want to build a robot for your house?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-03T20:16:41Z",
+      "url": "https://www.youtube.com/watch?v=2q22tDbYoRQ",
+      "thumbnail": "https://i.ytimg.com/vi/2q22tDbYoRQ/mqdefault.jpg?v=6aea412b",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "zvSt-iafXTQ",
+      "title": "How Streaming AI Responses Work",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-03T19:45:25Z",
+      "url": "https://www.youtube.com/watch?v=zvSt-iafXTQ",
+      "duration": "9:49",
+      "thumbnail": "https://i.ytimg.com/vi/zvSt-iafXTQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "D_fnwWdyadI",
+      "title": "We're Cooked",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-03T16:00:07Z",
+      "url": "https://www.youtube.com/watch?v=D_fnwWdyadI",
+      "duration": "6:38",
+      "thumbnail": "https://i.ytimg.com/vi/D_fnwWdyadI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "HMVLd4s0rjg",
       "title": "AI and the Holy Organ: Inside Neurosurgery at Johns Hopkins | Amazon Web Services",
@@ -3267,21 +3311,6 @@
       ]
     },
     {
-      "id": "vZSn943eDUo",
-      "title": "GameDay Rapid Rewind: Fixing our AI-powered pet store | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-28T15:05:04Z",
-      "url": "https://www.youtube.com/watch?v=vZSn943eDUo",
-      "duration": "21:40",
-      "thumbnail": "https://i.ytimg.com/vi/vZSn943eDUo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "EL123UNokkI",
       "title": "Building uReview, Uber’s Multi-Agent Code Review Engine — Will Bond & Ameya Ketkar, Uber",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3317,21 +3346,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "195RvQsJQ3Y",
-      "title": "How do I reroute traffic from a website in an S3 bucket in another account to my Route 53 subdomain?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-27T18:00:08Z",
-      "url": "https://www.youtube.com/watch?v=195RvQsJQ3Y",
-      "duration": "5:19",
-      "thumbnail": "https://i.ytimg.com/vi/195RvQsJQ3Y/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "6MND3vUVgCs",
@@ -7871,21 +7885,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "9yeJXepA9I0",
-      "title": "🎧 The AWS Podcast Every Developer Needs to Hear",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-04T19:10:46Z",
-      "url": "https://www.youtube.com/watch?v=9yeJXepA9I0",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/9yeJXepA9I0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
