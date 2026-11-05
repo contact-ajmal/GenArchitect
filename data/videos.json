@@ -1,6 +1,80 @@
 {
-  "generatedAt": "2026-11-04T14:38:53.839Z",
+  "generatedAt": "2026-11-05T14:43:16.206Z",
   "videos": [
+    {
+      "id": "CODEw62RYhQ",
+      "title": "Using AI for Good",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-05T01:13:29Z",
+      "url": "https://www.youtube.com/watch?v=CODEw62RYhQ",
+      "thumbnail": "https://i.ytimg.com/vi/CODEw62RYhQ/mqdefault.jpg?v=6aebd83c",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Zjx_F5EJZqI",
+      "title": "AI-DLC: The AI-Driven Development Lifecycle | AWS Humans In The Loop Podcast",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-04T22:46:58Z",
+      "url": "https://www.youtube.com/watch?v=Zjx_F5EJZqI",
+      "duration": "36:50",
+      "thumbnail": "https://i.ytimg.com/vi/Zjx_F5EJZqI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "VDeo11f9ib8",
+      "title": "Warrnambool City Council cuts appeal times using agentic AI with AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-04T17:31:42Z",
+      "url": "https://www.youtube.com/watch?v=VDeo11f9ib8",
+      "duration": "2:35",
+      "thumbnail": "https://i.ytimg.com/vi/VDeo11f9ib8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "urFrwJJg7rU",
+      "title": "Amazon SageMaker: Data Quality in Visual ETL | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-04T17:12:48Z",
+      "url": "https://www.youtube.com/watch?v=urFrwJJg7rU",
+      "duration": "4:02",
+      "thumbnail": "https://i.ytimg.com/vi/urFrwJJg7rU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "PyO9FAJ3Vtg",
+      "title": "Siemens gives 250,000 employees access to data and AI with AWS | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-04T16:32:53Z",
+      "url": "https://www.youtube.com/watch?v=PyO9FAJ3Vtg",
+      "duration": "2:58",
+      "thumbnail": "https://i.ytimg.com/vi/PyO9FAJ3Vtg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "2q22tDbYoRQ",
       "title": "Want to build a robot for your house?",
@@ -3180,82 +3254,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "RNjyIQJirc8",
-      "title": "AWS Cloud Quest V2 | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-01T19:44:57Z",
-      "url": "https://www.youtube.com/watch?v=RNjyIQJirc8",
-      "duration": "0:41",
-      "thumbnail": "https://i.ytimg.com/vi/RNjyIQJirc8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "TGjq6u8VqK8",
-      "title": "Getting Started: AWS Certified Machine Learning Engineer - Associate | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-01T12:16:08Z",
-      "url": "https://www.youtube.com/watch?v=TGjq6u8VqK8",
-      "duration": "3:25",
-      "thumbnail": "https://i.ytimg.com/vi/TGjq6u8VqK8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "VSsweS2VkPg",
-      "title": "Getting Started: AWS Certified AI Business Strategist | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-01T12:16:06Z",
-      "url": "https://www.youtube.com/watch?v=VSsweS2VkPg",
-      "duration": "4:53",
-      "thumbnail": "https://i.ytimg.com/vi/VSsweS2VkPg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "g-3YzZomVAE",
-      "title": "Play With ASL: Scaling language learning with AWS AI and cloud technology | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-31T19:29:12Z",
-      "url": "https://www.youtube.com/watch?v=g-3YzZomVAE",
-      "duration": "2:55",
-      "thumbnail": "https://i.ytimg.com/vi/g-3YzZomVAE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "nGnIsS9uOyY",
-      "title": "How to access foundation models in Amazon Bedrock",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-08-31T16:00:24Z",
-      "url": "https://www.youtube.com/watch?v=nGnIsS9uOyY",
-      "duration": "1:02",
-      "thumbnail": "https://i.ytimg.com/vi/nGnIsS9uOyY/mqdefault.jpg",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "level": "demo",
       "trustTier": "official"
     },
     {
