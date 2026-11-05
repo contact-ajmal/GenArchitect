@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-04T13:15:28.499Z",
+  "generatedAt": "2026-11-05T13:28:51.887Z",
   "updates": [
+    {
+      "id": "use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+      "publishedAt": "2026-11-04T18:46:36.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
+      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+      "publishedAt": "2026-11-04T16:33:03.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-",
+      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+      "publishedAt": "2026-11-04T16:30:40.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
+      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
+      "publishedAt": "2026-11-04T16:25:57.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
+      "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-11-04T16:23:33.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
     {
       "id": "workspaces-ai-agents-linux-windows-11",
       "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
@@ -8,46 +48,6 @@
       "publishedAt": "2026-11-03T18:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
-    },
-    {
-      "id": "bring-structured-and-unstructured-data-together-with-amazon-quick",
-      "title": "Bring structured and unstructured data together with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
-      "publishedAt": "2026-11-03T16:49:29.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
-      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
-      "publishedAt": "2026-11-03T16:47:40.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-",
-      "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
-      "publishedAt": "2026-11-03T16:43:20.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
-      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-11-03T16:41:13.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "building-ultra-low-latency-voice-ai-applications-on-aws",
-      "title": "Building ultra-low-latency voice AI applications on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
-      "publishedAt": "2026-11-03T16:40:54.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
     }
   ]
 }
