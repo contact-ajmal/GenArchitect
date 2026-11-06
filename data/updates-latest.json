@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-11-05T13:28:51.887Z",
+  "generatedAt": "2026-11-06T13:12:37.118Z",
   "updates": [
     {
-      "id": "use-decision-models-with-amazon-bedrock-agentcore-evaluations",
-      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-      "publishedAt": "2026-11-04T18:46:36.000Z",
+      "id": "getting-started-with-web-answer-on-amazon-bedrock-agentcore",
+      "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-11-05T21:04:24.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
-      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
-      "publishedAt": "2026-11-04T16:33:03.000Z",
+      "id": "web-answer-amazon-bedrock",
+      "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+      "publishedAt": "2026-11-05T20:56:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock",
+      "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
+      "publishedAt": "2026-11-05T18:45:07.000Z",
+      "sourceName": "AWS Architecture Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai",
+      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+      "publishedAt": "2026-11-05T18:06:43.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-",
-      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
-      "publishedAt": "2026-11-04T16:30:40.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "deliver-multi-tenant-ai-analytics-at-scale-with-agentcore-and-lake-formation",
+      "title": "Deliver multi-tenant AI analytics at scale with AgentCore and Lake Formation",
+      "url": "https://aws.amazon.com/blogs/big-data/deliver-multi-tenant-ai-analytics-at-scale-with-agentcore-and-lake-formation/",
+      "publishedAt": "2026-11-05T15:04:59.000Z",
+      "sourceName": "AWS Big Data Blog",
       "kind": "blog"
     },
     {
-      "id": "how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
-      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
-      "publishedAt": "2026-11-04T16:25:57.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
-      "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-11-04T16:23:33.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "workspaces-ai-agents-linux-windows-11",
-      "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
-      "publishedAt": "2026-11-03T18:00:00.000Z",
+      "id": "q-developer-renamed-aws-assistant",
+      "title": "Amazon Q Developer in console is now the AWS assistant",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/q-developer-renamed-aws-assistant/",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     }
