@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-06T14:21:19.857Z",
+  "generatedAt": "2026-11-07T13:09:54.012Z",
   "videos": [
+    {
+      "id": "MJOJwXQ-NIU",
+      "title": "Benevity's AI-DLC Success Story | AWS Humans In The Loop Podcast",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-07T00:26:09Z",
+      "url": "https://www.youtube.com/watch?v=MJOJwXQ-NIU",
+      "duration": "36:50",
+      "thumbnail": "https://i.ytimg.com/vi/MJOJwXQ-NIU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "0lagdP830NU",
+      "title": "AWS Partner: Forward Deployed Engineer (FDE) Credentials | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-06T18:08:05Z",
+      "url": "https://www.youtube.com/watch?v=0lagdP830NU",
+      "duration": "1:45",
+      "thumbnail": "https://i.ytimg.com/vi/0lagdP830NU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "JeA-DnKIszo",
       "title": "Cerebrium: Making AI Accessible to Companies of All Sizes | AWS Startups",
@@ -3134,36 +3164,6 @@
       "url": "https://www.youtube.com/watch?v=DuOHJJ46A8I",
       "duration": "8:12",
       "thumbnail": "https://i.ytimg.com/vi/DuOHJJ46A8I/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "xLaVfEqyyxg",
-      "title": "AWS Glue 6.0 - Latest & Greatest | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-02T19:07:34Z",
-      "url": "https://www.youtube.com/watch?v=xLaVfEqyyxg",
-      "duration": "4:43",
-      "thumbnail": "https://i.ytimg.com/vi/xLaVfEqyyxg/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "NC3zTFR7maQ",
-      "title": "How the NFL powers every play with an AI-ready data foundation | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-02T18:54:48Z",
-      "url": "https://www.youtube.com/watch?v=NC3zTFR7maQ",
-      "duration": "1:51",
-      "thumbnail": "https://i.ytimg.com/vi/NC3zTFR7maQ/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
