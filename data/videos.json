@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-07T13:09:54.012Z",
+  "generatedAt": "2026-11-08T13:31:33.686Z",
   "videos": [
+    {
+      "id": "EaOit1mmR9g",
+      "title": "How Financial Planners With Zero Coding Experience Built Their Own Agents - Matt Ragone, Range",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-11-08T08:00:14Z",
+      "url": "https://www.youtube.com/watch?v=EaOit1mmR9g",
+      "duration": "16:09",
+      "thumbnail": "https://i.ytimg.com/vi/EaOit1mmR9g/mqdefault.jpg",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
+    {
+      "id": "gdzsJZJ6DDs",
+      "title": "Your Financial Agent Needs to Show Its Work - Anirudh Veeraragavan, Fieldguide",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channelName": "AI Engineer",
+      "publishedAt": "2026-11-07T18:00:02Z",
+      "url": "https://www.youtube.com/watch?v=gdzsJZJ6DDs",
+      "duration": "13:28",
+      "thumbnail": "https://i.ytimg.com/vi/gdzsJZJ6DDs/mqdefault.jpg",
+      "topics": [
+        "rag",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "community"
+    },
     {
       "id": "MJOJwXQ-NIU",
       "title": "Benevity's AI-DLC Success Story | AWS Humans In The Loop Podcast",
