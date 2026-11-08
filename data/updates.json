@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:54:55.736Z",
+  "generatedAt": "2026-11-08T12:10:43.480Z",
   "updates": [
     {
       "id": "moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
@@ -252,19 +252,6 @@
       "author": "Fortune Hui"
     },
     {
-      "id": "amazon-sagemaker-ai-studio-iam",
-      "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
-      "publishedAt": "2026-11-05T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon SageMaker AI now supports IAM Identity Center (IdC) multi-region replication, enabling you to deploy SageMaker AI Studio domains in different regions from your IdC instance's primary region. Previously, the…"
-    },
-    {
       "id": "q-developer-renamed-aws-assistant",
       "title": "Amazon Q Developer in console is now the AWS assistant",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/q-developer-renamed-aws-assistant/",
@@ -276,6 +263,19 @@
         "genai-general"
       ],
       "excerpt": "Amazon Q Developer in the AWS Management Console and Console Mobile Apps is now called the AWS assistant. Previously, customers interacted with Amazon Q Developer across these surfaces. Now, the AWS assistant provides…"
+    },
+    {
+      "id": "amazon-sagemaker-ai-studio-iam",
+      "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker AI now supports IAM Identity Center (IdC) multi-region replication, enabling you to deploy SageMaker AI Studio domains in different regions from your IdC instance's primary region. Previously, the…"
     },
     {
       "id": "use-decision-models-with-amazon-bedrock-agentcore-evaluations",
@@ -682,19 +682,6 @@
       "author": "Priyanka Chaudhary"
     },
     {
-      "id": "amazon-quick-essentials",
-      "title": "Amazon Quick Introduces Quick Essentials",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials/",
-      "publishedAt": "2026-10-30T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Quick introduces Quick Essentials for enterprises. The plan makes it easier for organizations to get started with all the features of Quick such as AI-powered chat, Research, Flows, and Apps, and lets users view…"
-    },
-    {
       "id": "sagemaker-gpu-partitioning",
       "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
@@ -706,6 +693,19 @@
         "genai-general"
       ],
       "excerpt": "Amazon SageMaker AI inference now supports GPU partitioning, enabling you to run several models on a single GPU instead of dedicating a whole accelerator to each one. Using NVIDIA Multi-Instance GPU (MIG) technology…"
+    },
+    {
+      "id": "amazon-quick-essentials",
+      "title": "Amazon Quick Introduces Quick Essentials",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials/",
+      "publishedAt": "2026-10-30T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Quick introduces Quick Essentials for enterprises. The plan makes it easier for organizations to get started with all the features of Quick such as AI-powered chat, Research, Flows, and Apps, and lets users view…"
     },
     {
       "id": "how-the-uk-amazon-quick-user-group-grew-in-2026",
@@ -809,9 +809,9 @@
       "author": "Alex Iankoulski"
     },
     {
-      "id": "sagemaker-ai-soci-images-training",
-      "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+      "id": "sagemaker-custom-designations",
+      "title": "Amazon SageMaker Unified Studio now supports custom designations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations/",
       "publishedAt": "2026-10-29T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -819,7 +819,7 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Today, Amazon SageMaker AI announces support for Seekable OCI (SOCI)-indexed container images for training and processing jobs, so your jobs start running your code sooner. SOCI-indexed images start Amazon SageMaker AI…"
+      "excerpt": "Amazon SageMaker Unified Studio now supports custom designations, named permission sets that control what actions individual project members can perform. Previously, project members could only be assigned Owner or…"
     },
     {
       "id": "step-functions-workflows-ai-agent-tools",
@@ -836,9 +836,9 @@
       "excerpt": "You can now use your AWS Step Functions workflows as tools for AI agents through Amazon Bedrock AgentCore Gateway. Your agent decides when to run a workflow and what input to pass, and Step Functions runs each step…"
     },
     {
-      "id": "sagemaker-custom-designations",
-      "title": "Amazon SageMaker Unified Studio now supports custom designations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations/",
+      "id": "sagemaker-ai-soci-images-training",
+      "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
       "publishedAt": "2026-10-29T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -846,7 +846,7 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Amazon SageMaker Unified Studio now supports custom designations, named permission sets that control what actions individual project members can perform. Previously, project members could only be assigned Owner or…"
+      "excerpt": "Today, Amazon SageMaker AI announces support for Seekable OCI (SOCI)-indexed container images for training and processing jobs, so your jobs start running your code sooner. SOCI-indexed images start Amazon SageMaker AI…"
     },
     {
       "id": "amazon-bedrock-agentcore-cli-version-1-0-available",
@@ -1382,19 +1382,6 @@
       "author": "Anthony Liguori"
     },
     {
-      "id": "amazon-sagemaker-muse-qwen-ministral",
-      "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
-      "publishedAt": "2026-10-22T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen3.8 27B, and Ministral 3 3B, 8B, and 14B models. In addition to deploying these models on SageMaker AI, you can now adapt them to…"
-    },
-    {
       "id": "agentcore-gateway-invokemodel-fallback",
       "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
@@ -1408,6 +1395,19 @@
         "genai-general"
       ],
       "excerpt": "Amazon Bedrock AgentCore Gateway now supports the Amazon Bedrock InvokeModel and InvokeModelWithResponseStream APIs on its inference endpoint, along with model fallback routing for inference traffic. With InvokeModel…"
+    },
+    {
+      "id": "amazon-sagemaker-muse-qwen-ministral",
+      "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
+      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen3.8 27B, and Ministral 3 3B, 8B, and 14B models. In addition to deploying these models on SageMaker AI, you can now adapt them to…"
     },
     {
       "id": "lambda-microvms-4-additional-regions",
@@ -1539,19 +1539,6 @@
       "excerpt": "Migration assessments in AWS Transform now evaluate on-premises storage for migration to AWS. Instead of manually analyzing thousands of volumes across protocols, capacity, and performance, you upload a storage…"
     },
     {
-      "id": "aws-announce-neuron-2-33-0",
-      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in…"
-    },
-    {
       "id": "reflection-beam-on-sagemaker-jumpstart-and-aws-trainium",
       "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
@@ -1563,6 +1550,19 @@
         "genai-general"
       ],
       "excerpt": "Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight…"
+    },
+    {
+      "id": "aws-announce-neuron-2-33-0",
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in…"
     },
     {
       "id": "sagemaker-custom-sequence-lengths",
@@ -1592,20 +1592,6 @@
       "author": "Kevin Shabahang"
     },
     {
-      "id": "work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
-      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
-      "publishedAt": "2026-10-20T17:59:07.000Z",
-      "sourceId": "machine-learning",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for…",
-      "author": "Galina Jordanowa"
-    },
-    {
       "id": "workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws",
       "title": "Workflow context for AI agents with Smartsheet MCP on AWS",
       "url": "https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
@@ -1617,6 +1603,20 @@
         "genai-general"
       ],
       "excerpt": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your…",
+      "author": "Galina Jordanowa"
+    },
+    {
+      "id": "work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
+      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+      "publishedAt": "2026-10-20T17:59:07.000Z",
+      "sourceId": "machine-learning",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for…",
       "author": "Galina Jordanowa"
     },
     {
@@ -1817,6 +1817,19 @@
       "excerpt": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or…"
     },
     {
+      "id": "bedrock-prompt-optimization-shortening",
+      "title": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
+      "publishedAt": "2026-10-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock"
+      ],
+      "excerpt": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization…"
+    },
+    {
       "id": "bedrock-guardrails-grounding-standard",
       "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
@@ -1829,19 +1842,6 @@
         "guardrails"
       ],
       "excerpt": "Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the…"
-    },
-    {
-      "id": "bedrock-prompt-optimization-shortening",
-      "title": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
-      "publishedAt": "2026-10-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization…"
     },
     {
       "id": "structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
@@ -2445,20 +2445,6 @@
       "excerpt": "AWS Config now supports 77 additional AWS resource types across key services including Amazon EC2, Amazon S3 Files, and Amazon Q Business. This expansion provides greater coverage over your AWS environment, enabling you…"
     },
     {
-      "id": "claude-haiku-5-5-aws-govcloud",
-      "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less…"
-    },
-    {
       "id": "claude-haiku-5-5-aws",
       "title": "Claude Haiku 5.5 is now available on AWS",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/",
@@ -2471,6 +2457,20 @@
         "genai-general"
       ],
       "excerpt": "AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude…"
+    },
+    {
+      "id": "claude-haiku-5-5-aws-govcloud",
+      "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less…"
     },
     {
       "id": "monitoring-mwaa-orchestrated-etl-pipelines-with-amazon-opensearch-service",
@@ -2578,19 +2578,6 @@
       "author": "Sitaraman Vijay Krishna"
     },
     {
-      "id": "aws-mcp-server-six-additional-regions",
-      "title": "The AWS MCP Server is now available in six additional AWS Regions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, part…"
-    },
-    {
       "id": "agentcore-gateway-private-tls-vpc",
       "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
@@ -2603,6 +2590,19 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Gateway now supports TLS certificates signed by private certificate authorities (CAs) on MCP, OpenAPI, and HTTP proxy targets. This feature enables you to connect securely to gateway targets…"
+    },
+    {
+      "id": "aws-mcp-server-six-additional-regions",
+      "title": "The AWS MCP Server is now available in six additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, part…"
     },
     {
       "id": "announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-en",
@@ -2749,19 +2749,6 @@
       "author": "Daniel Gray"
     },
     {
-      "id": "live-data-in-apps",
-      "title": "Amazon Quick now supports live data from your datasets in apps",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These…"
-    },
-    {
       "id": "quick-hierarchy-filter",
       "title": "Amazon Quick adds Hierarchy Filter for guided dashboard drill-down",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter",
@@ -2773,6 +2760,19 @@
         "genai-general"
       ],
       "excerpt": "Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City. It replaces several stacked filter controls with one, cutting…"
+    },
+    {
+      "id": "live-data-in-apps",
+      "title": "Amazon Quick now supports live data from your datasets in apps",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These…"
     },
     {
       "id": "marketplace-ai-agent-metering",
