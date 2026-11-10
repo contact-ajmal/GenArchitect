@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-11-09T16:29:24.798Z",
+  "generatedAt": "2026-11-10T14:57:42.031Z",
   "videos": [
+    {
+      "id": "e1HcAKlq0N8",
+      "title": "Tech is a Bee-autiful Thing",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T10:22:22Z",
+      "url": "https://www.youtube.com/watch?v=e1HcAKlq0N8",
+      "duration": "1:04:00",
+      "thumbnail": "https://i.ytimg.com/vi/e1HcAKlq0N8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "eS4HSqsfLWU",
+      "title": "How to see memory and disk metrics for Amazon EC2",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-09T18:00:01Z",
+      "url": "https://www.youtube.com/watch?v=eS4HSqsfLWU",
+      "duration": "1:04",
+      "thumbnail": "https://i.ytimg.com/vi/eS4HSqsfLWU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "lNutVdqRpus",
+      "title": "Fast-Track: An NAIC New Hire's Day-One Boss Fight | Cloud Report",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-09T17:36:32Z",
+      "url": "https://www.youtube.com/watch?v=lNutVdqRpus",
+      "duration": "9:52",
+      "thumbnail": "https://i.ytimg.com/vi/lNutVdqRpus/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "-DjzhOxh0d0",
+      "title": "The NEW Way to Start on AWS | Cloud Report",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-09T17:35:56Z",
+      "url": "https://www.youtube.com/watch?v=-DjzhOxh0d0",
+      "duration": "9:32",
+      "thumbnail": "https://i.ytimg.com/vi/-DjzhOxh0d0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "OY3ParXQp-0",
+      "title": "AI Lightning Round | Humans In The Loop Podcast",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-09T17:00:29Z",
+      "url": "https://www.youtube.com/watch?v=OY3ParXQp-0",
+      "duration": "5:51",
+      "thumbnail": "https://i.ytimg.com/vi/OY3ParXQp-0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "EaOit1mmR9g",
       "title": "How Financial Planners With Zero Coding Experience Built Their Own Agents - Matt Ragone, Range",
@@ -3065,36 +3140,6 @@
       "trustTier": "official"
     },
     {
-      "id": "H8R5sOuCSIo",
-      "title": "Amazon Quick: Triage Your Morning from Your Phone | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-10T19:00:03Z",
-      "url": "https://www.youtube.com/watch?v=H8R5sOuCSIo",
-      "duration": "1:20",
-      "thumbnail": "https://i.ytimg.com/vi/H8R5sOuCSIo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "K79igsRD59s",
-      "title": "Amazon Quick: Prep for Any Meeting in One Prompt | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-10T19:00:01Z",
-      "url": "https://www.youtube.com/watch?v=K79igsRD59s",
-      "duration": "0:59",
-      "thumbnail": "https://i.ytimg.com/vi/K79igsRD59s/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "O6vm9CceM0A",
       "title": "AWS Public Sector AI Symposium Canberra - Keynote",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3128,21 +3173,6 @@
       ]
     },
     {
-      "id": "z4C7Ndiod5w",
-      "title": "No Hierarchy, No Limits: Inside HUMAIN's AI-Native Workforce | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-09T11:00:22Z",
-      "url": "https://www.youtube.com/watch?v=z4C7Ndiod5w",
-      "duration": "23:40",
-      "thumbnail": "https://i.ytimg.com/vi/z4C7Ndiod5w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "aYw_wYERj8w",
       "title": "AWS Partners with Anthropic on the Model Hardware Standard",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -3151,36 +3181,6 @@
       "url": "https://www.youtube.com/watch?v=aYw_wYERj8w",
       "duration": "7:11",
       "thumbnail": "https://i.ytimg.com/vi/aYw_wYERj8w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "anNVya7E6eI",
-      "title": "How to delegate a subdomain in Amazon Route 53",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-07T16:30:18Z",
-      "url": "https://www.youtube.com/watch?v=anNVya7E6eI",
-      "duration": "0:51",
-      "thumbnail": "https://i.ytimg.com/vi/anNVya7E6eI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "J6TmHIZ8ToM",
-      "title": "Cloud Report | Quick, who took our lunch?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-05T08:19:41Z",
-      "url": "https://www.youtube.com/watch?v=J6TmHIZ8ToM",
-      "duration": "1:11:27",
-      "thumbnail": "https://i.ytimg.com/vi/J6TmHIZ8ToM/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
