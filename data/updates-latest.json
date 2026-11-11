@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-11-10T13:45:23.331Z",
+  "generatedAt": "2026-11-11T12:56:22.938Z",
   "updates": [
     {
-      "id": "how-skills-and-agents-work-in-aws-quick",
-      "title": "How skills and agents work in AWS Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
-      "publishedAt": "2026-11-10T00:21:34.000Z",
+      "id": "introducing-kimi-k3-1-pro-on-amazon-bedrock",
+      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+      "publishedAt": "2026-11-11T01:07:19.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "amazon-bedrock-agentcore-web-search-api",
-      "title": "Amazon Bedrock AgentCore now offers a Web Search API",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "automate-etl-pipeline-creation-with-amazon-bedrock-agentcore-and-aws-glue",
-      "title": "Automate ETL pipeline creation with Amazon Bedrock AgentCore and AWS Glue",
-      "url": "https://aws.amazon.com/blogs/big-data/automate-etl-pipeline-creation-with-amazon-bedrock-agentcore-and-aws-glue/",
-      "publishedAt": "2026-11-09T23:15:31.000Z",
-      "sourceName": "AWS Big Data Blog",
+      "id": "build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+      "publishedAt": "2026-11-10T23:34:05.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "introducing-the-workday-data-cloud-integration-with-aws",
-      "title": "Introducing the Workday Data Cloud integration with AWS",
-      "url": "https://aws.amazon.com/blogs/big-data/introducing-the-workday-data-cloud-integration-with-aws/",
-      "publishedAt": "2026-11-09T22:21:40.000Z",
-      "sourceName": "AWS Big Data Blog",
+      "id": "the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore",
+      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+      "publishedAt": "2026-11-10T22:35:03.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai",
-      "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
-      "url": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
-      "publishedAt": "2026-11-09T20:34:35.000Z",
-      "sourceName": "AWS Architecture Blog",
+      "id": "autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-a",
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+      "publishedAt": "2026-11-10T18:11:08.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
-      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
-      "publishedAt": "2026-11-09T20:13:18.000Z",
+      "id": "how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+      "publishedAt": "2026-11-10T16:59:43.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "amazon-bedrock-tokenomics-data-lake",
+      "title": "Amazon Bedrock tokenomics data lake",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+      "publishedAt": "2026-11-10T16:56:36.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
