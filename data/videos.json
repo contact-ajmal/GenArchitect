@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-11-10T14:57:42.031Z",
+  "generatedAt": "2026-11-11T14:28:40.854Z",
   "videos": [
+    {
+      "id": "PxRxgbA592Y",
+      "title": "Bold Without Breaking: How Danske Bank Is Scaling AI with Trust and Resilience | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-11T11:00:38Z",
+      "url": "https://www.youtube.com/watch?v=PxRxgbA592Y",
+      "duration": "22:00",
+      "thumbnail": "https://i.ytimg.com/vi/PxRxgbA592Y/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "B9vd2g2veVU",
+      "title": "Benevity's AI-DLC Metrics For Success | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T21:20:51Z",
+      "url": "https://www.youtube.com/watch?v=B9vd2g2veVU",
+      "duration": "0:54",
+      "thumbnail": "https://i.ytimg.com/vi/B9vd2g2veVU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "y_GAZKFV1Do",
+      "title": "Shaown Nandi's AI Adoption Advice to Leaders | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T21:20:35Z",
+      "url": "https://www.youtube.com/watch?v=y_GAZKFV1Do",
+      "duration": "1:06",
+      "thumbnail": "https://i.ytimg.com/vi/y_GAZKFV1Do/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "B0F0C08KUoE",
+      "title": "Don't wait to hire the perfect talent- go build! | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T21:20:18Z",
+      "url": "https://www.youtube.com/watch?v=B0F0C08KUoE",
+      "duration": "1:02",
+      "thumbnail": "https://i.ytimg.com/vi/B0F0C08KUoE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "NAfLRCJVBZg",
+      "title": "Shaown Nandi Explains The AI-Driven Development Lifecycle | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T21:20:03Z",
+      "url": "https://www.youtube.com/watch?v=NAfLRCJVBZg",
+      "duration": "0:46",
+      "thumbnail": "https://i.ytimg.com/vi/NAfLRCJVBZg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "UU2CM7e2MsE",
+      "title": "Debugging 101 for Vibe Coders",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-10T20:30:29Z",
+      "url": "https://www.youtube.com/watch?v=UU2CM7e2MsE",
+      "duration": "5:27",
+      "thumbnail": "https://i.ytimg.com/vi/UU2CM7e2MsE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "Fcc7UDPoUkc",
+      "title": "Amazon RDS for Oracle DB インスタンスでテーブルスペースのサイズを変更する方法を教えてください。",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T19:00:04Z",
+      "url": "https://www.youtube.com/watch?v=Fcc7UDPoUkc",
+      "duration": "5:41",
+      "thumbnail": "https://i.ytimg.com/vi/Fcc7UDPoUkc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "FORNnxShuYo",
+      "title": "It's Go Time",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-10T16:04:21Z",
+      "url": "https://www.youtube.com/watch?v=FORNnxShuYo",
+      "duration": "9:40",
+      "thumbnail": "https://i.ytimg.com/vi/FORNnxShuYo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "e1HcAKlq0N8",
       "title": "Tech is a Bee-autiful Thing",
@@ -3032,111 +3152,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "rtkI7EMP-xY",
-      "title": "Amazon SageMaker demo: Data quality monitoring | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-14T14:39:39Z",
-      "url": "https://www.youtube.com/watch?v=rtkI7EMP-xY",
-      "duration": "3:43",
-      "thumbnail": "https://i.ytimg.com/vi/rtkI7EMP-xY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "wqPZ3Y-9KLw",
-      "title": "Building a community for business - Seoul Tonic | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-11T13:57:45Z",
-      "url": "https://www.youtube.com/watch?v=wqPZ3Y-9KLw",
-      "duration": "0:26",
-      "thumbnail": "https://i.ytimg.com/vi/wqPZ3Y-9KLw/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "dvZAR-vD55w",
-      "title": "Rise of instore experience in the world of AI-Seoul Tonic|re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-11T13:57:37Z",
-      "url": "https://www.youtube.com/watch?v=dvZAR-vD55w",
-      "duration": "0:28",
-      "thumbnail": "https://i.ytimg.com/vi/dvZAR-vD55w/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "HgOdT4xGxMo",
-      "title": "Role of AI in creative fields - Seoul Tonic | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-11T13:57:34Z",
-      "url": "https://www.youtube.com/watch?v=HgOdT4xGxMo",
-      "duration": "0:30",
-      "thumbnail": "https://i.ytimg.com/vi/HgOdT4xGxMo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "UG8xgQEthx8",
-      "title": "Building International Wellness Brand with Seoul Tonic | re:Tales with AWS",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-11T13:56:31Z",
-      "url": "https://www.youtube.com/watch?v=UG8xgQEthx8",
-      "duration": "27:00",
-      "thumbnail": "https://i.ytimg.com/vi/UG8xgQEthx8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "D-KB7yxahjI",
-      "title": "Amazon Quick: The Work Follows Through, So You Don't Have To | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-10T19:00:09Z",
-      "url": "https://www.youtube.com/watch?v=D-KB7yxahjI",
-      "duration": "1:08",
-      "thumbnail": "https://i.ytimg.com/vi/D-KB7yxahjI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "CAuKlT3nkNY",
-      "title": "Amazon Quick: Pick Up Right Where You Left Off | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-10T19:00:06Z",
-      "url": "https://www.youtube.com/watch?v=CAuKlT3nkNY",
-      "duration": "0:49",
-      "thumbnail": "https://i.ytimg.com/vi/CAuKlT3nkNY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
@@ -7900,21 +7915,6 @@
       "url": "https://www.youtube.com/watch?v=Smd7hDko9y0",
       "duration": "0:57",
       "thumbnail": "https://i.ytimg.com/vi/Smd7hDko9y0/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "62UYIXqtAyo",
-      "title": "OpenAI open weight models now available on AWS",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-06T13:43:57Z",
-      "url": "https://www.youtube.com/watch?v=62UYIXqtAyo",
-      "duration": "0:55",
-      "thumbnail": "https://i.ytimg.com/vi/62UYIXqtAyo/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
