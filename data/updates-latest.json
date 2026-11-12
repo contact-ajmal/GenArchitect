@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-11-11T12:56:22.938Z",
+  "generatedAt": "2026-11-12T13:58:23.515Z",
   "updates": [
     {
-      "id": "introducing-kimi-k3-1-pro-on-amazon-bedrock",
-      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
-      "publishedAt": "2026-11-11T01:07:19.000Z",
+      "id": "build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "publishedAt": "2026-11-12T01:18:23.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
-      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
-      "publishedAt": "2026-11-10T23:34:05.000Z",
+      "id": "ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart",
+      "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
+      "publishedAt": "2026-11-11T23:36:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "openai-codex-on-amazon-bedrock",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+      "publishedAt": "2026-11-11T23:35:47.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore",
-      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
-      "publishedAt": "2026-11-10T22:35:03.000Z",
+      "id": "semantic-diffing-of-formal-policies-with-anti-unification",
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "url": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+      "publishedAt": "2026-11-11T23:33:03.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-a",
-      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
-      "publishedAt": "2026-11-10T18:11:08.000Z",
+      "id": "detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+      "publishedAt": "2026-11-11T23:30:03.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
-      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-11-10T16:59:43.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "amazon-bedrock-tokenomics-data-lake",
-      "title": "Amazon Bedrock tokenomics data lake",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
-      "publishedAt": "2026-11-10T16:56:36.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
+      "id": "deepseek-v4-pro-v4-flash-v4-1-flash-on-sagemaker-jumpstart",
+      "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
+      "publishedAt": "2026-11-11T23:18:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
