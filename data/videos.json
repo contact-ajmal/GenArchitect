@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-11-12T15:21:05.539Z",
+  "generatedAt": "2026-11-13T14:39:46.143Z",
   "videos": [
+    {
+      "id": "Y_l1gLJr4qE",
+      "title": "Amazon RDS for MySQL データベースの空きメモリが少ない場合のトラブルシューティング方法を教えてください。",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-12T23:40:09Z",
+      "url": "https://www.youtube.com/watch?v=Y_l1gLJr4qE",
+      "duration": "14:03",
+      "thumbnail": "https://i.ytimg.com/vi/Y_l1gLJr4qE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "NQzF0WBFSzw",
+      "title": "Kiro Crew: A persistent workspace for agentic development | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-12T21:20:13Z",
+      "url": "https://www.youtube.com/watch?v=NQzF0WBFSzw",
+      "duration": "0:38",
+      "thumbnail": "https://i.ytimg.com/vi/NQzF0WBFSzw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "A4SzYQtVjXM",
+      "title": "What is The AI-Driven Development Lifecycle? AI-DLC Explained | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-12T21:20:03Z",
+      "url": "https://www.youtube.com/watch?v=A4SzYQtVjXM",
+      "duration": "1:09",
+      "thumbnail": "https://i.ytimg.com/vi/A4SzYQtVjXM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
+    {
+      "id": "BAHYBXTOLM4",
+      "title": "How to Give AI Coding Agents AWS Access Safely",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-12T19:30:16Z",
+      "url": "https://www.youtube.com/watch?v=BAHYBXTOLM4",
+      "duration": "7:28",
+      "thumbnail": "https://i.ytimg.com/vi/BAHYBXTOLM4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "Y1lrszhiHGM",
+      "title": "AWS Cloud & AI Day Kuala Lumpur 2026 | Keynote | AWS Events",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-12T15:56:05Z",
+      "url": "https://www.youtube.com/watch?v=Y1lrszhiHGM",
+      "duration": "1:36:32",
+      "thumbnail": "https://i.ytimg.com/vi/Y1lrszhiHGM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "likhiUFWYI4",
       "title": "Benevity's People-First AI-DLC Philosophy | Amazon Web Services",
@@ -3133,50 +3208,6 @@
       "url": "https://www.youtube.com/watch?v=-q_u6nrVdgo",
       "duration": "21:34",
       "thumbnail": "https://i.ytimg.com/vi/-q_u6nrVdgo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "oGEsJNjXzCY",
-      "title": "GameDay: Real Estate Adventure (Assembly Required)",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-14T17:57:28Z",
-      "url": "https://www.youtube.com/watch?v=oGEsJNjXzCY",
-      "thumbnail": "https://i.ytimg.com/vi/oGEsJNjXzCY/mqdefault_live.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "hWhhQCOGmJI",
-      "title": "AWS x NFL Elevate the Game | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-14T16:46:09Z",
-      "url": "https://www.youtube.com/watch?v=hWhhQCOGmJI",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/hWhhQCOGmJI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "v_VQX-Ufw28",
-      "title": "Add a backup MFA device to your AWS account",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-14T16:15:20Z",
-      "url": "https://www.youtube.com/watch?v=v_VQX-Ufw28",
-      "duration": "0:57",
-      "thumbnail": "https://i.ytimg.com/vi/v_VQX-Ufw28/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -6325,21 +6356,6 @@
       "trustTier": "official"
     },
     {
-      "id": "R5cA74Qv4hs",
-      "title": "AI-assisted development in practice | Serverless Office Hours",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-27T07:14:07Z",
-      "url": "https://www.youtube.com/watch?v=R5cA74Qv4hs",
-      "duration": "59:59",
-      "thumbnail": "https://i.ytimg.com/vi/R5cA74Qv4hs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "LMbeDEQO6QM",
       "title": "Introducing WebMCP: Agents in the Browser — RL Nabors",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -7899,21 +7915,6 @@
       "url": "https://www.youtube.com/watch?v=IwRv2kh-pdk",
       "duration": "0:56",
       "thumbnail": "https://i.ytimg.com/vi/IwRv2kh-pdk/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "YKEp95QuVNw",
-      "title": "Unlock new #AWS free-tier with $100 credits for 6 months!",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-08T20:16:56Z",
-      "url": "https://www.youtube.com/watch?v=YKEp95QuVNw",
-      "duration": "1:06",
-      "thumbnail": "https://i.ytimg.com/vi/YKEp95QuVNw/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
