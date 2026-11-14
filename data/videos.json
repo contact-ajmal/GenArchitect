@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-13T14:39:46.143Z",
+  "generatedAt": "2026-11-14T13:37:19.765Z",
   "videos": [
+    {
+      "id": "ZVYt-Ym_9XA",
+      "title": "The Round Up with AWS and the DP World Tour | Episode 1",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-13T17:46:56Z",
+      "url": "https://www.youtube.com/watch?v=ZVYt-Ym_9XA",
+      "duration": "7:23",
+      "thumbnail": "https://i.ytimg.com/vi/ZVYt-Ym_9XA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "szKqAMSijvQ",
+      "title": "We Saved Millions (Really!): Marc Brooker & Carr Onstott - Strands Decider Standup",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-13T17:30:19Z",
+      "url": "https://www.youtube.com/watch?v=szKqAMSijvQ",
+      "duration": "33:28",
+      "thumbnail": "https://i.ytimg.com/vi/szKqAMSijvQ/mqdefault.jpg",
+      "topics": [
+        "strands"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
     {
       "id": "Y_l1gLJr4qE",
       "title": "Amazon RDS for MySQL データベースの空きメモリが少ない場合のトラブルシューティング方法を教えてください。",
@@ -3017,6 +3050,21 @@
       "trustTier": "official"
     },
     {
+      "id": "oGEsJNjXzCY",
+      "title": "GameDay: Real Estate Adventure (Assembly Required)",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-09-18T08:25:09Z",
+      "url": "https://www.youtube.com/watch?v=oGEsJNjXzCY",
+      "duration": "1:59:34",
+      "thumbnail": "https://i.ytimg.com/vi/oGEsJNjXzCY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
       "id": "0C2hGVLbGdI",
       "title": "Build Your Second Brain with Amazon Quick | AI for Non-Technical Professionals",
       "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
@@ -3178,21 +3226,6 @@
       "url": "https://www.youtube.com/watch?v=tQcOdMRIRr8",
       "duration": "7:02",
       "thumbnail": "https://i.ytimg.com/vi/tQcOdMRIRr8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "8xQ08JCddio",
-      "title": "Cloud Report: We used AI to solve an office mystery | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-15T01:55:57Z",
-      "url": "https://www.youtube.com/watch?v=8xQ08JCddio",
-      "duration": "11:17",
-      "thumbnail": "https://i.ytimg.com/vi/8xQ08JCddio/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -6341,21 +6374,6 @@
       "trustTier": "official"
     },
     {
-      "id": "0RSPDnJRyMs",
-      "title": "AWS re:Post Live | Amazon S3 Files - Mounting s3 bucket as a file system",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-27T10:06:49Z",
-      "url": "https://www.youtube.com/watch?v=0RSPDnJRyMs",
-      "duration": "58:28",
-      "thumbnail": "https://i.ytimg.com/vi/0RSPDnJRyMs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "LMbeDEQO6QM",
       "title": "Introducing WebMCP: Agents in the Browser — RL Nabors",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -7900,21 +7918,6 @@
       "url": "https://www.youtube.com/watch?v=2h0-22jXLb4",
       "duration": "0:55",
       "thumbnail": "https://i.ytimg.com/vi/2h0-22jXLb4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "IwRv2kh-pdk",
-      "title": "Women in Tech Share Game-Changing Advice",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-13T13:06:35Z",
-      "url": "https://www.youtube.com/watch?v=IwRv2kh-pdk",
-      "duration": "0:56",
-      "thumbnail": "https://i.ytimg.com/vi/IwRv2kh-pdk/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
