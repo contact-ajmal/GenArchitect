@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-11-13T13:24:57.475Z",
+  "generatedAt": "2026-11-14T12:29:04.939Z",
   "updates": [
     {
-      "id": "deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
-      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
-      "publishedAt": "2026-11-12T22:03:34.000Z",
+      "id": "production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+      "publishedAt": "2026-11-13T23:22:09.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "cognito-token-exchange",
-      "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
-      "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-11-12T21:47:07.000Z",
+      "id": "route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchya",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "publishedAt": "2026-11-13T22:30:12.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "four-amazon-bedrock-inference-choices-that-affect-cost",
-      "title": "Four Amazon Bedrock inference choices that affect cost",
-      "url": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
-      "publishedAt": "2026-11-12T20:51:55.000Z",
+      "id": "architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "publishedAt": "2026-11-13T22:02:39.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture",
-      "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
-      "url": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/",
-      "publishedAt": "2026-11-12T19:31:28.000Z",
-      "sourceName": "AWS Architecture Blog",
+      "id": "openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "publishedAt": "2026-11-13T21:53:40.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-",
-      "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
-      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
-      "publishedAt": "2026-11-12T19:29:55.000Z",
+      "id": "amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-",
+      "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+      "publishedAt": "2026-11-13T20:26:42.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+      "publishedAt": "2026-11-13T19:35:35.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
