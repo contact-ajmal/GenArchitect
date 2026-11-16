@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-15T14:00:05.180Z",
+  "generatedAt": "2026-11-16T15:54:36.095Z",
   "videos": [
+    {
+      "id": "d-wdxAfJ13I",
+      "title": "Decision Models Explained: Get started with Strands Decider 2B | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-16T14:09:32Z",
+      "url": "https://www.youtube.com/watch?v=d-wdxAfJ13I",
+      "duration": "1:26",
+      "thumbnail": "https://i.ytimg.com/vi/d-wdxAfJ13I/mqdefault.jpg",
+      "topics": [
+        "strands"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
     {
       "id": "ZVYt-Ym_9XA",
       "title": "The Round Up with AWS and the DP World Tour | Episode 1",
@@ -3211,21 +3229,6 @@
       "url": "https://www.youtube.com/watch?v=cgfD0tKpCHA",
       "duration": "37:17",
       "thumbnail": "https://i.ytimg.com/vi/cgfD0tKpCHA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "tQcOdMRIRr8",
-      "title": "Cloud Report: Quick helped us launch a side hustle | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-15T13:51:10Z",
-      "url": "https://www.youtube.com/watch?v=tQcOdMRIRr8",
-      "duration": "7:02",
-      "thumbnail": "https://i.ytimg.com/vi/tQcOdMRIRr8/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
