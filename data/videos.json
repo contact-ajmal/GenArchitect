@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-11-16T15:54:36.095Z",
+  "generatedAt": "2026-11-17T16:06:48.171Z",
   "videos": [
+    {
+      "id": "c9kcdDJKqBs",
+      "title": "This tech is saving the bees | In The Field Rapid Replay",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-16T23:07:27Z",
+      "url": "https://www.youtube.com/watch?v=c9kcdDJKqBs",
+      "duration": "23:03",
+      "thumbnail": "https://i.ytimg.com/vi/c9kcdDJKqBs/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "QcilpIsf_jc",
+      "title": "Amazon Prime Air: Building a data foundation on AWS to scale drone delivery | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-16T21:49:29Z",
+      "url": "https://www.youtube.com/watch?v=QcilpIsf_jc",
+      "duration": "2:35",
+      "thumbnail": "https://i.ytimg.com/vi/QcilpIsf_jc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "praTKbj5-LA",
+      "title": "The Round Up with AWS and the DP World Tour | Episode 3",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-16T16:07:19Z",
+      "url": "https://www.youtube.com/watch?v=praTKbj5-LA",
+      "duration": "7:02",
+      "thumbnail": "https://i.ytimg.com/vi/praTKbj5-LA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "2cdCQ6mEuRo",
+      "title": "The Round Up with AWS and the DP World Tour | Episode 2",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-16T16:06:45Z",
+      "url": "https://www.youtube.com/watch?v=2cdCQ6mEuRo",
+      "duration": "3:46",
+      "thumbnail": "https://i.ytimg.com/vi/2cdCQ6mEuRo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "d-wdxAfJ13I",
       "title": "Decision Models Explained: Get started with Strands Decider 2B | Amazon Web Services",
@@ -3188,21 +3248,6 @@
       "trustTier": "official"
     },
     {
-      "id": "XSTe7caquQ4",
-      "title": "American Diabetes Association | AWS Imagine Grant Winner | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-16T15:46:57Z",
-      "url": "https://www.youtube.com/watch?v=XSTe7caquQ4",
-      "duration": "2:18",
-      "thumbnail": "https://i.ytimg.com/vi/XSTe7caquQ4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "waI44NP1abk",
       "title": "Rebuilding the web for agents — Liad Yosef, MCP Apps",
       "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -3219,21 +3264,6 @@
       "relatedAtlasTopicIds": [
         "mcp-tools"
       ]
-    },
-    {
-      "id": "cgfD0tKpCHA",
-      "title": "The Programmatic Preview with Spotify, Netflix & Amazon Ads | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-16T00:23:39Z",
-      "url": "https://www.youtube.com/watch?v=cgfD0tKpCHA",
-      "duration": "37:17",
-      "thumbnail": "https://i.ytimg.com/vi/cgfD0tKpCHA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
     },
     {
       "id": "-q_u6nrVdgo",
@@ -6331,22 +6361,6 @@
       "trustTier": "official"
     },
     {
-      "id": "2xzv5Z2nRsM",
-      "title": "Amazon Connect Health: Embedding Agentic AI at the Point of Care",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T04:07:07Z",
-      "url": "https://www.youtube.com/watch?v=2xzv5Z2nRsM",
-      "duration": "54:35",
-      "thumbnail": "https://i.ytimg.com/vi/2xzv5Z2nRsM/mqdefault.jpg",
-      "topics": [
-        "vector-search",
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "TXQpWbH56q8",
       "title": "Infrastructure as Code for Beginners (AWS CDK)",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -6359,21 +6373,6 @@
         "genai-general"
       ],
       "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "gPHfuGNDIDY",
-      "title": "Build and Host Your Voice Agent on AWS | AWS Show and Tell",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-27T11:34:58Z",
-      "url": "https://www.youtube.com/watch?v=gPHfuGNDIDY",
-      "duration": "58:34",
-      "thumbnail": "https://i.ytimg.com/vi/gPHfuGNDIDY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
