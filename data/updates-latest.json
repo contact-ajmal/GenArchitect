@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-11-17T14:52:50.289Z",
+  "generatedAt": "2026-11-18T14:32:17.785Z",
   "updates": [
     {
-      "id": "build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-bas",
-      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-      "publishedAt": "2026-11-16T22:43:30.000Z",
+      "id": "managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference",
+      "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+      "publishedAt": "2026-11-17T23:33:26.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
-      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-11-16T22:06:08.000Z",
+      "id": "reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads",
+      "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+      "publishedAt": "2026-11-17T22:44:51.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
-      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
-      "publishedAt": "2026-11-16T21:53:46.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "s3-vectors-hybrid-search",
-      "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
-      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "id": "map-integration-with-aws-transform",
+      "title": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
+      "publishedAt": "2026-11-17T22:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "how-british-airways-is-accelerating-the-modernization-of-its-java-services",
-      "title": "How British Airways is accelerating the modernization of its Java services",
-      "url": "https://aws.amazon.com/blogs/devops/how-british-airways-is-accelerating-the-modernization-of-its-java-services/",
-      "publishedAt": "2026-11-16T20:16:41.000Z",
-      "sourceName": "AWS DevOps & Developer Productivity Blog",
+      "id": "cut-generative-ai-costs-code-for-rules-models-for-judgment",
+      "title": "Cut generative AI costs: Code for rules, models for judgment",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+      "publishedAt": "2026-11-17T21:14:55.000Z",
+      "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "analyze-anthropic-usage-spend-and-access-with-aws-glue-amazon-s3-tables-and-aws-quick",
-      "title": "Analyze Anthropic usage, spend, and access with AWS Glue, Amazon S3 Tables, and AWS Quick",
-      "url": "https://aws.amazon.com/blogs/big-data/analyze-anthropic-usage-spend-and-access-with-aws-glue-amazon-s3-tables-and-aws-quick/",
-      "publishedAt": "2026-11-16T20:09:24.000Z",
-      "sourceName": "AWS Big Data Blog",
+      "id": "amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing",
+      "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+      "publishedAt": "2026-11-17T21:11:51.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "securely-exposing-amazon-bedrock-agentcore-runtime",
+      "title": "Securely exposing Amazon Bedrock AgentCore Runtime",
+      "url": "https://aws.amazon.com/blogs/security/securely-exposing-amazon-bedrock-agentcore-runtime/",
+      "publishedAt": "2026-11-17T20:31:30.000Z",
+      "sourceName": "AWS Security Blog",
       "kind": "blog"
     }
   ]
