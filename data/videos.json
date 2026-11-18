@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-17T16:06:48.171Z",
+  "generatedAt": "2026-11-18T15:44:42.913Z",
   "videos": [
+    {
+      "id": "W1e4Q3FsXhY",
+      "title": "Give Your Strands Agents Memory with MongoDB 🐸",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-18T15:15:09Z",
+      "url": "https://www.youtube.com/watch?v=W1e4Q3FsXhY",
+      "duration": "1:40",
+      "thumbnail": "https://i.ytimg.com/vi/W1e4Q3FsXhY/mqdefault.jpg",
+      "topics": [
+        "strands",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
+    {
+      "id": "hvYMWwv_JdE",
+      "title": "Mocks vs Emulator and How AWS Emulator Can Change How We Test Apps?",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-17T22:30:04Z",
+      "url": "https://www.youtube.com/watch?v=hvYMWwv_JdE",
+      "duration": "24:21",
+      "thumbnail": "https://i.ytimg.com/vi/hvYMWwv_JdE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "c9kcdDJKqBs",
       "title": "This tech is saving the bees | In The Field Rapid Replay",
@@ -7890,36 +7924,6 @@
       "url": "https://www.youtube.com/watch?v=RMe3bMJAf00",
       "duration": "1:14",
       "thumbnail": "https://i.ytimg.com/vi/RMe3bMJAf00/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "K1pk6PDDFLI",
-      "title": "Why Your S3 Storage Costs Are High (& How To Fix It)",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-15T07:02:45Z",
-      "url": "https://www.youtube.com/watch?v=K1pk6PDDFLI",
-      "duration": "12:53",
-      "thumbnail": "https://i.ytimg.com/vi/K1pk6PDDFLI/mqdefault.jpg",
-      "topics": [
-        "rag"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "2h0-22jXLb4",
-      "title": "😱 Developers Share Their Worst Coding Nightmares #shorts",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-14T18:41:41Z",
-      "url": "https://www.youtube.com/watch?v=2h0-22jXLb4",
-      "duration": "0:55",
-      "thumbnail": "https://i.ytimg.com/vi/2h0-22jXLb4/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
