@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-18T15:44:42.913Z",
+  "generatedAt": "2026-11-19T15:49:52.037Z",
   "videos": [
+    {
+      "id": "0S3NB-EajJY",
+      "title": "AI Agent BUSTED After Reading Secret Data",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-19T08:18:18Z",
+      "url": "https://www.youtube.com/watch?v=0S3NB-EajJY",
+      "duration": "1:00:37",
+      "thumbnail": "https://i.ytimg.com/vi/0S3NB-EajJY/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "dIt_CFbBwjU",
+      "title": "Bidirectional Attention, Explained: Jonathan Buck - The Strands Decider Podcast",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-19T00:30:34Z",
+      "url": "https://www.youtube.com/watch?v=dIt_CFbBwjU",
+      "duration": "39:07",
+      "thumbnail": "https://i.ytimg.com/vi/dIt_CFbBwjU/mqdefault.jpg",
+      "topics": [
+        "strands"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "agent-loop"
+      ]
+    },
+    {
+      "id": "X_r332h8bX8",
+      "title": "Running Lambda Functions on GPU with LMI",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-18T20:15:12Z",
+      "url": "https://www.youtube.com/watch?v=X_r332h8bX8",
+      "duration": "2:02",
+      "thumbnail": "https://i.ytimg.com/vi/X_r332h8bX8/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "-rEm31DFFCM",
+      "title": "Set your AWS Lambda timeout inside your Amazon API Gateway timeout",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-18T17:53:52Z",
+      "url": "https://www.youtube.com/watch?v=-rEm31DFFCM",
+      "duration": "0:54",
+      "thumbnail": "https://i.ytimg.com/vi/-rEm31DFFCM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "gateway-targets"
+      ]
+    },
+    {
+      "id": "LgHdKKTivGI",
+      "title": "Introducing queues in Amazon Kinesis Data Streams | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-18T17:47:10Z",
+      "url": "https://www.youtube.com/watch?v=LgHdKKTivGI",
+      "duration": "6:33",
+      "thumbnail": "https://i.ytimg.com/vi/LgHdKKTivGI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "intro",
+      "trustTier": "official"
+    },
     {
       "id": "W1e4Q3FsXhY",
       "title": "Give Your Strands Agents Memory with MongoDB 🐸",
@@ -3230,51 +3311,6 @@
       "url": "https://www.youtube.com/watch?v=FGqbmkxPVfs",
       "duration": "0:31",
       "thumbnail": "https://i.ytimg.com/vi/FGqbmkxPVfs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Rn7xI0W_hwo",
-      "title": "AWS Elemental Inference | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-17T17:07:21Z",
-      "url": "https://www.youtube.com/watch?v=Rn7xI0W_hwo",
-      "duration": "1:33",
-      "thumbnail": "https://i.ytimg.com/vi/Rn7xI0W_hwo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "8ffcKp9ry6g",
-      "title": "Challenger Center | AWS Imagine Grant Winner | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-16T15:47:04Z",
-      "url": "https://www.youtube.com/watch?v=8ffcKp9ry6g",
-      "duration": "2:00",
-      "thumbnail": "https://i.ytimg.com/vi/8ffcKp9ry6g/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "0Pc1sU6ro1E",
-      "title": "Lieber Institute for Brain Development | AWS Imagine Grant Winner | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-16T15:47:00Z",
-      "url": "https://www.youtube.com/watch?v=0Pc1sU6ro1E",
-      "duration": "1:51",
-      "thumbnail": "https://i.ytimg.com/vi/0Pc1sU6ro1E/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
@@ -7894,36 +7930,6 @@
       "url": "https://www.youtube.com/watch?v=POWxvtJnhPE",
       "duration": "1:03",
       "thumbnail": "https://i.ytimg.com/vi/POWxvtJnhPE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "9FivfnEXGOo",
-      "title": "How to Choose a Foundation Model for your Use Case (Getting Started Overview)",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-19T07:01:21Z",
-      "url": "https://www.youtube.com/watch?v=9FivfnEXGOo",
-      "duration": "5:24",
-      "thumbnail": "https://i.ytimg.com/vi/9FivfnEXGOo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "RMe3bMJAf00",
-      "title": "Stuck in Your Cloud Journey? Join AWS User Groups!",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-15T20:12:29Z",
-      "url": "https://www.youtube.com/watch?v=RMe3bMJAf00",
-      "duration": "1:14",
-      "thumbnail": "https://i.ytimg.com/vi/RMe3bMJAf00/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
