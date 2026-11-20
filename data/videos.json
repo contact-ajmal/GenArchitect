@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-11-19T15:49:52.037Z",
+  "generatedAt": "2026-11-20T15:31:51.917Z",
   "videos": [
+    {
+      "id": "kyWIT7O-8UI",
+      "title": "Amazon MSK: In-Place Upgrade from Standard to Express Broker | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-19T22:58:43Z",
+      "url": "https://www.youtube.com/watch?v=kyWIT7O-8UI",
+      "duration": "14:02",
+      "thumbnail": "https://i.ytimg.com/vi/kyWIT7O-8UI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "qNljzI8Bj0k",
+      "title": "Give Claude Code Real AWS Skills",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-19T20:30:02Z",
+      "url": "https://www.youtube.com/watch?v=qNljzI8Bj0k",
+      "duration": "0:53",
+      "thumbnail": "https://i.ytimg.com/vi/qNljzI8Bj0k/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "doWO-WBk0A4",
+      "title": "Claude Code + AWS: Keep Secrets Out of the Chat",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-19T19:30:27Z",
+      "url": "https://www.youtube.com/watch?v=doWO-WBk0A4",
+      "duration": "4:59",
+      "thumbnail": "https://i.ytimg.com/vi/doWO-WBk0A4/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Z9eG21TL4aE",
+      "title": "Amazon Bedrock で Anthropic Claude モデルにアクセスする方法を教えてください。",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-19T19:00:32Z",
+      "url": "https://www.youtube.com/watch?v=Z9eG21TL4aE",
+      "duration": "2:08",
+      "thumbnail": "https://i.ytimg.com/vi/Z9eG21TL4aE/mqdefault.jpg",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "0S3NB-EajJY",
       "title": "AI Agent BUSTED After Reading Secret Data",
@@ -3285,36 +3346,6 @@
         "genai-general"
       ],
       "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "3ilwpV6nCWE",
-      "title": "How do I troubleshoot two-way SMS messaging issues in AWS End User Messaging SMS?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-17T17:59:48Z",
-      "url": "https://www.youtube.com/watch?v=3ilwpV6nCWE",
-      "duration": "6:00",
-      "thumbnail": "https://i.ytimg.com/vi/3ilwpV6nCWE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "FGqbmkxPVfs",
-      "title": "AWS Elemental Inference | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-17T17:07:36Z",
-      "url": "https://www.youtube.com/watch?v=FGqbmkxPVfs",
-      "duration": "0:31",
-      "thumbnail": "https://i.ytimg.com/vi/FGqbmkxPVfs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
@@ -7904,36 +7935,6 @@
         "genai-general"
       ],
       "level": "demo",
-      "trustTier": "official"
-    },
-    {
-      "id": "xnHD_dCzE_E",
-      "title": "The Complete Guide to ECS Blue/Green Deployments on AWS",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-26T07:01:26Z",
-      "url": "https://www.youtube.com/watch?v=xnHD_dCzE_E",
-      "duration": "4:49",
-      "thumbnail": "https://i.ytimg.com/vi/xnHD_dCzE_E/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "POWxvtJnhPE",
-      "title": "5 Tips to Slash Lambda Logging Costs by 90%",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-20T19:12:32Z",
-      "url": "https://www.youtube.com/watch?v=POWxvtJnhPE",
-      "duration": "1:03",
-      "thumbnail": "https://i.ytimg.com/vi/POWxvtJnhPE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
