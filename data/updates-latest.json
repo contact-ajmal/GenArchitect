@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-11-19T14:40:31.595Z",
+  "generatedAt": "2026-11-20T14:20:47.912Z",
   "updates": [
     {
-      "id": "aws-transform-automates-source-actions",
-      "title": "AWS Transform automates source and migration target actions to accelerate cutover",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
-      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
-      "publishedAt": "2026-11-19T00:15:58.000Z",
+      "id": "amazon-sagemaker-inference-2026-launches-in-review-part-2",
+      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "publishedAt": "2026-11-20T00:34:07.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
-      "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-      "url": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
-      "publishedAt": "2026-11-18T23:58:22.000Z",
+      "id": "use-kimi-code-cli-with-models-on-amazon-bedrock",
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+      "publishedAt": "2026-11-20T00:33:30.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache",
-      "title": "Announcing distributed KV caching for self-hosted LLMs with Amazon ElastiCache",
-      "url": "https://aws.amazon.com/blogs/database/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/",
-      "publishedAt": "2026-11-18T23:45:25.000Z",
-      "sourceName": "AWS Database Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyper",
-      "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
-      "publishedAt": "2026-11-18T23:03:29.000Z",
+      "id": "enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-pa",
+      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "publishedAt": "2026-11-19T23:02:16.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "introducing-the-amazon-sagemaker-jumpstart-model-leaderboard",
-      "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
-      "publishedAt": "2026-11-18T22:31:04.000Z",
+      "id": "your-aws-security-identity-and-governance-guide-to-reinvent-2026",
+      "title": "Your AWS Security, Identity, and Governance guide to re:Invent 2026",
+      "url": "https://aws.amazon.com/blogs/security/your-aws-security-identity-and-governance-guide-to-reinvent-2026/",
+      "publishedAt": "2026-11-19T22:31:34.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
+      "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+      "publishedAt": "2026-11-19T22:20:23.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "run-your-whole-selling-business-in-aws-quick",
+      "title": "Run your whole selling business in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+      "publishedAt": "2026-11-19T22:16:22.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
