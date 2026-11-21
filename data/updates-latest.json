@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-11-20T14:20:47.912Z",
+  "generatedAt": "2026-11-21T13:41:59.327Z",
   "updates": [
     {
-      "id": "amazon-sagemaker-inference-2026-launches-in-review-part-2",
-      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
-      "publishedAt": "2026-11-20T00:34:07.000Z",
+      "id": "new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-togethe",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "publishedAt": "2026-11-21T01:06:42.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "use-kimi-code-cli-with-models-on-amazon-bedrock",
-      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
-      "publishedAt": "2026-11-20T00:33:30.000Z",
+      "id": "web-search-amazon-bedrock",
+      "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+      "publishedAt": "2026-11-21T00:17:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "publishedAt": "2026-11-21T00:14:26.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-pa",
-      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
-      "publishedAt": "2026-11-19T23:02:16.000Z",
+      "id": "introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sag",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "publishedAt": "2026-11-20T23:07:03.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "your-aws-security-identity-and-governance-guide-to-reinvent-2026",
-      "title": "Your AWS Security, Identity, and Governance guide to re:Invent 2026",
-      "url": "https://aws.amazon.com/blogs/security/your-aws-security-identity-and-governance-guide-to-reinvent-2026/",
-      "publishedAt": "2026-11-19T22:31:34.000Z",
+      "id": "scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials",
+      "title": "Scope down permissions of existing sessions using AWS STS GetScopedCredentials",
+      "url": "https://aws.amazon.com/blogs/security/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/",
+      "publishedAt": "2026-11-20T22:57:22.000Z",
       "sourceName": "AWS Security Blog",
       "kind": "blog"
     },
     {
-      "id": "how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
-      "title": "How the BMW Group governs hundreds of agents across thousands of developers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
-      "publishedAt": "2026-11-19T22:20:23.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "run-your-whole-selling-business-in-aws-quick",
-      "title": "Run your whole selling business in AWS Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
-      "publishedAt": "2026-11-19T22:16:22.000Z",
+      "id": "introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions",
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "publishedAt": "2026-11-20T22:35:24.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
