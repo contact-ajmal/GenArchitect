@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-20T15:31:51.917Z",
+  "generatedAt": "2026-11-21T14:43:28.822Z",
   "videos": [
+    {
+      "id": "0VpAGa2yWec",
+      "title": "Level Up Before You Graduate",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-21T06:14:07Z",
+      "url": "https://www.youtube.com/watch?v=0VpAGa2yWec",
+      "duration": "1:02:00",
+      "thumbnail": "https://i.ytimg.com/vi/0VpAGa2yWec/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "t2Rn435gLbU",
+      "title": "Can Your Agent Review Your Cloud Architecture?",
+      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "channelName": "AWS Developers",
+      "publishedAt": "2026-11-20T20:30:10Z",
+      "url": "https://www.youtube.com/watch?v=t2Rn435gLbU",
+      "duration": "8:30",
+      "thumbnail": "https://i.ytimg.com/vi/t2Rn435gLbU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "deep-dive",
+      "trustTier": "official"
+    },
+    {
+      "id": "VFzG81EfB0Y",
+      "title": "How do I resolve an AWS STS security token error when I use the AWS CLI to assume an IAM role?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-20T19:00:07Z",
+      "url": "https://www.youtube.com/watch?v=VFzG81EfB0Y",
+      "duration": "2:07",
+      "thumbnail": "https://i.ytimg.com/vi/VFzG81EfB0Y/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "kyWIT7O-8UI",
       "title": "Amazon MSK: In-Place Upgrade from Standard to Express Broker | Amazon Web Services",
@@ -3301,36 +3346,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "oGEsJNjXzCY",
-      "title": "GameDay: Real Estate Adventure (Assembly Required)",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-18T08:25:09Z",
-      "url": "https://www.youtube.com/watch?v=oGEsJNjXzCY",
-      "duration": "1:59:34",
-      "thumbnail": "https://i.ytimg.com/vi/oGEsJNjXzCY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "0C2hGVLbGdI",
-      "title": "Build Your Second Brain with Amazon Quick | AI for Non-Technical Professionals",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-18T00:12:06Z",
-      "url": "https://www.youtube.com/watch?v=0C2hGVLbGdI",
-      "duration": "16:37",
-      "thumbnail": "https://i.ytimg.com/vi/0C2hGVLbGdI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
       "trustTier": "official"
     },
     {
@@ -7920,21 +7935,6 @@
         "genai-general"
       ],
       "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "W1qtYa9u-zY",
-      "title": "Building AI Like Lego Blocks: 5 AWS Services in Under 20 Lines Each",
-      "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "channelName": "AWS Developers",
-      "publishedAt": "2025-08-26T15:43:21Z",
-      "url": "https://www.youtube.com/watch?v=W1qtYa9u-zY",
-      "duration": "1:23",
-      "thumbnail": "https://i.ytimg.com/vi/W1qtYa9u-zY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "demo",
       "trustTier": "official"
     },
     {
