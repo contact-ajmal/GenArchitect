@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-21T14:43:28.822Z",
+  "generatedAt": "2026-11-22T14:39:40.684Z",
   "videos": [
+    {
+      "id": "rNDILlKxrzg",
+      "title": "How do I securely access the Amazon EKS cluster API server endpoint from within a VPC or peered VPC?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-21T19:00:18Z",
+      "url": "https://www.youtube.com/watch?v=rNDILlKxrzg",
+      "duration": "3:09",
+      "thumbnail": "https://i.ytimg.com/vi/rNDILlKxrzg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "0VpAGa2yWec",
       "title": "Level Up Before You Graduate",
@@ -3331,21 +3346,6 @@
         "genai-general"
       ],
       "level": "intro",
-      "trustTier": "official"
-    },
-    {
-      "id": "hu20R2wC64c",
-      "title": "NYU Langone Health Accelerates Genomics Research with AWS HealthOmics | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-18T16:54:22Z",
-      "url": "https://www.youtube.com/watch?v=hu20R2wC64c",
-      "duration": "1:30",
-      "thumbnail": "https://i.ytimg.com/vi/hu20R2wC64c/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
       "trustTier": "official"
     },
     {
