@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-21T13:41:59.327Z",
+  "generatedAt": "2026-11-22T13:35:38.024Z",
   "updates": [
+    {
+      "id": "meta-ads-is-now-available-in-aws-quick",
+      "title": "Meta ads is now available in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "publishedAt": "2026-11-22T01:59:13.000Z",
+      "sourceName": "AWS Machine Learning Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "aws-quick-plugins-bundle-agents-skills-connectors-flows",
+      "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
+      "publishedAt": "2026-11-21T02:58:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
     {
       "id": "new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-togethe",
       "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
@@ -8,6 +24,14 @@
       "publishedAt": "2026-11-21T01:06:42.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
+    },
+    {
+      "id": "aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins",
+      "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
+      "publishedAt": "2026-11-21T00:27:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     },
     {
       "id": "web-search-amazon-bedrock",
@@ -22,30 +46,6 @@
       "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
       "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
       "publishedAt": "2026-11-21T00:14:26.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sag",
-      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
-      "publishedAt": "2026-11-20T23:07:03.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials",
-      "title": "Scope down permissions of existing sessions using AWS STS GetScopedCredentials",
-      "url": "https://aws.amazon.com/blogs/security/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/",
-      "publishedAt": "2026-11-20T22:57:22.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions",
-      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
-      "publishedAt": "2026-11-20T22:35:24.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     }
