@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:35:38.024Z",
+  "generatedAt": "2026-11-23T16:28:03.767Z",
   "updates": [
     {
       "id": "meta-ads-is-now-available-in-aws-quick",
@@ -260,6 +260,19 @@
       "excerpt": "Amazon SageMaker JumpStart now offers a model leaderboard in Amazon SageMaker Studio. You can use it to compare foundation models side by side on throughput, latency, and cost, and then deploy or customize the model…"
     },
     {
+      "id": "glue-catalog-data-quality-monitoring",
+      "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
+      "publishedAt": "2026-11-20T19:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define…"
+    },
+    {
       "id": "amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector",
       "title": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/",
@@ -273,19 +286,6 @@
         "genai-general"
       ],
       "excerpt": "Amazon S3 Vectors now supports up to 40 KB of filterable metadata per vector, up from 2 KB. You can attach and filter on more attributes per vector, such as category, permissions, timestamps, and descriptive tags, so…"
-    },
-    {
-      "id": "glue-catalog-data-quality-monitoring",
-      "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
-      "publishedAt": "2026-11-20T19:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define…"
     },
     {
       "id": "introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-i",
@@ -357,22 +357,9 @@
       "excerpt": "Amazon Bedrock AgentCore runtime instances now support Amazon EC2 G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. Runtime instances run your agents on Amazon EC2 instances while AgentCore…"
     },
     {
-      "id": "agent-registry-webbotauth-support",
-      "title": "AWS Agent Registry now supports WebBotAuth bot registration",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "AWS Agent Registry now supports registering WebBotAuth (WBA) bots as a new record type, making it easier to verify legitimate bot traffic through a standardized protocol. Previously, organizations lacked a standardized…"
-    },
-    {
-      "id": "amazon-textract-core-skill-ai-agents",
-      "title": "Announcing a new skill for AI agents in Amazon Textract Core",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-textract-core-skill-ai-agents/",
+      "id": "amazon-sagemaker-adds-new-capabilities",
+      "title": "Amazon SageMaker adds new capabilities – improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/",
       "publishedAt": "2026-11-20T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -380,85 +367,7 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Amazon Textract Core now lets AI agents extract text, tables, forms, and other data from documents through a skill, with no server to run or infrastructure to deploy. The skill guides an agent to the right Amazon…"
-    },
-    {
-      "id": "devops-agent-tools-repository",
-      "title": "AWS DevOps Agent adds community and partner tools repository",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-tools-repository/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "rag"
-      ],
-      "excerpt": "AWS DevOps Agent now gives you ways to share and leverage skills, MCP servers, connectors, and custom agents that enhance the capabilities of your AWS DevOps Agent instances. The AWS DevOps Agent Tools open source…"
-    },
-    {
-      "id": "devops-agent-new-chat-capabilities",
-      "title": "AWS DevOps Agent adds new chat capabilities",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-new-chat-capabilities/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS DevOps Agent now extends its chat capabilities across MCP clients like Kiro and Claude Code, as well as Slack and Microsoft Teams channels. With Model Context Protocol (MCP) support, AWS DevOps Agent can now take…"
-    },
-    {
-      "id": "textract-insights-ga",
-      "title": "Amazon Textract Insights is now generally available",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-insights-ga/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon Textract Insights brings document understanding to Amazon Textract. It is a new generative AI feature of Amazon Textract, and is now generally available in the US East (N. Virginia) and US West (Oregon) AWS…"
-    },
-    {
-      "id": "lambda-microvms-customer-managed-keys",
-      "title": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS Lambda MicroVMs now supports customer managed keys (CMK) in AWS Key Management Service (KMS) for data encryption at rest. CMK gives you full control over the lifecycle and usage of your KMS keys , helping meet…"
-    },
-    {
-      "id": "agent-registry-naming-public-discovery",
-      "title": "AWS Agent Registry now offers naming and public discovery capabilities",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "AWS Agent Registry now offers public naming capabilities, making it easy to attach verified domain names to your agents and AI tools. Developers and network admins can perform domain verification checks to prove domain…"
-    },
-    {
-      "id": "route-53-offers-advanced-hosted-zones",
-      "title": "Amazon Route 53 now offers Advanced Hosted Zones",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-offers-advanced-hosted-zones/",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "guardrails"
-      ],
-      "excerpt": "Amazon Route 53 now offers Advanced Hosted Zones, a new hosted zone tier with additional guardrails, visibility, and resilience features. Advanced Hosted Zones include Change Guardrails that prevent accidental record…"
+      "excerpt": "Improved blueprints: Amazon SageMaker Unified Studio now gives project teams more ownership of their data and resources, within governance policies that administrators set centrally. Additional releases include faster…"
     },
     {
       "id": "device-farm-test-insights",
@@ -474,9 +383,35 @@
       "excerpt": "AWS Device Farm , a service for testing mobile and web apps, now provides Test Insights for Appium, Espresso, and XCUITest runs across multiple devices. Test Insights helps you and AI agents understand the health of…"
     },
     {
-      "id": "amazon-sagemaker-adds-new-capabilities",
-      "title": "Amazon SageMaker adds new capabilities – improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/",
+      "id": "route-53-offers-advanced-hosted-zones",
+      "title": "Amazon Route 53 now offers Advanced Hosted Zones",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-offers-advanced-hosted-zones/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "guardrails"
+      ],
+      "excerpt": "Amazon Route 53 now offers Advanced Hosted Zones, a new hosted zone tier with additional guardrails, visibility, and resilience features. Advanced Hosted Zones include Change Guardrails that prevent accidental record…"
+    },
+    {
+      "id": "agent-registry-naming-public-discovery",
+      "title": "AWS Agent Registry now offers naming and public discovery capabilities",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock"
+      ],
+      "excerpt": "AWS Agent Registry now offers public naming capabilities, making it easy to attach verified domain names to your agents and AI tools. Developers and network admins can perform domain verification checks to prove domain…"
+    },
+    {
+      "id": "lambda-microvms-customer-managed-keys",
+      "title": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/",
       "publishedAt": "2026-11-20T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -484,7 +419,72 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Improved blueprints: Amazon SageMaker Unified Studio now gives project teams more ownership of their data and resources, within governance policies that administrators set centrally. Additional releases include faster…"
+      "excerpt": "AWS Lambda MicroVMs now supports customer managed keys (CMK) in AWS Key Management Service (KMS) for data encryption at rest. CMK gives you full control over the lifecycle and usage of your KMS keys , helping meet…"
+    },
+    {
+      "id": "textract-insights-ga",
+      "title": "Amazon Textract Insights is now generally available",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-insights-ga/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Textract Insights brings document understanding to Amazon Textract. It is a new generative AI feature of Amazon Textract, and is now generally available in the US East (N. Virginia) and US West (Oregon) AWS…"
+    },
+    {
+      "id": "devops-agent-new-chat-capabilities",
+      "title": "AWS DevOps Agent adds new chat capabilities",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-new-chat-capabilities/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "AWS DevOps Agent now extends its chat capabilities across MCP clients like Kiro and Claude Code, as well as Slack and Microsoft Teams channels. With Model Context Protocol (MCP) support, AWS DevOps Agent can now take…"
+    },
+    {
+      "id": "devops-agent-tools-repository",
+      "title": "AWS DevOps Agent adds community and partner tools repository",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-tools-repository/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "rag"
+      ],
+      "excerpt": "AWS DevOps Agent now gives you ways to share and leverage skills, MCP servers, connectors, and custom agents that enhance the capabilities of your AWS DevOps Agent instances. The AWS DevOps Agent Tools open source…"
+    },
+    {
+      "id": "amazon-textract-core-skill-ai-agents",
+      "title": "Announcing a new skill for AI agents in Amazon Textract Core",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-textract-core-skill-ai-agents/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Textract Core now lets AI agents extract text, tables, forms, and other data from documents through a skill, with no server to run or infrastructure to deploy. The skill guides an agent to the right Amazon…"
+    },
+    {
+      "id": "agent-registry-webbotauth-support",
+      "title": "AWS Agent Registry now supports WebBotAuth bot registration",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock"
+      ],
+      "excerpt": "AWS Agent Registry now supports registering WebBotAuth (WBA) bots as a new record type, making it easier to verify legitimate bot traffic through a standardized protocol. Previously, organizations lacked a standardized…"
     },
     {
       "id": "amazon-sagemaker-inference-2026-launches-in-review-part-2",
@@ -841,9 +841,9 @@
       "excerpt": "Amazon Bedrock AgentCore runtime instances now support nested virtualization, so your agents can run their own virtual machines and emulators inside a session with Kernel-based Virtual Machine (KVM). Runtime instances…"
     },
     {
-      "id": "cognito-dynamic-client-registration",
-      "title": "Amazon Cognito now supports dynamic client registration",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/",
+      "id": "aws-transform-automates-source-actions",
+      "title": "AWS Transform automates source and migration target actions to accelerate cutover",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -851,12 +851,25 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Amazon Cognito now supports OAuth dynamic client registration (DCR, RFC 7591). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. With DCR support…"
+      "excerpt": "AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration…"
     },
     {
-      "id": "partner-central-agents-bvr-vrp",
-      "title": "AWS Partner Central Agents now generate Value Realization Plans",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-bvr-vrp",
+      "id": "revenue-measurement-bedrock",
+      "title": "AWS Revenue Measurement now supports closed-source models in Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-bedrock/",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock"
+      ],
+      "excerpt": "AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces expanded Amazon Bedrock support in AWS Revenue Measurement…"
+    },
+    {
+      "id": "data-competency-open-data-category",
+      "title": "AWS Data Competency adds Open Data and Interoperability category for Software Partners",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -864,7 +877,46 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Today, AWS announces that AWS Partner Central Agents can now generate Value Realization Plans (VRPs) for the Business Value Realization (BVR) motion in AWS Partner Central . The VRP is the plan of record for a BVR…"
+      "excerpt": "Today, AWS announces the Open Data and Interoperability category within the AWS Data Competency. The new category recognizes AWS Software Partners whose solutions keep customer data open and under customer control…"
+    },
+    {
+      "id": "partner-central-agents-guide-high-quality-opp",
+      "title": "AWS Partner Central Agents now guide higher-quality co-sell submissions and explain co-sell motions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-guide-high-quality-opp",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Today, AWS announces that AWS Partner Central Agents now guide AWS Partners to create and enrich opportunities for a high-quality submission, and explain the assigned co-sell motion of each opportunity and why AWS…"
+    },
+    {
+      "id": "connect-ai-chat-summaries-ccp",
+      "title": "Amazon Connect Customer now provides AI chat summaries in the CCP",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-chat-summaries-ccp/",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon Connect Customer now provides agents with a generative AI-powered post-contact summary of each chat conversation inside the Contact Control Panel (CCP) within seconds after the chat ends, so agents can complete…"
+    },
+    {
+      "id": "sagemaker-monitors-endpoints",
+      "title": "Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker AI now monitors the response time and GPU use of generative AI inference endpoints by default and notifies customers when responses slow down, GPUs sit mostly idle, or a configuration falls behind…"
     },
     {
       "id": "bedrock-agentcore-identity-private-ca",
@@ -881,9 +933,9 @@
       "excerpt": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs) for custom OAuth 2.0 credential providers. If you already connect your agents to identity providers (IdPs) hosted in your VPC, you can…"
     },
     {
-      "id": "sagemaker-monitors-endpoints",
-      "title": "Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
+      "id": "partner-central-agents-bvr-vrp",
+      "title": "AWS Partner Central Agents now generate Value Realization Plans",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-bvr-vrp",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -891,12 +943,12 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Amazon SageMaker AI now monitors the response time and GPU use of generative AI inference endpoints by default and notifies customers when responses slow down, GPUs sit mostly idle, or a configuration falls behind…"
+      "excerpt": "Today, AWS announces that AWS Partner Central Agents can now generate Value Realization Plans (VRPs) for the Business Value Realization (BVR) motion in AWS Partner Central . The VRP is the plan of record for a BVR…"
     },
     {
-      "id": "connect-ai-chat-summaries-ccp",
-      "title": "Amazon Connect Customer now provides AI chat summaries in the CCP",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-chat-summaries-ccp/",
+      "id": "cognito-dynamic-client-registration",
+      "title": "Amazon Cognito now supports dynamic client registration",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -904,59 +956,7 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Amazon Connect Customer now provides agents with a generative AI-powered post-contact summary of each chat conversation inside the Contact Control Panel (CCP) within seconds after the chat ends, so agents can complete…"
-    },
-    {
-      "id": "partner-central-agents-guide-high-quality-opp",
-      "title": "AWS Partner Central Agents now guide higher-quality co-sell submissions and explain co-sell motions",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-guide-high-quality-opp",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Today, AWS announces that AWS Partner Central Agents now guide AWS Partners to create and enrich opportunities for a high-quality submission, and explain the assigned co-sell motion of each opportunity and why AWS…"
-    },
-    {
-      "id": "data-competency-open-data-category",
-      "title": "AWS Data Competency adds Open Data and Interoperability category for Software Partners",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Today, AWS announces the Open Data and Interoperability category within the AWS Data Competency. The new category recognizes AWS Software Partners whose solutions keep customer data open and under customer control…"
-    },
-    {
-      "id": "revenue-measurement-bedrock",
-      "title": "AWS Revenue Measurement now supports closed-source models in Amazon Bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-bedrock/",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock"
-      ],
-      "excerpt": "AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces expanded Amazon Bedrock support in AWS Revenue Measurement…"
-    },
-    {
-      "id": "aws-transform-automates-source-actions",
-      "title": "AWS Transform automates source and migration target actions to accelerate cutover",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration…"
+      "excerpt": "Amazon Cognito now supports OAuth dynamic client registration (DCR, RFC 7591). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. With DCR support…"
     },
     {
       "id": "aws-appconfig-native-ai-model-invocation-prompt-configurations",
@@ -1637,9 +1637,9 @@
       "author": "Shubham Gupta"
     },
     {
-      "id": "sagemaker-hyperpod-cluster-ops",
-      "title": "Amazon SageMaker HyperPod now supports cluster operations for tracking scaling and on-demand Deep Health Check requests",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-cluster-ops/",
+      "id": "aws-transform-outposts-migration",
+      "title": "AWS Transform now supports migration to AWS Outposts",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-outposts-migration/",
       "publishedAt": "2026-11-17T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -1647,20 +1647,7 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "Amazon SageMaker HyperPod introduces cluster operations, giving you visibility into every scaling and on-demand deep health check request from submission to completion. When a request runs into errors, the SageMaker AI…"
-    },
-    {
-      "id": "agentic-account-creation",
-      "title": "AWS announces agentic account creation for agentic coding harnesses",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/",
-      "publishedAt": "2026-11-17T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "AWS now enables agentic coding harnesses to open the new AWS sign-up experience for developers who don't have an AWS account yet. Previously, developers working in agentic coding environments like Claude Code, Codex…"
+      "excerpt": "AWS Transform now supports AWS Outposts as a migration target. You can migrate workloads onto your Outposts from on-premises environments, another Outpost, or a different Availability Zone or Region. AWS Transform is a…"
     },
     {
       "id": "sagemaker-hyperpod-nvidia-dynamo",
@@ -1676,9 +1663,9 @@
       "excerpt": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo. You can now serve models that are too large for a single instance, and keep token generation fast when prompts are long. You don't have to build or operate…"
     },
     {
-      "id": "aws-transform-outposts-migration",
-      "title": "AWS Transform now supports migration to AWS Outposts",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-outposts-migration/",
+      "id": "agentic-account-creation",
+      "title": "AWS announces agentic account creation for agentic coding harnesses",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/",
       "publishedAt": "2026-11-17T08:00:00.000Z",
       "sourceId": "whats-new",
       "sourceName": "What's New with AWS",
@@ -1686,7 +1673,20 @@
       "topics": [
         "genai-general"
       ],
-      "excerpt": "AWS Transform now supports AWS Outposts as a migration target. You can migrate workloads onto your Outposts from on-premises environments, another Outpost, or a different Availability Zone or Region. AWS Transform is a…"
+      "excerpt": "AWS now enables agentic coding harnesses to open the new AWS sign-up experience for developers who don't have an AWS account yet. Previously, developers working in agentic coding environments like Claude Code, Codex…"
+    },
+    {
+      "id": "sagemaker-hyperpod-cluster-ops",
+      "title": "Amazon SageMaker HyperPod now supports cluster operations for tracking scaling and on-demand Deep Health Check requests",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-cluster-ops/",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker HyperPod introduces cluster operations, giving you visibility into every scaling and on-demand deep health check request from submission to completion. When a request runs into errors, the SageMaker AI…"
     },
     {
       "id": "build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-bas",
@@ -2096,19 +2096,6 @@
       "author": "Shantanu Tripathi"
     },
     {
-      "id": "sagemaker-studio-layout-customization",
-      "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "genai-general"
-      ],
-      "excerpt": "Amazon SageMaker Unified Studio now supports layout customization, a new capability that gives domain administrators control over which tools and left navigation items project members see based on their designation…"
-    },
-    {
       "id": "bedrock-agentcore-oauth2-discovery",
       "title": "Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/",
@@ -2121,6 +2108,19 @@
         "bedrock"
       ],
       "excerpt": "Amazon Bedrock AgentCore Identity now supports OAuth 2.0 authorization server discovery URLs for both inbound JWT authorization and outbound OAuth credential providers. This update enables developers to configure…"
+    },
+    {
+      "id": "sagemaker-studio-layout-customization",
+      "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "genai-general"
+      ],
+      "excerpt": "Amazon SageMaker Unified Studio now supports layout customization, a new capability that gives domain administrators control over which tools and left navigation items project members see based on their designation…"
     },
     {
       "id": "deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
@@ -2644,20 +2644,6 @@
       "excerpt": "Amazon Quick, the AI workspace built only for work, is now AWS Quick, a name that reflects the enterprise security and governance built into Quick from the start as an AWS service. The new name now appears across the…"
     },
     {
-      "id": "bedrock-claude-mythos-5-2-govcloud",
-      "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
-      "publishedAt": "2026-11-09T18:30:00.000Z",
-      "sourceId": "whats-new",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement",
-      "topics": [
-        "bedrock",
-        "genai-general"
-      ],
-      "excerpt": "Amazon Bedrock, the platform for building generative AI applications and agents at production scale, now offers Claude Mythos 5.2 to eligible customers in AWS GovCloud (US). Claude Mythos 5.2 is Anthropic's most…"
-    },
-    {
       "id": "claude-fable-5-2-aws-govcloud",
       "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
@@ -2670,6 +2656,20 @@
         "genai-general"
       ],
       "excerpt": "Claude Fable 5.2 is now available on AWS GovCloud (US) and brings Anthropic's most capable generally available model for technical work&nbsp;to regulated customers. Fable 5.2 sets a new standard on the hardest projects…"
+    },
+    {
+      "id": "bedrock-claude-mythos-5-2-govcloud",
+      "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
+      "publishedAt": "2026-11-09T18:30:00.000Z",
+      "sourceId": "whats-new",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement",
+      "topics": [
+        "bedrock",
+        "genai-general"
+      ],
+      "excerpt": "Amazon Bedrock, the platform for building generative AI applications and agents at production scale, now offers Claude Mythos 5.2 to eligible customers in AWS GovCloud (US). Claude Mythos 5.2 is Anthropic's most…"
     },
     {
       "id": "aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9",
