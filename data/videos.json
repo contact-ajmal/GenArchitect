@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-23T18:18:37.319Z",
+  "generatedAt": "2026-11-24T17:51:57.469Z",
   "videos": [
+    {
+      "id": "Yrg2CpqDgVo",
+      "title": "How do you migrate on-premises SQL Server & Oracle databases to Amazon RDS? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-23T19:54:32Z",
+      "url": "https://www.youtube.com/watch?v=Yrg2CpqDgVo",
+      "duration": "1:30",
+      "thumbnail": "https://i.ytimg.com/vi/Yrg2CpqDgVo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "AkXw1abJfrE",
+      "title": "AWS: AI Answered How to keep control of an AI agent when I give it real work? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-23T19:13:35Z",
+      "url": "https://www.youtube.com/watch?v=AkXw1abJfrE",
+      "duration": "0:38",
+      "thumbnail": "https://i.ytimg.com/vi/AkXw1abJfrE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "PRghzZPtLos",
+      "title": "AWS: AI Answered How to keep control of an AI agent when I give it real work? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-23T19:13:32Z",
+      "url": "https://www.youtube.com/watch?v=PRghzZPtLos",
+      "duration": "0:32",
+      "thumbnail": "https://i.ytimg.com/vi/PRghzZPtLos/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "gsIDY5fch2Q",
+      "title": "AWS: AI Answered How to keep control of an AI agent when I give it real work? | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-23T19:13:23Z",
+      "url": "https://www.youtube.com/watch?v=gsIDY5fch2Q",
+      "duration": "17:26",
+      "thumbnail": "https://i.ytimg.com/vi/gsIDY5fch2Q/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "snmVFrr3lkc",
+      "title": "Barracuda Builds a Data Foundation on AWS to Power AI Threat Protection | Amazon Web Services",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-23T19:02:12Z",
+      "url": "https://www.youtube.com/watch?v=snmVFrr3lkc",
+      "duration": "2:19",
+      "thumbnail": "https://i.ytimg.com/vi/snmVFrr3lkc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "demo",
+      "trustTier": "official"
+    },
+    {
+      "id": "18vAVPzVn6c",
+      "title": "How do I connect to my Amazon EC2 instance if I lose my SSH key pair?",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-23T19:00:39Z",
+      "url": "https://www.youtube.com/watch?v=18vAVPzVn6c",
+      "duration": "7:53",
+      "thumbnail": "https://i.ytimg.com/vi/18vAVPzVn6c/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "Z18kFF3uhSA",
       "title": "Sandbox Your AI Agents in One Command with Strands Box",
@@ -3248,81 +3338,6 @@
       ]
     },
     {
-      "id": "nvZtw27pO2U",
-      "title": "Amazon SageMaker Unified Studio Now Supports ODBC for Microsoft Power BI | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-22T14:36:47Z",
-      "url": "https://www.youtube.com/watch?v=nvZtw27pO2U",
-      "duration": "9:30",
-      "thumbnail": "https://i.ytimg.com/vi/nvZtw27pO2U/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "uWXGJr3U5B8",
-      "title": "American Access Institute: Scaling mentorship for 2 million youth with AWS | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-21T23:25:53Z",
-      "url": "https://www.youtube.com/watch?v=uWXGJr3U5B8",
-      "duration": "2:55",
-      "thumbnail": "https://i.ytimg.com/vi/uWXGJr3U5B8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Zts9xjQWSyw",
-      "title": "Transfer Azure Blob Storage to Amazon S3 using AWS DataSync Enhanced Mode | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-21T20:40:11Z",
-      "url": "https://www.youtube.com/watch?v=Zts9xjQWSyw",
-      "duration": "8:02",
-      "thumbnail": "https://i.ytimg.com/vi/Zts9xjQWSyw/mqdefault.jpg",
-      "topics": [
-        "rag"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "R4eKRihw9f4",
-      "title": "In the Field: The exclusive tour inside TBC.co's lab | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-21T16:59:45Z",
-      "url": "https://www.youtube.com/watch?v=R4eKRihw9f4",
-      "duration": "24:58",
-      "thumbnail": "https://i.ytimg.com/vi/R4eKRihw9f4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "83e4BUw50Io",
-      "title": "Restore to any point in time with AWS Backup",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-21T16:15:25Z",
-      "url": "https://www.youtube.com/watch?v=83e4BUw50Io",
-      "duration": "0:54",
-      "thumbnail": "https://i.ytimg.com/vi/83e4BUw50Io/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "VXujH_gfDgQ",
       "title": "AWS Summit Amsterdam 2026 | AWS Events",
       "channelId": "UCdoadna9HFHsxXWhafhNvKw",
@@ -3331,21 +3346,6 @@
       "url": "https://www.youtube.com/watch?v=VXujH_gfDgQ",
       "duration": "2:19",
       "thumbnail": "https://i.ytimg.com/vi/VXujH_gfDgQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "HiDhFI01WQQ",
-      "title": "Why AI Means Rewiring the Business Model with Jonathan Peachey, CEO, Factory X | Amazon Web Services",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-21T15:45:06Z",
-      "url": "https://www.youtube.com/watch?v=HiDhFI01WQQ",
-      "duration": "1:07:47",
-      "thumbnail": "https://i.ytimg.com/vi/HiDhFI01WQQ/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
