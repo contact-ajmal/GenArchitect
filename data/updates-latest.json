@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-11-23T16:28:03.767Z",
+  "generatedAt": "2026-11-24T16:23:09.183Z",
   "updates": [
     {
-      "id": "meta-ads-is-now-available-in-aws-quick",
-      "title": "Meta ads is now available in AWS Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
-      "publishedAt": "2026-11-22T01:59:13.000Z",
+      "id": "introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safe",
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "publishedAt": "2026-11-24T05:01:14.000Z",
       "sourceName": "AWS Machine Learning Blog",
       "kind": "blog"
     },
     {
-      "id": "aws-quick-plugins-bundle-agents-skills-connectors-flows",
-      "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
-      "publishedAt": "2026-11-21T02:58:00.000Z",
+      "id": "configurable-aws-sign-in-duration",
+      "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
+      "publishedAt": "2026-11-23T23:14:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-togethe",
-      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
-      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
-      "publishedAt": "2026-11-21T01:06:42.000Z",
-      "sourceName": "AWS Machine Learning Blog",
+      "id": "introducing-api-and-ai-security-on-aws-from-discovery-to-protection",
+      "title": "Introducing API and AI security on AWS, from discovery to protection",
+      "url": "https://aws.amazon.com/blogs/security/introducing-api-and-ai-security-on-aws-from-discovery-to-protection/",
+      "publishedAt": "2026-11-23T20:25:17.000Z",
+      "sourceName": "AWS Security Blog",
       "kind": "blog"
     },
     {
-      "id": "aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins",
-      "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
-      "publishedAt": "2026-11-21T00:27:00.000Z",
+      "id": "sagemaker-hyperpod-extensions",
+      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+      "publishedAt": "2026-11-23T20:00:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "web-search-amazon-bedrock",
-      "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
-      "publishedAt": "2026-11-21T00:17:00.000Z",
+      "id": "amazon-opensearch-opensearch-3-9",
+      "title": "Amazon OpenSearch Service now supports OpenSearch version 3.9",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9",
+      "publishedAt": "2026-11-23T19:30:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     },
     {
-      "id": "cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
-      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
-      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
-      "publishedAt": "2026-11-21T00:14:26.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
+      "id": "waf-ai-endpoint-discovery-protection",
+      "title": "AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
+      "publishedAt": "2026-11-23T18:47:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
     }
   ]
 }
