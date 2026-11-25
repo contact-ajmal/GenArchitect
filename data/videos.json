@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-24T17:51:57.469Z",
+  "generatedAt": "2026-11-25T17:18:18.933Z",
   "videos": [
+    {
+      "id": "8B9cMyM3D-c",
+      "title": "How Marsh put AI into production in weeks with AWS Forward Deployed Engineering",
+      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+      "channelName": "Amazon Web Services",
+      "publishedAt": "2026-11-24T18:09:27Z",
+      "url": "https://www.youtube.com/watch?v=8B9cMyM3D-c",
+      "duration": "2:04",
+      "thumbnail": "https://i.ytimg.com/vi/8B9cMyM3D-c/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "Yrg2CpqDgVo",
       "title": "How do you migrate on-premises SQL Server & Oracle databases to Amazon RDS? | Amazon Web Services",
@@ -3297,21 +3312,6 @@
       "url": "https://www.youtube.com/watch?v=oLLmYXP6pcc",
       "duration": "15:38",
       "thumbnail": "https://i.ytimg.com/vi/oLLmYXP6pcc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "MR9RGZOcyrY",
-      "title": "How do I resolve throttling issues on my Amazon DynamoDB table?",
-      "channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
-      "channelName": "Amazon Web Services",
-      "publishedAt": "2026-09-22T18:00:17Z",
-      "url": "https://www.youtube.com/watch?v=MR9RGZOcyrY",
-      "duration": "6:29",
-      "thumbnail": "https://i.ytimg.com/vi/MR9RGZOcyrY/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
