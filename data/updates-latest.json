@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-11-24T16:23:09.183Z",
+  "generatedAt": "2026-11-25T16:01:46.286Z",
   "updates": [
     {
+      "id": "gpt-daybreak-red-runtime-govcloud",
+      "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
+      "publishedAt": "2026-11-24T21:27:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "delegate-user-access-to-ai-agents-with-amazon-cognito-token-exchange",
+      "title": "Delegate user access to AI agents with Amazon Cognito token exchange",
+      "url": "https://aws.amazon.com/blogs/security/delegate-user-access-to-ai-agents-with-amazon-cognito-token-exchange/",
+      "publishedAt": "2026-11-24T20:01:08.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "cloudformation-coverage-expansion",
+      "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
+      "publishedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "What's New with AWS",
+      "kind": "announcement"
+    },
+    {
+      "id": "aws-completed-its-second-iso-iec-420012023-surveillance-audit",
+      "title": "AWS completed its second ISO/IEC 42001:2023 surveillance audit",
+      "url": "https://aws.amazon.com/blogs/security/aws-completed-its-second-iso-iec-420012023-surveillance-audit/",
+      "publishedAt": "2026-11-24T18:32:21.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
       "id": "introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safe",
-      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
       "publishedAt": "2026-11-24T05:01:14.000Z",
       "sourceName": "AWS Machine Learning Blog",
@@ -14,38 +46,6 @@
       "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
       "publishedAt": "2026-11-23T23:14:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "introducing-api-and-ai-security-on-aws-from-discovery-to-protection",
-      "title": "Introducing API and AI security on AWS, from discovery to protection",
-      "url": "https://aws.amazon.com/blogs/security/introducing-api-and-ai-security-on-aws-from-discovery-to-protection/",
-      "publishedAt": "2026-11-23T20:25:17.000Z",
-      "sourceName": "AWS Security Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "sagemaker-hyperpod-extensions",
-      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
-      "publishedAt": "2026-11-23T20:00:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "amazon-opensearch-opensearch-3-9",
-      "title": "Amazon OpenSearch Service now supports OpenSearch version 3.9",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9",
-      "publishedAt": "2026-11-23T19:30:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
-    },
-    {
-      "id": "waf-ai-endpoint-discovery-protection",
-      "title": "AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
-      "publishedAt": "2026-11-23T18:47:00.000Z",
       "sourceName": "What's New with AWS",
       "kind": "announcement"
     }
