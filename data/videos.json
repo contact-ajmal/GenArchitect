@@ -1,6 +1,414 @@
 {
-  "generatedAt": "2026-11-25T17:18:18.933Z",
+  "generatedAt": "2026-11-26T16:59:01.040Z",
   "videos": [
+    {
+      "id": "e5wv0wi2hEQ",
+      "title": "E&U Symposium 2026 - Scaling Bloom Energy's manufacturing intelligence on AWS Quick",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:44Z",
+      "url": "https://www.youtube.com/watch?v=e5wv0wi2hEQ",
+      "duration": "15:06",
+      "thumbnail": "https://i.ytimg.com/vi/e5wv0wi2hEQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "AaGMMnCYSCw",
+      "title": "E&U Symposium 2026 - Cloud-native subsurface interpretation on AWS | SLB and Occidental",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:40Z",
+      "url": "https://www.youtube.com/watch?v=AaGMMnCYSCw",
+      "duration": "14:25",
+      "thumbnail": "https://i.ytimg.com/vi/AaGMMnCYSCw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "rtlum6IYq_U",
+      "title": "E&U Symposium 2026 - Scaling the energy system with agentic AI",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:37Z",
+      "url": "https://www.youtube.com/watch?v=rtlum6IYq_U",
+      "duration": "15:35",
+      "thumbnail": "https://i.ytimg.com/vi/rtlum6IYq_U/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "0wGRw91yTcg",
+      "title": "E&U Symposium 2026 - The AI-powered utility",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:34Z",
+      "url": "https://www.youtube.com/watch?v=0wGRw91yTcg",
+      "duration": "12:27",
+      "thumbnail": "https://i.ytimg.com/vi/0wGRw91yTcg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "G3gzqN0gQcw",
+      "title": "E&U Symposium 2026 - Fearless leadership in the age of AI | AWS Women Reinventing Energy",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:29Z",
+      "url": "https://www.youtube.com/watch?v=G3gzqN0gQcw",
+      "duration": "24:14",
+      "thumbnail": "https://i.ytimg.com/vi/G3gzqN0gQcw/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "BT3FGTaK18g",
+      "title": "E&U Symposium 2026 - From vision to production: Next generation of energy intelligence",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:26Z",
+      "url": "https://www.youtube.com/watch?v=BT3FGTaK18g",
+      "duration": "8:52",
+      "thumbnail": "https://i.ytimg.com/vi/BT3FGTaK18g/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "DT1zNeEGjJo",
+      "title": "E&U Symposium 2026 - Agentic grid planning on AWS: Accelerating generation interconnection with AI",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:22Z",
+      "url": "https://www.youtube.com/watch?v=DT1zNeEGjJo",
+      "duration": "6:36",
+      "thumbnail": "https://i.ytimg.com/vi/DT1zNeEGjJo/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "-0R-TkAUtfk",
+      "title": "E&U Symposium 2026 - Navigating supply chain complexity with AI",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:19Z",
+      "url": "https://www.youtube.com/watch?v=-0R-TkAUtfk",
+      "duration": "18:48",
+      "thumbnail": "https://i.ytimg.com/vi/-0R-TkAUtfk/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "57LiNsHSQPQ",
+      "title": "E&U Symposium 2026 - Satellite-enabled AI for energy's most remote operations | Amazon Leo",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:15Z",
+      "url": "https://www.youtube.com/watch?v=57LiNsHSQPQ",
+      "duration": "16:29",
+      "thumbnail": "https://i.ytimg.com/vi/57LiNsHSQPQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "Rnt--jwiTV0",
+      "title": "E&U Symposium 2026 - The systems revolution reshaping industries: Physical AI panel",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:12Z",
+      "url": "https://www.youtube.com/watch?v=Rnt--jwiTV0",
+      "duration": "30:47",
+      "thumbnail": "https://i.ytimg.com/vi/Rnt--jwiTV0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "5smBJ2HFoVg",
+      "title": "E&U Symposium 2026 - Powering the energy expansion",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:06Z",
+      "url": "https://www.youtube.com/watch?v=5smBJ2HFoVg",
+      "duration": "19:14",
+      "thumbnail": "https://i.ytimg.com/vi/5smBJ2HFoVg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "fJKXPXsoLY0",
+      "title": "E&U Symposium 2026 - AWS Quick: New capabilities for energy",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:16:03Z",
+      "url": "https://www.youtube.com/watch?v=fJKXPXsoLY0",
+      "duration": "19:06",
+      "thumbnail": "https://i.ytimg.com/vi/fJKXPXsoLY0/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "-lOVs7BXMkc",
+      "title": "E&U Symposium 2026 - Accelerating cyberdefense for critical infrastructure | OpenAI",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:51Z",
+      "url": "https://www.youtube.com/watch?v=-lOVs7BXMkc",
+      "duration": "12:54",
+      "thumbnail": "https://i.ytimg.com/vi/-lOVs7BXMkc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "qs3HEpN2r4k",
+      "title": "E&U Symposium 2026 - Energy's next AI chapter:What the frontier holds and how to meet it securly",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:48Z",
+      "url": "https://www.youtube.com/watch?v=qs3HEpN2r4k",
+      "duration": "23:01",
+      "thumbnail": "https://i.ytimg.com/vi/qs3HEpN2r4k/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "SryvAx4SSTE",
+      "title": "E&U Symposium 2026 - From electrons to agents: Powering the AI revolution | S&P Global Energy",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:46Z",
+      "url": "https://www.youtube.com/watch?v=SryvAx4SSTE",
+      "duration": "28:56",
+      "thumbnail": "https://i.ytimg.com/vi/SryvAx4SSTE/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "jqDDYvKQAKg",
+      "title": "E&U Symposium 2026 - TGS on AWS: Moving 100+ PB of seismic data and building AI",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:42Z",
+      "url": "https://www.youtube.com/watch?v=jqDDYvKQAKg",
+      "duration": "9:10",
+      "thumbnail": "https://i.ytimg.com/vi/jqDDYvKQAKg/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "NxMGKwNDmvM",
+      "title": "E&U Symposium 2026 - S&P Global Energy: AI-ready data and MCP servers for energy insight | AWS",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:39Z",
+      "url": "https://www.youtube.com/watch?v=NxMGKwNDmvM",
+      "duration": "10:42",
+      "thumbnail": "https://i.ytimg.com/vi/NxMGKwNDmvM/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official",
+      "relatedAtlasTopicIds": [
+        "mcp-tools"
+      ]
+    },
+    {
+      "id": "2Z1eUjJ7kik",
+      "title": "E&U Symposium 2026 - AI in energy: Joseph Santamaria on unlocking speed and scale",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:34Z",
+      "url": "https://www.youtube.com/watch?v=2Z1eUjJ7kik",
+      "duration": "2:11",
+      "thumbnail": "https://i.ytimg.com/vi/2Z1eUjJ7kik/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "yLYqsOgD2tc",
+      "title": "E&U Symposium 2026 - Envision Group: AI-powered renewable energy for data centers on AWS",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:30Z",
+      "url": "https://www.youtube.com/watch?v=yLYqsOgD2tc",
+      "duration": "9:30",
+      "thumbnail": "https://i.ytimg.com/vi/yLYqsOgD2tc/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "UynHA8VNiOI",
+      "title": "E&U Symposium 2026 - Capgemini and AWS: Making AI real for energy and utilities",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:27Z",
+      "url": "https://www.youtube.com/watch?v=UynHA8VNiOI",
+      "duration": "7:04",
+      "thumbnail": "https://i.ytimg.com/vi/UynHA8VNiOI/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "37_MPReMdnU",
+      "title": "E&U Symposium 2026 - AWS Quick: Your daily AI assistant for energy | Kumar Lakshmipathi",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:24Z",
+      "url": "https://www.youtube.com/watch?v=37_MPReMdnU",
+      "duration": "2:37",
+      "thumbnail": "https://i.ytimg.com/vi/37_MPReMdnU/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "GSBk6uCLfeA",
+      "title": "E&U Symposium 2026 - Connecting remote energy operations with Amazon Leo | David Cristini",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:20Z",
+      "url": "https://www.youtube.com/watch?v=GSBk6uCLfeA",
+      "duration": "4:21",
+      "thumbnail": "https://i.ytimg.com/vi/GSBk6uCLfeA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "i-kU2W_w03c",
+      "title": "E&U Symposium 2026 - From startup to cloud-native nuclear | X-energy",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:15Z",
+      "url": "https://www.youtube.com/watch?v=i-kU2W_w03c",
+      "duration": "20:35",
+      "thumbnail": "https://i.ytimg.com/vi/i-kU2W_w03c/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "7rDqJXhI7OQ",
+      "title": "E&U Symposium 2026 - From tools to learning systems: Woodside's AI journey",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:12Z",
+      "url": "https://www.youtube.com/watch?v=7rDqJXhI7OQ",
+      "duration": "18:49",
+      "thumbnail": "https://i.ytimg.com/vi/7rDqJXhI7OQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "yvdS154w4DA",
+      "title": "E&U Symposium 2026 - From 100+ petabytes to always-on intelligence | TGS",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:09Z",
+      "url": "https://www.youtube.com/watch?v=yvdS154w4DA",
+      "duration": "18:43",
+      "thumbnail": "https://i.ytimg.com/vi/yvdS154w4DA/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "WBApQ3hNX-k",
+      "title": "E&U Symposium 2026 - TC Energy's agentic AI platform for pipeline integrity analytics",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:05Z",
+      "url": "https://www.youtube.com/watch?v=WBApQ3hNX-k",
+      "duration": "14:45",
+      "thumbnail": "https://i.ytimg.com/vi/WBApQ3hNX-k/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
+    {
+      "id": "nVxNVbHgDMQ",
+      "title": "E&U Symposium 2026 - Scaling AI-Powered Document Intelligence | ExxonMobil",
+      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
+      "channelName": "AWS Events",
+      "publishedAt": "2026-11-25T22:15:02Z",
+      "url": "https://www.youtube.com/watch?v=nVxNVbHgDMQ",
+      "duration": "20:36",
+      "thumbnail": "https://i.ytimg.com/vi/nVxNVbHgDMQ/mqdefault.jpg",
+      "topics": [
+        "genai-general"
+      ],
+      "level": "talk",
+      "trustTier": "official"
+    },
     {
       "id": "8B9cMyM3D-c",
       "title": "How Marsh put AI into production in weeks with AWS Forward Deployed Engineering",
@@ -6076,36 +6484,6 @@
       "trustTier": "official"
     },
     {
-      "id": "dNMtgeoTCOQ",
-      "title": "AWS re:Post Live | Increase Development Velocity with DevOps Agents",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-06-03T10:12:35Z",
-      "url": "https://www.youtube.com/watch?v=dNMtgeoTCOQ",
-      "duration": "59:16",
-      "thumbnail": "https://i.ytimg.com/vi/dNMtgeoTCOQ/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "RzwYFL6wIOU",
-      "title": "Building with Claude: Lessons from real projects | Serverless Office Hours",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-06-03T07:20:19Z",
-      "url": "https://www.youtube.com/watch?v=RzwYFL6wIOU",
-      "duration": "1:00:38",
-      "thumbnail": "https://i.ytimg.com/vi/RzwYFL6wIOU/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
       "id": "j1wfE0SOBbE",
       "title": "5 Tips for Deploying AI Agents to Production",
       "channelId": "UCT-nPlVzJI-ccQXlxjSvJmw",
@@ -6114,381 +6492,6 @@
       "url": "https://www.youtube.com/watch?v=j1wfE0SOBbE",
       "duration": "10:09",
       "thumbnail": "https://i.ytimg.com/vi/j1wfE0SOBbE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "MyhE8-yYD7U",
-      "title": "The Tale of Agentic Orchestration | AWS Tech Tales",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-06-02T10:15:42Z",
-      "url": "https://www.youtube.com/watch?v=MyhE8-yYD7U",
-      "duration": "1:00:23",
-      "thumbnail": "https://i.ytimg.com/vi/MyhE8-yYD7U/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "u4ZIvSxz1Gs",
-      "title": "10 Billion Percent Reliable - Security Chaos Engineering on AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-06-02T07:03:18Z",
-      "url": "https://www.youtube.com/watch?v=u4ZIvSxz1Gs",
-      "duration": "58:57",
-      "thumbnail": "https://i.ytimg.com/vi/u4ZIvSxz1Gs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "7EM4_cG6BDE",
-      "title": "AI-Powered Video Editing for Fox Sports | How to Build with AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-06-02T05:38:41Z",
-      "url": "https://www.youtube.com/watch?v=7EM4_cG6BDE",
-      "duration": "56:00",
-      "thumbnail": "https://i.ytimg.com/vi/7EM4_cG6BDE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "4f4v1w3o6fI",
-      "title": "Using AgenticAI to power the data platform and dataOps",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-06-02T04:12:25Z",
-      "url": "https://www.youtube.com/watch?v=4f4v1w3o6fI",
-      "duration": "59:52",
-      "thumbnail": "https://i.ytimg.com/vi/4f4v1w3o6fI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "kakPWHL-_uc",
-      "title": "AWS Squatch Talks | Securing and Operating in the Cloud with Agentic AI",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-30T04:05:20Z",
-      "url": "https://www.youtube.com/watch?v=kakPWHL-_uc",
-      "duration": "56:12",
-      "thumbnail": "https://i.ytimg.com/vi/kakPWHL-_uc/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "_l0ilpzuLmI",
-      "title": "Learn how to build your own lightweight feature store and serve features to your model in real time",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-29T05:44:57Z",
-      "url": "https://www.youtube.com/watch?v=_l0ilpzuLmI",
-      "duration": "1:00:24",
-      "thumbnail": "https://i.ytimg.com/vi/_l0ilpzuLmI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "artzoI9EINs",
-      "title": "AWS Backups Optimization | The Keys to AWS Optimization | S17 E6",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-29T04:03:46Z",
-      "url": "https://www.youtube.com/watch?v=artzoI9EINs",
-      "duration": "58:11",
-      "thumbnail": "https://i.ytimg.com/vi/artzoI9EINs/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "GOqIZVkm21k",
-      "title": "AWS FSI NYC 2026 - How Nasdaq Operationalizes AI Across the Enterprise & Trade Lifecycle",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:26:21Z",
-      "url": "https://www.youtube.com/watch?v=GOqIZVkm21k",
-      "duration": "21:48",
-      "thumbnail": "https://i.ytimg.com/vi/GOqIZVkm21k/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "w11pQcGT-u4",
-      "title": "AWS FSI NYC 2026 - Nubank: Scaling fraud detection to 450M events daily",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:26:17Z",
-      "url": "https://www.youtube.com/watch?v=w11pQcGT-u4",
-      "duration": "18:38",
-      "thumbnail": "https://i.ytimg.com/vi/w11pQcGT-u4/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "Ex2PFogb-ks",
-      "title": "AWS FSI NYC 2026 - Gemini: Cut trading latency 80% with AWS Outposts & Local Zones",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:26:13Z",
-      "url": "https://www.youtube.com/watch?v=Ex2PFogb-ks",
-      "duration": "29:31",
-      "thumbnail": "https://i.ytimg.com/vi/Ex2PFogb-ks/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "QpYzuoG7fGo",
-      "title": "AWS FSI NYC 2026 - Transamerica: Grid optimization and unleashing agentic AI innovation",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:26:09Z",
-      "url": "https://www.youtube.com/watch?v=QpYzuoG7fGo",
-      "duration": "31:05",
-      "thumbnail": "https://i.ytimg.com/vi/QpYzuoG7fGo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "8THW-2PpwnY",
-      "title": "AWS FSI NYC 2026 - Deloitte: Rethinking Insurance with AI Built for Broker & underwriters",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:26:03Z",
-      "url": "https://www.youtube.com/watch?v=8THW-2PpwnY",
-      "duration": "37:12",
-      "thumbnail": "https://i.ytimg.com/vi/8THW-2PpwnY/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "jMGBeCMh4TM",
-      "title": "AWS FSI NYC 2026 - Hazel by Altruist: Purpose-built AI for Wealth Management",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:25:59Z",
-      "url": "https://www.youtube.com/watch?v=jMGBeCMh4TM",
-      "duration": "21:23",
-      "thumbnail": "https://i.ytimg.com/vi/jMGBeCMh4TM/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ZxE9nh0wkGI",
-      "title": "AWS FSI NYC 2026 - From legacy to intelligent: How Itaú modernized bank statements",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:25:56Z",
-      "url": "https://www.youtube.com/watch?v=ZxE9nh0wkGI",
-      "duration": "28:14",
-      "thumbnail": "https://i.ytimg.com/vi/ZxE9nh0wkGI/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "kWE_hXw_5YA",
-      "title": "AWS FSI NYC 2026 - How Coinbase Powers Stablecoins, Wallets, and Agentic Commerce on AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:25:54Z",
-      "url": "https://www.youtube.com/watch?v=kWE_hXw_5YA",
-      "duration": "31:24",
-      "thumbnail": "https://i.ytimg.com/vi/kWE_hXw_5YA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "APbf6s35Mfo",
-      "title": "AWS FSI NYC 2026 - Rocket fuels growth with unified customer data on AWS",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:25:50Z",
-      "url": "https://www.youtube.com/watch?v=APbf6s35Mfo",
-      "duration": "27:58",
-      "thumbnail": "https://i.ytimg.com/vi/APbf6s35Mfo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "1EI3hl4i0pA",
-      "title": "AWS FSI NYC 2026 - Lessons from TCS, Anthropic & CardWorks",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:25:47Z",
-      "url": "https://www.youtube.com/watch?v=1EI3hl4i0pA",
-      "duration": "30:41",
-      "thumbnail": "https://i.ytimg.com/vi/1EI3hl4i0pA/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "6rs3xhVKN38",
-      "title": "AWS FSI NYC 2026 - How Fifth Third Bank improves NPS and average handle time with conversational AI",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T18:25:41Z",
-      "url": "https://www.youtube.com/watch?v=6rs3xhVKN38",
-      "duration": "20:22",
-      "thumbnail": "https://i.ytimg.com/vi/6rs3xhVKN38/mqdefault.jpg",
-      "topics": [
-        "rag"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "dO-eA4XwowE",
-      "title": "AWS at Hannover Messe 2026 - Industrial AI: Physical & Agentic AI",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T16:00:35Z",
-      "url": "https://www.youtube.com/watch?v=dO-eA4XwowE",
-      "duration": "0:58",
-      "thumbnail": "https://i.ytimg.com/vi/dO-eA4XwowE/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "gqAH7aARlRo",
-      "title": "AWS at Hannover Messe 2026 - Ozgur Tohomcu on Industrial Innovation",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T16:00:21Z",
-      "url": "https://www.youtube.com/watch?v=gqAH7aARlRo",
-      "duration": "2:01",
-      "thumbnail": "https://i.ytimg.com/vi/gqAH7aARlRo/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "hAf3s2t0Vug",
-      "title": "AWS at Hannover Messe 2026 - Industrial Edge-to-Cloud Connectivity",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T16:00:21Z",
-      "url": "https://www.youtube.com/watch?v=hAf3s2t0Vug",
-      "duration": "0:46",
-      "thumbnail": "https://i.ytimg.com/vi/hAf3s2t0Vug/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "8b70g2Rcgu8",
-      "title": "AWS at Hannover Messe 2026 - Building a Manufacturing Digital Thread",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T16:00:03Z",
-      "url": "https://www.youtube.com/watch?v=8b70g2Rcgu8",
-      "duration": "1:40",
-      "thumbnail": "https://i.ytimg.com/vi/8b70g2Rcgu8/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "znsIh7mnY5Q",
-      "title": "AWS at Hannover Messe 2026 - AWS European Sovereign Cloud for Industrial",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T16:00:01Z",
-      "url": "https://www.youtube.com/watch?v=znsIh7mnY5Q",
-      "duration": "1:19",
-      "thumbnail": "https://i.ytimg.com/vi/znsIh7mnY5Q/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "ebUWHYxUg38",
-      "title": "The Associate Cert Playbook: Your 12-Month Plan for all 5 AWS Associate Certs",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T10:08:07Z",
-      "url": "https://www.youtube.com/watch?v=ebUWHYxUg38",
-      "duration": "1:00:03",
-      "thumbnail": "https://i.ytimg.com/vi/ebUWHYxUg38/mqdefault.jpg",
-      "topics": [
-        "genai-general"
-      ],
-      "level": "talk",
-      "trustTier": "official"
-    },
-    {
-      "id": "fdKrpUtqRXg",
-      "title": "Beyond Block: Turning AWS WAF Labels Into a Control Plane for Your Origin",
-      "channelId": "UCdoadna9HFHsxXWhafhNvKw",
-      "channelName": "AWS Events",
-      "publishedAt": "2026-05-28T06:53:36Z",
-      "url": "https://www.youtube.com/watch?v=fdKrpUtqRXg",
-      "duration": "49:35",
-      "thumbnail": "https://i.ytimg.com/vi/fdKrpUtqRXg/mqdefault.jpg",
       "topics": [
         "genai-general"
       ],
