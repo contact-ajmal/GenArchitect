@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-25T16:01:46.286Z",
+  "generatedAt": "2026-11-26T15:45:46.181Z",
   "updates": [
+    {
+      "id": "secure-agentic-access-to-aws-with-enterprise-managed-authorization",
+      "title": "Secure agentic access to AWS with Enterprise-Managed Authorization",
+      "url": "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization/",
+      "publishedAt": "2026-11-25T21:00:37.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
+    {
+      "id": "planning-for-99-99-percent-availability-with-the-amazon-cognito-plus-feature-plan",
+      "title": "Planning for 99.99 percent availability with the Amazon Cognito Plus feature plan",
+      "url": "https://aws.amazon.com/blogs/security/planning-for-99-99-percent-availability-with-the-amazon-cognito-plus-feature-plan/",
+      "publishedAt": "2026-11-25T17:50:39.000Z",
+      "sourceName": "AWS Security Blog",
+      "kind": "blog"
+    },
     {
       "id": "gpt-daybreak-red-runtime-govcloud",
       "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
@@ -32,22 +48,6 @@
       "publishedAt": "2026-11-24T18:32:21.000Z",
       "sourceName": "AWS Security Blog",
       "kind": "blog"
-    },
-    {
-      "id": "introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safe",
-      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
-      "publishedAt": "2026-11-24T05:01:14.000Z",
-      "sourceName": "AWS Machine Learning Blog",
-      "kind": "blog"
-    },
-    {
-      "id": "configurable-aws-sign-in-duration",
-      "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
-      "publishedAt": "2026-11-23T23:14:00.000Z",
-      "sourceName": "What's New with AWS",
-      "kind": "announcement"
     }
   ]
 }
